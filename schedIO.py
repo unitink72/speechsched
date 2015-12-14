@@ -70,6 +70,9 @@ def readSessionsFile(fileName):
   newSessionPattern  = re.compile("^(\d+)\s*(BREAK)?", re.IGNORECASE)
   skipLinePattern    = re.compile("(^$)|(^##)")
 
+  catBreakCounts = dict(zip(catShortList,[0] * len(catShortList)))
+  catEntryCounts = dict(zip(catShortList,[0] * len(catShortList)))
+
   while 1:
     line = sessionsFile.readline()
     if not line: break
@@ -127,46 +130,62 @@ def readSessionsFile(fileName):
                           'start'    : startTime,        \
                           'end'      : endTime,          \
                           'isBreak'  : p4.group(2)!= None })
+
       if p4.group(2) == None:
         nonBreakCount += 1
+        catEntryCounts[curCategoryAbrv] += 1
       else:
         breakCount += 1
+        catBreakCounts[curCategoryAbrv] += 1
     else:
       sys.exit ('Error parsing Sessions file line "%s"' % line.strip())
     #end if
 
   #end loop
+  ioLog.msg ('-- Begin Sessions File Report --')
   ioLog.msg ('Loaded %d sessions %d breaks' % (nonBreakCount, breakCount))
 
-  #TODO : Reorder the sessionsList so that if a category is split between multiple
+  #Reorder the sessionsList so that if a category is split between multiple
   # rooms, the code can handle them not being placed adjacent in the sessions file.
-  # Currently they must be or the indexing code below breaks
-  
+  catList = []
+  for x in range (len(sessionList)):
+    if sessionList[x]['catShort'] not in catList:
+      catList.append(sessionList[x]['catShort'])
+
+  sessionListSorted = []
+  for x in range (len(catList)):
+    for y in range (len(sessionList)):
+      if sessionList[y]['catShort'] == catList[x]:
+        sessionListSorted.append(sessionList[y])
+
   #Create the sessionIndexes list
   #categoryIndexes =
   #  { 'GI': {'startIdx':0,  'endIdx':34},
   #    'SM': {'startIdx':35, 'endIdx':62},
   #    'CR': {'startIdx':63, 'endIdx':107}, ...
-  curCategoryAbrv                  = sessionList[0]['catShort']
+  curCategoryAbrv                  = sessionListSorted[0]['catShort']
   catagoryIndexes[curCategoryAbrv] = {'startIdx' : 0}  #Start the first entry
 
   for x in range (len(sessionList)):
-    if sessionList[x]['catShort'] != curCategoryAbrv:
+    if sessionListSorted[x]['catShort'] != curCategoryAbrv:
       catagoryIndexes[curCategoryAbrv]['endIdx'] = x-1
-      curCategoryAbrv                            = sessionList[x]['catShort']
+      curCategoryAbrv                            = sessionListSorted[x]['catShort']
       catagoryIndexes[curCategoryAbrv]           = {'startIdx' : x}
   #endIdx of the last catagory was not set, close that one out
-  catagoryIndexes[curCategoryAbrv]['endIdx'] = len(sessionList) - 1
-#  for k, v in catagoryIndexes.items():
-#    ioLog.msg('%s start %i end %i' % (k, v['startIdx'], v['endIdx']))
-#
-#  myGiCount = 0
-#  for myEnt in sessionList:
-#    if myEnt['catShort'] == 'GI' and myEnt['isBreak'] == False:
-#      myGiCount += 1
-#  ioLog.msg('GI Count %d' % myGiCount)
-      
-  return (sessionList, catagoryIndexes)
+  catagoryIndexes[curCategoryAbrv]['endIdx'] = len(sessionListSorted) - 1
+
+  #Print some reports and do a check that sorting didn't mess up
+  for k, v in catEntryCounts.items():
+    if v > 0:
+      ioLog.msg('%s  %3i Sessions %2i Breaks' % (k, v, catBreakCounts[k]))
+
+  for k, v in catagoryIndexes.items():
+    if v['endIdx']-v['startIdx']+1 != catEntryCounts[k] + catBreakCounts[k]:
+      ioLog.msg('ERROR After sorting sessions, counts for %s do not match' % k)
+      ioLog.msg('%s Start Idx %i End Idx %i' % (k, v['startIdx'], v['endIdx']))
+  ioLog.msg ('-- End Sessions File Report --')
+
+  return (sessionListSorted, catagoryIndexes)
 #end readSessionsFile
 
 def printSched(schedule, schoolInf, outFolder):
