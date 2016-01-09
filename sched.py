@@ -458,203 +458,211 @@ def childWorker(inQueue,     \
 ################################################################################
 #Begin Main
 
-if __name__ == '__main__':
-  print ('Starting Main process')
+#if __name__ == '__main__':
+#  print ('Starting Main process')
 
-  #Validate the folder to process from and write logs to
-  if len(sys.argv) < 2:
-    sys.exit('Usage: python3 %s jobFolder' % sys.argv[0])
+#Validate the folder to process from and write logs to
+if len(sys.argv) < 2:
+  sys.exit('Usage: python3 %s jobFolder' % sys.argv[0])
 
-  if not os.path.exists(sys.argv[1]):
-    sys.exit('ERROR: Job Folder %s was not found!' % sys.argv[1])
+if not os.path.exists(sys.argv[1]):
+  sys.exit('ERROR: Job Folder %s was not found!' % sys.argv[1])
 
-  #Setup output folder and Logger for this run
-  jobFolder   = os.path.join(os.getcwd(), sys.argv[1])
-  outFolder   = os.path.join(jobFolder, timeStamp())
-  os.makedirs(outFolder)
-  logger      = logger.Logger(outFolder)
-  schedIO.setLogger(logger)
-  schedFitness.setLogger(logger)
+if os.fork():
+  sys.exit()
 
-  #Load config file
-  configRaw = {}
-  config    = {}
-  exec(open(os.path.join(jobFolder,"settings.py")).read(), config)
-  for key,value in configRaw:  #For some reason the raw config isnt pickleable
-    config[key] = value
+#Setup output folder and Logger for this run
+jobFolder   = os.path.join(os.getcwd(), sys.argv[1])
+outFolder   = os.path.join(jobFolder, timeStamp())
+os.makedirs(outFolder)
+logger      = logger.Logger(outFolder)
+schedIO.setLogger(logger)
+schedFitness.setLogger(logger)
+
+#Load config file
+configRaw = {}
+config    = {}
+exec(open(os.path.join(jobFolder,"settings.py")).read(), config)
+for key,value in configRaw:  #For some reason the raw config isnt pickleable
+  config[key] = value
     
-  #Read input files
-  sessionsFile     = os.path.join(jobFolder, 'Sessions.txt')
-  restrSheetFile   = os.path.join(jobFolder, 'restrSheet.csv')
-  schoolCsvFile    = os.path.join(config['MASTER_FILE_PATH'], 'schoolReg.csv')
-  schoolExportFile = os.path.join(config['MASTER_FILE_PATH'], 'schoolsExport.csv')
-  studentCsvFile   = os.path.join(config['MASTER_FILE_PATH'], 'students.csv')
+#Read input files
+sessionsFile     = os.path.join(jobFolder, 'Sessions.txt')
+restrSheetFile   = os.path.join(jobFolder, 'restrSheet.csv')
+schoolCsvFile    = os.path.join(config['MASTER_FILE_PATH'], 'schoolReg.csv')
+schoolExportFile = os.path.join(config['MASTER_FILE_PATH'], 'schoolsExport.csv')
+studentCsvFile   = os.path.join(config['MASTER_FILE_PATH'], 'students.csv')
   
-  (sessionList, catagoryIndexes) = schedIO.readSessionsFile(sessionsFile)
-  schoolInfo                     = schedIO.readSchoolsExport(schoolExportFile)
-  rawEntriesList                 = schedIO.readSchoolWebCsv(schoolCsvFile, schoolInfo, config['CONTEST_SITENAME'])
-  schedIO.readStudentWebCsv (rawEntriesList, studentCsvFile)
-  entriesList                    = schedIO.readRestrSheet (rawEntriesList, restrSheetFile)
+if not os.path.isfile(sessionsFile):     sys.exit ('Sessions file not found: %s' % sessionsFile)
+if not os.path.isfile(restrSheetFile):   sys.exit ('RestrSheet file not found: %s' % restrSheetFile)
+if not os.path.isfile(schoolCsvFile):    sys.exit ('SchoolCsv file not found: %s' % schoolCsvFile)
+if not os.path.isfile(schoolExportFile): sys.exit ('SchoolExport file not found: %s' % schoolExportFile)
+if not os.path.isfile(studentCsvFile):   sys.exit ('StudentCsv file not found: %s' % studentCsvFile)
+
+(sessionList, catagoryIndexes) = schedIO.readSessionsFile(sessionsFile)
+schoolInfo                     = schedIO.readSchoolsExport(schoolExportFile)
+rawEntriesList                 = schedIO.readSchoolWebCsv(schoolCsvFile, schoolInfo, config['CONTEST_SITENAME'])
+schedIO.readStudentWebCsv (rawEntriesList, studentCsvFile)
+entriesList                    = schedIO.readRestrSheet (rawEntriesList, restrSheetFile)
   
-  #Remove schools that are removed because of no entries in the restrictions sheet
-  newSchoolInfo = []
-  for school in schoolInfo:
-    Found = False
-    for entry in entriesList:
-      if entry['schoolId'] == school:
-        Found = True
-        break
-    if not Found:
-      schoolInfo[school]['inContest'] = False
+#Remove schools that are removed because of no entries in the restrictions sheet
+newSchoolInfo = []
+for school in schoolInfo:
+  Found = False
+  for entry in entriesList:
+    if entry['schoolId'] == school:
+      Found = True
+      break
+  if not Found:
+    schoolInfo[school]['inContest'] = False
       
 
-  #Fill in school address info, force a write to cache.  Clients
-  # will read this cache for their distance lookups.
-  distMgr = distManager.DistManager(logger,config)
-  for school, data in schoolInfo.items():
-    if data['inContest']:
-      distMgr.addSchool(school, data['city'] + ',IA')
+#Fill in school address info, force a write to cache.  Clients
+# will read this cache for their distance lookups.
+distMgr = distManager.DistManager(logger,config)
+for school, data in schoolInfo.items():
+  if data['inContest']:
+    distMgr.addSchool(school, data['city'] + ',IA')
     
-  hostSchoolId = config['HOST_SCHOOL_ID']
-  if not hostSchoolId in schoolInfo:
-    print('ERROR: Host school not in contest')
-  distMgr.setHostSchool(hostSchoolId)    
-  for school,data in schoolInfo.items():
-    if data['inContest']:
-      data['driveTime'] = distMgr.driveTimeLookup(hostSchoolId,school)
-      print('Dist %s %d' % (data['city'], data['driveTime']))
-      #data['driveTime'] = 10
+hostSchoolId = config['HOST_SCHOOL_ID']
+if not hostSchoolId in schoolInfo:
+  print('ERROR: Host school not in contest')
+distMgr.setHostSchool(hostSchoolId)    
+for school,data in schoolInfo.items():
+  if data['inContest']:
+    data['driveTime'] = distMgr.driveTimeLookup(hostSchoolId,school)
+    #print('Dist %s %d' % (data['city'], data['driveTime']))
+    #data['driveTime'] = 10
 
+#Initialize fitness.  Main thread uses it at the last step.
+schedFitness.fitnessInitialize(schoolInfo, entriesList, config)
 
-  #Initialize fitness.  Main thread uses it at the last step.
-  schedFitness.fitnessInitialize(schoolInfo, entriesList, config)
+#Creating a worker for each cpu core gives wacko results.  There are queue issues
+#and garbage collection gets starved.
+cpuCount  = multiprocessing.cpu_count() - 1
+processes = []
+taskQueue = multiprocessing.Queue()
+doneQueue = multiprocessing.Queue()
 
-  #Creating a worker for each cpu core gives wacko results.  There are queue issues
-  #and garbage collection gets starved.
-  cpuCount  = multiprocessing.cpu_count() - 1
-  processes = []
-  taskQueue = multiprocessing.Queue()
-  doneQueue = multiprocessing.Queue()
+rdm = []
+for x in range(1, config['STAGE_1_ARRAY_SIZE']):
+  rdm.append({'score':-1, 'lst':None})
 
-  rdm = []
-  for x in range(1, config['STAGE_1_ARRAY_SIZE']):
-    rdm.append({'score':-1, 'lst':None})
+topScores      = []
+lowestScore    = 0
+lowestScoreIdx = -1
 
-  topScores      = []
-  lowestScore    = 0
-  lowestScoreIdx = -1
+for x in range(cpuCount):
+  p = multiprocessing.Process(target = childWorker,        \
+                              args   = (taskQueue,         \
+                                        doneQueue,         \
+                                        schoolInfo,        \
+                                        entriesList,       \
+                                        config),           \
+                              name   = 'SchedWorker%d' % x)
+  p.start()
+  processes.append(p)
 
-  for x in range(cpuCount):
-    p = multiprocessing.Process(target = childWorker,        \
-                                args   = (taskQueue,         \
-                                          doneQueue,         \
-                                          schoolInfo,        \
-                                          entriesList,       \
-                                          config),           \
-                                name   = 'SchedWorker%d' % x)
-    p.start()
-    processes.append(p)
-
-  #############################################################################
-  ## PHASE 1 Fill the list with random schedules
-  #############################################################################
-  randGenMain      = random.SystemRandom()
-  randFails        = createRandomSchedules (rdm, sessionList, entriesList, randGenMain)
-  stageNum         = 1
-  stageStart       = time.time()
-  flushCycleStart  = time.time()
-  printCnt         = 1
-  waitCnt          = 0
+#############################################################################
+## PHASE 1 Fill the list with random schedules
+#############################################################################
+randGenMain      = random.SystemRandom()
+randFails        = createRandomSchedules (rdm, sessionList, entriesList, randGenMain)
+stageNum         = 1
+stageStart       = time.time()
+flushCycleStart  = time.time()
+printCnt         = 1
+waitCnt          = 0
   
-  jobMaxSize       = 1000
-  jobMinSize       = 10
-  jobSizeIncr      = 10
+jobMaxSize       = 1000
+jobMinSize       = 10
+jobSizeIncr      = 10
 
-  lastScorePrintTime = time.time()
+lastScorePrintTime = time.time()
 
-  logger.msg('Start Main Loop')
-  jobCurrentSize = jobMinSize
+logger.msg('Start Main Loop')
+jobCurrentSize = jobMinSize
   
+while True:
+  parentsList = findParentSchedules(rdm, jobCurrentSize, randGenMain)
+  for x in parentsList:
+    taskQueue.put({'cmd':'XOver', 'idx':x[0], 'sch1':rdm[x[0]], 'sch2':rdm[x[1]]})
+
+  for x in range(jobCurrentSize):
+      mutateIdx = randGenMain.randint(0, len(rdm)-1)
+      taskQueue.put({'cmd':'Mutate', 'idx':mutateIdx, 'sch1':rdm[mutateIdx]})
+  taskQueue.put({'cmd':'Done'})  #End of job marker
+  jobCurrentSize = min(jobCurrentSize + jobSizeIncr,  jobMaxSize)
+    
+  if jobCurrentSize == 1490:
+    print('*')
+
+  #This is a good time to do work while waiting for the child procs to finish
+  #Print out the best score every so often
+  if time.time() - lastScorePrintTime > config['BEST_SCORE_PRINT_MINS'] * 60:
+    if stageNum == 1 and len(topScores) > 0:
+      (lowestScore, lowestScoreIdx) = computeTopScore (topScores)
+      scorePrintFolder              = os.path.join(outFolder, str(math.floor(lowestScore)))
+      if not os.path.exists(scorePrintFolder):
+        schedIO.printSched (schedule   = topScores[lowestScoreIdx],  \
+                            schoolInf  = schoolInfo,                 \
+                            outFolder  = scorePrintFolder)
+        schedFitness.fitnessTest (schedl     = topScores[lowestScoreIdx],    \
+                                  saveReport = True,                         \
+                                  fileName   = os.path.join(scorePrintFolder, 'FitnessReport.txt'))
+        validateSched(topScores[lowestScoreIdx], sessionList, entriesList, logger)
+    elif stageNum == 2 and len(rdm) > 0:
+      (lowestScore, lowestScoreIdx) = computeTopScore (rdm)
+      scorePrintFolder              = os.path.join(outFolder, str(math.floor(lowestScore)))
+      if not os.path.exists(scorePrintFolder):
+        schedIO.printSched (schedule   = rdm[lowestScoreIdx],   \
+                            schoolInf = schoolInfo,            \
+                            outFolder  = scorePrintFolder)
+        schedFitness.fitnessTest (schedl     = rdm[lowestScoreIdx],    \
+                                  saveReport = True,                   \
+                                  fileName   = os.path.join(scorePrintFolder, 'FitnessReport.txt'))
+        validateSched(rdm[lowestScoreIdx], sessionList, entriesList, logger)
+    lastScorePrintTime = time.time()
+
+  #Wait for the task queue to empty so we don't get ahead of ourselves
+  while not taskQueue.empty():
+    time.sleep(0.1)
+    waitCnt += 1
+    
   while True:
-    parentsList = findParentSchedules(rdm, jobCurrentSize, randGenMain)
-    for x in parentsList:
-      taskQueue.put({'cmd':'XOver', 'idx':x[0], 'sch1':rdm[x[0]], 'sch2':rdm[x[1]]})
-
-    for x in range(jobCurrentSize):
-        mutateIdx = randGenMain.randint(0, len(rdm)-1)
-        taskQueue.put({'cmd':'Mutate', 'idx':mutateIdx, 'sch1':rdm[mutateIdx]})
-    taskQueue.put({'cmd':'Done'})  #End of job marker
-    jobCurrentSize = min(jobCurrentSize + jobSizeIncr,  jobMaxSize)
-    
-    if jobCurrentSize == 1490:
-      print('*')
-
-    #This is a good time to do work while waiting for the child procs to finish
-    #Print out the best score every so often
-    if time.time() - lastScorePrintTime > config['BEST_SCORE_PRINT_MINS'] * 60:
-      if stageNum == 1 and len(topScores) > 0:
-        (lowestScore, lowestScoreIdx) = computeTopScore (topScores)
-        scorePrintFolder              = os.path.join(outFolder, str(math.floor(lowestScore)))
-        if not os.path.exists(scorePrintFolder):
-          schedIO.printSched (schedule   = topScores[lowestScoreIdx],  \
-                              schoolInf  = schoolInfo,                 \
-                              outFolder  = scorePrintFolder)
-          schedFitness.fitnessTest (schedl     = topScores[lowestScoreIdx],    \
-                                    saveReport = True,                         \
-                                    fileName   = os.path.join(scorePrintFolder, 'FitnessReport.txt'))
-          validateSched(topScores[lowestScoreIdx], sessionList, entriesList, logger)
-      elif stageNum == 2 and len(rdm) > 0:
-        (lowestScore, lowestScoreIdx) = computeTopScore (rdm)
-        scorePrintFolder              = os.path.join(outFolder, str(math.floor(lowestScore)))
-        if not os.path.exists(scorePrintFolder):
-          schedIO.printSched (schedule   = rdm[lowestScoreIdx],   \
-                              schoolInf = schoolInfo,            \
-                              outFolder  = scorePrintFolder)
-          schedFitness.fitnessTest (schedl     = rdm[lowestScoreIdx],    \
-                                    saveReport = True,                   \
-                                    fileName   = os.path.join(scorePrintFolder, 'FitnessReport.txt'))
-          validateSched(rdm[lowestScoreIdx], sessionList, entriesList, logger)
-      lastScorePrintTime = time.time()
-
-    #Wait for the task queue to empty so we don't get ahead of ourselves
-    while not taskQueue.empty():
-      time.sleep(0.1)
-      waitCnt += 1
-    
-    while True:
-      try:
-        response = doneQueue.get(block=True,timeout=60)
-        if 'done' in response:
-          break
-        elif 'msg' in response:
-        	logger.msg (response['msg'])
-        else:
-          #Double check that the score is better. Otherwise a race is possible and will decrease score.
-          oldScore = rdm[response['idx']]['score']
-          if response['sch']['score'] < oldScore:
-            rdm[response['idx']] = response['sch']
-            if stageNum == 2:
-              logger.msg ('%s %d -> %d' % (response['method'], oldScore, response['sch']['score']))
-      except Empty:
+    try:
+      response = doneQueue.get(block=True,timeout=60)
+      if 'done' in response:
         break
-      except IndexError:
-        print ('rdm[%d] not a valid index' % response['idx'])
+      elif 'msg' in response:
+      	logger.msg (response['msg'])
+      else:
+        #Double check that the score is better. Otherwise a race is possible and will decrease score.
+        oldScore = rdm[response['idx']]['score']
+        if response['sch']['score'] < oldScore:
+          rdm[response['idx']] = response['sch']
+          if stageNum == 2:
+            logger.msg ('%s %d -> %d' % (response['method'], oldScore, response['sch']['score']))
+    except Empty:
+      break
+    except IndexError:
+      print ('rdm[%d] not a valid index' % response['idx'])
 
-    (lowestScore, lowestScoreIdx) = computeTopScore (rdm)
-    #Display the best score in the log
-    if (time.time() - stageStart) / (config['DISPLAY_BEST_SCORE_SECS'] * printCnt) > 1.0:
-      logger.msg ('Best Score %4d' % (lowestScore))
-      printCnt += 1
+  (lowestScore, lowestScoreIdx) = computeTopScore (rdm)
+  #Display the best score in the log
+  if (time.time() - stageStart) / (config['DISPLAY_BEST_SCORE_SECS'] * printCnt) > 1.0:
+    logger.msg ('Best Score %4d' % (lowestScore))
+    printCnt += 1
 
-    #Stage 1 Flush
-    if stageNum == 1 and time.time() - flushCycleStart > config['STAGE_1_MINUTES_PER_FLUSH'] * 60:
-      logger.msg ('Flushing list')
-      logger.msg ('Main GC Obj %d' % len(gc.get_objects()))
-      for idx,z in enumerate(rdm):          #Add the top score to the topScores list
-        if z['score'] == lowestScore:
-          logger.msg ('Adding %d to top scores' % z['score'])
-          topScores.append(z)
-      #end loop
+  #Stage 1 Flush
+  if stageNum == 1 and time.time() - flushCycleStart > config['STAGE_1_MINUTES_PER_FLUSH'] * 60:
+    logger.msg ('Flushing list')
+    logger.msg ('Main GC Obj %d' % len(gc.get_objects()))
+    for idx,z in enumerate(rdm):          #Add the top score to the topScores list
+      if z['score'] == lowestScore:
+        logger.msg ('Adding %d to top scores' % z['score'])
+        topScores.append(z)
+    #end loop
       
       #Clean out the results queue so it doesn't overwrite the new randoms with old(better) results.
 #      while True:
@@ -665,87 +673,86 @@ if __name__ == '__main__':
 #        except Empty:
 #          break
 
-      if time.time() - stageStart > config['STAGE_1_HOURS'] * 60 * 60 and len(topScores) > 1:
-        #This "if" only gets checked when flushing.  So its timing is not very accurate
-        #Stage 1 Finished.  Now start improving just the topScores array
-        logger.msg ('Starting Stage 2')
+    if time.time() - stageStart > config['STAGE_1_HOURS'] * 60 * 60 and len(topScores) > 1:
+      #This "if" only gets checked when flushing.  So its timing is not very accurate
+      #Stage 1 Finished.  Now start improving just the topScores array
+      logger.msg ('Starting Stage 2')
 
-        rdm       = topScores
-        topScores = []
-        logger.msg ('Stage 2 Scores:')
-        for scoreX in rdm:
-          logger.msg ('   %d ' % scoreX['score'])
+      rdm       = topScores
+      topScores = []
+      logger.msg ('Stage 2 Scores:')
+      for scoreX in rdm:
+        logger.msg ('   %d ' % scoreX['score'])
 
-        stageNum   = 2
-        printCnt   = 1
-        stageStart = time.time()
-      else:
-        #Wipe the schedule array, fill it back up with randoms and start over
-        rdm = []
-        for x in range(config['STAGE_1_ARRAY_SIZE']-1):
-          rdm.append({'score':-1, 'lst':None})
-        randFails = createRandomSchedules (rdm, sessionList, entriesList, randGenMain)
-        flushCycleStart = time.time()  #Reset the flush timer
-        jobCurrentSize = jobMinSize
+      stageNum   = 2
+      printCnt   = 1
+      stageStart = time.time()
+    else:
+      #Wipe the schedule array, fill it back up with randoms and start over
+      rdm = []
+      for x in range(config['STAGE_1_ARRAY_SIZE']-1):
+        rdm.append({'score':-1, 'lst':None})
+      randFails = createRandomSchedules (rdm, sessionList, entriesList, randGenMain)
+      flushCycleStart = time.time()  #Reset the flush timer
+      jobCurrentSize = jobMinSize
         
-    elif stageNum == 2 and time.time() - stageStart > config['STAGE_2_HOURS'] * 60 * 60:
-      logger.msg ('End Stage 2')
-      for x in range(cpuCount):
-        logger.msg ('Stopping task %d' % x)
-        taskQueue.put({'cmd':'STOP'})
-      break
+  elif stageNum == 2 and time.time() - stageStart > config['STAGE_2_HOURS'] * 60 * 60:
+    logger.msg ('End Stage 2')
+    for x in range(cpuCount):
+      logger.msg ('Stopping task %d' % x)
+      taskQueue.put({'cmd':'STOP'})
+    break
 
 
 
-    waitCnt = 0
-  #end loop
+  waitCnt = 0
+#end loop
 
-  logger.msg ('Compute loop finished')
+logger.msg ('Compute loop finished')
 
 
-  #############################################################################
-  ## PHASE 2 Empty the output queue and close up shop
-  #############################################################################
+#############################################################################
+## PHASE 2 Empty the output queue and close up shop
+#############################################################################
 
-  #Empty the output queue
-  respCount = 0;
-  while True:
-    try:
-      response = doneQueue.get(block=True,timeout=20)
-      if 'msg' in response:
-        logger.msg (response['msg'])
-      respCount += 1;
-    except Empty:
-      break
-  logger.msg ('Cleaned out %d from output queue' % respCount)
+#Empty the output queue
+respCount = 0;
+while True:
+  try:
+    response = doneQueue.get(block=True,timeout=20)
+    if 'msg' in response:
+      logger.msg (response['msg'])
+    respCount += 1;
+  except Empty:
+    break
+logger.msg ('Cleaned out %d from output queue' % respCount)
 
-  for p in processes:
-    try:
-      p.join(timeout=60)
-    except TimeoutError:
-      logger.msg ('Timeout joining process')
+for p in processes:
+  try:
+    p.join(timeout=60)
+  except TimeoutError:
+    logger.msg ('Timeout joining process')
 
-  (lowestScore, lowestScoreIdx) = computeTopScore (rdm)
-  logger.msg ('Best Score %4d' % lowestScore)
+(lowestScore, lowestScoreIdx) = computeTopScore (rdm)
+logger.msg ('Best Score %4d' % lowestScore)
+logger.msg(schedFitness.getFitnessMetrics())
 
-  logger.msg(schedFitness.getFitnessMetrics())
+logger.msg ('Scores:')
+for scoreX in rdm:
+  logger.msg ('   %d ' % scoreX['score'])
 
-  logger.msg ('Scores:')
-  for scoreX in rdm:
-    logger.msg ('   %d ' % scoreX['score'])
+logger.msg ('Printing best score of %d' % lowestScore)
 
-  logger.msg ('Printing best score of %d' % lowestScore)
+scorePrintFolder = os.path.join(outFolder, str(math.floor(lowestScore)))
+if not os.path.exists(scorePrintFolder):
+  fitnessFile      = os.path.join(scorePrintFolder, 'fitnessReport.txt')
 
-  scorePrintFolder = os.path.join(outFolder, str(math.floor(lowestScore)))
-  if not os.path.exists(scorePrintFolder):
-    fitnessFile      = os.path.join(scorePrintFolder, 'fitnessReport.txt')
+  schedIO.printSched       (schedule   = rdm[lowestScoreIdx],   \
+                            schoolInf = schoolInfo,            \
+                            outFolder  = scorePrintFolder)
+  validateSched(rdm[lowestScoreIdx], sessionList, entriesList, logger)
 
-    schedIO.printSched       (schedule   = rdm[lowestScoreIdx],   \
-                              schoolInf = schoolInfo,            \
-                              outFolder  = scorePrintFolder)
-    validateSched(rdm[lowestScoreIdx], sessionList, entriesList, logger)
-
-    schedFitness.fitnessTest (schedl     = rdm[lowestScoreIdx],    \
-                              saveReport = True,                   \
-                              fileName   = fitnessFile)
+  schedFitness.fitnessTest (schedl     = rdm[lowestScoreIdx],    \
+                            saveReport = True,                   \
+                            fileName   = fitnessFile)
 

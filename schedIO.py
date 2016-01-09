@@ -413,7 +413,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName):
         #instead of doing a bunch of string and list comparisons.
         entryIndex += 1
 
-#  ioLog.msg ('Loaded %d schools' % len(schoolInfo))
+  ioLog.msg ('Loaded %d schools, %d entries' % (schoolCount,entryIndex)
   print ('Loaded %d schools, %d entries' % (schoolCount,entryIndex))
   return entriesList
 #end readSchoolWebCsv() #######################################################
@@ -564,8 +564,9 @@ def readRestrSheet(entriesList, fileName):
     if entriesList[entryIdx]['inContest']:
       inContestCount += 1
       newEntList.append(entriesList[entryIdx])
-      
-  print ('%d in contest' % inContestCount)
+
+  ioLog.msg ('%d in contest after reading RestrSheet' % inContestCount)
+  print     ('%d in contest' % inContestCount)
   return newEntList
   
 ##end readRestrSheet
