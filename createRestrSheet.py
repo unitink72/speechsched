@@ -18,11 +18,17 @@ config    = {}
 exec(open(os.path.join(jobFolder,"settings.py")).read(), config)
 for key,value in configRaw:  #For some reason the raw config isnt pickleable
   config[key] = value
-  
-  
+
+
 #Read input files
 schoolCsvFile    = os.path.join(config['MASTER_FILE_PATH'], 'schoolReg.csv')
 schoolExportFile = os.path.join(config['MASTER_FILE_PATH'], 'schoolsExport.csv')
+studentCsvFile   = os.path.join(config['MASTER_FILE_PATH'], 'students.csv')
+
+if not os.path.isfile(schoolCsvFile):    sys.exit ('SchoolCsv file not found: %s' % schoolCsvFile)
+if not os.path.isfile(schoolExportFile): sys.exit ('SchoolExport file not found: %s' % schoolExportFile)
+if not os.path.isfile(studentCsvFile):   sys.exit ('StudentCsv file not found: %s' % studentCsvFile)
+
 schoolInfo       = schedIO.readSchoolsExport(schoolExportFile)
 
 siteCount        = len(config['CONTEST_SITENAME'])
@@ -31,6 +37,7 @@ for site in config['CONTEST_SITENAME']:
   print ('Processing %s' % site)
   
   entriesList = schedIO.readSchoolWebCsv(schoolCsvFile, schoolInfo, site)
+  schedIO.readStudentWebCsv (entriesList, studentCsvFile)
   
   if siteCount > 1:
     restrOutFile = os.path.join(jobFolder, 'restrSheet_' + site[:8] + '.csv')
@@ -40,7 +47,7 @@ for site in config['CONTEST_SITENAME']:
   outFile      = open (restrOutFile, 'w', newline='')
   writer       = csv.writer (outFile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
   
-  writer.writerow(['regId', 'schoolId', 'SchoolName', 'catShort', 'catIdx',  'entryTitle', 'inContest', 'earliestStart', 'latestEnd'])
+  writer.writerow(['regId', 'schoolId', 'SchoolName', 'catShort', 'catIdx',  'entryTitle', 'inContest', 'earliestStart', 'latestEnd','performers'])
   for entry in entriesList:          
     writer.writerow([entry['regId'],                             \
                      entry['schoolId'],                          \
@@ -48,7 +55,10 @@ for site in config['CONTEST_SITENAME']:
                      entry['catShort'],                          \
                      entry['catSchoolIdx'],                      \
                      entry['entryTitle'],                        \
-                     'X' ])
+                     'X',                                        \
+                     '',                                         \
+                     '',                                         \
+                     ','.join(map(str,entry['performers'])) ])
   
   outFile.close()                  
 
