@@ -1,0 +1,156 @@
+
+
+## Comment lines start with ##
+## Event categories must start with alphabetic character, and be on their own line.
+## 2-char identifier, then number of minutes each session lasts
+## Room description is on the next line. Line needs to start with "Room "
+## Event sessions list their start in 24-hour format
+
+One Act Play OA 35
+Room Performing Arts Center 1
+1630
+1705
+1740
+1805 Lunch
+1850
+1925
+2000 Break
+
+Musical Theatre MT 10
+Room Library Center 2
+1430
+1440
+1450
+1500
+1510
+1520
+1530
+1540
+1550
+1600
+1610
+1620 Break
+
+Choral Reading CR 20
+Room Band Room Center 3
+1630
+1650
+1710
+1730
+1750
+1800 Break
+
+Group Improv GI 8
+Room  Trosky (Warm-up 173) Center 4
+1640
+1648
+1656
+1704
+1712
+1720
+1728
+1736
+1742
+1748
+1754 Dinner
+1830 
+1836
+1842
+1850
+1858
+1906
+1914
+1922
+1930 Break
+
+TV News TV 15
+Room  (Nelson) Center 5
+1630
+1645
+1700
+1715
+1730 Break
+
+Radio Broadcasting RB 10
+Room  (Nelson) Center 5
+1800
+1810
+1820
+1830
+1840
+1850 
+1900
+1910 Break
+
+Short Film SF 8
+Room  (Nelson) Center 5
+1920
+1928
+1936
+1942
+1950
+1956
+2004
+2012
+2020
+2028
+2036 Break
+
+
+Reader's Theatre RT 30
+Room Choir Room Center 6
+1630
+1700
+1730
+1800
+1830
+1900
+1930 Break
+
+
+Group Mime GM 10
+Room  Barker Center 7
+1400
+1410
+1420
+1430
+1440
+1450
+1500
+1510
+1520
+1530
+1540 Break
+
+
+Solo Mime SM 7
+Room  Barker Center 7
+1615
+1622
+1630
+1638
+1644 Break
+
+
+Ensemble Acting EA 15
+Room  Huch Center 8
+1430
+1445
+1500
+1515
+1530
+1545
+1600
+1615 Lunch
+1645
+1700
+1715
+1730
+1745
+1800
+1815
+1830
+1845
+1900 Break
+
+
