@@ -28,6 +28,7 @@ schoolInfo       = schedIO.readSchoolsExport(schoolExportFile)
 siteCount        = len(config['CONTEST_SITENAME'])
 
 for site in config['CONTEST_SITENAME']:
+  print ('Processing %s' % site)
   
   entriesList = schedIO.readSchoolWebCsv(schoolCsvFile, schoolInfo, site)
   

@@ -371,7 +371,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName):
         schoolInfo[schoolIdCsv]['inContest'] = True
         newCode = rnd.choice(string.ascii_uppercase) + rnd.choice(string.ascii_uppercase)
         newCodeMirror = newCode[1] + newCode[0]
-        while newCode in usedCodes or newCodeMirror in usedCodes:
+        while newCode in usedCodes: # or newCodeMirror in usedCodes:
           newCode = rnd.choice(string.ascii_uppercase) + rnd.choice(string.ascii_uppercase)
         usedCodes.append(newCode)
         schoolInfo[schoolIdCsv]['code'] = newCode
