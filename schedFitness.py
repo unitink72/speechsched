@@ -161,9 +161,11 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
       penalty2   = (localSchoolInfo[school]['driveTime'] - durationAfter7) * schConfig['PTS_PER_MINUTE_SCHOOL_LEAVES_BEFORE_7AM']
       test2Score += penalty2
       if saveReport:
-        reportText += '2 Leave Before 7     %4d %s Earliest %4d\n' % (penalty2,                          \
-                                                                      localSchoolInfo[school]['name'],   \
-                                                                      localSchoolInfo[school]['earliestSession'])
+        reportText += '2 Leave Before 7     %4d %s      Earliest %4d DriveTime %d\n' % \
+                      (penalty2,                                                       \
+                       localSchoolInfo[school]['name'],                                \
+                       localSchoolInfo[school]['earliestSession'],                     \
+                       localSchoolInfo[school]['driveTime'])
     #end if
   #end loop
 
@@ -350,8 +352,8 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
   #6
   #Students should have 1/2 hour between performances.
   #First assemble a hash of students and their performance times
-  # 'Stuart Smally'   : ((805,840), (930,945), (1315,1330))
-  # 'Benito Musolini' : ((1015,1035), (1020,1040), (1440,1500))
+  # 'Stuart Smally'   : {'School' : 'South Sully', 'times' : ((805,840), (930,945), (1315,1330))}
+  # 'Benito Musolini' : {'School' : 'Rifle Acdmy', 'times' : ((1015,1035), (1020,1040), (1440,1500))}
   performTimeHash = {}
 
   #This logic is going to consider kids of the same name even if they are from different schools
@@ -360,13 +362,15 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
     if 'entry' in x and 'performers' in x['entry']:
       for performer in x['entry']['performers']:
         if not performer in performTimeHash:    # Add the performer to the hash on the first encounter
-          performTimeHash[performer] = []
-        performTimeHash[performer].append((x['start'],x['end']))  #Start/Stop time is a tuple
+          performTimeHash[performer]           = {}
+          performTimeHash[performer]['school'] = localSchoolInfo[x['entry']['schoolId']]['name']
+          performTimeHash[performer]['times']  = []
+        performTimeHash[performer]['times'].append((x['start'],x['end']))  #Start/Stop time is a tuple
         #print ('Performer %s %d %d' % (performer, x['start'], x['end']))
 
   #Check that the performance times don't conflict
   for performer in performTimeHash:
-    times = performTimeHash[performer]
+    times = performTimeHash[performer]['times']
     #print ('Performer %d %s' % (len(times), performer))
 
     for x in range(0, len(times)-1):
@@ -389,11 +393,12 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
         elif timeDelta >= 10 and timeDelta <= 30:
           points = schConfig['STUDENT_SCHEDULE_TIME_CONFLICT'] - (timeDelta * schConfig['STUDENT_SCHEDULE_CONFLICT_PER_MIN'])
         if saveReport and points > 0:
-          txt = '6 Student Time Conflict %4d Times %4d %4d %s\n' % \
+          txt = '6 Student Time Conflict %4d Times %4d %4d %s %s\n' %      \
                          (points,                                          \
                           times[x][0],                                     \
                           times[y][0],                                     \
-                          performer)
+                          performer,
+                          performTimeHash[performer]['school'])
           #print (txt)
           reportText += txt
         test6Score += points
