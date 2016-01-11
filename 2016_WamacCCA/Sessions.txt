@@ -94,6 +94,7 @@ Room  (Nelson) Center 5
 2012
 2020
 2028
+2036
 2036 Break
 
 
@@ -105,6 +106,7 @@ Room Choir Room Center 6
 1800
 1830
 1900
+1930
 1930 Break
 
 
