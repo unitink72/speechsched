@@ -584,7 +584,7 @@ def readRestrSheet(entriesList, fileName):
   ioLog.msg ('Contest entries per category:')
   for k,v in catCounts.items():
     ioLog.msg ('%s : %d' % (k,v))
-  print     ('%d in contest' % inContestCount)
+  print ('%d in contest' % len(newEntList))
   return newEntList
   
 ##end readRestrSheet   ########################################################
