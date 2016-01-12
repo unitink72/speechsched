@@ -1,6 +1,7 @@
 import csv, re, sys
 import math
 import os
+import pickle
 import random
 import string
 from operator import itemgetter
@@ -28,6 +29,7 @@ usedCodes = []
 def setLogger(logger):
   global ioLog
   ioLog = logger
+###############################################################################
 
 def addTime(time1, time2):
   #Adds two clock times
@@ -43,7 +45,8 @@ def addTime(time1, time2):
     hours +=1
 
   return (hours * 100) + mins
-#end addTime
+#end addTime ##################################################################
+###############################################################################
 
 def to12hr(time):
   hrs  = math.floor(time / 100)
@@ -51,6 +54,8 @@ def to12hr(time):
   if hrs > 12:
     hrs -= 12
   return ('%2d:%02d' % (hrs, mins))
+#end to12hr   #################################################################
+###############################################################################
 
 def readSessionsFile(fileName):
   sessionsFile = open (fileName, 'r')
@@ -186,7 +191,8 @@ def readSessionsFile(fileName):
   ioLog.msg ('-- End Sessions File Report --')
 
   return (sessionListSorted, catagoryIndexes)
-#end readSessionsFile
+#end readSessionsFile #########################################################
+###############################################################################
 
 def printSched(schedule, schoolInf, outFolder):
   bySchoolFolder      = os.path.join(outFolder, 'BySchool')
@@ -202,6 +208,10 @@ def printSched(schedule, schoolInf, outFolder):
   os.mkdir(bySchoolFolder)
   os.mkdir(byRoomFolder)
   os.mkdir(byRoomCodedFolder)
+
+  #Pickled schedule
+  f = open(os.path.join(outFolder, 'schedule.bin', 'wb'))
+  pickle.dump(schedule, f)
 
   f = open(os.path.join(outFolder, 'masterSched.csv'), 'w', newline='\r\n')
   #f.write ('Score %d\n' % schedule['score'])
@@ -305,7 +315,8 @@ def printSched(schedule, schoolInf, outFolder):
   for school in schoolList:
     f.write('%s  %s\n' % (schoolInf[school]['code'], schoolInf[school]['name']))
   f.close()
-#end printSched
+#end printSched ###############################################################
+###############################################################################
 
 def readSchoolWebCsv(fileName, schoolInfo, siteName):
   inFile = open (fileName, 'r', newline='')
@@ -364,8 +375,10 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName):
     #Validate that this school is in the schoolInfo dict
     if schoolIdCsv not in schoolInfo:
       print('Schools Export/School Registration missing on School ID %i %s' % (schoolIdCsv,schoolNameCsv))
+      ioLog.msg('Schools Export/School Registration missing on School ID %i %s' % (schoolIdCsv,schoolNameCsv))
     elif schoolNameCsv != schoolInfo[schoolIdCsv]['name']:
       print('Schools Export/School Registration name mismatch on ID %i "%s" "%s"' % (schoolIdCsv,schoolNameCsv,schoolInfo[schoolIdCsv]['name']))
+      ioLog.msg('Schools Export/School Registration name mismatch on ID %i "%s" "%s"' % (schoolIdCsv,schoolNameCsv,schoolInfo[schoolIdCsv]['name']))
     else:
       if not schoolInfo[schoolIdCsv]['inContest']:
         schoolInfo[schoolIdCsv]['inContest'] = True
@@ -418,8 +431,8 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName):
   print ('Loaded %d schools, %d entries' % (schoolCount,entryIndex))
   return entriesList
 #end readSchoolWebCsv() #######################################################
+###############################################################################
 
-#start readStudentWebCsv() ####################################################
 def readStudentWebCsv(entriesList, fileName):
 
   inFile = open (fileName, 'r', newline='')
@@ -501,14 +514,13 @@ def readStudentWebCsv(entriesList, fileName):
          break
      #else:
       #print('No entry match for student ' + row['Name'] + ' ' +row['Category'])
-#end readStudentWebCsv() ####################################################
+#end readStudentWebCsv() ######################################################
+###############################################################################
 
 def readSchoolsExport(fileName):
 
-  inFile = open (fileName, 'r', newline='')
-  reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
-  
-
+  inFile    = open (fileName, 'r', newline='')
+  reader    = csv.DictReader(inFile, delimiter=',', quotechar='"')
 
   schoolInfo = {}
 
@@ -526,15 +538,14 @@ def readSchoolsExport(fileName):
     schoolInfo[csvRegId] = schoolDict
 
   return schoolInfo
-#end readSchoolsExport
+#end readSchoolsExport ########################################################
+###############################################################################
 
 def readRestrSheet(entriesList, fileName):
 
   inFile = open (fileName, 'r', newline='')
   reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
-  
-  #Skip the first row, its just column headers
-  next(reader)
+  catCounts = dict(zip(catShortList, [0]*len(catShortList)))
   
   for row in reader:
     regIdCsv           = int(row['regId'])
@@ -544,12 +555,12 @@ def readRestrSheet(entriesList, fileName):
     earliestStartCsv   = row['earliestStart'].rstrip()
     latestEndCsv       = row['latestEnd'].rstrip()
     inContestCsv       = row['inContest'].rstrip()
-    
+
     for entry in entriesList:
-      if entry['regId']     == regIdCsv    and          \
-         entry['schoolId']  == schoolIdCsv and          \
-         entry['catShort']  == catShortCsv and          \
-         entry['catSchoolIdx']    == catIdxCsv:
+      if entry['regId']        == regIdCsv    and          \
+         entry['schoolId']     == schoolIdCsv and          \
+         entry['catShort']     == catShortCsv and          \
+         entry['catSchoolIdx'] == catIdxCsv:
          
         if earliestStartCsv and earliestStartCsv.isdigit():
           entry['earliestStart'] = int(earliestStartCsv)
@@ -557,17 +568,24 @@ def readRestrSheet(entriesList, fileName):
           entry['latestEnd'] = int(latestEndCsv)
         if not inContestCsv :
           entry['inContest'] = False
+        else:
+          catCounts[catShortCsv] += 1
+          #print ('Entry: %d %d *%s*' % (entry['regId'],entry['catSchoolIdx'],inContestCsv))
+
 
   #Now delete the entries not in this contest
   newEntList     = []
-  inContestCount = 0
-  for entryIdx in range(len(entriesList)):
-    if entriesList[entryIdx]['inContest']:
-      inContestCount += 1
-      newEntList.append(entriesList[entryIdx])
+  for entry in entriesList:
+    if entry['inContest']:
+      newEntList.append(entry)
+      #print ('Copy: %d %d' % (entry['regId'],entry['catSchoolIdx']))
 
-  ioLog.msg ('%d in contest after reading RestrSheet' % inContestCount)
+  ioLog.msg ('%d in contest after reading RestrSheet' % len(newEntList))
+  ioLog.msg ('Contest entries per category:')
+  for k,v in catCounts.items():
+    ioLog.msg ('%s : %d' % (k,v))
   print     ('%d in contest' % inContestCount)
   return newEntList
   
-##end readRestrSheet
+##end readRestrSheet   ########################################################
+###############################################################################
