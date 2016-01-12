@@ -152,7 +152,7 @@ def createRandomSchedules(scheduleList, sessions, entries, randGen, maxCount=Non
   #end schedule loop
   
   if sessionsOk != 1:
-  	sys.exit('Sessions file needs work')
+    sys.exit('Sessions file needs work. Exiting.')
   return randFailCount
 #end createRandomSchedule
 
@@ -468,8 +468,7 @@ if len(sys.argv) < 2:
 if not os.path.exists(sys.argv[1]):
   sys.exit('ERROR: Job Folder %s was not found!' % sys.argv[1])
 
-if os.fork():
-  sys.exit()
+randGenMain = random.SystemRandom()
 
 #Setup output folder and Logger for this run
 jobFolder   = os.path.join(os.getcwd(), sys.argv[1])
@@ -537,6 +536,15 @@ for school,data in schoolInfo.items():
 #Initialize fitness.  Main thread uses it at the last step.
 schedFitness.fitnessInitialize(schoolInfo, entriesList, config)
 
+#Test creating a random schedule to make sure there are enough sessions
+# for all the entries.  If it fails, quit before spinning off childWorkers
+tstRdm    = [{'score':-1, 'lst':None}]
+randFails = createRandomSchedules (tstRdm, sessionList, entriesList, randGenMain)
+
+childPID = os.fork()
+if childPID:
+  sys.exit('PID %d going to background\n' % childPID)
+
 #Creating a worker for each cpu core gives wacko results.  There are queue issues
 #and garbage collection gets starved.
 cpuCount  = multiprocessing.cpu_count() - 1
@@ -566,7 +574,6 @@ for x in range(cpuCount):
 #############################################################################
 ## PHASE 1 Fill the list with random schedules
 #############################################################################
-randGenMain      = random.SystemRandom()
 randFails        = createRandomSchedules (rdm, sessionList, entriesList, randGenMain)
 stageNum         = 1
 stageStart       = time.time()
