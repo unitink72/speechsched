@@ -74,6 +74,7 @@ def readSessionsFile(fileName):
   newRoomPattern     = re.compile("^ROOM (.+)",        re.IGNORECASE)
   newSessionPattern  = re.compile("^(\d+)\s*(BREAK)?", re.IGNORECASE)
   skipLinePattern    = re.compile("(^$)|(^##)")
+  multEntryPattern   = re.compile("(^\d{3,4})\s?\*\s?(\d+)")
 
   catBreakCounts = dict(zip(catShortList,[0] * len(catShortList)))
   catEntryCounts = dict(zip(catShortList,[0] * len(catShortList)))
@@ -121,12 +122,15 @@ def readSessionsFile(fileName):
       continue
     #end if
 
-    #This should be a session line by the time we get here.  Specifies a
-    #start time and possibly the keyword BREAK
+    #One session. Specifies a start time and possibly the keyword BREAK
     p4 = newSessionPattern.match(line)
     if p4:
       startTime = int(p4.group(1))
-      endTime   = addTime(startTime, curDuration)
+      isBreak   = p4.group(2)!= None
+      if isBreak:
+        endTime = startTime;
+      else:
+        endTime   = addTime(startTime, curDuration)
       #print ('appending %s' % line)
       #used to have this also: 'category' : curCategory,      \
       sessionList.append({'catShort' : curCategoryAbrv,  \
@@ -134,14 +138,30 @@ def readSessionsFile(fileName):
                           'duration' : curDuration,      \
                           'start'    : startTime,        \
                           'end'      : endTime,          \
-                          'isBreak'  : p4.group(2)!= None })
+                          'isBreak'  : isBreak })
 
-      if p4.group(2) == None:
-        nonBreakCount += 1
-        catEntryCounts[curCategoryAbrv] += 1
-      else:
+      if isBreak:
         breakCount += 1
         catBreakCounts[curCategoryAbrv] += 1
+      else:
+        nonBreakCount += 1
+        catEntryCounts[curCategoryAbrv] += 1
+      continue
+    
+    #A multiple entry line.
+    p5 = multEntryPattern.match(line)
+    if p5:
+      startTime   = int(p5.group(1))
+      repeatCount = int(p5.group(2))
+      for repeatNum in range(repeatCount):
+        sessionList.append({'catShort' : curCategoryAbrv,                  \
+                            'room'     : curRoom,                          \
+                            'duration' : curDuration,                      \
+                            'start'    : startTime,                        \
+                            'end'      : addTime(startTime, curDuration),  \
+                            'isBreak'  : isBreak })
+        startTime = addTime(startTime, curDuration)
+
     else:
       sys.exit ('Error parsing Sessions file line "%s"' % line.strip())
     #end if
@@ -210,7 +230,7 @@ def printSched(schedule, schoolInf, outFolder):
   os.mkdir(byRoomCodedFolder)
 
   #Pickled schedule
-  f = open(os.path.join(outFolder, 'schedule.bin', 'wb'))
+  f = open(os.path.join(outFolder, 'schedule.bin'),'wb')
   pickle.dump(schedule, f)
 
   f = open(os.path.join(outFolder, 'masterSched.csv'), 'w', newline='\r\n')
