@@ -251,7 +251,7 @@ def printSched(schedule, schoolInf, outFolder):
                                  session['end']))
     if 'entry' in session:
       #Quotes screw up csv
-      sessionStr = session['entry']['entryTitle'].replace('\"','').replace('\'','')
+      sessionStr = '\"' + session['entry']['entryTitle'].replace('\"','').replace('\'','') + '\"'
       f.write(',%s,%s,%d,%s\n' %                                        \
              (schoolInf[session['entry']['schoolId']]['name'],       \
               schoolInf[session['entry']['schoolId']]['code'],       \
