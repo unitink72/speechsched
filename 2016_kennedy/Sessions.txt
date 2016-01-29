@@ -43,7 +43,6 @@ Room Black Box Center A
 1500 
 1535 Break
 1545 
-1625
 
 
 ##Lunch 1200
@@ -64,9 +63,6 @@ Room Auditorium Center B
 1415 Break
 1420
 1500 
-1535 Break
-1545 
-1625
 
 
 ##Lunch 1230
@@ -735,78 +731,10 @@ Room 227/230 Center R
 1654
 1703
 
-##Lunch 1230
-Group Improv GI 8
-Room 250/251 Center S
-0800
-0809
-0818
-0827
-0836
-0845
-0854
-0859 Break
-0900
-0909
-0918
-0927
-0936
-0945
-0954
-0959 Break
-1000
-1009
-1018
-1027
-1036
-1045
-1054
-1059 Break
-1100
-1109
-1118
-1127
-1136
-1145
-1154
-1159 Break
-1200 
-1209
-1218
-1227 Break
-1327
-1336
-1345
-1354
-1359 Break
-1400
-1409
-1418
-1427
-1436
-1445
-1454
-1459 Break
-1500
-1509
-1518
-1527
-1536
-1545
-1554
-1559 Break
-1600
-1609
-1618
-1627
-1636
-1645
-1654
-1703
 
 ##Lunch 1130
 Readers Theatre RT 25
-Room 65 Center T
+Room 65 Center S
 0800
 0830
 0859 Break
@@ -832,7 +760,7 @@ Room 65 Center T
 
 ##Lunch 1130
 Readers Theatre RT 25
-Room 67 Center U
+Room 67 Center T
 0800
 0830
 0859 Break
@@ -857,7 +785,7 @@ Room 67 Center U
 
 ##Lunch 1130
 Readers Theatre RT 25
-Room 69 Center V
+Room 69 Center U
 0800
 0830
 0859 Break

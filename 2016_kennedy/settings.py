@@ -18,6 +18,9 @@ HOST_SCHOOL_ID = 480 #Kennedy
 # four for state contests.  Must match case EXACTLY from registration data.
 CONTEST_SITENAME = ['Monticello','Grinnell','Wapello','Pella']
 
+#School codes can either be 3-digit numbers or 2 letters. 0=Numbers, 1=Letters
+SCHOOL_CODE_CHARS = 0
+
 ###############################################################################
 ##    Fitness Function Settings
 ###############################################################################
@@ -60,11 +63,11 @@ STUDENT_SCHEDULE_CONFLICT_PER_MIN = 100
 ##   Execution Settings
 ###############################################################################
 DISPLAY_BEST_SCORE_SECS   = 120
-BEST_SCORE_PRINT_MINS     = 1
+BEST_SCORE_PRINT_MINS     = 5
 
 STAGE_1_ARRAY_SIZE        = 12    #10
-STAGE_1_MINUTES_PER_FLUSH = 1
-STAGE_1_HOURS             = 13.5   #7
+STAGE_1_MINUTES_PER_FLUSH = 40
+STAGE_1_HOURS             = 48   #7
 STAGE_2_HOURS             = 0.5  #1
 
 ###############################################################################
