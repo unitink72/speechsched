@@ -500,7 +500,10 @@ if not os.path.isfile(studentCsvFile):   sys.exit ('StudentCsv file not found: %
 
 (sessionList, catagoryIndexes) = schedIO.readSessionsFile(sessionsFile)
 schoolInfo                     = schedIO.readSchoolsExport(schoolExportFile)
-rawEntriesList                 = schedIO.readSchoolWebCsv(schoolCsvFile, schoolInfo, config['CONTEST_SITENAME'])
+rawEntriesList                 = schedIO.readSchoolWebCsv(fileName   = schoolCsvFile,              \
+                                                          schoolInfo = schoolInfo,                 \
+                                                          siteName   = config['CONTEST_SITENAME'], \
+                                                          codeChar   = config['SCHOOL_CODE_CHARS'])
 schedIO.readStudentWebCsv (rawEntriesList, studentCsvFile)
 entriesList                    = schedIO.readRestrSheet (rawEntriesList, restrSheetFile)
   

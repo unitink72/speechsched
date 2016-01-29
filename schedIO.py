@@ -338,13 +338,13 @@ def printSched(schedule, schoolInf, outFolder):
 #end printSched ###############################################################
 ###############################################################################
 
-def readSchoolWebCsv(fileName, schoolInfo, siteName):
+def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
   inFile = open (fileName, 'r', newline='')
 
   entriesList = []
   entryIndex  = 0
   schoolCount = 0
-
+  
   reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
 
   #List of fields to retrieve for each entry. Max 3 of any type
@@ -404,13 +404,18 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName):
         schoolInfo[schoolIdCsv]['inContest'] = True
 
         firstLoopIteration = True
-        while firstLoopIteration or         \
-              newCode in usedCodes or       \
-              newCodeMirror in usedCodes:
-          newCode = rnd.choice(string.ascii_uppercase) + rnd.choice(string.ascii_uppercase)
-          newCodeMirror = newCode[1] + newCode[0]
-          firstLoopIteration = False
-        
+        if codeChar == 0:
+           while firstLoopIteration or         \
+                 newCode in usedCodes:
+             newCode = rnd.choice(string.digits) + rnd.choice(string.digits) + rnd.choice(string.digits)
+             firstLoopIteration = False
+        else:
+           while firstLoopIteration or         \
+                 newCode in usedCodes or       \
+                 newCodeMirror in usedCodes:
+             newCode = rnd.choice(string.ascii_uppercase) + rnd.choice(string.ascii_uppercase)
+             newCodeMirror = newCode[1] + newCode[0]
+             firstLoopIteration = False
 
         usedCodes.append(newCode)
         schoolInfo[schoolIdCsv]['code'] = newCode
