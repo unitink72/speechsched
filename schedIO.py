@@ -331,9 +331,13 @@ def printSched(schedule, schoolInf, outFolder):
   #end room loop
   
   #Map from school codes to school names
+  schoolNameDict = {}
+  for schoolId in schoolList:
+    schoolNameDict[schoolInf[schoolId]['name']] = schoolInf[schoolId]['code']
+
   f = open(os.path.join(outFolder, 'schoolCodes.txt'), 'w', newline='\r\n')
-  for school in schoolList:
-    f.write('%s  %s\n' % (schoolInf[school]['code'], schoolInf[school]['name']))
+  for schoolName in sorted(schoolNameDict.keys()):
+    f.write('%s  %s\n' % (schoolNameDict[schoolName], schoolName))
   f.close()
 #end printSched ###############################################################
 ###############################################################################
