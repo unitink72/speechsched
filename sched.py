@@ -583,6 +583,9 @@ stageStart       = time.time()
 flushCycleStart  = time.time()
 printCnt         = 1
 waitCnt          = 0
+
+prevBestScore         = 999999999999
+scoreLastImprovedTime = time.time()
   
 jobMaxSize       = 1000
 jobMinSize       = 10
@@ -604,8 +607,8 @@ while True:
   taskQueue.put({'cmd':'Done'})  #End of job marker
   jobCurrentSize = min(jobCurrentSize + jobSizeIncr,  jobMaxSize)
     
-  if jobCurrentSize == 1490:
-    print('*')
+  if jobCurrentSize == jobMaxSize - 10:
+    logger.msg('*')
 
   #This is a good time to do work while waiting for the child procs to finish
   #Print out the best score every so often
@@ -664,10 +667,17 @@ while True:
     logger.msg ('Best Score %4d' % (lowestScore))
     printCnt += 1
 
+  if lowestScore < prevBestScore:
+     prevBestScore         = lowestScore
+     scoreLastImprovedTime = time.time()
+
   #Stage 1 Flush
-  if stageNum == 1 and time.time() - flushCycleStart > config['STAGE_1_MINUTES_PER_FLUSH'] * 60:
+  # After 5 minutes of no improvement, do a flush
+  if stageNum == 1 and time.time() - scoreLastImprovedTime > 5 * 60:
     logger.msg ('Flushing list')
     logger.msg ('Main GC Obj %d' % len(gc.get_objects()))
+
+    prevBestScore = 999999999999
     for idx,z in enumerate(rdm):          #Add the top score to the topScores list
       if z['score'] == lowestScore:
         logger.msg ('Adding %d to top scores' % z['score'])
