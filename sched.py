@@ -1,4 +1,4 @@
-import os, sys
+import os
 import copy
 import datetime
 import distManager
@@ -10,6 +10,8 @@ import random
 import time
 import schedIO
 import schedFitness
+import signal
+import sys
 from queue import Empty
 import gc
 
@@ -573,6 +575,11 @@ for x in range(cpuCount):
                               name   = 'SchedWorker%d' % x)
   p.start()
   processes.append(p)
+
+def signal_handler(signal, frame):
+        print('You pressed Ctrl+C!')
+        sys.exit(0)
+signal.signal(signal.SIGINT, signal_handler)
 
 #############################################################################
 ## PHASE 1 Fill the list with random schedules
