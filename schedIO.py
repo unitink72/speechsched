@@ -4,23 +4,11 @@ import os
 import pickle
 import random
 import string
+from categories import Categories
 from operator import itemgetter
 
-catLongList = ['One Act Play','Reader\'s Theatre','Choral Reading','TV News',  \
-               'Radio Broadcasting','Short Film','Musical Theatre',            \
-               'Group Improv','Ensemble Acting','Group Mime','Solo Mime']
-
-catList = ["OneActPlay","ReadersTheatre", "ChoralReading", "TVNewscasting", \
-           "RadioBroadcasting", "ShortFilm", "MusicalTheatre",              \
-           "GroupImprovisation", "EnsembleActing", "GroupMime", "SoloMime"]
-  
-catShortList = ['OA','RT','CR','TV', 'RB','SF','MT','GI', 'EA', 'GM', 'SM']
-
-catToShortMap     = dict(zip(catList,catShortList))
-shortToCatMap     = dict(zip(catShortList, catList))
-shortToLongCatMap = dict(zip(catShortList, catLongList))
-
 ioLog = None
+cats  = None
 
 #Globals used for creating school codes
 rnd       = random.SystemRandom()
@@ -28,7 +16,9 @@ usedCodes = []
 
 def setLogger(logger):
   global ioLog
+  global cats
   ioLog = logger
+  cats = Categories('group')
 ###############################################################################
 
 def addTime(time1, time2):
@@ -76,8 +66,8 @@ def readSessionsFile(fileName):
   skipLinePattern    = re.compile("(^$)|(^##)")
   multEntryPattern   = re.compile("(^\d{3,4})\s?\*\s?(\d+)")
 
-  catBreakCounts = dict(zip(catShortList,[0] * len(catShortList)))
-  catEntryCounts = dict(zip(catShortList,[0] * len(catShortList)))
+  catBreakCounts = cats.countDict()
+  catEntryCounts = cats.countDict()
 
   while 1:
     line = sessionsFile.readline()
@@ -97,7 +87,7 @@ def readSessionsFile(fileName):
       curCategoryAbrv = p2.group(2).strip()
       curDuration     = int(p2.group(3))
 
-      if not curCategoryAbrv in catShortList:
+      if not curCategoryAbrv in cats.shortList():
       # Validate the catShort.  Long cat name unused, it could be removed from sessions file
         sys.exit ('Sessions file unknown category %s', curCategoryAbrv)
 
@@ -352,35 +342,22 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
   reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
 
   #List of fields to retrieve for each entry. Max 3 of any type
-#  fields = {                                                                    \
-#    'OneActPlay'        : ['OneActName'],                                       \
-#    'ReadersTheatre'    : ['ReadersName'],                                      \
-#    'ChoralReading'     : ['ChoralName'],                                       \
-#    'TVNewscasting'     : ['TVNewscastingCallLetters','TVNewscastingCallLetters2'],  \
-#    'RadioBroadcasting' : ['RadioBroadcastingName1','RadioBroadcastingName2'],  \
-#    'ShortFilm'         : ['ShortFilmName1', 'ShortFilmName2'],                 \
-#    'MusicalTheatre'    : ['MusicalName1','MusicalName2','MusicalName3'],       \
-#    'GroupImprovisation': ['GroupName1','GroupName2','GroupName3'],             \
-#    'EnsembleActing'    : ['EnsembleName1','EnsembleName2','EnsembleName3'],    \
-#    'GroupMime'         : ['GroupMimeName1','GroupMimeName2','GroupMimeName3'], \
-#    'SoloMime'          : ['SoloMimeName1','SoloMimeName2','SoloMimeName3']     \
-#  }
-  csvFields =                                                 \
-  [                                                           \
-    ['OneActName'],                                           \
-    ['ReadersName'],                                          \
-    ['ChoralName'],                                           \
-    ['TVNewscastingCallLetters','TVNewscastingCallLetters2'], \
-    ['RadioBroadcastingName1','RadioBroadcastingName2'],      \
-    ['ShortFilmName1', 'ShortFilmName2'],                     \
-    ['MusicalName1','MusicalName2','MusicalName3'],           \
-    ['GroupName1','GroupName2','GroupName3'],                 \
-    ['EnsembleName1','EnsembleName2','EnsembleName3'],        \
-    ['GroupMimeName1','GroupMimeName2','GroupMimeName3'],     \
-    ['SoloMimeName1','SoloMimeName2','SoloMimeName3']         \
-  ]
+#  csvFields =                                                 \
+#  [                                                           \
+#    ['OneActName'],                                           \
+#    ['ReadersName'],                                          \
+#    ['ChoralName'],                                           \
+#    ['TVNewscastingCallLetters','TVNewscastingCallLetters2'], \
+#    ['RadioBroadcastingName1','RadioBroadcastingName2'],      \
+#    ['ShortFilmName1', 'ShortFilmName2'],                     \
+#    ['MusicalName1','MusicalName2','MusicalName3'],           \
+#    ['GroupName1','GroupName2','GroupName3'],                 \
+#    ['EnsembleName1','EnsembleName2','EnsembleName3'],        \
+#    ['GroupMimeName1','GroupMimeName2','GroupMimeName3'],     \
+#    ['SoloMimeName1','SoloMimeName2','SoloMimeName3']         \
+#  ]
 
-  fields = dict(zip(catList,csvFields))
+  fields = cats.schoolRegMap()
 
   for row in reader:
     schoolNameCsv = row['SchoolName'].rstrip()
@@ -427,7 +404,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
     #Writing a number over the yes/no values seems to wipe out the whole
     # row object.  So keep a seperate copy to act on here
     catCount = {}
-    for performanceCat in catList:   #fields.keys():
+    for performanceCat in cats.longList():   #fields.keys():
       if row[performanceCat].isdigit():
         countFromCsv = row[performanceCat]
       else:
@@ -441,7 +418,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
         #print('    ' + csvColName) ;
         newE = {'schoolId'      : schoolIdCsv,                     \
                 'regId'         : regIdCsv,                        \
-                'catShort'      : catToShortMap[perfCat],          \
+                'catShort'      : cats.longToShort(perfCat),       \
                 #'category'      : perfCat,                        \
                 'catSchoolIdx'  : entryNum+1,                      \
                 'index'         : entryIndex,                      \
@@ -469,60 +446,34 @@ def readStudentWebCsv(entriesList, fileName):
  
   #Reverse lookup dict from the "Category" column of the student 
   # data to the entry category and index(1,2,3)
-#  csvFields =                                                 \
-#  {                                                           \
-#    'oneact'               : ("OneActPlay",1),                \
-#    'readerstheatre'       : ("ReadersTheatre",1),            \
-#    'choral reading'       : ("ChoralReading",1),             \
-#    'tvnewscasting1'       : ("TVNewscasting",1),             \
-#    'tvnewscasting2'       : ("TVNewscasting",2),             \
-#    'radiobroadcasting1'   : ("RadioBroadcasting",1),         \
-#    'radiobroadcasting2'   : ("RadioBroadcasting",2),         \
-#    'shortfilm1'           : ("ShortFilm",1),                 \
-#    'shortfilm2'           : ("ShortFilm",2),                 \
-#    'musicaltheatre1'      : ("MusicalTheatre",1),            \
-#    'musicaltheatre2'      : ("MusicalTheatre",2),            \
-#    'musicaltheatre3'      : ("MusicalTheatre",3),            \
-#    'group1'               : ("GroupImprovisation",1),        \
-#    'group2'               : ("GroupImprovisation",2),        \
-#    'group3'               : ("GroupImprovisation",3),        \
-#    'ensemble1'            : ("EnsembleActing",1),            \
-#    'ensemble2'            : ("EnsembleActing",2),            \
-#    'ensemble3'            : ("EnsembleActing",3),            \
-#    'groupmime1'           : ("GroupMime",1),                 \
-#    'groupmime2'           : ("GroupMime",2),                 \
-#    'groupmime3'           : ("GroupMime",3),                 \
-#    'solomime1'            : ("SoloMime",1),                  \
-#    'solomime2'            : ("SoloMime",2),                  \
-#    'solomime3'            : ("SoloMime",3),                  \
+#  csvFields =                                     \
+#  {                                               \
+#    'oneact'               : ("OA",1),            \
+#    'readerstheatre'       : ("RT",1),            \
+#    'choral reading'       : ("CR",1),            \
+#    'tvnewscasting1'       : ("TV",1),            \
+#    'tvnewscasting2'       : ("TV",2),            \
+#    'radiobroadcasting1'   : ("RB",1),            \
+#    'radiobroadcasting2'   : ("RB",2),            \
+#    'shortfilm1'           : ("SF",1),            \
+#    'shortfilm2'           : ("SF",2),            \
+#    'musicaltheatre1'      : ("MT",1),            \
+#    'musicaltheatre2'      : ("MT",2),            \
+#    'musicaltheatre3'      : ("MT",3),            \
+#    'group1'               : ("GI",1),            \
+#    'group2'               : ("GI",2),            \
+#    'group3'               : ("GI",3),            \
+#    'ensemble1'            : ("EA",1),            \
+#    'ensemble2'            : ("EA",2),            \
+#    'ensemble3'            : ("EA",3),            \
+#    'groupmime1'           : ("GM",1),            \
+#    'groupmime2'           : ("GM",2),            \
+#    'groupmime3'           : ("GM",3),            \
+#    'solomime1'            : ("SM",1),            \
+#    'solomime2'            : ("SM",2),            \
+#    'solomime3'            : ("SM",3),            \
 #  }
-  csvFields =                                     \
-  {                                               \
-    'oneact'               : ("OA",1),            \
-    'readerstheatre'       : ("RT",1),            \
-    'choral reading'       : ("CR",1),            \
-    'tvnewscasting1'       : ("TV",1),            \
-    'tvnewscasting2'       : ("TV",2),            \
-    'radiobroadcasting1'   : ("RB",1),            \
-    'radiobroadcasting2'   : ("RB",2),            \
-    'shortfilm1'           : ("SF",1),            \
-    'shortfilm2'           : ("SF",2),            \
-    'musicaltheatre1'      : ("MT",1),            \
-    'musicaltheatre2'      : ("MT",2),            \
-    'musicaltheatre3'      : ("MT",3),            \
-    'group1'               : ("GI",1),            \
-    'group2'               : ("GI",2),            \
-    'group3'               : ("GI",3),            \
-    'ensemble1'            : ("EA",1),            \
-    'ensemble2'            : ("EA",2),            \
-    'ensemble3'            : ("EA",3),            \
-    'groupmime1'           : ("GM",1),            \
-    'groupmime2'           : ("GM",2),            \
-    'groupmime3'           : ("GM",3),            \
-    'solomime1'            : ("SM",1),            \
-    'solomime2'            : ("SM",2),            \
-    'solomime3'            : ("SM",3),            \
-  }
+  csvFields = cats.studentRegFields()
 
   for row in reader:
     if row['RegistrationID'] == '':
@@ -574,7 +525,7 @@ def readRestrSheet(entriesList, fileName):
 
   inFile = open (fileName, 'r', newline='')
   reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
-  catCounts = dict(zip(catShortList, [0]*len(catShortList)))
+  catCounts = cats.countDict()
   
   for row in reader:
     regIdCsv           = int(row['regId'])
