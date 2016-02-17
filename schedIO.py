@@ -228,7 +228,7 @@ def printSched(schedule, schoolInf, outFolder):
 
   f = open(os.path.join(outFolder, 'masterSched.csv'), 'w', newline='\r\n')
   #f.write ('Score %d\n' % schedule['score'])
-  f.write ('Category,Room/Center,Start,End,School,Code,Entry#,EntryTitle\n')
+  f.write ('Category,Room/Center,Start,End,School,Code,Entry#,EntryTitle,Students\n')
   for session in schedule['lst']:
     if session['isBreak'] == True:
       if 'entry' in session:
@@ -245,11 +245,20 @@ def printSched(schedule, schoolInf, outFolder):
     if 'entry' in session:
       #Quotes screw up csv
       sessionStr = '\"' + session['entry']['entryTitle'].replace('\"','').replace('\'','') + '\"'
-      f.write(',%s,%s,%d,%s\n' %                                        \
+      f.write(',%s,%s,%d,%s,\"' %                                      \
              (schoolInf[session['entry']['schoolId']]['name'],       \
               schoolInf[session['entry']['schoolId']]['code'],       \
               session['entry']['catSchoolIdx'],                      \
               sessionStr))
+
+      #Print student names
+      firstStudentName = True
+      for studentName in session['entry']['performers']:
+         if not firstStudentName:
+            f.write(',')
+         f.write('%s' % studentName)
+         firstStudentName = False
+      f.write('\"\n')
     else:
       f.write(',,\n')   #Time slot is blank
   f.close()
