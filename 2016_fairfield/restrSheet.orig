@@ -1,0 +1,685 @@
+regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,latestEnd,performers
+6239,897,WAPELLO,PA,1,female circumcision,X,,,maggie peterson
+6239,897,WAPELLO,PA,2,same sex marriage ruling,X,,,nathan meeker
+6239,897,WAPELLO,ACT,1,the big c,X,,,mckenzey winslow
+6239,897,WAPELLO,PO,1,on the pulse of the morning,X,,,chase thurston
+6239,897,WAPELLO,PO,2,anxiety,X,,,karla salgado
+6239,897,WAPELLO,PO,3,over and over,X,,,nathan meeker
+6239,897,WAPELLO,PR,1,the customer's always right,X,,,dru stephens
+6239,897,WAPELLO,PR,2,the girl with the hazel eyes,X,,,mckenzey winslow
+6239,897,WAPELLO,PR,3,engulfed,X,,,sydney stephens
+6239,897,WAPELLO,LP,1,even in times of trouble,X,,,candace moore
+6239,897,WAPELLO,LP,2,she/her,X,,,jennifer sanchez
+6239,897,WAPELLO,LP,3,we are just like you,X,,,rachael burns
+6239,897,WAPELLO,RN,1,,X,,,chase thurston
+6239,897,WAPELLO,EA,1,don't judge a book by it's cover,X,,,dru stephens
+6239,897,WAPELLO,EA,2,you,X,,,jorge saavedra
+6239,897,WAPELLO,EA,3,serve haiti,X,,,maggie peterson
+6239,897,WAPELLO,ST,1,i'll see you soon,X,,,ben reyes
+6239,897,WAPELLO,ST,2,violet,X,,,madyson vanluyn
+6239,897,WAPELLO,IMP,1,,X,,,jorge saavedra
+6248,595,FORT MADISON HOLY TRINITY,PA,1,freedom to use the mind,X,,,allison sporkman
+6248,595,FORT MADISON HOLY TRINITY,PA,2,"so, sue me",X,,,ben tinguely
+6248,595,FORT MADISON HOLY TRINITY,PA,3,do manners really matter?,X,,,yang-hee kim
+6248,595,FORT MADISON HOLY TRINITY,SMT,1,the wizard and me,X,,,wendy hannum
+6248,595,FORT MADISON HOLY TRINITY,ACT,1,mavis on the case,X,,,avery malinski
+6248,595,FORT MADISON HOLY TRINITY,ACT,2,"on being bright, seventeen, and unable to read",X,,,conrad hellman
+6248,595,FORT MADISON HOLY TRINITY,ACT,3,the avalon ballroom,X,,,rachel mehmert
+6248,595,FORT MADISON HOLY TRINITY,ACT,4,"i'll never stop loving you, tommy toledo",X,,,sabrina fullhart
+6248,595,FORT MADISON HOLY TRINITY,ACT,5,the blind date,X,,,sterling barnes
+6248,595,FORT MADISON HOLY TRINITY,PO,1,the prophet,X,,,avery malinski
+6248,595,FORT MADISON HOLY TRINITY,PO,2,cinderella,X,,,katie scoville
+6248,595,FORT MADISON HOLY TRINITY,PO,3,piece by piece,X,,,wendy hannum
+6248,595,FORT MADISON HOLY TRINITY,PR,1,the thief and his little daughter,X,,,alyssa hemann
+6248,595,FORT MADISON HOLY TRINITY,PR,2,checkouts,X,,,elizabeth barr
+6248,595,FORT MADISON HOLY TRINITY,PR,3,the crush,X,,,sabrina fullhart
+6248,595,FORT MADISON HOLY TRINITY,LP,1,two roads,X,,,allison sporkman
+6248,595,FORT MADISON HOLY TRINITY,LP,2,fading drums,X,,,jackalyn stinson
+6248,595,FORT MADISON HOLY TRINITY,LP,3,flora and fauna,X,,,lillian schierbrock
+6248,595,FORT MADISON HOLY TRINITY,OO,1,"thank you, eating disorder",X,,,elizabeth barr
+6248,595,FORT MADISON HOLY TRINITY,RN,1,,X,,,ben tinguely
+6248,595,FORT MADISON HOLY TRINITY,RN,2,,X,,,conrad hellman
+6248,595,FORT MADISON HOLY TRINITY,RN,3,,X,,,katie scoville
+6248,595,FORT MADISON HOLY TRINITY,EA,1,picture this,X,,,alyssa hemann
+6248,595,FORT MADISON HOLY TRINITY,ST,1,the flame thief,X,,,jackalyn stinson
+6248,595,FORT MADISON HOLY TRINITY,ST,2,the two brothers,X,,,kyle scheetz
+6248,595,FORT MADISON HOLY TRINITY,ST,3,the three medals,X,,,lillian schierbrock
+6258,915,WEST BURLINGTON ARNOLD,PA,1,darrell scott's comments to congress,X,,,meghan ryan
+6258,915,WEST BURLINGTON ARNOLD,SMT,1,there are worse things i could do,X,,,kristyn vedder
+6258,915,WEST BURLINGTON ARNOLD,SMT,2,black swan,X,,,rylie paduano
+6258,915,WEST BURLINGTON ARNOLD,ACT,1,fat kids on fire,X,,,lexis waddell
+6258,915,WEST BURLINGTON ARNOLD,PO,1,phenomenal woman,X,,,meghan ryan
+6258,915,WEST BURLINGTON ARNOLD,PO,2,anthem poet: a very long poem,X,,,rylie paduano
+6258,915,WEST BURLINGTON ARNOLD,PR,1,heeeeeeeeere's adventure dog!,X,,,jakob anderson
+6258,915,WEST BURLINGTON ARNOLD,PR,2,o.c.d.,X,,,lexis waddell
+6258,915,WEST BURLINGTON ARNOLD,LP,1,i have tetanus:  prose on anxiety,X,,,cammy salvador
+6258,915,WEST BURLINGTON ARNOLD,RN,1,,X,,,athena moad
+6258,915,WEST BURLINGTON ARNOLD,RN,2,,X,,,gradin schroeder
+6258,915,WEST BURLINGTON ARNOLD,ST,1,green eggs and ham,X,,,anna rheinschmidt
+6258,915,WEST BURLINGTON ARNOLD,ST,2,are you my mother,X,,,cammy salvador
+6258,915,WEST BURLINGTON ARNOLD,ST,3,the giving tree,X,,,cecilia crozier
+6258,915,WEST BURLINGTON ARNOLD,IMP,1,,X,,,athena moad
+6258,915,WEST BURLINGTON ARNOLD,IMP,2,,X,,,kristyn vedder
+6258,915,WEST BURLINGTON ARNOLD,IMP,3,,X,,,rylie paduano
+6260,659,KEOKUK,PA,1,olivia,X,,,austin derr
+6260,659,KEOKUK,PA,2,boedlng 1,X,,,caleb boeding
+6260,659,KEOKUK,SMT,1,seitz 1,X,,,joley seitz
+6260,659,KEOKUK,SMT,2,skender 1,X,,,kelsey skender
+6260,659,KEOKUK,SMT,3,reynolds 1,X,,,kiersten reynolds
+6260,659,KEOKUK,ACT,1,simmons 1,X,,,james simmons
+6260,659,KEOKUK,PO,1,god said,X,,,gabbi billings
+6260,659,KEOKUK,PO,2,snyder 1,X,,,helena snyder
+6260,659,KEOKUK,PO,3,somewhere in america,X,,,joley seitz
+6260,659,KEOKUK,PR,1,boeding 1,X,,,caleb boeding
+6260,659,KEOKUK,PR,2,simmons 1,X,,,james simmons
+6260,659,KEOKUK,PR,3,brunstein 1,X,,,rachel brunstein
+6260,659,KEOKUK,LP,1,berner 1,X,,,madeline berner
+6260,659,KEOKUK,LP,2,washburn 1,X,,,trenton washburn
+6260,659,KEOKUK,SS,1,,X,,,austin derr
+6260,659,KEOKUK,EA,1,reel dancers are treble makers,X,,,raechelle mckay
+6260,659,KEOKUK,ST,1,noneman 1,X,,,holly noneman
+6260,659,KEOKUK,ST,2,diaz 1,X,,,jonah diaz
+6272,537,DAVIS COUNTY,PA,1,why i want a wife,X,,,kayle stremler
+6272,537,DAVIS COUNTY,SMT,1,don't rain on my parade,X,,,emmy mote
+6272,537,DAVIS COUNTY,SMT,2,tell me on a sunday,X,,,julianna ball
+6272,537,DAVIS COUNTY,ACT,1,trapped in a monolgue,X,,,maddie mcclure
+6272,537,DAVIS COUNTY,ACT,2,judge me from brief interviews with hideous men,X,,,alyssa harrington
+6272,537,DAVIS COUNTY,PO,1,man vs. earth,X,,,alyssa harrington
+6272,537,DAVIS COUNTY,PO,2,to the guy in the back of the room complaining about listening to another rape poem,X,,,cailyn sales
+6272,537,DAVIS COUNTY,PO,3,explaining my depression to my mother,X,,,julianna ball
+6272,537,DAVIS COUNTY,PR,1,people you may know,X,,,cailtin paddock
+6272,537,DAVIS COUNTY,LP,1,sea glass green/a ghost story ,X,,,kayle stremler
+6272,537,DAVIS COUNTY,OO,1,doomsday?,X,,,paige stevens
+6272,537,DAVIS COUNTY,RN,1,,X,,,cailyn sales
+6272,537,DAVIS COUNTY,RN,2,,X,,,sara lawson
+6272,537,DAVIS COUNTY,ST,1,"mr. brown can moo, can you?",X,,,laura westercamp
+6272,537,DAVIS COUNTY,AD,1,knowledge is still power,X,,,rylie johnson
+6272,537,DAVIS COUNTY,AD,2,it's a hard sock life,X,,,sara lawson
+6279,725,MORAVIA,LP,1,bullying,X,,,hayley cole
+6279,725,MORAVIA,LP,2,"surviving the wilderness: hatchet, unconquered and unconquerable, and stranded",X,,,kethryn eyheralde
+6279,725,MORAVIA,OO,1,the 14th amendment,X,,,jordan howe
+6279,725,MORAVIA,OO,2,the 2nd amendment,X,,,logan perry
+6279,725,MORAVIA,SS,1,,X,,,colton naill
+6279,725,MORAVIA,SS,2,,X,,,jared howe
+6279,725,MORAVIA,SS,3,,X,,,logan perry
+6279,725,MORAVIA,RN,1,,X,,,colton naill
+6279,725,MORAVIA,RN,2,,X,,,kethryn eyheralde
+6279,725,MORAVIA,ST,1,mystery in bugtown,X,,,emma mcdanel
+6286,995,MORAVIA 9TH,SMT,1,"sit down, you're rocking the boat",X,,,carson underwood
+6286,995,MORAVIA 9TH,SMT,2,bless the lord,X,,,cayleigh whitlow
+6286,995,MORAVIA 9TH,PO,1,the tale of custard the dragon,X,,,madelein robinson
+6297,716,MID-PRAIRIE,PA,1,the right to vote,X,,,olivia quinby
+6297,716,MID-PRAIRIE,SMT,1,on my own,X,,,maizy fugate
+6297,716,MID-PRAIRIE,SMT,2,i hate men,X,,,taylor hillbrand
+6297,716,MID-PRAIRIE,ACT,1,trapped in a monologue,X,,,hannah vanroekel
+6297,716,MID-PRAIRIE,ACT,2,cold blooded murderer,X,,,abby pickard
+6297,716,MID-PRAIRIE,ACT,3,yellow wallpaper,X,,,aleigha gugel
+6297,716,MID-PRAIRIE,PO,1,to paint your pedals,X,,,elijah meader
+6297,716,MID-PRAIRIE,PO,2,prayer for the rhino,X,,,eli vanroekel
+6297,716,MID-PRAIRIE,PO,3,somewhere in america,X,,,abby pickard
+6297,716,MID-PRAIRIE,PR,1,talk like a pirate day,X,,,aleigha gugel
+6297,716,MID-PRAIRIE,PR,2,somewhere in america | one day in the rain,X,,,michael meserole
+6297,716,MID-PRAIRIE,PR,3,tba,X,,,gina waters
+6297,716,MID-PRAIRIE,LP,1,tba,X,,,ciana carr
+6297,716,MID-PRAIRIE,SS,1,,X,,,isaiah sents
+6297,716,MID-PRAIRIE,RN,1,,X,,,josh allen
+6297,716,MID-PRAIRIE,RN,2,,X,,,isaac yoder
+6297,716,MID-PRAIRIE,ST,1,froggy gets dressed,X,,,eli vanroekel
+6297,716,MID-PRAIRIE,ST,2,the true story of the three little pigs,X,,,hannah vanroekel
+6297,716,MID-PRAIRIE,ST,3,are you my mother,X,,,michael meserole
+6297,716,MID-PRAIRIE,AD,1,tba,X,,,isaiah sents
+6297,716,MID-PRAIRIE,AD,2,dairy goat troop 501,X,,,rhett leonard
+6297,716,MID-PRAIRIE,IMP,1,,X,,,rhet leonard
+6297,716,MID-PRAIRIE,IMP,2,,X,,,nolan bertelli
+6297,716,MID-PRAIRIE,REV,1,kingdom of heaven,X,,,elijah meader
+6297,716,MID-PRAIRIE,REV,2,tba,X,,,isaac yoder
+6301,533,DANVILLE,PA,1,everybody's free...,X,,,clare palmatier
+6301,533,DANVILLE,PA,2,guess where i am?!,X,,,colin dowd
+6301,533,DANVILLE,PA,3,is your jar full?,X,,,seth braddock
+6301,533,DANVILLE,SMT,1,is there life after high school,X,,,colton ketcham
+6301,533,DANVILLE,SMT,2,bye bye birdie,X,,,emma snavely
+6301,533,DANVILLE,SMT,3,legally blonde,X,,,landry carr
+6301,533,DANVILLE,ACT,1,"dupont, mississippi",X,,,alex dameron
+6301,533,DANVILLE,ACT,2,radio t.b.s.,X,,,evelyn williams
+6301,533,DANVILLE,ACT,3,a girl's guide to chaos,X,,,sydney johnson
+6301,533,DANVILLE,PO,1,original,X,,,alexis oetken
+6301,533,DANVILLE,PO,2,marriage ,X,,,john perdelwitz
+6301,533,DANVILLE,PO,3,marriage,X,,,nanda dolman
+6301,533,DANVILLE,PR,1,book of bad songs,X,,,colton ketcham
+6301,533,DANVILLE,PR,2,so you want to be a teacher,X,,,courtney stucker
+6301,533,DANVILLE,PR,3,squids will be squids,X,,,sam cady
+6301,533,DANVILLE,LP,1,teacher!,X,,,bailey beckman
+6301,533,DANVILLE,LP,2,the discovery of america,X,,,bryan dobson
+6301,533,DANVILLE,LP,3,johnny can't read!,X,,,evelyn williams
+6301,533,DANVILLE,OO,1,,X,,,alexis oetken
+6301,533,DANVILLE,RN,1,,X,,,colin dowd
+6301,533,DANVILLE,RN,2,,X,,,kali  schelby
+6301,533,DANVILLE,RN,3,,X,,,seth braddock
+6301,533,DANVILLE,EA,1,,X,,,brittany pfadenhauer
+6301,533,DANVILLE,EA,2,,X,,,nanda dolman
+6301,533,DANVILLE,ST,1,the paper bag princess,X,,,allison moore
+6301,533,DANVILLE,ST,2,sausage on my nose,X,,,kody jackson
+6301,533,DANVILLE,ST,3,moo hoo,X,,,landry carr
+6301,533,DANVILLE,AD,1,,X,,,courtney stucker
+6301,533,DANVILLE,AD,2,,X,,,emma snavely
+6301,533,DANVILLE,AD,3,,X,,,rylee molter
+6301,533,DANVILLE,IMP,1,,X,,,brody sedam
+6301,533,DANVILLE,IMP,2,,X,,,emily grace
+6301,533,DANVILLE,IMP,3,,X,,,gunnar hoffman
+6301,533,DANVILLE,REV,1,,X,,,hannah hare
+6328,711,MEDIAPOLIS,SMT,1,tba,X,,,griffin dean
+6328,711,MEDIAPOLIS,SMT,2,tba,X,,,sara petersen
+6328,711,MEDIAPOLIS,ACT,1,tba,X,,,kirsten erickson
+6328,711,MEDIAPOLIS,PO,1,tba,X,,,dawson ray
+6328,711,MEDIAPOLIS,PO,2,tba,X,,,griffin dean
+6328,711,MEDIAPOLIS,PR,1,tba,X,,,drake huffman
+6328,711,MEDIAPOLIS,PR,2,tba,X,,,wade marshall
+6328,711,MEDIAPOLIS,LP,1,tba,X,,,hailee dill
+6328,711,MEDIAPOLIS,SS,1,,X,,,devin may
+6328,711,MEDIAPOLIS,SS,2,,X,,,katelyn orr
+6328,711,MEDIAPOLIS,SS,3,,X,,,reese thornburg
+6328,711,MEDIAPOLIS,RN,1,,X,,,maddy fisher
+6328,711,MEDIAPOLIS,RN,2,,X,,,reese thornburg
+6328,711,MEDIAPOLIS,RN,3,,X,,,sara petersen
+6328,711,MEDIAPOLIS,EA,1,tba,X,,,hailee dill
+6328,711,MEDIAPOLIS,ST,1,tba,X,,,dawson ray
+6328,711,MEDIAPOLIS,ST,2,tba,X,,,tyler johnson
+6328,711,MEDIAPOLIS,ST,3,tba,X,,,wade marshall
+6328,711,MEDIAPOLIS,AD,1,tba,X,,,katelyn orr
+6328,711,MEDIAPOLIS,AD,2,tba,X,,,kirsten erickson
+6328,711,MEDIAPOLIS,AD,3,tba,X,,,tyler johnson
+6328,711,MEDIAPOLIS,IMP,1,,X,,,abigail lippert
+6328,711,MEDIAPOLIS,IMP,2,,X,,,drake huffman
+6328,711,MEDIAPOLIS,REV,1,tba,X,,,abigail lippert
+6328,711,MEDIAPOLIS,REV,2,tba,X,,,devin may
+6329,712,MEDIAPOLIS 9TH,ACT,1,tba,X,,,grace gerling
+6329,712,MEDIAPOLIS 9TH,PO,1,tba,X,,,bailey thie
+6329,712,MEDIAPOLIS 9TH,PO,2,tba,X,,,brittney fraise
+6329,712,MEDIAPOLIS 9TH,PO,3,tba,X,,,sarah robben
+6329,712,MEDIAPOLIS 9TH,PR,1,tba,X,,,dayonna ryan
+6329,712,MEDIAPOLIS 9TH,LP,1,tba,X,,,allison renfro
+6329,712,MEDIAPOLIS 9TH,LP,2,tba,X,,,erik beckman
+6329,712,MEDIAPOLIS 9TH,SS,1,,X,,,grace gerling
+6329,712,MEDIAPOLIS 9TH,RN,1,,X,,,bailey thie
+6329,712,MEDIAPOLIS 9TH,RN,2,,X,,,brad vance
+6329,712,MEDIAPOLIS 9TH,RN,3,,X,,,sarah robben
+6329,712,MEDIAPOLIS 9TH,ST,1,tba,X,,,ellerie vanness
+6329,712,MEDIAPOLIS 9TH,ST,2,tba,X,,,erik beckman
+6329,712,MEDIAPOLIS 9TH,ST,3,tba,X,,,kelli cross
+6329,712,MEDIAPOLIS 9TH,AD,1,tba,X,,,allison renfro
+6329,712,MEDIAPOLIS 9TH,AD,2,tba,X,,,brittney fraise
+6329,712,MEDIAPOLIS 9TH,AD,3,tba,X,,,kelli cross
+6329,712,MEDIAPOLIS 9TH,IMP,1,,X,,,brad vance
+6329,712,MEDIAPOLIS 9TH,IMP,2,,X,,,dayonna ryan
+6352,779,PEKIN COMMUNITY,SMT,1,quiet,X,,,avery phillips
+6352,779,PEKIN COMMUNITY,SMT,2,sunset boulevard,X,,,michael hadley
+6352,779,PEKIN COMMUNITY,SMT,3,on my own,X,,,whitney phillips
+6352,779,PEKIN COMMUNITY,ACT,1,a midsummer night's dream,X,,,athena hedman
+6352,779,PEKIN COMMUNITY,ACT,2,the game's afoot,X,,,clayton culp
+6352,779,PEKIN COMMUNITY,PO,1,seperation,X,,,drew powers
+6352,779,PEKIN COMMUNITY,PO,2,childhood memories,X,,,gabi rutherford
+6352,779,PEKIN COMMUNITY,PO,3,"my body, my home",X,,,jade harper
+6352,779,PEKIN COMMUNITY,LP,1,twist and trolls: a study in cyberbullying ,X,,,audra weber
+6352,779,PEKIN COMMUNITY,LP,2,a reason to live,X,,,drew powers
+6352,779,PEKIN COMMUNITY,LP,3,caged views of freedom,X,,,gabi rutherford
+6352,779,PEKIN COMMUNITY,OO,1,climate change: presenting the facts,X,,,seth bethune
+6352,779,PEKIN COMMUNITY,SS,1,,X,,,hazel ward
+6352,779,PEKIN COMMUNITY,EA,1,the oratory is real,X,,,kodi dailey
+6352,779,PEKIN COMMUNITY,ST,1,stephanie's ponytail,X,,,devin dailey
+6352,779,PEKIN COMMUNITY,AD,1,mr. body memorial benefit dinner,X,,,devin dailey
+6352,779,PEKIN COMMUNITY,IMP,1,,X,,,clayton culp
+6352,779,PEKIN COMMUNITY,IMP,2,,X,,,logan kates
+6352,779,PEKIN COMMUNITY,IMP,3,,X,,,seth bethune
+6359,1039,CLEAR CREEK-AMANA 9TH,SMT,1,i know things now,X,,,avery anderson
+6359,1039,CLEAR CREEK-AMANA 9TH,SMT,2,shrek,X,,,macayle devore
+6359,1039,CLEAR CREEK-AMANA 9TH,ACT,1,"accents, inc.",X,,,brianne bevans
+6359,1039,CLEAR CREEK-AMANA 9TH,PO,1,krystin,X,,,kyrstin gist
+6359,1039,CLEAR CREEK-AMANA 9TH,LP,1,full of feeling,X,,,brianne bevans
+6359,1039,CLEAR CREEK-AMANA 9TH,ST,1,cinderella - the untold story,X,,,avery anderson
+6359,1039,CLEAR CREEK-AMANA 9TH,ST,2,but no elephants,X,,,krystin gist
+6359,1039,CLEAR CREEK-AMANA 9TH,ST,3,freckle face strawberry,X,,,macyale devore
+6359,1039,CLEAR CREEK-AMANA 9TH,AD,1,speaking out,X,,,hal heath
+6362,512,CLEAR CREEK AMANA,PA,1,defending the declaration,X,,,jake tener
+6362,512,CLEAR CREEK AMANA,PA,2,mindless menace of violence,X,,,thomas buffard
+6362,512,CLEAR CREEK AMANA,SMT,1,100 ways to lose a man,X,,,alison devore
+6362,512,CLEAR CREEK AMANA,SMT,2,who i'd be,X,,,ethan schutterle
+6362,512,CLEAR CREEK AMANA,SMT,3,sit down you're rocking the boat,X,,,fisher williams
+6362,512,CLEAR CREEK AMANA,ACT,1,my trip to the state pen,X,,,emma davis
+6362,512,CLEAR CREEK AMANA,ACT,2,tomorrow's wish,X,,,jordan pierce
+6362,512,CLEAR CREEK AMANA,PO,1,something odd going on,X,,,joel burzacott
+6362,512,CLEAR CREEK AMANA,PO,2,collection,X,,,reagan heath
+6362,512,CLEAR CREEK AMANA,PO,3,how to be a better you,X,,,skyler bunting
+6362,512,CLEAR CREEK AMANA,PR,1,through the looking glass,X,,,ethan schutterle
+6362,512,CLEAR CREEK AMANA,PR,2,secret garden,X,,,skyler bunting
+6362,512,CLEAR CREEK AMANA,LP,1,a shield against the night,X,,,xander bellus
+6362,512,CLEAR CREEK AMANA,OO,1,euthanasia,X,,,joel burzacott
+6362,512,CLEAR CREEK AMANA,SS,1,,X,,,joseph vanzante
+6362,512,CLEAR CREEK AMANA,SS,2,,X,,,luke oehlerich
+6362,512,CLEAR CREEK AMANA,SS,3,,X,,,malachi rocca
+6362,512,CLEAR CREEK AMANA,RN,1,,X,,,dalton mckinney
+6362,512,CLEAR CREEK AMANA,RN,2,,X,,,jake tener
+6362,512,CLEAR CREEK AMANA,RN,3,,X,,,malachi rocca
+6362,512,CLEAR CREEK AMANA,EA,1,becoming a youtube sensation,X,,,thomas buffard
+6362,512,CLEAR CREEK AMANA,ST,1,politically correct telling of rumplestiltskin,X,,,alison devore
+6362,512,CLEAR CREEK AMANA,AD,1,cash,X,,,emma davis
+6362,512,CLEAR CREEK AMANA,AD,2,after,X,,,sidney ballard
+6362,512,CLEAR CREEK AMANA,IMP,1,,X,,,ben oxley
+6362,512,CLEAR CREEK AMANA,IMP,2,,X,,,derek toy
+6362,512,CLEAR CREEK AMANA,IMP,3,,X,,,jordan pierce
+6362,512,CLEAR CREEK AMANA,REV,1,book,X,,,reagan heath
+6362,512,CLEAR CREEK AMANA,REV,2,flags over america,X,,,xander bellus
+6371,830,SIGOURNEY,OO,1,women in rodeo,X,,,mateer strong
+6372,661,KEOTA,ACT,1,disgruntled fairy tale characters,X,,,bianca cardona
+6372,661,KEOTA,ACT,2,ferret envy ,X,,,caroline reeves
+6372,661,KEOTA,PO,1,original piece,X,,,anna ackerman-axume
+6372,661,KEOTA,PO,2,love and life,X,,,june daing
+6372,661,KEOTA,ST,1,the other side,X,,,elise swanstrom
+6372,661,KEOTA,ST,2,the day the crayons quit,X,,,grace shemanski
+6376,989,OSKALOOSA,SMT,1,i have confidence,X,,,haley bunnell
+6376,989,OSKALOOSA,SMT,2,burn,X,,,hali barrett
+6376,989,OSKALOOSA,SMT,3,you'll be back,X,,,noah hynick
+6376,989,OSKALOOSA,ACT,1,two rooms,X,,,maycie stanbro
+6376,989,OSKALOOSA,ACT,2,maddy's dad,X,,,noah hynic
+6376,989,OSKALOOSA,PO,1,i am not that girl/what if i knew i was beautiful,X,,,maddy braden
+6376,989,OSKALOOSA,PR,1,feminism,X,,,haley bunnell
+6376,989,OSKALOOSA,PR,2,politically correct red riding hood,X,,,hali barrett
+6376,989,OSKALOOSA,PR,3,to this day,X,,,maycie stanbro
+6376,989,OSKALOOSA,LP,1,saying goodbye,X,,,jon smith
+6376,989,OSKALOOSA,LP,2,overcoming fear in gymnastics,X,,,madi holle
+6376,989,OSKALOOSA,SS,1,,X,,,makennah little
+6376,989,OSKALOOSA,RN,1,,X,,,john hirl
+6376,989,OSKALOOSA,RN,2,,X,,,makennah little
+6376,989,OSKALOOSA,ST,1,tbd,X,,,taylor steel
+6376,989,OSKALOOSA,AD,1,brendan yuri,X,,,jon smith
+6376,989,OSKALOOSA,IMP,1,,X,,,john hirl
+6376,989,OSKALOOSA,IMP,2,,X,,,taylor steel
+6377,878,TWIN CEDARS,ACT,1,bein' crazy,X,,,jobe fee
+6377,878,TWIN CEDARS,PO,1,television,X,,,ben clark
+6377,878,TWIN CEDARS,PO,2,the haunted palace,X,,,makayla carter
+6377,878,TWIN CEDARS,PO,3,alone/anna bel lee,X,,,penny devoll
+6377,878,TWIN CEDARS,LP,1,looking for alaska/untitled,X,,,kelli spaur
+6377,878,TWIN CEDARS,SS,1,,X,,,christian goemaat
+6377,878,TWIN CEDARS,RN,1,,X,,,makayla carter
+6377,878,TWIN CEDARS,RN,2,,X,,,cam lambirth
+6377,878,TWIN CEDARS,RN,3,,X,,,tanner desplanque
+6377,878,TWIN CEDARS,ST,1,,X,,,cam lambirth
+6377,878,TWIN CEDARS,ST,2,,X,,,sarah tuttle
+6377,878,TWIN CEDARS,IMP,1,,X,,,jobe fee
+6377,878,TWIN CEDARS,IMP,2,,X,,,penny devoll
+6390,415,ALBIA,PA,1,speech on gender equality,X,,,aleesia beary
+6390,415,ALBIA,PA,2,exchange,X,,,faykha ala
+6390,415,ALBIA,SMT,1,morning person,X,,,katrina sample
+6390,415,ALBIA,SMT,2,my fair lady,X,,,mya alonso 
+6390,415,ALBIA,SMT,3,a part of that-the last 5 years,X,,,victoria kent
+6390,415,ALBIA,ACT,1,college applicant from mars,X,,,kristen carlson
+6390,415,ALBIA,ACT,2,acceptance,X,,,olivia andrews
+6390,415,ALBIA,ACT,3,campaign promises,X,,,theresa pasut
+6390,415,ALBIA,PO,1,anxiety,X,,,olivia andrews
+6390,415,ALBIA,PO,2,sophomore,X,,,shelby mossman
+6390,415,ALBIA,PO,3,energy,X,,,victoria kent
+6390,415,ALBIA,PR,1,mime,X,,,allyson haselhuhn
+6390,415,ALBIA,PR,2,cemetery  vandals,X,,,katrina sample
+6390,415,ALBIA,PR,3,basketball,X,,,shannon mcclain
+6390,415,ALBIA,LP,1,foodie,X,,,rachael burk
+6390,415,ALBIA,OO,1,horror movies teach valuable lessons,X,,,joseph birchmier
+6390,415,ALBIA,OO,2,animal,X,,,nathan maughan
+6390,415,ALBIA,OO,3,magic 8 ball,X,,,ravyn sanford
+6390,415,ALBIA,RN,1,,X,,,elza goodlow
+6390,415,ALBIA,EA,1,casey,X,,,allyson hasehuln
+6390,415,ALBIA,ST,1,the coyote that ate the fly,X,,,aleesia beary
+6390,415,ALBIA,ST,2,when a monster calls,X,,,joseph birchmier
+6390,415,ALBIA,ST,3,shelton,X,,,shelby mossman
+6390,415,ALBIA,AD,1,moon,X,,,nathan maughan
+6390,415,ALBIA,IMP,1,,X,,,elza goodlow
+6390,415,ALBIA,IMP,2,,X,,,kristen carlson
+6390,415,ALBIA,IMP,3,,X,,,rachael burk
+6390,415,ALBIA,REV,1,beauty and the beast,X,,,shannon mcclain
+6420,461,BURLINGTON NOTRE DAME,PA,1,tillo speech,X,,,anna tillo
+6420,461,BURLINGTON NOTRE DAME,PA,2,commencement speech ,X,,,claire hackenmiller
+6420,461,BURLINGTON NOTRE DAME,PA,3,gender equality,X,,,hannah delaney
+6420,461,BURLINGTON NOTRE DAME,SMT,1,the text message song,X,,,maggie brueck
+6420,461,BURLINGTON NOTRE DAME,SMT,2,the alto's lament,X,,,olivia krieger
+6420,461,BURLINGTON NOTRE DAME,SMT,3,the music of the night,X,,,zach rashid
+6420,461,BURLINGTON NOTRE DAME,ACT,1,cabin 12,X,,,bryce riniker
+6420,461,BURLINGTON NOTRE DAME,ACT,2,i hate hamlet,X,,,grant rheinschmidt
+6420,461,BURLINGTON NOTRE DAME,ACT,3,becker selection,X,,,lydia becker
+6420,461,BURLINGTON NOTRE DAME,PO,1,chasteen poems,X,,,gavin chasteen
+6420,461,BURLINGTON NOTRE DAME,PO,2,delaney poems,X,,,hannah delaney
+6420,461,BURLINGTON NOTRE DAME,PO,3,reinhardt poems,X,,,meagan reinhardt
+6420,461,BURLINGTON NOTRE DAME,PR,1,garbage scan,X,,,grant rheinschmidt
+6420,461,BURLINGTON NOTRE DAME,PR,2,roundy prose selection,X,,,mary rose roundy
+6420,461,BURLINGTON NOTRE DAME,PR,3,krieger prose selection,X,,,olivia krieger
+6420,461,BURLINGTON NOTRE DAME,LP,1,hackenmiller program,X,,,claire hackenmiller
+6420,461,BURLINGTON NOTRE DAME,LP,2,k. rheinschmidt program,X,,,kennedy rheinschmidt
+6420,461,BURLINGTON NOTRE DAME,LP,3,t. good program,X,,,thea good
+6420,461,BURLINGTON NOTRE DAME,OO,1,college,X,,,alexa rana
+6420,461,BURLINGTON NOTRE DAME,OO,2,bullying,X,,,mary rose roundy
+6420,461,BURLINGTON NOTRE DAME,OO,3,the best,X,,,zach rashid
+6420,461,BURLINGTON NOTRE DAME,SS,1,,X,,,alexa rana
+6420,461,BURLINGTON NOTRE DAME,RN,1,,X,,,bryce riniker
+6420,461,BURLINGTON NOTRE DAME,RN,2,,X,,,emma carper
+6420,461,BURLINGTON NOTRE DAME,RN,3,,X,,,niles siefken
+6420,461,BURLINGTON NOTRE DAME,EA,1,cows,X,,,ashley lohmann
+6420,461,BURLINGTON NOTRE DAME,EA,2,fender,X,,,holly siefken
+6420,461,BURLINGTON NOTRE DAME,EA,3,broadway,X,,,thea good
+6420,461,BURLINGTON NOTRE DAME,ST,1,"alexander and the terrible, horrible, no good, very bad day",X,,,gavin chasteen
+6420,461,BURLINGTON NOTRE DAME,ST,2,today i feel silly,X,,,maggie brueck
+6420,461,BURLINGTON NOTRE DAME,ST,3,there's something in my attic,X,,,meagan reinhardt
+6420,461,BURLINGTON NOTRE DAME,AD,1,,X,,,anna tillo
+6420,461,BURLINGTON NOTRE DAME,AD,2,,X,,,kennedy rheinschmidt
+6420,461,BURLINGTON NOTRE DAME,AD,3,,X,,,lydia becker
+6420,461,BURLINGTON NOTRE DAME,REV,1,west side story,X,,,carly huffman
+6420,461,BURLINGTON NOTRE DAME,REV,2,the luxe,X,,,emma carper
+6420,461,BURLINGTON NOTRE DAME,REV,3,hinojosa review,X,,,olivia hinojosa
+6427,573,EDDYVILLE-BLAKESBURG,PA,1,,X,,,morgan reddy
+6427,573,EDDYVILLE-BLAKESBURG,SMT,1,,X,,,jessie eveland
+6427,573,EDDYVILLE-BLAKESBURG,SMT,2,,X,,,mika farnum
+6427,573,EDDYVILLE-BLAKESBURG,SMT,3,,X,,,morgan reddy
+6427,573,EDDYVILLE-BLAKESBURG,ACT,1,,X,,,victoria vannoni
+6427,573,EDDYVILLE-BLAKESBURG,PO,1,,X,,,adlynn eveland
+6427,573,EDDYVILLE-BLAKESBURG,PO,2,,X,,,gracie delacruz
+6427,573,EDDYVILLE-BLAKESBURG,PO,3,,X,,,jessie eveland
+6427,573,EDDYVILLE-BLAKESBURG,PR,1,,X,,,adlynn eveland
+6427,573,EDDYVILLE-BLAKESBURG,PR,2,,X,,,allie adams
+6427,573,EDDYVILLE-BLAKESBURG,PR,3,,X,,,julia fairchild
+6427,573,EDDYVILLE-BLAKESBURG,LP,1,,X,,,mika farnum
+6427,573,EDDYVILLE-BLAKESBURG,LP,2,,X,,,morgan reddy
+6427,573,EDDYVILLE-BLAKESBURG,LP,3,,X,,,victoria vannoni
+6427,573,EDDYVILLE-BLAKESBURG,OO,1,,X,,,kelsey maize
+6427,573,EDDYVILLE-BLAKESBURG,OO,2,,X,,,maggie voyles
+6427,573,EDDYVILLE-BLAKESBURG,OO,3,,X,,,sawyer deevers
+6427,573,EDDYVILLE-BLAKESBURG,SS,1,,X,,,adam proctor
+6427,573,EDDYVILLE-BLAKESBURG,RN,1,,X,,,harrison mock
+6427,573,EDDYVILLE-BLAKESBURG,RN,2,,X,,,jeffrey koebke
+6427,573,EDDYVILLE-BLAKESBURG,RN,3,,X,,,nate siefker
+6427,573,EDDYVILLE-BLAKESBURG,EA,1,,X,,,adam proctor
+6427,573,EDDYVILLE-BLAKESBURG,EA,2,,X,,,kelsey maize
+6427,573,EDDYVILLE-BLAKESBURG,EA,3,,X,,,rickey garcia
+6427,573,EDDYVILLE-BLAKESBURG,ST,1,,X,,,allie adams
+6427,573,EDDYVILLE-BLAKESBURG,ST,2,,X,,,kendal durst
+6427,573,EDDYVILLE-BLAKESBURG,ST,3,,X,,,sawyer deevers
+6427,573,EDDYVILLE-BLAKESBURG,AD,1,,X,,,cyrus rogers
+6427,573,EDDYVILLE-BLAKESBURG,AD,2,,X,,,harrison mock
+6427,573,EDDYVILLE-BLAKESBURG,AD,3,,X,,,jeffery koebke
+6427,573,EDDYVILLE-BLAKESBURG,IMP,1,,X,,,cyrus rogers
+6427,573,EDDYVILLE-BLAKESBURG,IMP,2,,X,,,kendal durst
+6427,573,EDDYVILLE-BLAKESBURG,REV,1,,X,,,gracie delacruz
+6427,573,EDDYVILLE-BLAKESBURG,REV,2,,X,,,rickey garcia
+6427,573,EDDYVILLE-BLAKESBURG,REV,3,,X,,,nate siefker
+6431,1004,ALBIA 9TH,SMT,1,country,X,,,ash pickens
+6431,1004,ALBIA 9TH,SMT,2,don't let me go,X,,,cole folkerts
+6431,1004,ALBIA 9TH,ACT,1,drama,X,,,ash pickens
+6431,1004,ALBIA 9TH,ACT,2,college interview ,X,,,cole folkerts
+6431,1004,ALBIA 9TH,ACT,3,driving lesson,X,,,valerie beary
+6431,1004,ALBIA 9TH,RN,1,,X,,,bradley amante
+6431,1004,ALBIA 9TH,EA,1,nine ways to be a world class kayaker,X,,,edison goodlow
+6431,1004,ALBIA 9TH,AD,1,,X,,,andrew wright
+6431,1004,ALBIA 9TH,IMP,1,,X,,,andrew wright
+6431,1004,ALBIA 9TH,IMP,2,,X,,,bradley amante
+6431,1004,ALBIA 9TH,REV,1,the room,X,,,edison goodlow
+6484,594,FORT MADISON,SMT,1,when i marry mr. snow,X,,,kaela baker
+6484,594,FORT MADISON,SMT,2,don't rain on my parade,X,,,nakia ross
+6484,594,FORT MADISON,SMT,3,maybe this time,X,,,madelyn shaver
+6484,594,FORT MADISON,PO,1,how do you live your dash?; the long hill; overcoming obstacles; the road not taken,X,,,elizabeth miller
+6484,594,FORT MADISON,PO,2,the mighty eye; ourchestra; there's a cobra in the bathroom,X,,,nakia ross
+6484,594,FORT MADISON,PR,1,t'was a dark and dreary night,X,,,francisco (noe) trejo
+6484,594,FORT MADISON,PR,2,dear elizabeth,X,,,emily mccune
+6484,594,FORT MADISON,LP,1,a summer to die; here comes goodbye,X,,,nicole hirte
+6484,594,FORT MADISON,LP,2,21; my father's magical hands,X,,,danielle reed
+6484,594,FORT MADISON,OO,1,antifeminism,X,,,margeaux nall
+6484,594,FORT MADISON,OO,2,the sweat pants speech,X,,,hannah scharpman
+6484,594,FORT MADISON,RN,1,,X,,,taylor-ann mcgee
+6484,594,FORT MADISON,IMP,1,,X,,,kelsey vandenberg
+6484,594,FORT MADISON,IMP,2,,X,,,ryan heidel
+6484,594,FORT MADISON,REV,1,untitled,X,,,taylor-ann mcgee
+6541,937,WILLIAMSBURG,PA,1,1992 republican national convention address,X,,,sierra pope
+6541,937,WILLIAMSBURG,ACT,1,the killing joke,X,,,gable meade
+6541,937,WILLIAMSBURG,PO,1,identity defined,X,,,kayla fedler
+6541,937,WILLIAMSBURG,PO,2,you & i,X,,,wiatt hughes
+6541,937,WILLIAMSBURG,LP,1,cultural journey,X,,,sierra pope
+6541,937,WILLIAMSBURG,LP,2,the ring,X,,,katie emmert
+6541,937,WILLIAMSBURG,SS,1,,X,,,katie emmert
+6541,937,WILLIAMSBURG,SS,2,,X,,,tessa emmert
+6541,937,WILLIAMSBURG,ST,1,the true story of the three little pigs,X,,,annalissa lane
+6541,937,WILLIAMSBURG,ST,2,just a game,X,,,anna tindal
+6541,937,WILLIAMSBURG,ST,3,skippyjon jones class action,X,,,claudia adamson
+6541,937,WILLIAMSBURG,AD,1,bbc,X,,,claudia adamson
+6541,937,WILLIAMSBURG,IMP,1,,X,,,alaina stoltenberg
+6577,774,OTTUMWA,SMT,1,tba,X,,,melanie enloe
+6577,774,OTTUMWA,SMT,2,tba,X,,,nathan leege
+6577,774,OTTUMWA,ACT,1,tba,X,,,isabella obrien 
+6577,774,OTTUMWA,PO,1,love yourself,X,,,narissa raider
+6577,774,OTTUMWA,PR,1,,X,,,elynna perry
+6577,774,OTTUMWA,LP,1,,X,,,savannah ford
+6577,774,OTTUMWA,LP,2,,X,,,josh dorsett
+6577,774,OTTUMWA,RN,1,,X,,,jennifer culer
+6577,774,OTTUMWA,ST,1,tba,X,,,jennifer culver
+6577,774,OTTUMWA,ST,2,tba,X,,,elynna perry
+6578,774,OTTUMWA,SMT,1,tba,X,,,melanie enloe
+6578,774,OTTUMWA,SMT,2,tba,X,,,nathan leege
+6578,774,OTTUMWA,ACT,1,tba,X,,,isabella obrien 
+6578,774,OTTUMWA,PO,1,love yourself,X,,,narissa raider
+6578,774,OTTUMWA,PR,1,,X,,,elynna perry
+6578,774,OTTUMWA,LP,1,,X,,,savannah ford
+6578,774,OTTUMWA,LP,2,,X,,,josh dorsett
+6578,774,OTTUMWA,RN,1,,X,,,jennifer culer
+6578,774,OTTUMWA,ST,1,tba,X,,,jennifer culver
+6578,774,OTTUMWA,ST,2,tba,X,,,elynna perry
+6579,585,FAIRFIELD,PA,1,,X,,,navin martin
+6579,585,FAIRFIELD,SMT,1,music of the night,X,,,aaron austin
+6579,585,FAIRFIELD,SMT,2,x,X,,,amber manning
+6579,585,FAIRFIELD,SMT,3,i believe,X,,,dakota anderson
+6579,585,FAIRFIELD,ACT,1,x,X,,,doga ozesmi
+6579,585,FAIRFIELD,ACT,2,x,X,,,justin vickers
+6579,585,FAIRFIELD,ACT,3,x,X,,,shea malloy
+6579,585,FAIRFIELD,PO,1,x,X,,,mikey hunt
+6579,585,FAIRFIELD,PO,2,x,X,,,ntanda dube
+6579,585,FAIRFIELD,PO,3,x,X,,,shea malloy
+6579,585,FAIRFIELD,PR,1,x,X,,,navin martin
+6579,585,FAIRFIELD,PR,2,x,X,,,oba olaniyi
+6579,585,FAIRFIELD,PR,3,x,X,,,mikey hunt
+6579,585,FAIRFIELD,LP,1,x,X,,,amber manning
+6579,585,FAIRFIELD,LP,2,x,X,,,joseph wilbur
+6579,585,FAIRFIELD,LP,3,x,X,,,ntando dube
+6579,585,FAIRFIELD,OO,1,x,X,,,olivia hammel
+6579,585,FAIRFIELD,SS,1,,X,,,hayli putnam
+6579,585,FAIRFIELD,SS,2,,X,,,holly harward
+6579,585,FAIRFIELD,SS,3,,X,,,doga ozesmi
+6579,585,FAIRFIELD,RN,1,,X,,,hermela gebremariam
+6579,585,FAIRFIELD,EA,1,x,X,,,phoenix haessler
+6579,585,FAIRFIELD,ST,1,x,X,,,holly harward
+6579,585,FAIRFIELD,ST,2,x,X,,,phoenix haessler
+6579,585,FAIRFIELD,ST,3,x,X,,,rachel funkhouser
+6579,585,FAIRFIELD,AD,1,x,X,,,matthew mclain
+6579,585,FAIRFIELD,AD,2,x,X,,,monica stoltz
+6579,585,FAIRFIELD,IMP,1,,X,,,aman charles
+6579,585,FAIRFIELD,IMP,2,,X,,,dewayne barnes jr.
+6579,585,FAIRFIELD,IMP,3,,X,,,joseph wilbur
+6579,585,FAIRFIELD,REV,1,x,X,,,emma carlson
+6579,585,FAIRFIELD,REV,2,x,X,,,loreena hucke
+6579,585,FAIRFIELD,REV,3,x,X,,,rachel funkhouser
+6620,730,MOUNT PLEASANT,SMT,1,i'm not that girl,X,,,cassandra munford
+6620,730,MOUNT PLEASANT,SMT,2,on my own,X,,,delaney wilson
+6620,730,MOUNT PLEASANT,SMT,3,santa fe,X,,,riley kempker
+6620,730,MOUNT PLEASANT,PO,1,selections from poe,X,,,delaney wilson
+6620,730,MOUNT PLEASANT,PO,2,drugs,X,,,elijah helton
+6620,730,MOUNT PLEASANT,PO,3,selections from bluent,X,,,willow barton
+6620,730,MOUNT PLEASANT,SS,1,,X,,,elijah helton
+6620,730,MOUNT PLEASANT,RN,1,,X,,,jacob crooks
+6620,730,MOUNT PLEASANT,ST,1,three brothers from harry potter,X,,,starr bujanowski
+6620,730,MOUNT PLEASANT,ST,2,sergeant reckless's story,X,,,willow barton
+6620,730,MOUNT PLEASANT,AD,1,football mom,X,,,starr bujanowski
+6620,730,MOUNT PLEASANT,REV,1,"nine hours, nine persons, nine doors",X,,,jacob crooks
+6638,487,CENTERVILLE,SMT,1,she used to be mine,X,,,charity carter
+6638,487,CENTERVILLE,SMT,2,"i really, really love you",X,,,jacob cash
+6638,487,CENTERVILLE,SMT,3,the girl i mean to be,X,,,lawson bettis
+6638,487,CENTERVILLE,ACT,1,the webb files,X,,,bailee cox
+6638,487,CENTERVILLE,ACT,2,driving miss daisy,X,,,maggie helmich
+6638,487,CENTERVILLE,PO,1,millie's mother's red dress,X,,,cheyenne davis
+6638,487,CENTERVILLE,PO,2,little red riding hood,X,,,emily caylor
+6638,487,CENTERVILLE,PO,3,what are you afraid of,X,,,jennie fogelsong
+6638,487,CENTERVILLE,PR,1,it sucked then i cried,X,,,bailee cox
+6638,487,CENTERVILLE,PR,2,bill,X,,,erissa mcgill
+6638,487,CENTERVILLE,PR,3,the song on the radio,X,,,sara johnson
+6638,487,CENTERVILLE,LP,1,the struggles of teens,X,,,jacob cash
+6638,487,CENTERVILLE,LP,2,woman v. men,X,,,joe zintz
+6638,487,CENTERVILLE,LP,3,mothers,X,,,maggie helmick
+6638,487,CENTERVILLE,OO,1,untitled,X,,,bryanna cossolotto
+6638,487,CENTERVILLE,OO,2,the government and christianity,X,,,jennie fogelsong
+6638,487,CENTERVILLE,RN,1,,X,,,cheyenne davis
+6638,487,CENTERVILLE,RN,2,,X,,,katrina westphal
+6638,487,CENTERVILLE,RN,3,,X,,,stacey collins
+6638,487,CENTERVILLE,EA,1,the ties that bind us,X,,,heidi wiskus
+6638,487,CENTERVILLE,EA,2,juvenile diabetes,X,,,maggie cowan
+6638,487,CENTERVILLE,EA,3,at the movies,X,,,thad hill
+6638,487,CENTERVILLE,ST,1,the soup princess,X,,,abby sweet
+6638,487,CENTERVILLE,ST,2,a story of spain,X,,,marta martinez
+6638,487,CENTERVILLE,ST,3,choclatina,X,,,tiffany johnson
+6638,487,CENTERVILLE,AD,1,oh to be a princess,X,,,tiffany johnson
+6638,487,CENTERVILLE,IMP,1,,X,,,katrina westphal
+6643,520,COLUMBUS COMMUNITY,PA,1,undetermined,X,,,alondra guerrero
+6643,520,COLUMBUS COMMUNITY,ACT,1,undetermined,X,,,madison purvis
+6643,520,COLUMBUS COMMUNITY,PO,1,custard the dragon,X,,,megan rush
+6643,520,COLUMBUS COMMUNITY,PR,1,undetermined,X,,,genevieve robinson
+6643,520,COLUMBUS COMMUNITY,OO,1,why you should listen to k-pop,X,,,katie martinez
+6643,520,COLUMBUS COMMUNITY,SS,1,,X,,,coltrane sipes
+6643,520,COLUMBUS COMMUNITY,SS,2,,X,,,katie martinez
+6643,520,COLUMBUS COMMUNITY,SS,3,,X,,,sarah todd
+6643,520,COLUMBUS COMMUNITY,RN,1,,X,,,sarah todd
+6646,987,BURLINGTON ND 9TH,PA,1,tucker selection,X,,,katie tucker
+6646,987,BURLINGTON ND 9TH,PO,1,mccune poetry,X,,,brynn mccune
+6646,987,BURLINGTON ND 9TH,PR,1,mccune prose,X,,,brynn mccune
+6646,987,BURLINGTON ND 9TH,PR,2,zahn prose,X,,,lance zahn
+6646,987,BURLINGTON ND 9TH,PR,3,boughton prose,X,,,parker boughton
+6646,987,BURLINGTON ND 9TH,LP,1,k. rashid program,X,,,kassidy rashid
+6646,987,BURLINGTON ND 9TH,LP,2,m. richards program,X,,,mary richards
+6646,987,BURLINGTON ND 9TH,ST,1,k. rashid storytelling,X,,,kassidy rashid
+6646,987,BURLINGTON ND 9TH,ST,2,tucker storytelling,X,,,katie tucker
+6646,987,BURLINGTON ND 9TH,ST,3,the stinky cheese man,X,,,wil riley
+6646,987,BURLINGTON ND 9TH,IMP,1,,X,,,mary richards
+6663,488,CENTERVILLE 9TH,PO,1,angela's word,X,,,chloe zintz
+6663,488,CENTERVILLE 9TH,PO,2,pretty,X,,,shelby vanderheyden
+6663,488,CENTERVILLE 9TH,PR,1,birthdays are lovely,X,,,chloe zintz
+6663,488,CENTERVILLE 9TH,PR,2,curlers tame the savage beast,X,,,madi jo smith
+6663,488,CENTERVILLE 9TH,PR,3,joy of a junker,X,,,dakota clark
+6663,488,CENTERVILLE 9TH,RN,1,,X,,,dakota clark
+6663,488,CENTERVILLE 9TH,RN,2,,X,,,emily eyheralde 
+6663,488,CENTERVILLE 9TH,RN,3,,X,,,logan byrom
+6663,488,CENTERVILLE 9TH,ST,1,tailypo,X,,,emily eyheralde
+6663,488,CENTERVILLE 9TH,ST,2,dusty locks,X,,,madi jo smith
+6663,488,CENTERVILLE 9TH,IMP,1,,X,,,shelby vanderheyden
+6669,939,WINFIELD-MT UNION,SMT,1,unknown,X,,,jackson brown
+6669,939,WINFIELD-MT UNION,SMT,2,unknown,X,,,molly hinkle
+6669,939,WINFIELD-MT UNION,ACT,1,unknown,X,,,pearl krieger-coble
+6669,939,WINFIELD-MT UNION,ACT,2,beauty is skin deep,X,,,hailey ennis
+6669,939,WINFIELD-MT UNION,PO,1,,X,,,pearl krieger-coble
+6669,939,WINFIELD-MT UNION,ST,1,marc was the stuff of dreams,X,,,rayna buxton
+6669,939,WINFIELD-MT UNION,ST,2,unknown,X,,,molly hinkle
+6677,991,Tri-County 9th High School,PO,1,tba,X,,,megan edmundson
+6677,991,Tri-County 9th High School,PO,2,tba,X,,,taylor dowd
+6677,991,Tri-County 9th High School,PR,1,the sniper,X,,,brandt molyneux
+6677,991,Tri-County 9th High School,PR,2,every 27 minutes,X,,,jenna leer
+6678,874,TRI-COUNTY,PA,1,,X,,,sam gragg
+6678,874,TRI-COUNTY,PA,2,,X,,,ben edmundson
+6678,874,TRI-COUNTY,PA,3,,X,,,trevor clemens
+6678,874,TRI-COUNTY,SMT,1,,X,,,jessie maxwell
+6678,874,TRI-COUNTY,ACT,1,,X,,,trevor clemens
+6678,874,TRI-COUNTY,ACT,2,,X,,,skyler fisher
+6678,874,TRI-COUNTY,ACT,3,,X,,,nikayla dowd
+6678,874,TRI-COUNTY,ACT,4,,X,,,mckenzie hammes
+6678,874,TRI-COUNTY,ACT,5,,X,,,lydia greene
+6678,874,TRI-COUNTY,PO,1,,X,,,emma bair
+6678,874,TRI-COUNTY,PO,2,casey at the bat,X,,,lane williams
+6678,874,TRI-COUNTY,PO,3,,X,,,riley danner
+6678,874,TRI-COUNTY,PR,1,everybody where sunscrean,X,,,alexis leer
+6678,874,TRI-COUNTY,PR,2,night,X,,,zoe ogden
+6678,874,TRI-COUNTY,PR,3,of mice and men,X,,,cameron krumm
+6678,874,TRI-COUNTY,LP,1,,X,,,taylor markham
+6678,874,TRI-COUNTY,LP,2,,X,,,jennifer steen
+6678,874,TRI-COUNTY,LP,3,,X,,,myrissa garber
+6678,874,TRI-COUNTY,OO,1,,X,,,walter mckay
+6678,874,TRI-COUNTY,OO,2,,X,,,noah mccammant
+6678,874,TRI-COUNTY,OO,3,,X,,,audeanna finch
+6678,874,TRI-COUNTY,RN,1,,X,,,natalie stienke
+6678,874,TRI-COUNTY,EA,1,,X,,,hannah miover
+6678,874,TRI-COUNTY,EA,2,,X,,,mathilde daspremont
+6678,874,TRI-COUNTY,EA,3,,X,,,katharina wauschkuhn
+6678,874,TRI-COUNTY,ST,1,,X,,,abbey hartwig
+6678,874,TRI-COUNTY,ST,2,,X,,,myrissa garber
+6678,874,TRI-COUNTY,ST,3,,X,,,emma bair
+6678,874,TRI-COUNTY,AD,1,,X,,,skyler fisher
+6678,874,TRI-COUNTY,AD,2,,X,,,abbey hartwig
+6678,874,TRI-COUNTY,AD,3,,X,,,kearstan schmidt
+6678,874,TRI-COUNTY,REV,1,,X,,,ryan daughenbaugh
+6678,874,TRI-COUNTY,REV,2,,X,,,natalie stienke
+6690,738,NEW LONDON,OO,1,tba,X,,,rebecca strothman
+6690,738,NEW LONDON,OO,2,tba,X,,,kassandra zaragosa
+6690,738,NEW LONDON,SS,1,,X,,,rebecca strothman
+6692,899,WASHINGTON,SMT,1,all that matters,X,,,lena adam
+6692,899,WASHINGTON,ACT,1,untitled,X,,,reid basten
+6692,899,WASHINGTON,OO,1,xxxx,X,,,nayra lujano
+6692,899,WASHINGTON,EA,1,save the pets,X,,,lena adam
+6692,899,WASHINGTON,ST,1,unknown,X,,,nayra lujano
+6692,899,WASHINGTON,ST,2,unkown,X,,,riordan lujano
+6692,899,WASHINGTON,IMP,1,,X,,,reid basten
+6692,899,WASHINGTON,IMP,2,,X,,,riordan lujano
+6694,470,CARDINAL,PA,1,tba,X,,,lizzie simonsen
+6694,470,CARDINAL,SMT,1,to make you feel my love,X,,,candice guiter
+6694,470,CARDINAL,SMT,2,tba,X,,,kaitelyn broyles
+6694,470,CARDINAL,SMT,3,on the steps of the palace,X,,,madi black
+6694,470,CARDINAL,ACT,1,all's well that ends well,X,,,paige evans
+6694,470,CARDINAL,ACT,2,cold blooded murderer,X,,,shelby smith
+6694,470,CARDINAL,ACT,3,tybalt is dead,X,,,taylor howard
+6694,470,CARDINAL,PO,1,tba,X,,,kaitelyn broyles
+6694,470,CARDINAL,PO,2,tba,X,,,alesia stanton
+6694,470,CARDINAL,PO,3,tba,X,,,alexis jay
+6694,470,CARDINAL,PR,1,the weight of silence ,X,,,shelbie jeffery
+6694,470,CARDINAL,PR,2,city of bones,X,,,dakota durflinger
+6694,470,CARDINAL,PR,3,tba,X,,,kaelyn strong
+6694,470,CARDINAL,LP,1,divorced father,X,,,susana rios
+6694,470,CARDINAL,SS,1,,X,,,william gonzalez
+6694,470,CARDINAL,RN,1,,X,,,heaven walker
+6694,470,CARDINAL,EA,1,jerry byers,X,,,james mcgrath
+6694,470,CARDINAL,ST,1,frankie boccino,X,,,william gonzalez
+6694,470,CARDINAL,ST,2,"the naga, the sun, & the crow",X,,,allie glosser
+6694,470,CARDINAL,ST,3,the posh puppy,X,,,hunter vititoe
+6694,470,CARDINAL,AD,1,tba,X,,,candice guiter
+6694,470,CARDINAL,AD,2,cooking,X,,,ryley mcelderry
+6699,1060,CARDINAL 9TH,ACT,1,eve's diary,X,,,alexis danger
+6699,1060,CARDINAL 9TH,ACT,2,the devil's advocate,X,,,jimmy greer
+6699,1060,CARDINAL 9TH,IMP,1,,X,,,jimmy greer
+6699,1060,CARDINAL 9TH,IMP,2,,X,,,alexis danger
+6700,822,SEYMOUR,SMT,1,somewhere that's green,X,,,aubree powders
+6700,822,SEYMOUR,PO,1,pretty,X,,,cassie graham
+6700,822,SEYMOUR,PO,2,the chaos,X,,,mariah clark
+6700,822,SEYMOUR,PO,3,"struggling with depression and suicide, broken, i hate to cry!",X,,,raven westphal
+6700,822,SEYMOUR,PR,1,"the pale blue dot, the most astounding fact",X,,,joshua brown
+6700,822,SEYMOUR,LP,1,"which is your clown?, midnight dancer, what a killer clown",X,,,mariah clark
+6700,822,SEYMOUR,LP,2,"what is a friend, friendship, always there, friends for life",X,,,kaley monohon
+6700,822,SEYMOUR,RN,1,,X,,,joshua brown
+6700,822,SEYMOUR,RN,2,,X,,,zak sheppard
+6700,822,SEYMOUR,ST,1,the monster at the end of this book,X,,,breanna conn
+6700,822,SEYMOUR,ST,2,pigs,X,,,franchesca devore
+6700,822,SEYMOUR,IMP,1,,X,,,aubree powders
+6700,822,SEYMOUR,IMP,2,,X,,,marshall goff
+6700,822,SEYMOUR,IMP,3,,X,,,zak sheppard
+6702,498,CHARITON,SMT,1,,X,,,kaylie jones
+6702,498,CHARITON,SMT,2,,X,,,lexie mullins
+6702,498,CHARITON,SMT,3,,X,,,maraena black
+6702,498,CHARITON,ACT,1,,X,,,braydon simms
+6702,498,CHARITON,ACT,2,,X,,,liliya gernega
+6702,498,CHARITON,PO,1,,X,,,anna ilyenko
+6702,498,CHARITON,PO,2,,X,,,ashley gress
+6702,498,CHARITON,PO,3,,X,,,kaylie jones
+6702,498,CHARITON,PR,1,,X,,,jenny roach
+6702,498,CHARITON,PR,2,,X,,,lille murphy
+6702,498,CHARITON,PR,3,,X,,,morgan cochran
+6702,498,CHARITON,LP,1,,X,,,gabi watkins
+6702,498,CHARITON,LP,2,,X,,,vada abrahamson
+6702,498,CHARITON,OO,1,,X,,,lille murphy
+6702,498,CHARITON,OO,2,,X,,,nathan smith
+6702,498,CHARITON,SS,1,,X,,,braydon simms
+6702,498,CHARITON,RN,1,,X,,,cord thomas
+6702,498,CHARITON,IMP,1,,X,,,nathan smith
+6702,498,CHARITON,IMP,2,,X,,,stephen sundquist
+6702,498,CHARITON,IMP,3,,X,,,will ex
