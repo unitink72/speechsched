@@ -1,8 +1,8 @@
 class Categories:
 
    def __init__(self, groupOrSingle):
-      
       if groupOrSingle == 'group':
+         print("GROUP")
          self.catLong =                                                         \
               ["OneActPlay","ReadersTheatre", "ChoralReading", "TVNewscasting", \
                "RadioBroadcasting", "ShortFilm", "MusicalTheatre",              \
@@ -54,39 +54,56 @@ class Categories:
            'solomime3'            : ("SM",3),            \
          }
 
-#        catLongList = ['One Act Play','Reader\'s Theatre','Choral Reading','TV News',  \
-#                       'Radio Broadcasting','Short Film','Musical Theatre',            \
-#                       'Group Improv','Ensemble Acting','Group Mime','Solo Mime']
-#        shortToLongCatMap = dict(zip(catShortList, catLongList))
-
       else:
-         self.catLong =                                                         \
-              ['Acting', 'Solo Musical Theatre', 'Prose', 'Poetry',             \
-               'Literary Program', 'Storytelling', 'Public Address',            \
-               'Expository Address', 'Radio News', 'Spontaneous Speaking',      \
-               'Improv', 'Review', 'After Dinner Speaking', 'Original Oratory']
+         print("INDIVIDUAL")
+         self.catLong =                                                              \
+              ['PublicAddress', 'SoloMusicalTheatre', 'Acting', 'ReadingPoetry',     \
+               'ReadingProse', 'LiteraryProgram', 'OriginalOratory',                 \
+               'SpontaneousSpeaking', 'RadioNews', 'ExpositoryAddress',              \
+               'Storytelling', 'AfterDinner', 'Improvisation', 'Reviewing'] 
                     
-         self.catShort =                                                        \
-              ['ACT','SMT','PR','PO', 'LP','ST','PA','EA', 'RN', 'SS', 'IMP'    \
-               'REV', 'AD', 'OO']
+         self.catShort =                                                             \
+              ['PA','SMT','ACT','PO','PR','LP','OO','SS','RN','EA','ST','AD','IMP','RV']
+         '''
+         self.schoolRegLists =                                       \ #Not used in indiv
+         [                                                           \
+           ['PA1','PA2','PA3'                                        \
+           ['SMT1','SMT2','SMT3'],                                   \
+           ['ACT1','ACT2','ACT3','ACT4','ACT5','ACT6],               \
+           ['PO1','PO2','PO2'],                                      \
+           ['PR1','PR2','PR3'],                                      \
+           ['LP1','LP2','LP3'],                                      \
+           ['OO1','OO2','OO3'],                                      \
+           [
+         '''
+         self.studentCsvFields =                         \
+         {                                               \
+           'oneact'               : ("OA",1),            \
+           'readerstheatre'       : ("RT",1),            \
+           'choral reading'       : ("CR",1),            \
+           'tvnewscasting1'       : ("TV",1),            \
+           'tvnewscasting2'       : ("TV",2),            \
+           'radiobroadcasting1'   : ("RB",1),            \
+           'radiobroadcasting2'   : ("RB",2),            \
+           'shortfilm1'           : ("SF",1),            \
+           'shortfilm2'           : ("SF",2),            \
+           'musicaltheatre1'      : ("MT",1),            \
+           'musicaltheatre2'      : ("MT",2),            \
+           'musicaltheatre3'      : ("MT",3),            \
+           'group1'               : ("GI",1),            \
+           'group2'               : ("GI",2),            \
+           'group3'               : ("GI",3),            \
+           'ensemble1'            : ("EA",1),            \
+           'ensemble2'            : ("EA",2),            \
+           'ensemble3'            : ("EA",3),            \
+           'groupmime1'           : ("GM",1),            \
+           'groupmime2'           : ("GM",2),            \
+           'groupmime3'           : ("GM",3),            \
+           'solomime1'            : ("SM",1),            \
+           'solomime2'            : ("SM",2),            \
+           'solomime3'            : ("SM",3),            \
+         }
       #endif
-
-'''
-Acting ACT
-Solo Musical Theatre  SMT
-Prose PR
-Poetry PO
-Literary Program LP
-Storytelling ST
-Public Address PA
-Expository Address EA
-Radio News RN
-Spontaneous Speaking SS
-Improv IMP
-Review REV
-After Dinner Speaking AD
-Original Oratory OO
-'''
 
       self.shortToLongMap = dict(zip(self.catShort, self.catLong))
       self.longToShortMap = dict(zip(self.catLong, self.catShort))

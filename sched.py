@@ -479,6 +479,8 @@ os.makedirs(outFolder)
 logger      = logger.Logger(outFolder)
 schedIO.setLogger(logger)
 schedFitness.setLogger(logger)
+#Initialize schedIO
+schedIO.setCats('indiv')
 
 #Load config file
 configRaw = {}

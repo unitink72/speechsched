@@ -1,5 +1,6 @@
 import csv
 import os, sys
+import logger
 import schedIO
 
 if len(sys.argv) < 2:
@@ -29,14 +30,22 @@ if not os.path.isfile(schoolCsvFile):    sys.exit ('SchoolCsv file not found: %s
 if not os.path.isfile(schoolExportFile): sys.exit ('SchoolExport file not found: %s' % schoolExportFile)
 if not os.path.isfile(studentCsvFile):   sys.exit ('StudentCsv file not found: %s' % studentCsvFile)
 
+#Don't need logger setup unless something bad happens in the data
+#logger = logger.Logger(jobFolder)
+#schedIO.setLogger(logger)
+schedIO.setCats('abba')
+
 schoolInfo       = schedIO.readSchoolsExport(schoolExportFile)
 
 siteCount        = len(config['CONTEST_SITENAME'])
 
 for site in config['CONTEST_SITENAME']:
   print ('Processing %s' % site)
-  
-  entriesList = schedIO.readSchoolWebCsv(schoolCsvFile, schoolInfo, site)
+
+  entriesList = schedIO.readSchoolWebCsv(fileName   = schoolCsvFile,   \
+                                         schoolInfo = schoolInfo,      \
+                                         siteName   = site,            \
+                                         codeChar   = 0)
   schedIO.readStudentWebCsv (entriesList, studentCsvFile)
   
   if siteCount > 1:

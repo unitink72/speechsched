@@ -16,9 +16,12 @@ usedCodes = []
 
 def setLogger(logger):
   global ioLog
-  global cats
   ioLog = logger
-  cats = Categories('group')
+###############################################################################
+  
+def setCats(groupOrIndiv):
+  global cats
+  cats = Categories(groupOrIndiv)  #INDIV
 ###############################################################################
 
 def addTime(time1, time2):
@@ -60,7 +63,7 @@ def readSessionsFile(fileName):
   nonBreakCount    = 0
   breakCount       = 0
 
-  newCategoryPattern = re.compile("^([\w\s]+)\s+(\w{2})\s+(\d+)",  re.IGNORECASE)
+  newCategoryPattern = re.compile("^([\w\s]+)\s+(\w{2,3})\s+(\d+)",  re.IGNORECASE)
   newRoomPattern     = re.compile("^ROOM (.+)",        re.IGNORECASE)
   newSessionPattern  = re.compile("^(\d+)\s*(BREAK)?", re.IGNORECASE)
   skipLinePattern    = re.compile("(^$)|(^##)")
@@ -89,7 +92,7 @@ def readSessionsFile(fileName):
 
       if not curCategoryAbrv in cats.shortList():
       # Validate the catShort.  Long cat name unused, it could be removed from sessions file
-        sys.exit ('Sessions file unknown category %s', curCategoryAbrv)
+        sys.exit ('Sessions file unknown category %s' % curCategoryAbrv)
 
       #Grab the next line in the file, should specify a Room
       line = sessionsFile.readline()
@@ -357,7 +360,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
 #    ['SoloMimeName1','SoloMimeName2','SoloMimeName3']         \
 #  ]
 
-  fields = cats.schoolRegMap()
+  #INDV fields = cats.schoolRegMap()
 
   for row in reader:
     schoolNameCsv = row['SchoolName'].rstrip()
@@ -404,17 +407,19 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
     #Writing a number over the yes/no values seems to wipe out the whole
     # row object.  So keep a seperate copy to act on here
     catCount = {}
-    for performanceCat in cats.longList():   #fields.keys():
+    for performanceCat in cats.longList():
       if row[performanceCat].isdigit():
         countFromCsv = row[performanceCat]
       else:
         countFromCsv = 0
+        print('Not a number in schoolReg.csv %s %s', (schoolNameCsv, performanceCat))
       catCount[performanceCat] = int(countFromCsv)
 
-    for perfCat,csvNameList in fields.items():
+#INDIV    for perfCat,csvNameList in fields.items():
+    for perfCat in cats.longList():
       #print('  ' + perfCat + ' ' + str(catCount[perfCat]))
       for entryNum in range(catCount[perfCat]):
-        csvColName = csvNameList[entryNum]
+#INDIV        csvColName = csvNameList[entryNum]
         #print('    ' + csvColName) ;
         newE = {'schoolId'      : schoolIdCsv,                     \
                 'regId'         : regIdCsv,                        \
@@ -423,10 +428,16 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
                 'catSchoolIdx'  : entryNum+1,                      \
                 'index'         : entryIndex,                      \
                 'inContest'     : True,                            \
-                'entryTitle'    : row[csvColName],                 \
+#INDV                'entryTitle'    : row[csvColName],                 \
                 'performers'    : [],                              \
                 'earliestStart' : 100,                             \
-                'latestEnd'     : 2300}
+                'latestEnd'     : 2300,                            \
+                'studentDataFilled' : False}
+
+        #print('E SchoolId %d RegId %d' % (schoolIdCsv, regIdCsv))
+        #StudentDataFilled is used by the student data reader to show that
+        # entry's student and entry name have been filled in.  Only used
+        # for individual contest logic
         entriesList.append(newE)
         #Adding a unique index makes it easy to compare entries for equality,
         #instead of doing a bunch of string and list comparisons.
@@ -484,12 +495,17 @@ def readStudentWebCsv(entriesList, fileName):
 
     for entry in entriesList:
       if entry['regId'] == csvRegId and                     \
-         csvFields[csvCategory][0] == entry['catShort'] and \
-         csvFields[csvCategory][1] == entry['catSchoolIdx']:
+         not entry['studentDataFilled'] and                 \
+         csvCategory.lower() == cats.shortToLong(entry['catShort']).lower():
+#INDV         csvFields[csvCategory][0] == entry['catShort'] and \
+#         csvFields[csvCategory][1] == entry['catSchoolIdx']:
          
          #This student row matches by regId (school),
          # category and index(1-3)
          entry['performers'].append(row['Name'])
+         entry['entryTitle'] = row['Title']
+         #Mark this one as filled.  Useful for INDV only
+         entry['studentDataFilled'] = True
          #print('Placed ', row['Name'])
          break
      #else:
@@ -526,7 +542,7 @@ def readRestrSheet(entriesList, fileName):
   inFile = open (fileName, 'r', newline='')
   reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
   catCounts = cats.countDict()
-  
+
   for row in reader:
     regIdCsv           = int(row['regId'])
     schoolIdCsv        = int(row['schoolId'])
