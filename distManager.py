@@ -99,7 +99,7 @@ class DistManager:
         (  school1 not in self.nestedDict[school2] or           \
            self.nestedDict[school2][school1] is None ):
 
-          self.logger.msg('getDist %s %s' % (formatSch(self.schoolAddr[school1]), formatSch(self.schoolAddr[school2])))
+          self.logger.msg('getDist %s:%s %s %s' % (school1, school2, formatSch(self.schoolAddr[school1]), formatSch(self.schoolAddr[school2])))
           self.nestedDict[school1][school2] = self.timeFetcher.getDist                \
                                                        (self.schoolAddr[school1],     \
                                                         self.schoolAddr[school2])
