@@ -337,7 +337,7 @@ def printSched(schedule, schoolInf, outFolder):
   for schoolId in schoolList:
     schoolNameDict[schoolInf[schoolId]['name']] = schoolInf[schoolId]['code']
 
-  f = open(os.path.join(outFolder, 'schoolCodes.txt'), 'w', newline='\r\n')
+  f = open(os.path.join(outFolder, 'schoolCodes.csv'), 'w', newline='\r\n')
   for schoolName in sorted(schoolNameDict.keys()):
     f.write('%s, %s\n' % (schoolNameDict[schoolName], schoolName))
   f.close()
