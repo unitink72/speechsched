@@ -402,8 +402,9 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
 
         firstLoopIteration = True
         if codeChar == 0:
-           while firstLoopIteration or         \
-                 newCode in usedCodes:
+           while firstLoopIteration   or         \
+                 newCode in usedCodes or         \
+                 int(newCode) <= 100:
              newCode = rnd.choice(string.digits) + rnd.choice(string.digits) + rnd.choice(string.digits)
              firstLoopIteration = False
         else:
@@ -440,7 +441,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
                 #'category'      : perfCat,                        \
                 'catSchoolIdx'  : entryNum+1,                      \
                 'index'         : entryIndex,                      \
-                'inContest'     : True,                            \
+                'inContest'     : False,                           \
 #INDV                'entryTitle'    : row[csvColName],                 \
                 'performers'    : [],                              \
                 'earliestStart' : 100,                             \
@@ -583,9 +584,8 @@ def readRestrSheet(entriesList, fileName):
           entry['earliestStart'] = int(earliestStartCsv)
         if latestEndCsv  and latestEndCsv.isdigit():
           entry['latestEnd'] = int(latestEndCsv)
-        if not inContestCsv :
-          entry['inContest'] = False
-        else:
+        if inContestCsv :
+          entry['inContest']      = True
           catCounts[catShortCsv] += 1
           #print ('Entry: %d %d *%s*' % (entry['regId'],entry['catSchoolIdx'],inContestCsv))
 
@@ -595,6 +595,8 @@ def readRestrSheet(entriesList, fileName):
   for entry in entriesList:
     if entry['inContest']:
       newEntList.append(entry)
+      #if entry['catShort'] == 'SF':
+        #print ('Copy %d  %d' % (entry['regId'],entry['catSchoolIdx']))
       #print ('Copy: %d %d' % (entry['regId'],entry['catSchoolIdx']))
 
   ioLog.msg ('%d in contest after reading RestrSheet' % len(newEntList))
