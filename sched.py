@@ -479,8 +479,6 @@ os.makedirs(outFolder)
 logger      = logger.Logger(outFolder)
 schedIO.setLogger(logger)
 schedFitness.setLogger(logger)
-#Initialize schedIO
-schedIO.setCats('indiv')
 
 #Load config file
 configRaw = {}
@@ -488,7 +486,13 @@ config    = {}
 exec(open(os.path.join(jobFolder,"settings.py")).read(), config)
 for key,value in configRaw:  #For some reason the raw config isnt pickleable
   config[key] = value
-    
+
+#Tell schedIO and Categories object if we are group or individal.
+if 'G' in config['CONTEST_TYPE'].upper():
+  schedIO.setCats('group')
+else:
+  schedIO.setCats('indiv')
+
 #Read input files
 sessionsFile     = os.path.join(jobFolder, 'Sessions.txt')
 restrSheetFile   = os.path.join(jobFolder, 'restrSheet.csv')
@@ -604,7 +608,12 @@ lastScorePrintTime = time.time()
 
 logger.msg('Start Main Loop')
 jobCurrentSize = jobMinSize
-  
+
+#DEBUG for getting a quick printout
+#schedIO.printSched (schedule   = rdm[2],                \
+#                    schoolInf  = schoolInfo,            \
+#                    outFolder  = outFolder + '/x')
+
 while True:
   parentsList = findParentSchedules(rdm, jobCurrentSize, randGenMain)
   for x in parentsList:
