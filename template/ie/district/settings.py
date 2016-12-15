@@ -18,6 +18,9 @@ HOST_SCHOOL_ID = 699 #MAQUOKETA VALLEY
 # four for state contests.  Must match case EXACTLY from registration data.
 CONTEST_SITENAME = ['Maquoketa Valley']
 
+#Is this a Large Group or Individual Speech contest. 'Group' or 'Indiv'
+CONTEST_TYPE = 'Indiv'
+
 #School codes can either be 3-digit numbers or 2 letters. 0=Numbers, 1=Letters
 SCHOOL_CODE_CHARS = 0
 
