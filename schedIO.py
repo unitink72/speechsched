@@ -372,9 +372,13 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
   #INDV fields = cats.schoolRegMap()
 
   for row in reader:
-    schoolNameCsv = row['SchoolName'].rstrip()
-    siteNameCsv   = row['sitename'].rstrip()
-    schoolIdCsv   = int(row['SchoolID'])
+    schoolNameCsv  = row['SchoolName'].rstrip()
+    siteNameCsv    = row['sitename'].rstrip()
+    schoolIdCsvRaw = row['SchoolID'].rstrip()
+    if not str.isdigit(schoolIdCsvRaw):
+      #If we have a multi-year schoolReg dump, the early years don't have schoolIDs. Skip them.
+      continue
+    schoolIdCsv   = int(schoolIdCsvRaw)
     regIdCsv      = int(row['RegistrationID'])
     #print(schoolCsv + ' RegId:%i' % regIdCsv)
 
@@ -421,7 +425,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
         countFromCsv = row[performanceCat]
       else:
         countFromCsv = 0
-        print('Not a number in schoolReg.csv %s %s', (schoolNameCsv, performanceCat))
+        print('Warning: Not a number in schoolReg.csv RegID:%d %s %s' % (regIdCsv, schoolNameCsv, performanceCat))
       catCount[performanceCat] = int(countFromCsv)
 
 #INDIV    for perfCat,csvNameList in fields.items():
@@ -553,9 +557,17 @@ def readRestrSheet(entriesList, fileName):
   catCounts = cats.countDict()
 
   for row in reader:
-    regIdCsv           = int(row['regId'])
-    schoolIdCsv        = int(row['schoolId'])
-    catIdxCsv          = int(row['catIdx'])
+    regIdCsvRaw        = row['regId']
+    schoolIdCsvRaw     = row['schoolId']
+    catIdxCsvRaw       = row['catIdx']
+    if not str.isdigit(regIdCsvRaw)     or \
+       not str.isdigit(schoolIdCsvRaw)  or \
+       not str.isdigit(catIdxCsvRaw):
+      sys.exit('RestrSheet.csv Error at RegId:%s SchoolId:%s CatIdx:%s' % (regIdCsvRaw, schoolIdCsvRaw, catIdxCsvRaw))
+
+    regIdCsv           = int(regIdCsvRaw)
+    schoolIdCsv        = int(schoolIdCsvRaw)
+    catIdxCsv          = int(catIdxCsvRaw)
     catShortCsv        = row['catShort'].rstrip()
     earliestStartCsv   = row['earliestStart'].rstrip()
     latestEndCsv       = row['latestEnd'].rstrip()
