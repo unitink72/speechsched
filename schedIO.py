@@ -339,7 +339,7 @@ def printSched(schedule, schoolInf, outFolder):
 
   f = open(os.path.join(outFolder, 'schoolCodes.txt'), 'w', newline='\r\n')
   for schoolName in sorted(schoolNameDict.keys()):
-    f.write('%s  %s\n' % (schoolNameDict[schoolName], schoolName))
+    f.write('%s, %s\n' % (schoolNameDict[schoolName], schoolName))
   f.close()
 #end printSched ###############################################################
 ###############################################################################
