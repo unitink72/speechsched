@@ -319,10 +319,11 @@ def printSched(schedule, schoolInf, outFolder):
                 to12hr(session['end']),                      \
                 session['entry']['entryTitle']))
     f.close()
+
     f = open(os.path.join(byRoomCodedFolder, roomFileString + '.txt'), 'w', newline='\r\n')
-    f.write('Cat  School   Start  End   EntryTitle\n')
+    f.write('Cat   School   Start  End    EntryTitle\n')
     for session in sessionsSorted:
-      f.write('%s   %s       %s  %s %s\n' % 
+      f.write('%3s   %s       %s  %s  %s\n' % 
                (session['catShort'],                              \
                 schoolInf[session['entry']['schoolId']]['code'],  \
                 #(session['entry']['schoolCode'] + ' '*5) [:5],   \
@@ -485,6 +486,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
   return entriesList
 #end readSchoolWebCsv() #######################################################
 ###############################################################################
+
 
 def readStudentWebCsv(entriesList, fileName):
 
