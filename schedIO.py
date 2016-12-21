@@ -21,7 +21,7 @@ def setLogger(logger):
   
 def setCats(groupOrIndiv):
   global cats
-  cats = Categories(groupOrIndiv)  #INDIV
+  cats = Categories(groupOrIndiv)
 ###############################################################################
 
 def addTime(time1, time2):
@@ -274,7 +274,7 @@ def printSched(schedule, schoolInf, outFolder):
     schoolName = schoolInf[school]['name']
     schoolFileString = schoolName.replace('\\','_').replace('/','_')  #Get rid of slashes
     f = open(os.path.join(bySchoolFolder, schoolFileString + '.txt'), 'w', newline='\r\n')
-    f.write('Room                         Start  End   Cat # EntryTitle\n')
+    f.write('Room                         Start  End   Cat  # EntryTitle\n')
     sessionList = []
     for session in schedule['lst']:
       if 'entry' in session and session['entry']['schoolId'] == school:
@@ -282,7 +282,7 @@ def printSched(schedule, schoolInf, outFolder):
         
     sessionsSorted = sorted(sessionList,  key=itemgetter('start'))
     for session in sessionsSorted:
-      f.write('%17s  %s  %s %s  %d %s\n' % \
+      f.write('%17s  %s  %s %3s  %d %s\n' % \
               (str(session['room'] + ' '*27) [:27],   \
                to12hr(session['start']),              \
                to12hr(session['end']),                \
@@ -369,8 +369,6 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
 #    ['SoloMimeName1','SoloMimeName2','SoloMimeName3']         \
 #  ]
 
-  #INDV fields = cats.schoolRegMap()
-
   for row in reader:
     schoolNameCsv  = row['SchoolName'].rstrip()
     siteNameCsv    = row['sitename'].rstrip()
@@ -429,33 +427,57 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
         print('Warning: Not a number in schoolReg.csv RegID:%d %s %s' % (regIdCsv, schoolNameCsv, performanceCat))
       catCount[performanceCat] = int(countFromCsv)
 
-#INDIV    for perfCat,csvNameList in fields.items():
-    for perfCat in cats.longList():
-      #print('  ' + perfCat + ' ' + str(catCount[perfCat]))
-      for entryNum in range(catCount[perfCat]):
-#INDIV        csvColName = csvNameList[entryNum]
-        #print('    ' + csvColName) ;
-        newE = {'schoolId'      : schoolIdCsv,                     \
-                'regId'         : regIdCsv,                        \
-                'catShort'      : cats.longToShort(perfCat),       \
-                #'category'      : perfCat,                        \
-                'catSchoolIdx'  : entryNum+1,                      \
-                'index'         : entryIndex,                      \
-                'inContest'     : False,                           \
-#INDV                'entryTitle'    : row[csvColName],                 \
-                'performers'    : [],                              \
-                'earliestStart' : 100,                             \
-                'latestEnd'     : 2300,                            \
-                'studentDataFilled' : False}
+    if cats.isGroupContest():
+      #####################################################
+      ############        GROUP CONTEST          ##########
+      #####################################################
+      #INDV fields = cats.schoolRegMap()
+      for perfCat,csvNameList in cats.schoolRegMap().items():
+        #print('  ' + perfCat + ' ' + str(catCount[perfCat]))
+        for entryNum in range(catCount[perfCat]):
+          csvColName = csvNameList[entryNum]
+          #print('    ' + csvColName) ;
+          newE = {'schoolId'      : schoolIdCsv,                     \
+                  'regId'         : regIdCsv,                        \
+                  'catShort'      : cats.longToShort(perfCat),       \
+                  'category'      : perfCat,                         \
+                  'catSchoolIdx'  : entryNum+1,                      \
+                  'index'         : entryIndex,                      \
+                  'inContest'     : False,                           \
+                  'entryTitle'    : row[csvColName],                 \
+                  'performers'    : [],                              \
+                  'earliestStart' : 100,                             \
+                  'latestEnd'     : 2300,                            \
+                  'studentDataFilled' : False}
 
-        #print('E SchoolId %d RegId %d' % (schoolIdCsv, regIdCsv))
-        #StudentDataFilled is used by the student data reader to show that
-        # entry's student and entry name have been filled in.  Only used
-        # for individual contest logic
-        entriesList.append(newE)
-        #Adding a unique index makes it easy to compare entries for equality,
-        #instead of doing a bunch of string and list comparisons.
-        entryIndex += 1
+          #print('E SchoolId %d RegId %d' % (schoolIdCsv, regIdCsv))
+          #StudentDataFilled is used by the student data reader to show that
+          # entry's student and entry name have been filled in.  Only used
+          # for individual contest logic
+          entriesList.append(newE)
+          #Adding a unique index makes it easy to compare entries for equality,
+          #instead of doing a bunch of string and list comparisons.
+          entryIndex += 1
+    else:
+      #####################################################
+      ############        INDIVIDUAL CONTEST     ##########
+      #####################################################
+      for perfCat in cats.longList():
+        for entryNum in range(catCount[perfCat]):
+          #print('    ' + csvColName) ;
+          newE = {'schoolId'      : schoolIdCsv,                     \
+                  'regId'         : regIdCsv,                        \
+                  'catShort'      : cats.longToShort(perfCat),       \
+                  'catSchoolIdx'  : entryNum+1,                      \
+                  'index'         : entryIndex,                      \
+                  'inContest'     : False,                           \
+                  'performers'    : [],                              \
+                  'earliestStart' : 100,                             \
+                  'latestEnd'     : 2300,                            \
+                  'studentDataFilled' : False}
+
+          entriesList.append(newE)
+          entryIndex += 1
 
   if not ioLog is None:
     ioLog.msg ('Loaded %d schools, %d entries' % (schoolCount,entryIndex))
