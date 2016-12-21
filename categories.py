@@ -1,8 +1,12 @@
 class Categories:
 
+   grpOrSngl = ''
+
    def __init__(self, groupOrSingle):
       if groupOrSingle == 'group':
          print("GROUP")
+         self.grpOrSngl = 'g'
+
          self.catLong =                                                         \
               ["OneActPlay","ReadersTheatre", "ChoralReading", "TVNewscasting", \
                "RadioBroadcasting", "ShortFilm", "MusicalTheatre",              \
@@ -56,6 +60,8 @@ class Categories:
 
       else:
          print("INDIVIDUAL")
+         self.grpOrSngl = 'i'
+         
          self.catLong =                                                              \
               ['PublicAddress', 'SoloMusicalTheatre', 'Acting', 'ReadingPoetry',     \
                'ReadingProse', 'LiteraryProgram', 'OriginalOratory',                 \
@@ -133,4 +139,9 @@ class Categories:
    def countDict (self):
       return dict( zip(self.catShort, [0] * len(self.catShort) ) )
 
+   def isGroupContest(self):
+      return self.grpOrSngl == 'g'
+
+   def isIndivContest(self):
+      return self.grpOrSngl == 'i'
 
