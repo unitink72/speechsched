@@ -18,6 +18,12 @@ HOST_SCHOOL_ID = 781 #Pella
 # four for state contests.  Must match case EXACTLY from registration data.
 CONTEST_SITENAME = ['Pella']
 
+#Is this a Large Group or Individual Speech contest. 'Group' or 'Indiv'
+CONTEST_TYPE = 'Group'
+
+#School codes can either be 3-digit numbers or 2 letters. 0=Numbers, 1=Letters
+SCHOOL_CODE_CHARS = 1
+
 ###############################################################################
 ##    Fitness Function Settings
 ###############################################################################
