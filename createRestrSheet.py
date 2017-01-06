@@ -21,6 +21,7 @@ for key,value in configRaw:  #For some reason the raw config isnt pickleable
   config[key] = value
 
 
+
 #Read input files
 schoolCsvFile    = os.path.join(config['MASTER_FILE_PATH'], 'schoolReg.csv')
 schoolExportFile = os.path.join(config['MASTER_FILE_PATH'], 'schoolsExport.csv')
@@ -33,7 +34,11 @@ if not os.path.isfile(studentCsvFile):   sys.exit ('StudentCsv file not found: %
 #Don't need logger setup unless something bad happens in the data
 #logger = logger.Logger(jobFolder)
 #schedIO.setLogger(logger)
-schedIO.setCats('abba')
+
+if 'G' in config['CONTEST_TYPE'].upper():
+  schedIO.setCats('group')
+else:
+  schedIO.setCats('indiv')
 
 schoolInfo       = schedIO.readSchoolsExport(schoolExportFile)
 
