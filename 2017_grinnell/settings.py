@@ -9,7 +9,7 @@
 ##    Conetest Settings
 ############################################################### ################
 #Master student.csv and school.csv files dumped from IHSSA website
-MASTER_FILE_PATH = '2016Master'
+MASTER_FILE_PATH = '2017Master'
 
 #Used for drive time lookup. Use Column A from SchoolsExport.csv
 HOST_SCHOOL_ID = 618 #Grinnell
