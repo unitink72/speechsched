@@ -9,14 +9,14 @@
 ##    Conetest Settings
 ###############################################################################
 #Master student.csv and school.csv files dumped from IHSSA website
-MASTER_FILE_PATH = '2016Master'
+MASTER_FILE_PATH = '2017Master'
 
 #Used for drive time lookup. Use Column A from SchoolsExport.csv
-HOST_SCHOOL_ID = 618 #Grinnell
+HOST_SCHOOL_ID = 473 #Cascade
 
 #List of sitenames for this contest.  Will only be 1 for district contests,
 # four for state contests.  Must match case EXACTLY from registration data.
-CONTEST_SITENAME = ['Grinnell']
+CONTEST_SITENAME = ['Cascade']
 
 #Is this a Large Group or Individual Speech contest. 'Group' or 'Indiv'
 CONTEST_TYPE = 'Group'
