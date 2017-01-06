@@ -377,6 +377,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
     if not str.isdigit(schoolIdCsvRaw):
       #If we have a multi-year schoolReg dump, the early years don't have schoolIDs. Skip them.
       continue
+    #TODO don't process previous year's entries
     schoolIdCsv   = int(schoolIdCsvRaw)
     regIdCsv      = int(row['RegistrationID'])
     #print(schoolCsv + ' RegId:%i' % regIdCsv)
@@ -437,7 +438,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
         #print('  ' + perfCat + ' ' + str(catCount[perfCat]))
         for entryNum in range(catCount[perfCat]):
           csvColName = csvNameList[entryNum]
-          #print('    ' + csvColName) ;
+          #print('    ' + csvColName + ' ' + row[csvColName])
           newE = {'schoolId'      : schoolIdCsv,                     \
                   'regId'         : regIdCsv,                        \
                   'catShort'      : cats.longToShort(perfCat),       \
@@ -534,16 +535,17 @@ def readStudentWebCsv(entriesList, fileName):
     for entry in entriesList:
       if entry['regId'] == csvRegId and                     \
          not entry['studentDataFilled'] and                 \
-         csvCategory.lower() == cats.shortToLong(entry['catShort']).lower():
-#INDV         csvFields[csvCategory][0] == entry['catShort'] and \
-#         csvFields[csvCategory][1] == entry['catSchoolIdx']:
+         csvFields[csvCategory][0] == entry['catShort'] and \
+         csvFields[csvCategory][1] == entry['catSchoolIdx']:
+#INDV         csvCategory.lower() == cats.shortToLong(entry['catShort']).lower():
+#INDV This replaces the two lines above containing csvCategory
          
          #This student row matches by regId (school),
          # category and index(1-3)
          entry['performers'].append(row['Name'])
-         entry['entryTitle'] = row['Title']
+#INDIV         entry['entryTitle'] = row['Title']
          #Mark this one as filled.  Useful for INDV only
-         entry['studentDataFilled'] = True
+#INDIV         entry['studentDataFilled'] = True
          #print('Placed ', row['Name'])
          break
      #else:
