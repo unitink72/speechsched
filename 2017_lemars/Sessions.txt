@@ -1,0 +1,369 @@
+## Comment lines start with ##
+## Event catagories must start with alphabetic character, and be on their own line.
+## 2-char identifier, then number of minutes each session lasts
+## Room description is on the next line. Line needs to start with "Room "
+## Event sessions list their start in 24-hour format
+
+Choral Reading CR 15
+Room MS Band Center 1
+800
+820
+840
+900
+920 
+940 break
+1000
+1020
+1040
+1100
+1120
+1140 break
+1240
+1300	
+1320
+1340
+1400 break
+
+Readers Theatre RT 25
+Room MS Band Center 1
+1415
+1445
+1515
+1545
+
+	
+Readers Theatre RT 25
+Room MS Choir Center 2
+800
+830
+900
+930
+1000 break
+1020
+1050
+1120
+1150
+1220 break
+1310
+1340
+1410
+1440
+1510
+
+	
+One Act Play OA 35
+Room MS Auditorium Center 3
+0745
+0830
+0915
+1000 break
+1005
+1050
+1120
+1200 break
+1235 
+1310
+1355
+1430 break
+1440
+1525
+1610
+	
+Group Mime GM 7
+Room MS Orchestra Center 4
+800
+809
+818
+827
+836
+845
+854
+903
+912
+921
+930 break
+1154
+1203
+1212
+1221
+1230
+1239
+1248
+1257
+1306
+1315
+1320 break
+1441
+1450
+1459
+1508
+1517
+1526
+
+
+Solo Mime SM 5
+Room MS Orchestra Center 4
+950
+957
+1004
+1011
+1018
+1025
+1032
+1039
+1046
+1053
+1100
+1106 break
+1337
+1344
+1351
+1358
+1405
+1412
+1419 break
+
+	
+Radio Broadcasting RB 6
+Room HS 402 Center 5
+0800	
+0810
+0820	
+0830
+0840	
+0850	
+0900
+0910
+0920
+0930
+0940
+0950
+1000 break	
+1300	
+1310	
+1320
+1330
+1340
+1350
+1400
+1410
+1420	
+1430	
+1440	
+1450	
+1500 
+1510
+
+TV News TV 12
+Room HS 402 Center 5	
+1015	
+1030	
+1045	
+1100	
+1115	
+1130	
+1145	
+1200	
+1215 break
+
+
+Ensemble Acting EA 15
+Room HS 206 Center 6
+0800	
+0820	
+0840	
+0900	
+0920	
+0940	break
+1000	
+1020	
+1040	
+1100	
+1120	break
+1210	
+1230	
+1250	
+1310	
+1330	
+1350	break
+1410	
+1430	
+1450	
+1510	
+1530	
+1550	
+1610
+	
+Ensemble Acting EA 15
+Room HS 202 Center 7
+0800	
+0820	
+0840	
+0900	
+0920	
+0940	break
+1000	
+1020	
+1040	
+1100	
+1120	break
+1210	
+1230	
+1250	
+1310	
+1330	
+1350	break
+1410	
+1430	
+1450	
+1510	
+1530	
+1550
+1610
+	
+Short Film SF 6
+Room HS 111 Center 8 
+0800	
+0810
+0820	
+0830	
+0840
+0850	
+0900	
+0910
+0920	
+0930	
+0940 break	
+1000
+1010
+1020
+1030
+1040	
+1050	
+1100	
+1110	
+1120		
+1130 break
+1450
+1500
+1510
+1520
+1530
+1540
+1550
+1600
+
+TV News TV 12
+HS 111 Center 8
+1220	
+1235	
+1250	
+1305	
+1320	
+1335
+1350	
+1405	
+1420
+1435 break	
+
+Group Improv GI 8
+Room HS Little Theatre Center 9
+0800	
+0812	
+0824	
+0836	
+0848	
+0900	
+0912	break
+0932	
+0944	
+0956	
+1008	
+1020	
+1032	
+1044	break
+1104	
+1116	
+1128	
+1140	
+1152	
+1204	
+1216	break
+1306	
+1318	
+1330	
+1342	
+1354	
+1406	
+1418	break
+1430	
+1442	
+1454	
+1506
+1518	
+	
+Group Improv GI 8
+Room HS Library Center 10
+0800	
+0812	
+0824	
+0836	
+0848	
+0900	
+0912	break
+0932	
+0944	
+0956	
+1008	
+1020	
+1032	
+1044	break
+1104	
+1116	
+1128	
+1140	
+1152	
+1204	
+1216	break
+1306	
+1318	
+1330	
+1342	
+1354	
+1406	
+1418	break
+1430	
+1442	
+1454	
+1506	
+1518
+	
+Musical Theatre MT 10
+Room HS Choir Center 11
+0800	
+0815	
+0830	
+0845	
+0900	
+0915	
+0930 break	
+1000
+1015
+1030	
+1045	
+1100	
+1115
+1130 break	
+1230
+1245
+1300	
+1315	
+1330	
+1345 break
+1400  
+1415	
+1430
+1445	
+1500
+	
+	
