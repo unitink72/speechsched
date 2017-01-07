@@ -52,8 +52,7 @@ Room Choir Center 2
 1405
 1420
 1435
-1450
-1505
+1450
 
 Choral Reading CR 15
 Room Band Center 3
@@ -82,7 +81,6 @@ Room Band Center 3
 1415
 1430
 1445
-1500
 
 Short Film SF 5
 Room 83 Center 4
@@ -123,8 +121,7 @@ Room 83 Center 4
 1405
 1420
 1435
-1450
-1505
+1450
 
 Ensemble Acting EA 15
 Room 64 Center 5
@@ -149,8 +146,7 @@ Room 64 Center 5
 1405
 1420 Break
 1430
-1450
-1510
+1450
 
 Ensemble Acting EA 20
 Room 73 Center 6
@@ -176,7 +172,6 @@ Room 73 Center 6
 1420 Break
 1430
 1450
-1510
 
 Group Improv GI 8
 Room 16/17 Center 7
@@ -225,7 +220,6 @@ Room 16/17 Center 7
 1535
 1545
 1555
-1605
 
 TV News TV 10
 Room 13 Center 8
@@ -238,8 +232,6 @@ Room 13 Center 8
 1015
 1030
 1045
-1100
-1115
 
 Radio Broadcasting RB 5
 Room 13 Center 8
@@ -250,25 +242,29 @@ Room 13 Center 8
 0925
 0935
 0940 Break
+1155
+1205
+1215
 1225
 1235
 1245
 1255
-1305
-1315
-1325
-1330 Break
+1300 Break
+1310
+1320
+1330
 1340
 1350
 1400
-1410
-1420
-1430
-1435 Break
+1405 Break
+1415
+1425
+1435
 1445
 1455
 1505
 1515
+1525
 
 Solo Mime SM 5
 Room 21 Center 9
@@ -321,8 +317,7 @@ Room 21 Center 9
 1525
 1535
 1545
-1555
-1605
+1555
 
 Reader's Theatre RT 25
 Room Media Center Center 10
@@ -341,5 +336,4 @@ Room Media Center Center 10
 1400
 1425 Break
 1435
-1505
-1535
+1505
