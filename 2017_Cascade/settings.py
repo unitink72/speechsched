@@ -70,7 +70,7 @@ BEST_SCORE_PRINT_MINS     = 5
 
 STAGE_1_ARRAY_SIZE        = 20    #10
 STAGE_1_MINUTES_PER_FLUSH = 10
-STAGE_1_HOURS             = 10   #7
+STAGE_1_HOURS             = 48   #7
 STAGE_2_HOURS             = 0.5  #1
 
 ###############################################################################
