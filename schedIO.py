@@ -62,6 +62,7 @@ def readSessionsFile(fileName):
   curDuration      = 0
   nonBreakCount    = 0
   breakCount       = 0
+  lineNum          = 0
 
   newCategoryPattern = re.compile("^([\w\s]+)\s+(\w{2,3})\s+(\d+)",  re.IGNORECASE)
   newRoomPattern     = re.compile("^ROOM (.+)",        re.IGNORECASE)
@@ -74,6 +75,7 @@ def readSessionsFile(fileName):
 
   while 1:
     line = sessionsFile.readline()
+    lineNum += 1
     if not line: break
 
     #Skip empty or comment lines
@@ -92,17 +94,18 @@ def readSessionsFile(fileName):
 
       if not curCategoryAbrv in cats.shortList():
       # Validate the catShort.  Long cat name unused, it could be removed from sessions file
-        sys.exit ('Sessions file unknown category %s' % curCategoryAbrv)
+        sys.exit ('Sessions file line %d unknown category %s' % (lineNum,curCategoryAbrv))
 
       #Grab the next line in the file, should specify a Room
       line = sessionsFile.readline()
+      lineNum += 1
       p3 = newRoomPattern.match(line)
 
       if p3:
         curRoom = p3.group(1).strip()
         #print ('Reading %s %s %d' % (curCategory, curRoom, curDuration))
       else:
-        sys.exit ("No room specified after %s in Sessions file" % curCategory)
+        sys.exit ("No room specified after %s in Sessions file line %d" % (curCategory,lineNum))
       #end if
       continue
     #end if
@@ -156,7 +159,7 @@ def readSessionsFile(fileName):
         startTime = addTime(startTime, curDuration)
 
     else:
-      sys.exit ('Error parsing Sessions file line "%s"' % line.strip())
+      sys.exit ('Error parsing Sessions file line %d "%s"' % (lineNum,line.strip()))
     #end if
 
   #end loop
