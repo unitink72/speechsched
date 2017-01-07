@@ -31,7 +31,7 @@ Room MS Band Center 1
 1515
 1545
 
-	
+
 Readers Theatre RT 25
 Room MS Choir Center 2
 800
@@ -50,7 +50,7 @@ Room MS Choir Center 2
 1440
 1510
 
-	
+
 One Act Play OA 35
 Room MS Auditorium Center 3
 0745
@@ -68,7 +68,7 @@ Room MS Auditorium Center 3
 1440
 1525
 1610
-	
+
 Group Mime GM 7
 Room MS Orchestra Center 4
 800
@@ -123,7 +123,7 @@ Room MS Orchestra Center 4
 1412
 1419 break
 
-	
+
 Radio Broadcasting RB 6
 Room HS 402 Center 5
 0800	
@@ -193,7 +193,7 @@ Room HS 206 Center 6
 1530	
 1550	
 1610
-	
+
 Ensemble Acting EA 15
 Room HS 202 Center 7
 0800	
@@ -220,7 +220,7 @@ Room HS 202 Center 7
 1530	
 1550
 1610
-	
+
 Short Film SF 6
 Room HS 111 Center 8 
 0800	
@@ -254,7 +254,7 @@ Room HS 111 Center 8
 1600
 
 TV News TV 12
-HS 111 Center 8
+Room HS 111 Center 8
 1220	
 1235	
 1250	
@@ -301,7 +301,7 @@ Room HS Little Theatre Center 9
 1454	
 1506
 1518	
-	
+
 Group Improv GI 8
 Room HS Library Center 10
 0800	
@@ -337,7 +337,7 @@ Room HS Library Center 10
 1454	
 1506	
 1518
-	
+
 Musical Theatre MT 10
 Room HS Choir Center 11
 0800	
@@ -365,5 +365,5 @@ Room HS Choir Center 11
 1430
 1445	
 1500
-	
-	
+
+
