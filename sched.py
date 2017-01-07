@@ -475,7 +475,10 @@ randGenMain = random.SystemRandom()
 #Setup output folder and Logger for this run
 jobFolder   = os.path.join(os.getcwd(), sys.argv[1])
 outFolder   = os.path.join(jobFolder, timeStamp())
-os.makedirs(outFolder)
+try:
+   os.makedirs(outFolder)
+except FileExistsError:
+   sys.exit('Need to wait 1 minute between runs')
 logger      = logger.Logger(outFolder)
 schedIO.setLogger(logger)
 schedFitness.setLogger(logger)
@@ -610,9 +613,9 @@ logger.msg('Start Main Loop')
 jobCurrentSize = jobMinSize
 
 #DEBUG for getting a quick printout
-#schedIO.printSched (schedule   = rdm[2],                \
-#                    schoolInf  = schoolInfo,            \
-#                    outFolder  = outFolder + '/x')
+schedIO.printSched (schedule   = rdm[2],                \
+                    schoolInf  = schoolInfo,            \
+                    outFolder  = outFolder + '/xx')
 
 while True:
   parentsList = findParentSchedules(rdm, jobCurrentSize, randGenMain)
