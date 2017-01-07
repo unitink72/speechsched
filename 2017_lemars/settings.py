@@ -22,7 +22,7 @@ CONTEST_SITENAME = ['Le Mars']
 CONTEST_TYPE = 'Group'
 
 #School codes can either be 3-digit numbers or 2 letters. 0=Numbers, 1=Letters
-SCHOOL_CODE_CHARS = 1
+SCHOOL_CODE_CHARS = 0
 
 ###############################################################################
 ##    Fitness Function Settings
