@@ -248,9 +248,11 @@ Room 310 Center 7
 1130
 1140
 1150
-1159 Break
+1200
+1210 Break
 
 Short Film SF 6
+Room 310 Center 7
 1250
 1300
 1310
