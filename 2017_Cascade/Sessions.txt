@@ -2,7 +2,7 @@
 ## 
 
 One Act Play OA 35
-Center 1 Auditorium Judges Kaitlyn Behnken, James Brown, and Vince Williams
+Room Auditorium Center 1 Judges Kaitlyn Behnken, James Brown, and Vince Williams
 0800
 0845 
 0925 Break
@@ -19,7 +19,7 @@ Center 1 Auditorium Judges Kaitlyn Behnken, James Brown, and Vince Williams
 
 
 Choral Reading CR 15
-Center 2 Music Suite Judge Ellen Johanns
+Room Music Suite Center 2 Judge Ellen Johanns
 0800
 0820
 0840
@@ -28,7 +28,7 @@ Center 2 Music Suite Judge Ellen Johanns
 
 
 Musical Theatre MT 10
-Center 2 Music Suite Judge Ellen Johanns
+Room Music Suite Center 2 Judge Ellen Johanns
 0900
 0915
 0930
@@ -37,7 +37,7 @@ Center 2 Music Suite Judge Ellen Johanns
 ##Category Change
 
 Choral Reading CR 15
-Center 2 Music Suite Judge Ellen Johanns
+Room Music Suite Center 2 Judge Ellen Johanns
 1000
 1020
 1040
@@ -46,7 +46,7 @@ Center 2 Music Suite Judge Ellen Johanns
 ##Category Change
 
 Musical Theatre MT 10
-Center 2 Music Suite Judge Ellen Johanns
+Room Music Suite Center 2 Judge Ellen Johanns
 1115
 1130
 1145
@@ -56,14 +56,14 @@ Center 2 Music Suite Judge Ellen Johanns
 ##Lunch
 
 Choral Reading CR 15
-Center 2 Music Suite Judge Ellen Johanns
+Room Music Suite Center 2 Judge Ellen Johanns
 1310
 1330
 1350
 1405 Break 
 
 Musical Theatre MT 10
-Center 2 Music Suite Judge Ellen Johanns
+Room Music Suite Center 2 Judge Ellen Johanns
 1410
 1425
 1440
@@ -73,7 +73,7 @@ Center 2 Music Suite Judge Ellen Johanns
 ##14 entries
 
 Choral Reading CR 15
-Center 2 Music Suite Judge Ellen Johanns
+Room Music Suite Center 2 Judge Ellen Johanns
 1525
 1540
 1555
@@ -81,7 +81,7 @@ Center 2 Music Suite Judge Ellen Johanns
 
 
 Group Improvisation GI 8
-Center 3 Library Judge Jake Manternach
+Room Library Center 3 Judge Jake Manternach
 0800
 0810
 0820
@@ -124,7 +124,7 @@ Center 3 Library Judge Jake Manternach
 
 
 Readers Theatre RT 25
-Center 4 Room 107 Judge Linsey Schoel
+Room 107 Center 4 Judge Linsey Schoel
 0800
 0830
 0900
@@ -143,11 +143,11 @@ Center 4 Room 107 Judge Linsey Schoel
 
 
 Group Mime GM 7
-Center 5 Room 222 Judge Hailey Manternach
+Room 222 Center 5 Judge Hailey Manternach
 0800
 
 Solo Mime SM 5
-Center 5 Room 222 Judge Hailey Manternach
+Room 222 Center 5 Judge Hailey Manternach
 0810
 0820
 0830
@@ -159,7 +159,7 @@ Center 5 Room 222 Judge Hailey Manternach
 ##Category Change
 
 Group Mime GM 7
-Center 5 Room 222 Judge Hailey Manternach
+Room 222 Center 5 Judge Hailey Manternach
 0920
 0930 
 0940 
@@ -170,7 +170,7 @@ Center 5 Room 222 Judge Hailey Manternach
 ##Category Change
 
 Short Film SF 6
-Center 5 Room 222 Judge Hailey Manternach
+Room 222 Center 5 Judge Hailey Manternach
 1020
 1030
 1040
@@ -185,7 +185,7 @@ Center 5 Room 222 Judge Hailey Manternach
 ##Lunch
 
 Short Film SF 6
-Center 5 Room 222 Judge Hailey Manternach
+Room 222 Center 5 Judge Hailey Manternach
 1230
 1240
 1250
@@ -197,7 +197,7 @@ Center 5 Room 222 Judge Hailey Manternach
 ##15 entries
 
 Solo Mime SM 5
-Center 5 Room 222 Judge Hailey Manternach
+Room 222 Center 5 Judge Hailey Manternach
 1330
 1340
 1350
@@ -210,7 +210,7 @@ Center 5 Room 222 Judge Hailey Manternach
 ##14 entries
 
 Group Mime GM 7
-Center 5 Room 222 Judge Hailey Manternach
+Room 222 Center 5 Judge Hailey Manternach
 1440
 1450
 1500
@@ -223,7 +223,7 @@ Center 5 Room 222 Judge Hailey Manternach
 
 
 Ensemble Acting EA 15
-Center 6 Room 223 Judge Dennis Hull
+Room 223 Center 6 Judge Dennis Hull
 0800
 0820
 0840
@@ -237,7 +237,7 @@ Center 6 Room 223 Judge Dennis Hull
 ##Category Change
 
 Television News TVN 10
-Center 6 Room 223 Judge Dennis Hull
+Room 223 Center 6 Judge Dennis Hull
 1040
 1055
 1110
@@ -250,7 +250,7 @@ Center 6 Room 223 Judge Dennis Hull
 ##7 entries
 
 Ensemble Acting EA 15
-Center 6 Room 223 Judge Dennis Hull
+Room 223 Center 6 Judge Dennis Hull
 1300
 1320
 1340
@@ -265,7 +265,7 @@ Center 6 Room 223 Judge Dennis Hull
 
 
 Radio Broadcasting RB 7
-Center 7 Room 228 Judge Mike Jackson
+Room 228 Center 7 Judge Mike Jackson
 0800
 0810
 0820
@@ -290,7 +290,7 @@ Center 7 Room 228 Judge Mike Jackson
 ##17 entries
 
 Ensemble Acting EA 15
-Center 7 Room 228 Judge Mike Jackson
+Room 228 Center 7 Judge Mike Jackson
 1100
 1120
 1140
