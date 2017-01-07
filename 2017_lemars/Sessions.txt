@@ -22,14 +22,14 @@ Room MS Band Center 1
 1300	
 1320
 1340
-1400 break
+1400 
 
 Readers Theatre RT 25
 Room MS Band Center 1
-1415
-1445
-1515
-1545
+1420
+1450
+1520
+1550
 
 
 Readers Theatre RT 25
@@ -49,6 +49,7 @@ Room MS Choir Center 2
 1410
 1440
 1510
+1540
 
 
 One Act Play OA 35
@@ -252,6 +253,7 @@ Room HS 111 Center 8
 1540
 1550
 1600
+1610
 
 TV News TV 12
 Room HS 111 Center 8
