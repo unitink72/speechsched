@@ -205,19 +205,21 @@ Room 222 Center 5 Judge Hailey Manternach
 1410
 1420
 1430
-1439 Break
+1440
+1449 Break
 ##Category Change
 ##14 entries
 
 Group Mime GM 7
 Room 222 Center 5 Judge Hailey Manternach
-1440
 1450
 1500
 1510
 1520
 1530
 1540
+1550
+1600
 ##15 entries
 
 
