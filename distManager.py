@@ -105,7 +105,7 @@ class DistManager:
              #One or both schools don't have an address
              dist = 0
           else:
-             self.logger.msg('Addr:%s: Addr:%s:)' % (self.schoolAddr[school1],self.schoolAddr[school2]))
+             #self.logger.msg('Addr:%s: Addr:%s:)' % (self.schoolAddr[school1],self.schoolAddr[school2]))
              dist = self.timeFetcher.getDist (self.schoolAddr[school1],     \
                                               self.schoolAddr[school2])
           
