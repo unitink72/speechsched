@@ -28,9 +28,10 @@ class DistManager:
       self.nestedDict = defaultdict(dict)
       self.schoolAddr = {}
     #end if
-    self.timeFetcher = drivingTime.DrivingTime(config)
-    self.logger      = logger
-    self.hostSchool  = 0
+    self.timeFetcher  = drivingTime.DrivingTime(config)
+    self.logger       = logger
+    self.hostSchool   = 0
+    self.allAddrValid = 1
   #end __init__
 
 
@@ -59,6 +60,7 @@ class DistManager:
       self.schoolAddr[school] = address
       if not address:
          self.logger.msg('School %s has blank City in schoolsExport.csv' % school)
+         self.allAddrValid = 0
   #end addSchools
 
   def driveTimeLookup(self, school1, school2):
@@ -174,5 +176,9 @@ class DistManager:
     self.logger.msg ('School addresses')
     for key in self.schoolAddr:
       self.logger.msg ('%s - %s' % (formatSch(key), self.schoolAddr[key]))
+
+  def allAddressesValid(self):
+     #Returns true of all school lookups were given a non-blank city/address string
+     return self.allAddrValid
 
   #end printTimes
