@@ -535,7 +535,11 @@ for school in schoolInfo:
 distMgr = distManager.DistManager(logger,config)
 for school, data in schoolInfo.items():
   if data['inContest']:
-    distMgr.addSchool(school, data['city'] + ',IA')
+    if data['city']:
+       distMgr.addSchool(school, data['city'] + ',IA')
+    else:
+       #No city is given.  distMgr handles this gracefully
+       distMgr.addSchool(school, '')
     
 hostSchoolId = config['HOST_SCHOOL_ID']
 if not hostSchoolId in schoolInfo:
