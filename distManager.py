@@ -28,9 +28,10 @@ class DistManager:
       self.nestedDict = defaultdict(dict)
       self.schoolAddr = {}
     #end if
-    self.timeFetcher = drivingTime.DrivingTime(config)
-    self.logger      = logger
-    self.hostSchool  = 0
+    self.timeFetcher  = drivingTime.DrivingTime(config)
+    self.logger       = logger
+    self.hostSchool   = 0
+    self.allAddrValid = 1
   #end __init__
 
 
@@ -57,6 +58,9 @@ class DistManager:
       #Adding a new school to the list (new row).  Add a column for each existing school.
       self.nestedDict[school] = dict.fromkeys(list(self.nestedDict.keys()))
       self.schoolAddr[school] = address
+      if not address:
+         self.logger.msg('School %s has blank City in schoolsExport.csv' % school)
+         self.allAddrValid = 0
   #end addSchools
 
   def driveTimeLookup(self, school1, school2):
@@ -94,15 +98,25 @@ class DistManager:
 
         #If this dict's value is None and the table's compliment doesn't exist or
         #is None, perform the lookup.
-        if (school1 == hostSchool or school2 == hostSchool) and \
-           self.nestedDict[school1][school2] is None and        \
-        (  school1 not in self.nestedDict[school2] or           \
-           self.nestedDict[school2][school1] is None ):
+        if (school1 == hostSchool or school2 == hostSchool) and          \
+            self.nestedDict[school1][school2] is None and                \
+            (  school1 not in self.nestedDict[school2] or                \
+               self.nestedDict[school2][school1] is None ):
 
-          self.logger.msg('getDist %s:%s %s %s' % (school1, school2, formatSch(self.schoolAddr[school1]), formatSch(self.schoolAddr[school2])))
-          self.nestedDict[school1][school2] = self.timeFetcher.getDist                \
-                                                       (self.schoolAddr[school1],     \
-                                                        self.schoolAddr[school2])
+          if not self.schoolAddr[school1] or not self.schoolAddr[school2]:
+             #One or both schools don't have an address
+             dist = 0
+          else:
+             #self.logger.msg('Addr:%s: Addr:%s:)' % (self.schoolAddr[school1],self.schoolAddr[school2]))
+             dist = self.timeFetcher.getDist (self.schoolAddr[school1],     \
+                                              self.schoolAddr[school2])
+          
+          self.nestedDict[school1][school2] = dist
+          self.logger.msg('getDist %s:%s %s %s (%d)' % (school1,         \
+                                                        school2,         \
+                                                        formatSch(self.schoolAddr[school1]), \
+                                                        formatSch(self.schoolAddr[school2]), \
+                                                        dist))
 #    for school1 in self.nestedDict.keys():
 #      if school1 != hostSchool and                           \
 #         self.nestedDict[hostSchool][school1] == None and    \
@@ -132,11 +146,15 @@ class DistManager:
         (  school1 not in self.nestedDict[school2] or     \
            self.nestedDict[school2][school1] is None ):
 
-          self.logger.msg('getDist %s %s' % (formatSch(self.schoolAddr[school1]), formatSch(self.schoolAddr[school2])))
-          self.nestedDict[school1][school2] = self.timeFetcher.getDist                \
-                                                       (self.schoolAddr[school1],     \
-                                                        self.schoolAddr[school2])
+          dist = self.timeFetcher.getDist (self.schoolAddr[school1],     \
+                                           self.schoolAddr[school2])
 
+          self.nestedDict[school1][school2] = dist
+          self.logger.msg('getDist %s:%s %s %s (%d)' % (school1,         \
+                                                        school2,         \
+                                                        formatSch(self.schoolAddr[school1]), \
+                                                        formatSch(self.schoolAddr[school2]), \
+                                                        dist))
   #end calculateTimes
 
   def printTimes(self):
@@ -158,5 +176,9 @@ class DistManager:
     self.logger.msg ('School addresses')
     for key in self.schoolAddr:
       self.logger.msg ('%s - %s' % (formatSch(key), self.schoolAddr[key]))
+
+  def allAddressesValid(self):
+     #Returns true of all school lookups were given a non-blank city/address string
+     return self.allAddrValid
 
   #end printTimes

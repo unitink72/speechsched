@@ -9,20 +9,20 @@
 ##    Conetest Settings
 ###############################################################################
 #Master student.csv and school.csv files dumped from IHSSA website
-MASTER_FILE_PATH = '2016Master'
+MASTER_FILE_PATH = '2017Master'
 
 #Used for drive time lookup. Use Column A from SchoolsExport.csv
-HOST_SCHOOL_ID = 618 #Grinnell
+HOST_SCHOOL_ID = 508 #Clarke Community - Osceola
 
 #List of sitenames for this contest.  Will only be 1 for district contests,
 # four for state contests.  Must match case EXACTLY from registration data.
-CONTEST_SITENAME = ['Grinnell']
+CONTEST_SITENAME = ['Clarke, Osceola']
 
 #Is this a Large Group or Individual Speech contest. 'Group' or 'Indiv'
 CONTEST_TYPE = 'Group'
 
 #School codes can either be 3-digit numbers or 2 letters. 0=Numbers, 1=Letters
-SCHOOL_CODE_CHARS = 1
+SCHOOL_CODE_CHARS = 0
 
 ###############################################################################
 ##    Fitness Function Settings
@@ -70,7 +70,7 @@ BEST_SCORE_PRINT_MINS     = 5
 
 STAGE_1_ARRAY_SIZE        = 20    #10
 STAGE_1_MINUTES_PER_FLUSH = 10
-STAGE_1_HOURS             = 10   #7
+STAGE_1_HOURS             = 24   #7
 STAGE_2_HOURS             = 0.5  #1
 
 ###############################################################################

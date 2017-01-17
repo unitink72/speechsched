@@ -473,8 +473,10 @@ if not os.path.exists(sys.argv[1]):
 randGenMain = random.SystemRandom()
 
 #Setup output folder and Logger for this run
-jobFolder   = os.path.join(os.getcwd(), sys.argv[1])
-outFolder   = os.path.join(jobFolder, timeStamp())
+contestFolder   = sys.argv[1]
+timeStampFolder = timeStamp()
+jobFolder       = os.path.join(os.getcwd(), contestFolder)
+outFolder       = os.path.join(jobFolder, timeStampFolder)
 try:
    os.makedirs(outFolder)
 except FileExistsError:
@@ -535,12 +537,21 @@ for school in schoolInfo:
 distMgr = distManager.DistManager(logger,config)
 for school, data in schoolInfo.items():
   if data['inContest']:
-    distMgr.addSchool(school, data['city'] + ',IA')
-    
+    if data['city']:
+       distMgr.addSchool(school, data['city'] + ',IA')
+    else:
+       #No city is given.  distMgr handles this gracefully
+       distMgr.addSchool(school, '')
+
 hostSchoolId = config['HOST_SCHOOL_ID']
 if not hostSchoolId in schoolInfo:
   print('ERROR: Host school not in contest')
-distMgr.setHostSchool(hostSchoolId)    
+
+distMgr.setHostSchool(hostSchoolId)
+if not distMgr.allAddressesValid():
+   sys.exit('\nschoolsExport.csv missing City data.\n  See %s%s/runLog.txt' %  \
+                                               (contestFolder,timeStampFolder))
+
 for school,data in schoolInfo.items():
   if data['inContest']:
     data['driveTime'] = distMgr.driveTimeLookup(hostSchoolId,school)
