@@ -440,7 +440,7 @@ Room 1333 Center 11
 1540
 1550
 
-Radio News RN 6
+Radio Broadcasting RB 6
 Room 1311 Center 12    
 800
 810
