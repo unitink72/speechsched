@@ -533,31 +533,36 @@ def readStudentWebCsv(entriesList, fileName):
 #  }
   csvFields = cats.studentRegFields()
 
-  for row in reader:
-    if row['RegistrationID'] == '':
-      continue
-      
-    csvRegId    = int(row['RegistrationID'])
-    csvCategory = row['Category']
+  currentLine = 1
+  try:
+    for row in reader:
+      if row['RegistrationID'] == '':
+        continue
+        
+      csvRegId    = int(row['RegistrationID'])
+      csvCategory = row['Category']
 
-    for entry in entriesList:
-      if entry['regId'] == csvRegId and                     \
-         not entry['studentDataFilled'] and                 \
-         csvFields[csvCategory][0] == entry['catShort'] and \
-         csvFields[csvCategory][1] == entry['catSchoolIdx']:
-#INDV         csvCategory.lower() == cats.shortToLong(entry['catShort']).lower():
-#INDV This replaces the two lines above containing csvCategory
-         
-         #This student row matches by regId (school),
-         # category and index(1-3)
-         entry['performers'].append(row['Name'])
-#INDIV         entry['entryTitle'] = row['Title']
-         #Mark this one as filled.  Useful for INDV only
-#INDIV         entry['studentDataFilled'] = True
-         #print('Placed ', row['Name'])
-         break
-     #else:
-      #print('No entry match for student ' + row['Name'] + ' ' +row['Category'])
+      for entry in entriesList:
+        if entry['regId'] == csvRegId and                     \
+           not entry['studentDataFilled'] and                 \
+           csvFields[csvCategory][0] == entry['catShort'] and \
+           csvFields[csvCategory][1] == entry['catSchoolIdx']:
+  #INDV         csvCategory.lower() == cats.shortToLong(entry['catShort']).lower():
+  #INDV This replaces the two lines above containing csvCategory
+           
+           #This student row matches by regId (school),
+           # category and index(1-3)
+           entry['performers'].append(row['Name'])
+  #INDIV         entry['entryTitle'] = row['Title']
+           #Mark this one as filled.  Useful for INDV only
+  #INDIV         entry['studentDataFilled'] = True
+           #print('Placed ', row['Name'])
+           break
+       #else:
+        #print('No entry match for student ' + row['Name'] + ' ' +row['Category'])
+    currentLine += 1
+  except:
+     sys.exit('Unexpected error in students.csv line %d' % currentLine)
 #end readStudentWebCsv() ######################################################
 ###############################################################################
 
