@@ -372,117 +372,122 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
 #    ['GroupMimeName1','GroupMimeName2','GroupMimeName3'],     \
 #    ['SoloMimeName1','SoloMimeName2','SoloMimeName3']         \
 #  ]
+  currentLine = 1
+  try:
+    for row in reader:
+      schoolNameCsv  = row['SchoolName'].rstrip()
+      siteNameCsv    = row['sitename'].rstrip()
+      schoolIdCsvRaw = row['SchoolID'].rstrip()
+      if not str.isdigit(schoolIdCsvRaw):
+        #If we have a multi-year schoolReg dump, the early years don't have schoolIDs. Skip them.
+        continue
+      #TODO don't process previous year's entries
+      schoolIdCsv   = int(schoolIdCsvRaw)
+      regIdCsv      = int(row['RegistrationID'])
+      #print(schoolCsv + ' RegId:%i' % regIdCsv)
 
-  for row in reader:
-    schoolNameCsv  = row['SchoolName'].rstrip()
-    siteNameCsv    = row['sitename'].rstrip()
-    schoolIdCsvRaw = row['SchoolID'].rstrip()
-    if not str.isdigit(schoolIdCsvRaw):
-      #If we have a multi-year schoolReg dump, the early years don't have schoolIDs. Skip them.
-      continue
-    #TODO don't process previous year's entries
-    schoolIdCsv   = int(schoolIdCsvRaw)
-    regIdCsv      = int(row['RegistrationID'])
-    #print(schoolCsv + ' RegId:%i' % regIdCsv)
+      #Check that this school is registered for the contest we are running, or ALL has been specified
+      if siteNameCsv not in siteName:
+        #print ('Skipping %s',  schoolNameCsv)
+        continue      
 
-    #Check that this school is registered for the contest we are running, or ALL has been specified
-    if siteNameCsv not in siteName:
-      #print ('Skipping %s',  schoolNameCsv)
-      continue      
-
-    schoolCount += 1
-    
-    #Validate that this school is in the schoolInfo dict
-    if schoolIdCsv not in schoolInfo:
-      print('Schools Export/School Registration missing on School ID %i %s' % (schoolIdCsv,schoolNameCsv))
-      ioLog.msg('Schools Export/School Registration missing on School ID %i %s' % (schoolIdCsv,schoolNameCsv))
-    elif schoolNameCsv != schoolInfo[schoolIdCsv]['name']:
-      print('Schools Export/School Registration name mismatch on ID %i "%s" "%s"' % (schoolIdCsv,schoolNameCsv,schoolInfo[schoolIdCsv]['name']))
-      ioLog.msg('Schools Export/School Registration name mismatch on ID %i "%s" "%s"' % (schoolIdCsv,schoolNameCsv,schoolInfo[schoolIdCsv]['name']))
-    else:
-      if not schoolInfo[schoolIdCsv]['inContest']:
-        schoolInfo[schoolIdCsv]['inContest'] = True
-
-        firstLoopIteration = True
-        if codeChar == 0:
-           while firstLoopIteration   or         \
-                 newCode in usedCodes or         \
-                 int(newCode) <= 100:
-             newCode = rnd.choice(string.digits) + rnd.choice(string.digits) + rnd.choice(string.digits)
-             firstLoopIteration = False
-        else:
-           while firstLoopIteration or         \
-                 newCode in usedCodes or       \
-                 newCodeMirror in usedCodes:
-             newCode = rnd.choice(string.ascii_uppercase) + rnd.choice(string.ascii_uppercase)
-             newCodeMirror = newCode[1] + newCode[0]
-             firstLoopIteration = False
-
-        usedCodes.append(newCode)
-        schoolInfo[schoolIdCsv]['code'] = newCode
-
-    #Writing a number over the yes/no values seems to wipe out the whole
-    # row object.  So keep a seperate copy to act on here
-    catCount = {}
-    for performanceCat in cats.longList():
-      if row[performanceCat].isdigit():
-        countFromCsv = row[performanceCat]
+      schoolCount += 1
+      
+      #Validate that this school is in the schoolInfo dict
+      if schoolIdCsv not in schoolInfo:
+        print('Schools Export/School Registration missing on School ID %i %s' % (schoolIdCsv,schoolNameCsv))
+        ioLog.msg('Schools Export/School Registration missing on School ID %i %s' % (schoolIdCsv,schoolNameCsv))
+      elif schoolNameCsv != schoolInfo[schoolIdCsv]['name']:
+        print('Schools Export/School Registration name mismatch on ID %i "%s" "%s"' % (schoolIdCsv,schoolNameCsv,schoolInfo[schoolIdCsv]['name']))
+        ioLog.msg('Schools Export/School Registration name mismatch on ID %i "%s" "%s"' % (schoolIdCsv,schoolNameCsv,schoolInfo[schoolIdCsv]['name']))
       else:
-        countFromCsv = 0
-        print('Warning: Not a number in schoolReg.csv RegID:%d %s %s' % (regIdCsv, schoolNameCsv, performanceCat))
-      catCount[performanceCat] = int(countFromCsv)
+        if not schoolInfo[schoolIdCsv]['inContest']:
+          schoolInfo[schoolIdCsv]['inContest'] = True
 
-    if cats.isGroupContest():
-      #####################################################
-      ############        GROUP CONTEST          ##########
-      #####################################################
-      #INDV fields = cats.schoolRegMap()
-      for perfCat,csvNameList in cats.schoolRegMap().items():
-        #print('  ' + perfCat + ' ' + str(catCount[perfCat]))
-        for entryNum in range(catCount[perfCat]):
-          csvColName = csvNameList[entryNum]
-          #print('    ' + csvColName + ' ' + row[csvColName])
-          newE = {'schoolId'      : schoolIdCsv,                     \
-                  'regId'         : regIdCsv,                        \
-                  'catShort'      : cats.longToShort(perfCat),       \
-                  'category'      : perfCat,                         \
-                  'catSchoolIdx'  : entryNum+1,                      \
-                  'index'         : entryIndex,                      \
-                  'inContest'     : False,                           \
-                  'entryTitle'    : row[csvColName],                 \
-                  'performers'    : [],                              \
-                  'earliestStart' : 100,                             \
-                  'latestEnd'     : 2300,                            \
-                  'studentDataFilled' : False}
+          firstLoopIteration = True
+          if codeChar == 0:
+             while firstLoopIteration   or         \
+                   newCode in usedCodes or         \
+                   int(newCode) <= 100:
+               newCode = rnd.choice(string.digits) + rnd.choice(string.digits) + rnd.choice(string.digits)
+               firstLoopIteration = False
+          else:
+             while firstLoopIteration or         \
+                   newCode in usedCodes or       \
+                   newCodeMirror in usedCodes:
+               newCode = rnd.choice(string.ascii_uppercase) + rnd.choice(string.ascii_uppercase)
+               newCodeMirror = newCode[1] + newCode[0]
+               firstLoopIteration = False
 
-          #print('E SchoolId %d RegId %d' % (schoolIdCsv, regIdCsv))
-          #StudentDataFilled is used by the student data reader to show that
-          # entry's student and entry name have been filled in.  Only used
-          # for individual contest logic
-          entriesList.append(newE)
-          #Adding a unique index makes it easy to compare entries for equality,
-          #instead of doing a bunch of string and list comparisons.
-          entryIndex += 1
-    else:
-      #####################################################
-      ############        INDIVIDUAL CONTEST     ##########
-      #####################################################
-      for perfCat in cats.longList():
-        for entryNum in range(catCount[perfCat]):
-          #print('    ' + csvColName) ;
-          newE = {'schoolId'      : schoolIdCsv,                     \
-                  'regId'         : regIdCsv,                        \
-                  'catShort'      : cats.longToShort(perfCat),       \
-                  'catSchoolIdx'  : entryNum+1,                      \
-                  'index'         : entryIndex,                      \
-                  'inContest'     : False,                           \
-                  'performers'    : [],                              \
-                  'earliestStart' : 100,                             \
-                  'latestEnd'     : 2300,                            \
-                  'studentDataFilled' : False}
+          usedCodes.append(newCode)
+          schoolInfo[schoolIdCsv]['code'] = newCode
 
-          entriesList.append(newE)
-          entryIndex += 1
+      #Writing a number over the yes/no values seems to wipe out the whole
+      # row object.  So keep a seperate copy to act on here
+      catCount = {}
+      for performanceCat in cats.longList():
+        if row[performanceCat].isdigit():
+          countFromCsv = row[performanceCat]
+        else:
+          countFromCsv = 0
+          print('Warning: Not a number in schoolReg.csv RegID:%d %s %s' % (regIdCsv, schoolNameCsv, performanceCat))
+        catCount[performanceCat] = int(countFromCsv)
+
+      if cats.isGroupContest():
+        #####################################################
+        ############        GROUP CONTEST          ##########
+        #####################################################
+        #INDV fields = cats.schoolRegMap()
+        for perfCat,csvNameList in cats.schoolRegMap().items():
+          #print('  ' + perfCat + ' ' + str(catCount[perfCat]))
+          for entryNum in range(catCount[perfCat]):
+            csvColName = csvNameList[entryNum]
+            #print('    ' + csvColName + ' ' + row[csvColName])
+            newE = {'schoolId'      : schoolIdCsv,                     \
+                    'regId'         : regIdCsv,                        \
+                    'catShort'      : cats.longToShort(perfCat),       \
+                    'category'      : perfCat,                         \
+                    'catSchoolIdx'  : entryNum+1,                      \
+                    'index'         : entryIndex,                      \
+                    'inContest'     : False,                           \
+                    'entryTitle'    : row[csvColName],                 \
+                    'performers'    : [],                              \
+                    'earliestStart' : 100,                             \
+                    'latestEnd'     : 2300,                            \
+                    'studentDataFilled' : False}
+
+            #print('E SchoolId %d RegId %d' % (schoolIdCsv, regIdCsv))
+            #StudentDataFilled is used by the student data reader to show that
+            # entry's student and entry name have been filled in.  Only used
+            # for individual contest logic
+            entriesList.append(newE)
+            #Adding a unique index makes it easy to compare entries for equality,
+            #instead of doing a bunch of string and list comparisons.
+            entryIndex += 1
+      else:
+        #####################################################
+        ############        INDIVIDUAL CONTEST     ##########
+        #####################################################
+        for perfCat in cats.longList():
+          for entryNum in range(catCount[perfCat]):
+            #print('    ' + csvColName) ;
+            newE = {'schoolId'      : schoolIdCsv,                     \
+                    'regId'         : regIdCsv,                        \
+                    'catShort'      : cats.longToShort(perfCat),       \
+                    'catSchoolIdx'  : entryNum+1,                      \
+                    'index'         : entryIndex,                      \
+                    'inContest'     : False,                           \
+                    'performers'    : [],                              \
+                    'earliestStart' : 100,                             \
+                    'latestEnd'     : 2300,                            \
+                    'studentDataFilled' : False}
+
+            entriesList.append(newE)
+            entryIndex += 1
+
+      currentLine += 1
+  except:
+     sys.exit('Unexpected error in schoolReg.csv line %d' % currentLine)
 
   if not ioLog is None:
     ioLog.msg ('Loaded %d schools, %d entries' % (schoolCount,entryIndex))
