@@ -472,9 +472,6 @@ Room W252 Center 13
 1620
 1640
 1655 Break
- 
-
-
 
 ##lunch at 1200
 Radio Broadcasting RB 6
