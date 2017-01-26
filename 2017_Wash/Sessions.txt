@@ -24,8 +24,8 @@
 ## 20 Centers
 
 
-## Lunch 1130
-Reader's Theatre RT 25
+##Lunch 1130
+Readers Theatre RT 25
 Room 120A Band Room Center 1
 0800
 0830
@@ -49,7 +49,7 @@ Room 120A Band Room Center 1
 1559 Break
 
 ##Lunch 1130
-Reader's Theatre RT 25
+Readers Theatre RT 25
 Room 120B Band Room Center 2
 0800
 0830
@@ -647,7 +647,7 @@ Room 233 Center 16
 
 
 ##Lunch 1130
-Reader's Theatre RT 25
+Readers Theatre RT 25
 Room IMC Library Center 17
 0800
 0830
