@@ -149,7 +149,7 @@ Room 1630 Center 4
 
 Group Mime GM 7
 Room 1728/Dance Room Center 5
-    
+
 800
 809
 818
@@ -187,7 +187,7 @@ Room 1728/Dance Room Center 5
 
 Solo Mime SM 5
 Room 1728/Dance Room Center 5
-        
+
 1000
 1007
 1014
@@ -206,7 +206,7 @@ Room 1728/Dance Room Center 5
 1552
 1600
 
-        
+
 Musical Theatre  MT 10
 Room 1723/Choir Room Center 6        
 800
@@ -242,7 +242,7 @@ Room 1723/Choir Room Center 6
 1615
 1630
 1645
-        
+
 Musical Theatre  MT 10
 Room 1721/Orchestra Room Center 7        
 800
@@ -278,8 +278,8 @@ Room 1721/Orchestra Room Center 7
 1615
 1630
 1645
-        
-        
+
+
 Readers Theatre RT 25
 Room 1731/Drama Room Center 8        
 
@@ -304,7 +304,7 @@ Room 1731/Drama Room Center 8
 1645
 
 
-    
+
 Group Improv GI 8
 Room 1321 Center 9        
 800
@@ -348,7 +348,7 @@ Room 1321 Center 9
 1530
 1540
 
-        
+
 Group Improv GI 8
 Room 1343 Center 10        
 800
@@ -395,7 +395,7 @@ Room 1343 Center 10
 
 
 
-        
+
 Group Improv GI 8
 Room 1333 Center 11        
 800
@@ -484,7 +484,7 @@ Room 1311 Center 12
 
 
 
-                
+
 Television News TV 10
 Room 1314 Center 14        
 945
@@ -533,7 +533,7 @@ Room 1314 Center 14
 1530
 1540 Break
 
-        
+
 Choral Reading CR 15
 Room Band Hall South Center 15        
 800
@@ -572,7 +572,7 @@ Room Band Hall South Center 15
 1806
 1824
 1842
-        
+
 Readers Theatre RT 25
 Room Band Hall North Center 16        
 800
@@ -611,7 +611,7 @@ Room 1506 Forum Center 17
 1445
 1500
 1515 Break
-    
+
 Short Film SF 6
 Room 1506 Forum Center 17        
 940
