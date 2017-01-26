@@ -287,6 +287,7 @@ Room W152 Center 9
 1620
 1640
 1655 Break
+1700
 
 
 ##Lunch 1200
@@ -324,6 +325,7 @@ Room W153 Center 10
 1620
 1640
 1655 Break
+1700
 
 ##Lunch 1230
 Short Film SF 6
@@ -472,6 +474,7 @@ Room W252 Center 13
 1620
 1640
 1655 Break
+1700
 
 ##lunch at 1200
 Radio Broadcasting RB 6
@@ -702,6 +705,11 @@ Room 225 Center 18
 1545
 1554
 1559 Break
+1630
+1639
+1648
+1657
+1706
 
 
 ##Lunch 1200
