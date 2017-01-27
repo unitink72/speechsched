@@ -530,7 +530,7 @@ for school in schoolInfo:
       break
   if not Found:
     schoolInfo[school]['inContest'] = False
-      
+
 
 #Fill in school address info, force a write to cache.  Clients
 # will read this cache for their distance lookups.
@@ -626,6 +626,7 @@ jobCurrentSize = jobMinSize
 #DEBUG for getting a quick printout
 schedIO.printSched (schedule   = rdm[2],                \
                     schoolInf  = schoolInfo,            \
+                    entriesLst = entriesList,           \
                     outFolder  = outFolder + '/xx')
 
 while True:
@@ -651,6 +652,7 @@ while True:
       if not os.path.exists(scorePrintFolder):
         schedIO.printSched (schedule   = topScores[lowestScoreIdx],  \
                             schoolInf  = schoolInfo,                 \
+                            entriesLst = entriesList,                \
                             outFolder  = scorePrintFolder)
         schedFitness.fitnessTest (schedl     = topScores[lowestScoreIdx],    \
                                   saveReport = True,                         \
@@ -661,7 +663,8 @@ while True:
       scorePrintFolder              = os.path.join(outFolder, str(math.floor(lowestScore)))
       if not os.path.exists(scorePrintFolder):
         schedIO.printSched (schedule   = rdm[lowestScoreIdx],   \
-                            schoolInf = schoolInfo,            \
+                            schoolInf = schoolInfo,             \
+                            entriesLst = entriesList,           \
                             outFolder  = scorePrintFolder)
         schedFitness.fitnessTest (schedl     = rdm[lowestScoreIdx],    \
                                   saveReport = True,                   \
@@ -800,7 +803,8 @@ if not os.path.exists(scorePrintFolder):
   fitnessFile      = os.path.join(scorePrintFolder, 'fitnessReport.txt')
 
   schedIO.printSched       (schedule   = rdm[lowestScoreIdx],   \
-                            schoolInf = schoolInfo,            \
+                            schoolInf = schoolInfo,             \
+                            entriesLst = entriesList,           \
                             outFolder  = scorePrintFolder)
   validateSched(rdm[lowestScoreIdx], sessionList, entriesList, logger)
 

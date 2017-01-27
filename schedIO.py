@@ -210,11 +210,12 @@ def readSessionsFile(fileName):
 #end readSessionsFile #########################################################
 ###############################################################################
 
-def printSched(schedule, schoolInf, outFolder):
+def printSched(schedule, schoolInf, entriesLst, outFolder):
   bySchoolFolder      = os.path.join(outFolder, 'BySchool')
   byRoomFolder        = os.path.join(outFolder, 'ByRoom')
   byRoomCodedFolder   = os.path.join(outFolder, 'ByRoomCoded')
-  
+  binFolder           = os.path.join(outFolder, 'bin')
+
   if os.path.exists(outFolder):
     ioLog.msg('Score %d already printed, skipping' % schedule['score'])
     return  #We've already printed this score
@@ -224,10 +225,19 @@ def printSched(schedule, schoolInf, outFolder):
   os.mkdir(bySchoolFolder)
   os.mkdir(byRoomFolder)
   os.mkdir(byRoomCodedFolder)
+  os.mkdir(binFolder)
 
   #Pickled schedule
-  f = open(os.path.join(outFolder, 'schedule.bin'),'wb')
+  f = open(os.path.join(binFolder, 'schedule.bin'),'wb')
   pickle.dump(schedule, f)
+  f.close()
+  f = open(os.path.join(binFolder, 'schoolInfo.bin'),'wb')
+  pickle.dump(schoolInf, f)
+  f.close()
+  f = open(os.path.join(binFolder, 'entryList.bin'),'wb')
+  pickle.dump(entriesLst, f)
+  f.close()
+
 
   f = open(os.path.join(outFolder, 'masterSched.csv'), 'w', newline='\r\n')
   #f.write ('Score %d\n' % schedule['score'])
