@@ -102,6 +102,7 @@ Room Choir Room Center 3
 1500
 1520
 1535 Break
+1540
 
 
 
@@ -220,6 +221,7 @@ Room 105D Center 7
 1600
 1615
 1625 Break
+1630
 
 ##Lunch 1200
 TV News TV 10
@@ -326,6 +328,7 @@ Room W153 Center 10
 1640
 1655 Break
 1700
+1720
 
 ##Lunch 1230
 Short Film SF 6
@@ -438,6 +441,7 @@ Room 249 Center 12
 1645
 1654
 1703
+1712
 
 ##Lunch 1200
 Ensemble Acting EA 15
@@ -600,6 +604,7 @@ Room 236 Center 15
 1645
 1654
 1703
+1712
 
 ##Lunch 1230
 Musical Theatre MT 10
@@ -705,11 +710,11 @@ Room 225 Center 18
 1545
 1554
 1559 Break
-1630
-1639
-1648
-1657
-1706
+1615
+1624
+1633
+1642
+1651
 
 
 ##Lunch 1200
@@ -741,8 +746,7 @@ Room 105D Center 18
 1459 Break
 1600
 1609
-1618
-1626 Break
+
 
 
 
