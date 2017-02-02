@@ -1,3 +1,4 @@
+import copy
 import datetime
 import glob
 import os
@@ -89,115 +90,118 @@ for x in schedule['lst']:
 userContinue = True
 
 while userContinue:
-	print ('')
-	for x in range(len(catList)):
-	   print ('%2d) %s' % (x+1, catList[x]))
-	userIn = input('Select cateogry to swap: ')
-	swapCat = catList[int(userIn)-1]
-	print(swapCat)
+    print ('')
+    for x in range(len(catList)):
+       print ('%2d) %s' % (x+1, catList[x]))
+    userIn = input('Select cateogry to swap: ')
+    swapCat = catList[int(userIn)-1]
+    print(swapCat)
 
-	schoolList = []
-	for x in schedule['lst']:
-	   if 'entry' in x and                           \
-	      x['entry']['catShort'] == swapCat and      \
-	      x['entry']['schoolId'] not in schoolList:
-	      schoolList.append(x['entry']['schoolId'])
+    schoolList = []
+    for x in schedule['lst']:
+       if 'entry' in x and                           \
+          x['entry']['catShort'] == swapCat and      \
+          x['entry']['schoolId'] not in schoolList:
+          schoolList.append(x['entry']['schoolId'])
 
-	print ('')
-	for x in range(len(schoolList)):
-	   print ('%2d) %s' % (x+1, schoolInfo[schoolList[x]]['name']))
-	userIn = input('\nSelect first school: ')
-	swapSchool1 = schoolList[int(userIn)-1]
+    print ('')
+    for x in range(len(schoolList)):
+       print ('%2d) %s' % (x+1, schoolInfo[schoolList[x]]['name']))
+    userIn = input('\nSelect first school: ')
+    swapSchool1 = schoolList[int(userIn)-1]
 
-	userIn = input('Select second school: ')
-	swapSchool2 = schoolList[int(userIn)-1]
+    userIn = input('Select second school: ')
+    swapSchool2 = schoolList[int(userIn)-1]
 
-	#Now we know the category and schools to be swapped.  Last check 
-	# needed is to see if those two schools are entered twice in
-	# that category and ask the user which of those entries to swap.
-	entryChoice1 = []
-	for x in schedule['lst']:
-	   if 'entry' in x and                           \
-	      x['entry']['catShort'] == swapCat and      \
-	      x['entry']['schoolId'] == swapSchool1:
+    #Now we know the category and schools to be swapped.  Last check 
+    # needed is to see if those two schools are entered twice in
+    # that category and ask the user which of those entries to swap.
+    entryChoice1 = []
+    for x in schedule['lst']:
+       if 'entry' in x and                           \
+          x['entry']['catShort'] == swapCat and      \
+          x['entry']['schoolId'] == swapSchool1:
 
-	      entryChoice1.append(x)
+          entryChoice1.append(x)
 
-	if len(entryChoice1) > 1:
-	   print('')
-	   for x in range(len(entryChoice1)):
-	      choiceTitle = ''
-	      if 'entryTitle' in entryChoice1[x]['entry']:
-	         choiceTitle = entryChoice1[x]['entry']['entryTitle']
-	      choiceStudents = entryChoice1[x]['entry']['performers']
+    if len(entryChoice1) > 1:
+       print('')
+       for x in range(len(entryChoice1)):
+          choiceTitle = ''
+          if 'entryTitle' in entryChoice1[x]['entry']:
+             choiceTitle = entryChoice1[x]['entry']['entryTitle']
+          choiceStudents = entryChoice1[x]['entry']['performers']
 
-	      print('%2d) %d %s %s' % (x+1,                        \
-	      	                       entryChoice1[x]['start'],   \
-	                               choiceTitle,                \
-	                               choiceStudents[0]))
-	   userIn = input('\nChoose the entry for %s: ' % schoolInfo[swapSchool1]['name'])
-	   userChoice1Idx = entryChoice1[int(userIn)-1]['entry']['index']
-	else:
-	   userChoice1Idx = entryChoice1[0]['entry']['index']
+          print('%2d) %d %s %s' % (x+1,                        \
+                                   entryChoice1[x]['start'],   \
+                                   choiceTitle,                \
+                                   choiceStudents[0]))
+       userIn = input('\nChoose the entry for %s: ' % schoolInfo[swapSchool1]['name'])
+       userChoice1Idx = entryChoice1[int(userIn)-1]['entry']['index']
+    else:
+       userChoice1Idx = entryChoice1[0]['entry']['index']
 
-	entryChoice2 = []
-	for x in schedule['lst']:
-	   if 'entry' in x and                           \
-	      x['entry']['catShort'] == swapCat and      \
-	      x['entry']['schoolId'] == swapSchool2:
+    entryChoice2 = []
+    for x in schedule['lst']:
+       if 'entry' in x and                           \
+          x['entry']['catShort'] == swapCat and      \
+          x['entry']['schoolId'] == swapSchool2:
 
-	      entryChoice2.append(x)
+          entryChoice2.append(x)
 
-	if len(entryChoice2) > 1:
-	   print('')
-	   for x in range(len(entryChoice2)):
-	      choiceTitle = ''
-	      if 'entryTitle' in entryChoice2[x]['entry']:
-	         choiceTitle = entryChoice2[x]['entry']['entryTitle']
-	      choiceStudents = entryChoice2[x]['entry']['performers']
+    if len(entryChoice2) > 1:
+       print('')
+       for x in range(len(entryChoice2)):
+          choiceTitle = ''
+          if 'entryTitle' in entryChoice2[x]['entry']:
+             choiceTitle = entryChoice2[x]['entry']['entryTitle']
+          choiceStudents = entryChoice2[x]['entry']['performers']
 
-	      print('%2d) %d %s %s' % (x+1,                        \
-	      	                       entryChoice2[x]['start'],   \
-	                               choiceTitle,                \
-	                               choiceStudents[0]))
-	   userIn = input('\nChoose the entry for %s: ' % schoolInfo[swapSchool2]['name'])
-	   userChoice2Idx = entryChoice2[int(userIn)-1]['entry']['index']
-	else:
-	   userChoice2Idx = entryChoice2[0]['entry']['index']
+          print('%2d) %d %s %s' % (x+1,                        \
+                                   entryChoice2[x]['start'],   \
+                                   choiceTitle,                \
+                                   choiceStudents[0]))
+       userIn = input('\nChoose the entry for %s: ' % schoolInfo[swapSchool2]['name'])
+       userChoice2Idx = entryChoice2[int(userIn)-1]['entry']['index']
+    else:
+       userChoice2Idx = entryChoice2[0]['entry']['index']
 
-	print ('\nSwapping entry index %d with %d' % (userChoice1Idx, userChoice2Idx))
-	print ('Old Score %d' % schedule['score'])
 
-	#Convert entry index to list array index
-	for x in range(len(schedule['lst'])):
-	   if 'entry' in schedule['lst'][x]:
-	      if schedule['lst'][x]['entry']['index'] == userChoice1Idx:
-	         choice1ListIdx = x 
-	      elif schedule['lst'][x]['entry']['index'] == userChoice2Idx:
-	         choice2ListIdx = x 
+    #Convert entry index to list array index
+    for x in range(len(schedule['lst'])):
+       if 'entry' in schedule['lst'][x]:
+          if schedule['lst'][x]['entry']['index'] == userChoice1Idx:
+             choice1ListIdx = x 
+          elif schedule['lst'][x]['entry']['index'] == userChoice2Idx:
+             choice2ListIdx = x
 
-	temp1Copy = schedule['lst'][choice1ListIdx]
-	schedule['lst'][choice1ListIdx] = schedule['lst'][choice2ListIdx]
-	schedule['lst'][choice2ListIdx] = temp1Copy
+    #print ('\nSwap entry index %d %d' % (userChoice1Idx, userChoice2Idx))
+    #print ('Swap array Index %d %d' % (choice1ListIdx, choice2ListIdx))
+    print ('Old Score %d' % schedule['score'])
 
-	schedFitness.fitnessTest (schedl     = schedule, saveReport = False)
+    temp1Copy = schedule['lst'][choice1ListIdx]['entry']
+    schedule['lst'][choice1ListIdx]['entry'] = schedule['lst'][choice2ListIdx]['entry']
+    schedule['lst'][choice2ListIdx]['entry'] = temp1Copy
 
-	newSchedFolder = os.path.join(schedDir, 'edits', str(schedule['score']))
-	tempDir = newSchedFolder
-	while os.path.isdir(tempDir):
-	   tempDir    = newSchedFolder + folderChar
-	   folderChar = chr(ord(folderChar) + 1)
-	newSchedFolder = tempDir
+    schedFitness.fitnessTest (schedl     = schedule,   \
+                              saveReport = False)
 
-	schedIO.printSched       (schedule   = schedule,               \
-	                          schoolInf  = schoolInfo,             \
-	                          entriesLst = entryList,              \
-	                          outFolder  = newSchedFolder)
+    newSchedFolder = os.path.join(schedDir, 'edits', str(schedule['score']))
+    tempDir = newSchedFolder
+    while os.path.isdir(tempDir):
+       tempDir    = newSchedFolder + folderChar
+       folderChar = chr(ord(folderChar) + 1)
+    newSchedFolder = tempDir
 
-	schedFitness.fitnessTest (schedl     = schedule,        \
-	                          saveReport = True,            \
-	                          fileName   = os.path.join(newSchedFolder,'fitnessReport.txt'))
-	print ('New Score %d' % schedule['score'])
+    schedIO.printSched       (schedule   = schedule,               \
+                              schoolInf  = schoolInfo,             \
+                              entriesLst = entryList,              \
+                              outFolder  = newSchedFolder)
 
-	userIn = input('Press [x] to exit, [ENTER] to continue editing schedule: ')
-	userContinue = userIn.find('x') == -1
+    schedFitness.fitnessTest (schedl     = schedule,        \
+                              saveReport = True,            \
+                              fileName   = os.path.join(newSchedFolder,'fitnessReport.txt'))
+    print ('New Score %d' % schedule['score'])
+
+    userIn = input('Press [x] to exit, [ENTER] to continue editing schedule: ')
+    userContinue = userIn.find('x') == -1
