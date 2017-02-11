@@ -1,0 +1,472 @@
+regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,latestEnd,performers
+6729,625,HARLAN,ACT,1,Network,X,,,Reagan Hansen
+6729,625,HARLAN,ACT,2,Judas,X,,,Steven Bailey
+6729,625,HARLAN,PO,1,In Memorium,X,,,Sidnie Burroughs
+6729,625,HARLAN,PO,2,Puzzle Pieces,X,,,Steven Bailey
+6729,625,HARLAN,PO,3,School,X,,,Storm Stokes
+6729,625,HARLAN,PR,1,To Kill A Mockingbird,X,,,Jayden Swanson
+6729,625,HARLAN,PR,2,A Soldier's Heart,X,,,Tim Mumm
+6729,625,HARLAN,LP,1,The Power of Poe,X,,,Alexis Irlbeck
+6729,625,HARLAN,LP,2,Down the Rabbit Hole,X,,,Annabel Schechinger
+6729,625,HARLAN,LP,3,Dickens,X,,,Rebecca Sparandeo
+6729,625,HARLAN,OO,1,Anxiety!,X,,,Sidnie Burroughs
+6729,625,HARLAN,RN,1,,X,,,Harley Andersen
+6729,625,HARLAN,EA,1,Eradicating the Misinformation Virus,X,,,Jayden Swanson
+6729,625,HARLAN,EA,2,Superheroes,X,,,Lake Goetz
+6729,625,HARLAN,IMP,1,,X,,,Reagan Hansen
+6788,744,NODAWAY VALLEY,SMT,1,Green-Eyed Dragon,X,,,Cody Jacobson #1
+6788,744,NODAWAY VALLEY,SMT,2,Corner of the Sky,X,,,Matthew Dickinson #2
+6788,744,NODAWAY VALLEY,SMT,3,Little Girl,X,,,Rachel Scheel #3
+6788,744,NODAWAY VALLEY,ACT,1,Revolutionary Regrets,X,,,Allsion Scheel #1
+6788,744,NODAWAY VALLEY,ACT,2,Only Children Believe in Butterflies,X,,,Dakota Hughes #2
+6788,744,NODAWAY VALLEY,ACT,3,Dear Mom,X,,,Riley Lonsdale #3
+6788,744,NODAWAY VALLEY,PO,1,Dragons and Giants; And So I Stay; Dare to Call,X,,,Anna Funke #1
+6788,744,NODAWAY VALLEY,PO,2,The Raven,X,,,Megan Russell #2
+6788,744,NODAWAY VALLEY,PO,3,Slow Dance; What Will Matter; Why,X,,,Sara Eddy #3
+6788,744,NODAWAY VALLEY,PR,1,,X,,,Jasmine Longobardi #1
+6788,744,NODAWAY VALLEY,PR,2,,X,,,Kate Jensen #2
+6788,744,NODAWAY VALLEY,PR,3,,X,,,Madigan Berlau #3
+6788,744,NODAWAY VALLEY,LP,1,Life Is Too Short,X,,,Dakota Hughes #1
+6788,744,NODAWAY VALLEY,LP,2,Princess Perfect,X,,,Felicia Johnson #2
+6788,744,NODAWAY VALLEY,LP,3,In Loving Memory,X,,,Riley Longdale #3
+6788,744,NODAWAY VALLEY,OO,1,Political Change,X,,,Joel Blazek
+6788,744,NODAWAY VALLEY,RN,1,,X,,,Joel Blazek #1
+6788,744,NODAWAY VALLEY,RN,2,,X,,,Matthew Dickinson #2
+6788,744,NODAWAY VALLEY,RN,3,,X,,,Spencer Lamb #3
+6788,744,NODAWAY VALLEY,ST,1,Goldilocks and the Three Bears,X,,,Jesse Johnson #1
+6788,744,NODAWAY VALLEY,ST,2,,X,,,Kayci Emerson #2
+6788,744,NODAWAY VALLEY,ST,3,Peter Rabbit,X,,,Lauren Huff #3
+6788,744,NODAWAY VALLEY,IMP,1,,X,,,Cody Jacobson
+6807,880,UNDERWOOD,SMT,1,,X,,,Conner Holben
+6807,880,UNDERWOOD,SMT,2,Burn,X,,,Maddy Marsh
+6807,880,UNDERWOOD,SMT,3,Empty Chairs at Empty Tables,X,,,Noah Russell
+6807,880,UNDERWOOD,PO,1,,X,,,Alyssa Wacker
+6807,880,UNDERWOOD,PR,1,We Interupt This Marriage,X,,,Jill Rosas
+6807,880,UNDERWOOD,PR,2,The Things They Carried,X,,,Karsten Lambert
+6807,880,UNDERWOOD,LP,1,"Old Women, Beautiful and Otherwise",X,,,Jill Rosas 
+6807,880,UNDERWOOD,LP,2,Taking Risks,X,,,Karsten Lambert
+6807,880,UNDERWOOD,OO,1,Crash,X,,,Alyssa Wacker
+6807,880,UNDERWOOD,OO,2,Clearing the Fog,X,,,Hannah Wahab
+6807,880,UNDERWOOD,ST,1,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",X,,,Chaynne Adkins
+6807,880,UNDERWOOD,AD,1,The B Word,X,,,Alexis Redshaw
+6807,880,UNDERWOOD,AD,2,How to Spot a Superhero,X,,,Noah Russell
+6807,880,UNDERWOOD,IMP,1,,X,,,Kyle Shapcott
+6827,944,WOODBINE COMMUNITY,PR,1,We are all made of stars,X,,,Abby Nelson
+6827,944,WOODBINE COMMUNITY,LP,1,A Geek's Guide to Coffee,X,,,Abby Nelson
+6827,944,WOODBINE COMMUNITY,LP,2,Types of Smiles &The Toothfairy,X,,,Sierra Marshall
+6827,944,WOODBINE COMMUNITY,SS,1,,X,,,Cami Schafer
+6827,944,WOODBINE COMMUNITY,ST,1,unknown,X,,,Cami Schafer
+6827,944,WOODBINE COMMUNITY,ST,2,Ruffled Feathers,X,,,Cuy Meeker
+6827,944,WOODBINE COMMUNITY,ST,3,"Gaston, or the Case of the Mixed Up Pups",X,,,Lexi Sherer
+6871,923,WEST HARRISON,ACT,1,88 Keys,X,,,Kasey Lewis
+6871,923,WEST HARRISON,ACT,2,A Mother Gets Revenge,X,,,Maria Martin
+6871,923,WEST HARRISON,ACT,3,I Can't Stop,X,,,Sierra Bieler
+6871,923,WEST HARRISON,PO,1,Undecided,X,,,Elizabeth Kepford
+6871,923,WEST HARRISON,PO,2,Death of an Innocent,X,,,Sydney Sherer
+6871,923,WEST HARRISON,PR,1,First Kiss and Then Some,X,,,Ema Aldrich
+6871,923,WEST HARRISON,PR,2,Tell Tale Heart,X,,,Makayla Nuzum
+6871,923,WEST HARRISON,PR,3,A Mother Gets Revenge,X,,,Sabrina Rife
+6871,923,WEST HARRISON,LP,1,Broken,X,,,Kelsie Thompson
+6871,923,WEST HARRISON,ST,1,Undecided ,X,,,Evan Berwick
+6871,923,WEST HARRISON,ST,2,Undecided,X,,,Johanna Skinner
+6871,923,WEST HARRISON,ST,3,Junie B. Jones: Boss of Lunch,X,,,Sierra Kostinec
+6871,923,WEST HARRISON,AD,1,Patriarchs Anonymous,X,,,Keith Lewis
+6871,923,WEST HARRISON,IMP,1,,X,,,Keith Lewis
+6911,434,ATLANTIC,SMT,1,Burn,X,,,Katie Darrow
+6911,434,ATLANTIC,SMT,2,You'll Be Back,X,,,Max Elwood
+6911,434,ATLANTIC,SMT,3,Everything I Know,X,,,Sarah Fixmer
+6911,434,ATLANTIC,ACT,1,The Serpent's Tale,X,,,Alex Williams
+6911,434,ATLANTIC,ACT,2,The Boys Next Door,X,,,Ethan Simmons
+6911,434,ATLANTIC,ACT,3,TBD,X,,,Trinity Zynda
+6911,434,ATLANTIC,PO,1,Living With Another's Addiction,X,,,Abby Evans
+6911,434,ATLANTIC,PO,2,TBD,X,,,Hannah Richter
+6911,434,ATLANTIC,PO,3,One of THOSE Poems,X,,,Rebekah Hallman
+6911,434,ATLANTIC,PR,1,Closure,X,,,Josh McLean
+6911,434,ATLANTIC,PR,2,TBD,X,,,Katie Darrow
+6911,434,ATLANTIC,LP,1,Edgar Allan Poe,X,,,Alex Williams
+6911,434,ATLANTIC,LP,2,TBD,X,,,Paige Bennett
+6911,434,ATLANTIC,OO,1,"Childhood Games, Adulthood Wars",X,,,Bryn Blanchette
+6911,434,ATLANTIC,OO,2,TBD,X,,,Rebekah Hallman
+6911,434,ATLANTIC,OO,3,Live Life to the Fullest,X,,,Sarah Schorle
+6911,434,ATLANTIC,SS,1,,X,,,Gabe Martinez
+6911,434,ATLANTIC,SS,2,,X,,,Paige Bennett
+6911,434,ATLANTIC,RN,1,,X,,,Aaron Rothfusz
+6911,434,ATLANTIC,ST,1,Sleeping Persun of Better-Than-Average Attractiveness,X,,,Josh McLean
+6911,434,ATLANTIC,ST,2,The Creation of the Cosmos,X,,,Trinity Zynda
+6911,434,ATLANTIC,AD,1,Arachnophobes Anonymous,X,,,Bryn Blanchette
+6911,434,ATLANTIC,AD,2,Separation Anxiety,X,,,Ethan Simmons
+6911,434,ATLANTIC,AD,3,How to Achieve Crippling Debt by 30,X,,,Sarah Schorle
+6911,434,ATLANTIC,IMP,1,,X,,,Max Elwood
+6911,434,ATLANTIC,IMP,2,,X,,,McKayla Weppler
+6911,434,ATLANTIC,RV,1,Turning Stranger Things Upside Down,X,,,Belle Wickman
+6916,468,CAM 9TH,EA,1,My Brother,X,,,Mercedes Harris
+6916,468,CAM 9TH,EA,2,Hunger in America,X,,,Sage Erickson
+6916,468,CAM 9TH,ST,1,Llama Llama Misses Mama,X,,,Darcy Denney
+6916,468,CAM 9TH,ST,2,Click Clack Moo-Cows That Type,X,,,Lane Thomsen
+6916,468,CAM 9TH,ST,3,Piggie Pie,X,,,Sage Erickson
+6916,468,CAM 9TH,IMP,1,,X,,,Lane Thomsen
+6916,468,CAM 9TH,IMP,2,,X,,,Daniel Kopp
+6919,622,ACGC,PA,1,To This Day,X,,,Klare Sheley
+6919,622,ACGC,PA,2,TBD,X,,,Tabby Van Unen
+6919,622,ACGC,PA,3,TBD,X,,,Vanna Ashby
+6919,622,ACGC,SMT,1,Mr. Cellophane,X,,,Hunter Vasey
+6919,622,ACGC,SMT,2,Popular,X,,,Maggie Maas
+6919,622,ACGC,SMT,3,I Know It's Today,X,,,Staci Penton
+6919,622,ACGC,ACT,1,TBD,X,,,Claire Chesnut
+6919,622,ACGC,ACT,2,Pinkalicious,X,,,Sara Schmeling
+6919,622,ACGC,ACT,3,TBD,X,,,Savannah Hiatt
+6919,622,ACGC,PO,1,The Raven,X,,,Donald Straw
+6919,622,ACGC,PO,2,When I Was A Kid,X,,,Keisha Peters
+6919,622,ACGC,PO,3,TBD,X,,,Torri Husk
+6919,622,ACGC,PR,1,TBD,X,,,Anna Laurizen
+6919,622,ACGC,PR,2,The Police Man,X,,,Ellan Clay
+6919,622,ACGC,PR,3,TBD,X,,,Samuel Vannatta
+6919,622,ACGC,LP,1,Trauma,X,,,Malena Rumelhart
+6919,622,ACGC,LP,2,Music,X,,,Peyton Emgarten
+6919,622,ACGC,LP,3,'Nam,X,,,Regan Sheeder
+6919,622,ACGC,OO,1,Materialistic ,X,,,JoJo Wood
+6919,622,ACGC,OO,2,1 in 3,X,,,Leya Renshaw
+6919,622,ACGC,OO,3,TBD,X,,,Tabby Van Unen
+6919,622,ACGC,SS,1,,X,,,Angela Martinez
+6919,622,ACGC,SS,2,,X,,,Colt Smallwood
+6919,622,ACGC,RN,1,,X,,,Hailey Bates
+6919,622,ACGC,RN,2,,X,,,Noah Nelsen
+6919,622,ACGC,RN,3,,X,,,Ross Rumelhart
+6919,622,ACGC,EA,1,The 4th H,X,,,Hailey Bates
+6919,622,ACGC,EA,2,TBD,X,,,Nadine Sandoval
+6919,622,ACGC,EA,3,Hispanic Girl in a White World,X,,,Wendy Soto
+6919,622,ACGC,ST,1,Monsters Party All Night Long,X,,,Hunter Vasey
+6919,622,ACGC,ST,2,The Parable of the Lily,X,,,Maggie Maas
+6919,622,ACGC,ST,3,TBD,X,,,Vanna Ashby
+6919,622,ACGC,AD,1,TBD,X,,,Angela Martinez
+6919,622,ACGC,AD,2,Superhero Battles Enthusiasts ,X,,,Colt Smallwood
+6919,622,ACGC,AD,3,TBD,X,,,Peyton Emgarten
+6919,622,ACGC,IMP,1,,X,,,Hailey Bates
+6919,622,ACGC,IMP,2,,X,,,Noah Nelsen
+6919,622,ACGC,IMP,3,,X,,,Ross Rumelhart
+6919,622,ACGC,RV,1,Newsies,X,,,Claire Chesnut
+6919,622,ACGC,RV,2,Alex Rider Series,X,,,Keisha Peters
+6919,622,ACGC,RV,3,Infernal Devices Series,X,,,Klare Sheley
+6922,467,CAM,PA,1,"Hey School, Wake Up",X,,,Katlyn Holiday
+6922,467,CAM,PA,2,Paper Dolls,X,,,Grace Hansen
+6922,467,CAM,PA,3,Motivation,X,,,Adison Erickson
+6922,467,CAM,SMT,1,Popular,X,,,Halie Giegerich
+6922,467,CAM,SMT,2,My Favorite Things,X,,,Mariah Murphy
+6922,467,CAM,SMT,3,I Hate Men,X,,,Rachel Ricker
+6922,467,CAM,ACT,1,368 Friends,X,,,Lisa Elkins
+6922,467,CAM,ACT,2,Earl's Gass,X,,,Collin Giegerich
+6922,467,CAM,ACT,3,High Schooler's Guide to the Perfect Prom,X,,,Grace Hansen
+6922,467,CAM,PO,1,The Walrus and the Carpenter,X,,,Anna Riker
+6922,467,CAM,PO,2,Final Act/Drunk Driving,X,,,Emma Penton
+6922,467,CAM,PO,3,What is Life,X,,,Lisa Elkins
+6922,467,CAM,PR,1,Decaf Poopacino,X,,,Halie Giegerich
+6922,467,CAM,PR,2,Jellyfish,X,,,Isabel Kinzie
+6922,467,CAM,PR,3,If I Should Have a Daughter,X,,,Damiana King
+6922,467,CAM,LP,1,"Why I Hate Religion, But Love Jesus",X,,,Shelby Stephenson
+6922,467,CAM,LP,2,Anxiety/MicroMovement,X,,,Rachel Riker
+6922,467,CAM,LP,3,To Remember Me,X,,,Anna Stork
+6922,467,CAM,OO,1,Christmas Traditions,X,,,Makayla Stuetelberg
+6922,467,CAM,OO,2,What You Don't See,X,,,Alex Becker
+6922,467,CAM,OO,3,Down Syndrome,X,,,Haley Becker
+6922,467,CAM,SS,1,,X,,,Walker McDermott
+6922,467,CAM,SS,2,,X,,,Alex Becker
+6922,467,CAM,SS,3,,X,,,Mariah Murphy
+6922,467,CAM,RN,1,,X,,,Kade Nelsen
+6922,467,CAM,RN,2,,X,,,Mitchell Williamson
+6922,467,CAM,RN,3,,X,,,Collin Giegerich
+6922,467,CAM,EA,1,Ukulele,X,,,Isabel Kinzie
+6922,467,CAM,EA,2,4-H,X,,,Emma Penton
+6922,467,CAM,EA,3,Nutrition:What's in Your Tank?,X,,,Mitchell Williamson
+6922,467,CAM,ST,1,Love You Forever,X,,,Damiana King
+6922,467,CAM,ST,2,The Story of the Three Bears As Told By Baby Bear,X,,,Faye Hardisty
+6922,467,CAM,ST,3,Really Rapunzal: Needed a Haircut,X,,,Sidney Aupperle
+6922,467,CAM,AD,1,B.O.S.S.,X,,,Anna Stork
+6922,467,CAM,AD,2,tba,X,,,Paige McAfee
+6922,467,CAM,AD,3,tba,X,,,Macy Ticknor
+6922,467,CAM,IMP,1,,X,,,RoAnn Perry
+6922,467,CAM,RV,1,To Kill a Mockingbird,X,,,Katlyn Holaday
+6922,467,CAM,RV,2,Dirty Dancing-Then and Now,X,,,Kydie Woolsey
+6956,983,A-H-S-T-W 9TH,SMT,1,I Can Cook Too,X,,,Autumn Dea
+6956,983,A-H-S-T-W 9TH,SMT,2,Carroll SMT #1,X,,,Erin Carroll
+6956,983,A-H-S-T-W 9TH,ACT,1,No More Mr. Funny Guy ,X,,,Evan Pattee
+6956,983,A-H-S-T-W 9TH,PO,1,Campbell Poetry #1,X,,,Allison Campbell
+6956,983,A-H-S-T-W 9TH,PR,1,Cunningham Prose #1,X,,,Joey Cunningham
+6956,983,A-H-S-T-W 9TH,PR,2,Heilig Prose #2,X,,,Kylynn Heilig
+6956,983,A-H-S-T-W 9TH,PR,3,Cordes Prose #3,X,,,Nicholas Cordes
+6956,983,A-H-S-T-W 9TH,LP,1,Mothers,X,,,Grace Luna
+6956,983,A-H-S-T-W 9TH,LP,2,The Wild Kingdom,X,,,Nora Paulson
+6956,983,A-H-S-T-W 9TH,EA,1,Henriksen Expos #1,X,,,Kaitlynne Henriksen
+6956,983,A-H-S-T-W 9TH,EA,2,Zimmerman Expos #2,X,,,Sydney Zimmerman
+6956,983,A-H-S-T-W 9TH,ST,1,Dea ST #1,X,,,Autumn Dea
+6956,983,A-H-S-T-W 9TH,ST,2,Carroll ST #2,X,,,Erin Carroll
+6956,983,A-H-S-T-W 9TH,ST,3,Arabella and Mr. Crack  ,X,,,Evan Pattee
+6956,983,A-H-S-T-W 9TH,AD,1,Cordes AD #1,X,,,Nicholas Cordes
+6956,983,A-H-S-T-W 9TH,IMP,1,,X,,,Sydney Zimmerman
+6956,983,A-H-S-T-W 9TH,RV,1,Henriksen Review #1,X,,,Kaitlynne Henriksen
+6959,718,MISSOURI VALLEY,PA,1,,X,,,Riley Fichter
+6959,718,MISSOURI VALLEY,SMT,1,,X,,,Kinsey Crispin
+6959,718,MISSOURI VALLEY,SMT,2,,X,,,Jozalyn Harrison
+6959,718,MISSOURI VALLEY,SMT,3,,X,,,Abigail Leon
+6959,718,MISSOURI VALLEY,ACT,1,,X,,,Kaleb Waterhouse
+6959,718,MISSOURI VALLEY,ACT,2,,X,,,Racine Bertelsen-Watson
+6959,718,MISSOURI VALLEY,PO,1,,X,,,Cheyenne Thomas
+6959,718,MISSOURI VALLEY,PO,2,,X,,,Abby Krum
+6959,718,MISSOURI VALLEY,PO,3,,X,,,Jasmine Rodriguez
+6959,718,MISSOURI VALLEY,PR,1,,X,,,Dawson Leapley
+6959,718,MISSOURI VALLEY,PR,2,,X,,,Grace Borgaila
+6959,718,MISSOURI VALLEY,LP,1,,X,,,Jacob Polzin
+6959,718,MISSOURI VALLEY,LP,2,,X,,,Zoe Thurin
+6959,718,MISSOURI VALLEY,OO,1,,X,,,Cheyenne Thomas
+6959,718,MISSOURI VALLEY,OO,2,,X,,,Mary Kean
+6959,718,MISSOURI VALLEY,OO,3,,X,,,Sarah Dillinger
+6959,718,MISSOURI VALLEY,SS,1,,X,,,Emma Anunson
+6959,718,MISSOURI VALLEY,SS,2,,X,,,Mary Kean
+6959,718,MISSOURI VALLEY,SS,3,,X,,,Sarah Dillinger
+6959,718,MISSOURI VALLEY,RN,1,,X,,,Rosie Borgaila
+6959,718,MISSOURI VALLEY,RN,2,,X,,,Derek Hansen
+6959,718,MISSOURI VALLEY,EA,1,,X,,,Kinsey Crispin
+6959,718,MISSOURI VALLEY,EA,2,,X,,,Emily Arrick
+6959,718,MISSOURI VALLEY,EA,3,,X,,,Kinley McIntosh
+6959,718,MISSOURI VALLEY,ST,1,,X,,,Nate Sargent
+6959,718,MISSOURI VALLEY,ST,2,,X,,,Abby Harrison
+6959,718,MISSOURI VALLEY,ST,3,,X,,,Sabrina Mahoney
+6959,718,MISSOURI VALLEY,AD,1,,X,,,Jed Kyle
+6959,718,MISSOURI VALLEY,AD,2,,X,,,Brennan Hochstein
+6959,718,MISSOURI VALLEY,IMP,1,,X,,,Cameron Archer
+6959,718,MISSOURI VALLEY,IMP,2,,X,,,Dawson Leapley
+6964,802,RIVERSIDE,SMT,1,Flying Home from Songs for a New World,X,,,Collin Price
+6964,802,RIVERSIDE,SMT,2,Burn from Hamilton,X,,,Lydia Wede
+6964,802,RIVERSIDE,PO,1,The Diggingest Dog,X,,,Camryn Piersen
+6964,802,RIVERSIDE,PO,2,tba,X,,,Delaney Murphy
+6964,802,RIVERSIDE,PR,1,tba,X,,,Camryn Piersen
+6964,802,RIVERSIDE,LP,1,Through a Window,X,,,Bailey Rose
+6964,802,RIVERSIDE,RN,1,,X,,,Austin Blakley
+6964,802,RIVERSIDE,EA,1,Safety with Animals,X,,,Derick Seaton
+6964,802,RIVERSIDE,ST,1,tba,X,,,Alyssa Brink
+6964,802,RIVERSIDE,AD,1,First Time Fliers,X,,,Jaycee Mansfield
+6964,802,RIVERSIDE,AD,2,Welcome to Marching Band Camp,X,,,Lydia Wede
+6964,802,RIVERSIDE,IMP,1,,X,,,Bailey Rose
+6964,802,RIVERSIDE,RV,1,tba,X,,,Jaycee Mansfield
+6969,406,A-H-S-T-W,PA,1,Denning PA #1,X,,,Hannah Denning
+6969,406,A-H-S-T-W,PA,2,Ahern PA #3,X,,,Jaclyn Ahern
+6969,406,A-H-S-T-W,PA,3,Kloewer PA #2,X,,,Sami Kloewer
+6969,406,A-H-S-T-W,SMT,1,Russmann SMT #2,X,,,Grace Russmann
+6969,406,A-H-S-T-W,SMT,2,Kock SMT #1,X,,,Olivia Kock
+6969,406,A-H-S-T-W,SMT,3,Nelson SMT #3,X,,,Sidney Nelsen
+6969,406,A-H-S-T-W,ACT,1,Candance,X,,,Jaycie Schueman
+6969,406,A-H-S-T-W,ACT,2,Welsh ACT #3,X,,,Reilly Welsh
+6969,406,A-H-S-T-W,ACT,3,Pattee ACT #1,X,,,Ryan Pattee
+6969,406,A-H-S-T-W,PO,1,Jones Poetry #3,X,,,Ashley Jones
+6969,406,A-H-S-T-W,PO,2,Zortman Poetry #2,X,,,Isabella Zortman
+6969,406,A-H-S-T-W,PO,3,Simonsen Poetry #1,X,,,MacKenzie Simonsen
+6969,406,A-H-S-T-W,PR,1,Best Prose #1,X,,,Kendal Best
+6969,406,A-H-S-T-W,PR,2,Hatch Prose #3,X,,,Lizzie  Hatch
+6969,406,A-H-S-T-W,PR,3,Starr Prose #2,X,,,Trey Starr
+6969,406,A-H-S-T-W,LP,1,Renfeld LP #3,X,,,Cassie Renfeld
+6969,406,A-H-S-T-W,LP,2,Anderson  LP #1,X,,,Cydney Anderson
+6969,406,A-H-S-T-W,LP,3,McCann LP #2,X,,,Mason McCann
+6969,406,A-H-S-T-W,OO,1,Anderson OO #1,X,,,Cydney Anderson
+6969,406,A-H-S-T-W,OO,2,Van Scoy OO #3,X,,,Katlyn Van Scoy
+6969,406,A-H-S-T-W,OO,3,Kloewer OO #2,X,,,Sami Kloewer
+6969,406,A-H-S-T-W,SS,1,,X,,,Anthony Cordes
+6969,406,A-H-S-T-W,SS,2,,X,,,RJ Harris
+6969,406,A-H-S-T-W,SS,3,,X,,,Zach Stanton
+6969,406,A-H-S-T-W,RN,1,,X,,,Brayton Tuma
+6969,406,A-H-S-T-W,RN,2,,X,,,Grace Russmann
+6969,406,A-H-S-T-W,RN,3,,X,,,Ryan Pattee
+6969,406,A-H-S-T-W,EA,1,Thornton Expos #2,X,,,Blake Thornton
+6969,406,A-H-S-T-W,EA,2,Kenkel Expos #1,X,,,Joe Kenkel
+6969,406,A-H-S-T-W,EA,3,Bruns Expos #3,X,,,Madilyn Bruns
+6969,406,A-H-S-T-W,ST,1,Symanowicz ST #3,X,,,Katherine Symanowicz
+6969,406,A-H-S-T-W,ST,2,Simonsen ST #1,X,,,MacKenzie Simonsen
+6969,406,A-H-S-T-W,ST,3,Harris ST #2,X,,,RJ Harris
+6969,406,A-H-S-T-W,AD,1,Kelly AD #1,X,,,Brittany Kelly
+6969,406,A-H-S-T-W,AD,2,Welsh AD #2,X,,,Reilly Welsh
+6969,406,A-H-S-T-W,AD,3,Stanton AD #3,X,,,Zach Stanton
+6969,406,A-H-S-T-W,IMP,1,,X,,,Brayton Tuma
+6969,406,A-H-S-T-W,IMP,2,,X,,,Mason McCann
+6969,406,A-H-S-T-W,IMP,3,,X,,,Spencer Symanowicz
+6969,406,A-H-S-T-W,RV,1,Cordes Review #1,X,,,Anthony Cordes
+6969,406,A-H-S-T-W,RV,2,Kelly Review #2,X,,,Brittany Kelly
+6969,406,A-H-S-T-W,RV,3,Russmann Review #3,X,,,Dylan Russmann 
+6974,870,TREYNOR,SMT,1,,X,,,Griffen Kline
+6974,870,TREYNOR,SMT,2,,X,,,Jordan Utterback
+6974,870,TREYNOR,SMT,3,,X,,,Adrienne Suglia
+6974,870,TREYNOR,ACT,1,,X,,,Griffen Kline
+6974,870,TREYNOR,ACT,2,,X,,,McKayla Olsen
+6974,870,TREYNOR,ACT,3,,X,,,Payton Livengood
+6974,870,TREYNOR,PO,1,,X,,,Morgan Showatler
+6974,870,TREYNOR,PO,2,,X,,,Garrett Pryor
+6974,870,TREYNOR,PO,3,,X,,,Kyla Mittan
+6974,870,TREYNOR,PR,1,,X,,,Kyla Mittan
+6974,870,TREYNOR,PR,2,,X,,,Zach Mass
+6974,870,TREYNOR,PR,3,,X,,,Bailey Andersen
+6974,870,TREYNOR,LP,1,,X,,,Morgan Showalter
+6974,870,TREYNOR,LP,2,,X,,,Hannah McIntyre
+6974,870,TREYNOR,LP,3,,X,,,Madison Weber
+6974,870,TREYNOR,OO,1,,X,,,Zach Mass
+6974,870,TREYNOR,SS,1,,X,,,Mitchell Griffen
+6974,870,TREYNOR,EA,1,Lilac Girls,X,,,Alyssa Anderson
+6974,870,TREYNOR,ST,1,,X,,,Garrett Pryor
+6974,870,TREYNOR,ST,2,My Story,X,,,Jordan Utterback
+6974,870,TREYNOR,ST,3,,X,,,McKayla Olsen
+6974,870,TREYNOR,AD,1,,X,,,Molly Griffen
+6974,870,TREYNOR,AD,2,,X,,,Cameron Graber
+6974,870,TREYNOR,IMP,1,,X,,,Molly Griffen
+6974,870,TREYNOR,IMP,2,,X,,,Payton Livengood
+6974,870,TREYNOR,IMP,3,,X,,,Emily Sutherland
+6974,870,TREYNOR,RV,1,,X,,,Bailey Andersen
+6974,870,TREYNOR,RV,2,,X,,,Emily Sutherland
+6974,870,TREYNOR,RV,3,,X,,,Mitchell Griffen
+6976,871,TREYNOR 9TH,SMT,1,,X,,,Sophie Showalter
+6976,871,TREYNOR 9TH,PO,1,,X,,,Clarissa Weitzel
+6976,871,TREYNOR 9TH,IMP,1,,X,,,Clarissa Weitzel
+6976,871,TREYNOR 9TH,IMP,2,,X,,,DJ Kuhn
+6976,871,TREYNOR 9TH,IMP,3,,X,,,Mya Egan
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,PA,1,TBA,X,,,Morgan Dooty
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,SMT,1,A Summer from Ohio,X,,,Andrea Milstead
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,SMT,2,TBA,X,,,Hayley Hartman
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,SMT,3,TBA,X,,,Thad Kinney
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,ACT,1,The Secret Color of Words,X,,,Olivia Cooper
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,PO,1,Original Poetry,X,,,Claire Wilder
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,PO,2,A day in the life of Me,X,,,Mackenzie Frush
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,PO,3,TBA ,X,,,Misa Kawamitsu
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,PR,1,,X,,,Alexis Gress
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,PR,2,The Bomb,X,,,Johnny Holben
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,PR,3,The Line,X,,,Taylor Nickerson
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,LP,1,Executive Orders,X,,,Olivia Cooper
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,LP,2,TBA,X,,,Sydney Schilling
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,LP,3,Mixed Tapes,X,,,Taylor Nickerson
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,OO,1,Elder Care Workers,X,,,Alexi Fisher
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,OO,2,TBA,X,,,Will Jones
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,SS,1,,X,,,Claire Wilder
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,SS,2,,X,,,Will Jones
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,RN,1,,X,,,Kelsi Hansen
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,EA,1,TBA,X,,,Alexis Gress
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,EA,2,Nation of Slobs,X,,,Andrea Milstead
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,EA,3,Stuck Up,X,,,Kelsi Hansen
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,ST,1,TBA,X,,,Ashlyn Peraza
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,ST,2,Geezer in the Freezer,X,,,Kenadie Doty
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,ST,3,Tough Cookie,X,,,Russell Holmes
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,AD,1,TBA,X,,,Jenna Welch
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,AD,2,TBA,X,,,Rvayn Anderson
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,AD,3,Red Heads,X,,,Taylor Bahr
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,IMP,1,,X,,,Ethan Jensen
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,IMP,2,,X,,,Kenny Gray
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,IMP,3,,X,,,Russell Holmes
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,RV,1,The Hunger Games,X,,,Ethan Jensen
+7000,526,COUNCIL BLUFFS ABRAHAM LINCOLN,RV,2,TBA,X,,,Johnny Holben
+7001,947,COUNCIL BLUFFS ABRAHAM LINCOLN 9TH,SMT,1,TBA,X,,,Arlette Milstead
+7001,947,COUNCIL BLUFFS ABRAHAM LINCOLN 9TH,SMT,2,TBA,X,,,Riley Pope
+7001,947,COUNCIL BLUFFS ABRAHAM LINCOLN 9TH,PO,1,TBA,X,,,Carly Sorenson
+7001,947,COUNCIL BLUFFS ABRAHAM LINCOLN 9TH,PR,1,TBA,X,,,Hannah Gibson
+7001,947,COUNCIL BLUFFS ABRAHAM LINCOLN 9TH,PR,2,Elseshere,X,,,Riley Pope
+7001,947,COUNCIL BLUFFS ABRAHAM LINCOLN 9TH,AD,1,TBA,X,,,Jacob James
+7014,677,LEWIS CENTRAL,PA,1,,X,,,Dane Norville
+7014,677,LEWIS CENTRAL,PA,2,,X,,,Emara Klein
+7014,677,LEWIS CENTRAL,PA,3,,X,,,Nhan Trinh
+7014,677,LEWIS CENTRAL,SMT,1,,X,,,Artur Melika
+7014,677,LEWIS CENTRAL,SMT,2,,X,,,Olivia Behm
+7014,677,LEWIS CENTRAL,SMT,3,,X,,,Sunday Maker
+7014,677,LEWIS CENTRAL,ACT,1,,X,,,Jillian Fenwick
+7014,677,LEWIS CENTRAL,ACT,2,,X,,,Jordan Dickinson
+7014,677,LEWIS CENTRAL,ACT,3,Parallel Lives,X,,,Olivia Schneider
+7014,677,LEWIS CENTRAL,PO,1,,X,,,Austin Dunham
+7014,677,LEWIS CENTRAL,PO,2,,X,,,Jonny Cox
+7014,677,LEWIS CENTRAL,PO,3,,X,,,Sunday Maker
+7014,677,LEWIS CENTRAL,PR,1,,X,,,Ian Brungardt
+7014,677,LEWIS CENTRAL,PR,2,,X,,,Nhan Trinh
+7014,677,LEWIS CENTRAL,PR,3,,X,,,Nolan King
+7014,677,LEWIS CENTRAL,LP,1,,X,,,Grace Peterson
+7014,677,LEWIS CENTRAL,LP,2,,X,,,Jessalyn Galvin
+7014,677,LEWIS CENTRAL,LP,3,,X,,,Jordan Dickinson
+7014,677,LEWIS CENTRAL,OO,1,,X,,,Brianna Iverson
+7014,677,LEWIS CENTRAL,OO,2,,X,,,Emma Heyen
+7014,677,LEWIS CENTRAL,OO,3,,X,,,Jessalyn Galvin
+7014,677,LEWIS CENTRAL,SS,1,,X,,,Brianna Iverson
+7014,677,LEWIS CENTRAL,SS,2,,X,,,Dane Norville
+7014,677,LEWIS CENTRAL,SS,3,,X,,,Ottilie Cooper-Ohm
+7014,677,LEWIS CENTRAL,RN,1,,X,,,Hannah Couch
+7014,677,LEWIS CENTRAL,RN,2,,X,,,Olivia Brungardt
+7014,677,LEWIS CENTRAL,RN,3,,X,,,Ottilie Cooper-Ohm
+7014,677,LEWIS CENTRAL,EA,1,,X,,,Aidan Cozart
+7014,677,LEWIS CENTRAL,ST,1,,X,,,Emma Heyen
+7014,677,LEWIS CENTRAL,ST,2,,X,,,Jonny Cox
+7014,677,LEWIS CENTRAL,ST,3,,X,,,Mark Kavars
+7014,677,LEWIS CENTRAL,AD,1,,X,,,Brenden O-Brien
+7014,677,LEWIS CENTRAL,AD,2,,X,,,Mark Kavars
+7014,677,LEWIS CENTRAL,AD,3,,X,,,Nolan King
+7014,677,LEWIS CENTRAL,IMP,1,,X,,,Aidan Cozart
+7014,677,LEWIS CENTRAL,IMP,2,,X,,,Austin Dunham
+7014,677,LEWIS CENTRAL,IMP,3,,X,,,Ian Brungardt
+7014,677,LEWIS CENTRAL,RV,1,,X,,,Emara Klein
+7014,677,LEWIS CENTRAL,RV,2,,X,,,Hannah Couch
+7051,436,AUDUBON,ACT,1,,X,,,Lillian Vargas
+7051,436,AUDUBON,ACT,2,,X,,,Timothy Bozzo
+7051,436,AUDUBON,ACT,3,,X,,,Lila Sebetka
+7051,436,AUDUBON,PO,1,Troll,X,,,Amber Cambell
+7051,436,AUDUBON,PO,2,Self Written,X,,,Lillian Vargas
+7051,436,AUDUBON,LP,1,Kings,X,,,Amber Campbell
+7051,436,AUDUBON,OO,1,,X,,,Leah Subbert
+7051,436,AUDUBON,SS,1,,X,,,Dennis Jackson
+7051,436,AUDUBON,SS,2,,X,,,Thomas Snyder
+7051,436,AUDUBON,RN,1,,X,,,Kyle Polson
+7051,436,AUDUBON,EA,1,,X,,,Dennis Jackson
+7051,436,AUDUBON,EA,2,,X,,,Timothy Bozzo
+7051,436,AUDUBON,ST,1,,X,,,Katie Konkler
+7051,436,AUDUBON,ST,2,,X,,,Rebecca Nelson
+7051,436,AUDUBON,ST,3,,X,,,Aden Torneten
+7051,436,AUDUBON,AD,1,,X,,,Grace Christensen
+7051,436,AUDUBON,AD,2,,X,,,Gabe Steffes
+7051,436,AUDUBON,IMP,1,,X,,,Kyle Polson
+7051,436,AUDUBON,IMP,2,,X,,,Logan Holmes
+7051,436,AUDUBON,RV,1,,X,,,Gabe Steffes
+7051,436,AUDUBON,RV,2,,X,,,Thomas Snyder
+7121,620,GRISWOLD,SMT,1,Ribbons Down my Back,X,,,Josie Dalke
+7121,620,GRISWOLD,SMT,2,So Long Dearier,X,,,Bry Carlisle
+7121,620,GRISWOLD,ACT,1,The Very First Dating Video of Rose Ritz,X,,,Sam Rush
+7121,620,GRISWOLD,ACT,2,Ice Cream for Dinner,X,,,Bry Carlisle
+7121,620,GRISWOLD,ACT,3,And the Broom that you Rode in on.,X,,,Faith Beebe
+7121,620,GRISWOLD,ACT,4,Cheering your way into College,X,,,Reece Peterson
+7121,620,GRISWOLD,PO,1,Godwin Poetry,X,,,Kaylee Godwin
+7121,620,GRISWOLD,PO,2,Little Red Riding Hood,X,,,Mariah Brown
+7121,620,GRISWOLD,PO,3,Snow White and the Seven Dwarves,X,,,Claire Smith
+7121,620,GRISWOLD,PR,1,The Homecoming Queen,X,,,Sam Rush
+7121,620,GRISWOLD,PR,2,Milk & Honey,X,,,Marie Amos
+7121,620,GRISWOLD,PR,3,Tale of the Three Brothers,X,,,Kayla Marshall
+7121,620,GRISWOLD,LP,1,Depression,X,,,Anna Young
+7121,620,GRISWOLD,LP,2,Carlton Lit Program,X,,,Alicia Carlton
+7121,620,GRISWOLD,LP,3,Altschaffl Lit Program,X,,,Abby Altschaffl
+7121,620,GRISWOLD,OO,1,Loves of Life,X,,,Marie Amos
+7121,620,GRISWOLD,OO,2,One Final Letter,X,,,Reece Peterson
+7121,620,GRISWOLD,OO,3,No,X,,,Mariah Brown
+7121,620,GRISWOLD,SS,1,,X,,,Russell Houser
+7121,620,GRISWOLD,RN,1,,X,,,Riley Smith
+7121,620,GRISWOLD,RN,2,,X,,,Faith Beebe
+7121,620,GRISWOLD,RN,3,,X,,,Ben Kunze
+7121,620,GRISWOLD,ST,1,Four Fierce Kittens,X,,,Claire Smith
+7121,620,GRISWOLD,ST,2,Luft Storytelling,X,,,Cloey Luft
+7121,620,GRISWOLD,ST,3,Byrum Storytelling,X,,,Brooke Byrum
+7121,620,GRISWOLD,AD,1,2nd Annual Meeting of Band Geeks Anonymous,X,,,Riley Smith
+7121,620,GRISWOLD,AD,2,Introverts United,X,,,Charli Adams
+7121,620,GRISWOLD,IMP,1,,X,,,Emery Ruggles
+7124,678,LEWIS CENTRAL 9TH,PA,1,,X,,,Maggie Youngblood
+7124,678,LEWIS CENTRAL 9TH,PO,1,,X,,,Abby Davis
+7124,678,LEWIS CENTRAL 9TH,PO,2,,X,,,Mark Torneton
+7124,678,LEWIS CENTRAL 9TH,PO,3,,X,,,Taylor French
+7124,678,LEWIS CENTRAL 9TH,PR,1,,X,,,Kate Kavars
+7124,678,LEWIS CENTRAL 9TH,PR,2,,X,,,Maggie Youngblood
+7124,678,LEWIS CENTRAL 9TH,PR,3,,X,,,Tabatha Hogueison
+7124,678,LEWIS CENTRAL 9TH,OO,1,,X,,,Abby Davis
+7124,678,LEWIS CENTRAL 9TH,OO,2,,X,,,Gillian Sprecher
+7124,678,LEWIS CENTRAL 9TH,SS,1,,X,,,Spencer Cooper-Ohm
+7124,678,LEWIS CENTRAL 9TH,RN,1,,X,,,Spencer Cooper-Ohm
+7124,678,LEWIS CENTRAL 9TH,EA,1,,X,,,Jazmin Huisman
+7124,678,LEWIS CENTRAL 9TH,ST,1,Pinkalicious,X,,,Kate Kavars
+7138,1062,GRISWOLD 9TH,ACT,1,Legacy,X,,,Kacey Danker
+7138,1062,GRISWOLD 9TH,PO,1,Annabel Lee,X,,,Kacey Danker
+7138,1062,GRISWOLD 9TH,PO,2,Phenomenal Woman,X,,,Kinzie Schroder
+7138,1062,GRISWOLD 9TH,PO,3,Dorscher Poetry,X,,,Courtney Dorscher
+7138,1062,GRISWOLD 9TH,PR,1,Fault in our Stars,X,,,Cadie Carter
+7138,1062,GRISWOLD 9TH,OO,1,Schroder Oratory,X,,,Kinzie Schroder
+7157,458,BOYER VALLEY,EA,1,Understanding ASD,X,,,Nikolas Ahert

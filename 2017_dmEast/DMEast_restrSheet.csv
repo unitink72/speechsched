@@ -1,0 +1,532 @@
+regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,latestEnd,performers
+6712,755,NORTH POLK,SMT,1,Larger Than Life,X,,,Jacob Barr
+6712,755,NORTH POLK,SMT,2,Where I Want to Be,X,,,Lauryn Brown
+6712,755,NORTH POLK,SMT,3,I Know It's Today,X,,,Maria Gorham
+6712,755,NORTH POLK,ACT,1,Infomercial,X,,,Luke Turczynski
+6712,755,NORTH POLK,ACT,2,Psychic Hotline,X,,,Noah Fields
+6712,755,NORTH POLK,ACT,3,Call to Fight,X,,,Seth Subra
+6712,755,NORTH POLK,PO,1,State of Education,X,,,Noah Fields
+6712,755,NORTH POLK,PR,1,Major's Speech,X,,,Miranda Sturtz
+6712,755,NORTH POLK,OO,1,NP Original Oratory 1,X,,,Will McCormick
+6712,755,NORTH POLK,RN,1,,X,,,Nick Bierman
+6712,755,NORTH POLK,ST,1,Holy Enchilada,X,,,Luke Turczynski
+6712,755,NORTH POLK,ST,2,NP Storytelling 2,X,,,Noah Wille
+6712,755,NORTH POLK,ST,3,Eight Feet Tall,X,,,Shannon Daugherty
+6713,1011,North Polk 9th,PO,1,Unrequited Love,X,,,Alanah Johnson
+6713,1011,North Polk 9th,OO,1,Eating your words,X,,,Alanah Johnson
+6713,1011,North Polk 9th,IMP,1,,X,,,Brandon Barr
+6714,640,INDIANOLA,ACT,1,Why,X,,,Codey Gillespie
+6714,640,INDIANOLA,ACT,2,A Hero Falls,X,,,Elliot Magalhaes
+6714,640,INDIANOLA,ACT,3,Forget About Me,X,,,Mina Epley
+6714,640,INDIANOLA,OO,1,Rainforest,X,,,Megan Lewiston
+6714,640,INDIANOLA,IMP,1,,X,,,Codey Gillespie
+6735,454,BONDURANT-FARRAR,PA,1,R Word Speech ,X,,,Ethan Wengert
+6735,454,BONDURANT-FARRAR,PA,2,Youth Violence Speech,X,,,Olivia Powers
+6735,454,BONDURANT-FARRAR,PA,3,Dartmouth Commencement Address,X,,,Sam Landy
+6735,454,BONDURANT-FARRAR,SMT,1,Part of Your World,X,,,Allison Ramsey
+6735,454,BONDURANT-FARRAR,SMT,2,In Short,X,,,Nick Currant
+6735,454,BONDURANT-FARRAR,ACT,1,Mick Harte Was Here,X,,,Cara Figenshaw
+6735,454,BONDURANT-FARRAR,ACT,2,Confessions of.....,X,,,Cassie Bucklin
+6735,454,BONDURANT-FARRAR,ACT,3,Sealed for Freshness,X,,,Faith Benson
+6735,454,BONDURANT-FARRAR,ACT,4,"Hey, Dummy",X,,,Jenna Hayworth
+6735,454,BONDURANT-FARRAR,PO,1,Graduation Speech,X,,,Allison Ramsey
+6735,454,BONDURANT-FARRAR,PO,2,Each Kindness,X,,,Josie Carter
+6735,454,BONDURANT-FARRAR,PO,3,Look Up,X,,,Lindsey Carter
+6735,454,BONDURANT-FARRAR,PR,1,Dandelion Wine,X,,,Chloe Hildreth
+6735,454,BONDURANT-FARRAR,PR,2,Dear Joey,X,,,Peyton Harless
+6735,454,BONDURANT-FARRAR,PR,3,Secret Life,X,,,Sam Pickering
+6735,454,BONDURANT-FARRAR,LP,1,Oppression,X,,,Faith Benson
+6735,454,BONDURANT-FARRAR,LP,2,Odd Girl Speaks Out,X,,,Kinsey Zvokel
+6735,454,BONDURANT-FARRAR,LP,3,Can You Hear Them Crying,X,,,Olivia Powers
+6735,454,BONDURANT-FARRAR,OO,1,To Be Thankful,X,,,Kiersten Kreuder
+6735,454,BONDURANT-FARRAR,OO,2,,X,,,Kinsey Lester
+6735,454,BONDURANT-FARRAR,OO,3,A Beautiful World,X,,,Peyton Maulsby
+6735,454,BONDURANT-FARRAR,SS,1,,X,,,Caleb Townsend
+6735,454,BONDURANT-FARRAR,SS,2,,X,,,Daniel Kubrak
+6735,454,BONDURANT-FARRAR,SS,3,,X,,,Natalie McDaniels
+6735,454,BONDURANT-FARRAR,RN,1,,X,,,Daniel Kubrak
+6735,454,BONDURANT-FARRAR,RN,2,,X,,,Joe McGovern
+6735,454,BONDURANT-FARRAR,RN,3,,X,,,Matthew Millard
+6735,454,BONDURANT-FARRAR,EA,1,,X,,,Elizabeth Schmeiser
+6735,454,BONDURANT-FARRAR,EA,2,English Riding,X,,,Elly Fulton
+6735,454,BONDURANT-FARRAR,EA,3,Rubik's Cube,X,,,Mark Campbell
+6735,454,BONDURANT-FARRAR,ST,1,"Stand Tall, Mollie Lou Mellon",X,,,Hope Girling
+6735,454,BONDURANT-FARRAR,ST,2,Walter the Farting Dog,X,,,Lacey Beck
+6735,454,BONDURANT-FARRAR,ST,3,The Memory Coat,X,,,Sarah Hintz
+6735,454,BONDURANT-FARRAR,AD,1,EHIA,X,,,Joe McGovern
+6735,454,BONDURANT-FARRAR,AD,2,TOE Club,X,,,Lacey Beck
+6735,454,BONDURANT-FARRAR,AD,3,Enlightened Ones,X,,,Peyton Maulsby
+6735,454,BONDURANT-FARRAR,IMP,1,,X,,,Jessica Fenton
+6735,454,BONDURANT-FARRAR,IMP,2,,X,,,Nick Currant
+6735,454,BONDURANT-FARRAR,IMP,3,,X,,,Shawn Glaser
+6735,454,BONDURANT-FARRAR,RV,1,,X,,,Lindsey Carter
+6735,454,BONDURANT-FARRAR,RV,2,The Effect of Gamma Rays,X,,,Molly Hormann
+6735,454,BONDURANT-FARRAR,RV,3,Miss Peregrine's Home for Peculiar Children,X,,,Sawyer Hildreth
+6740,809,ROLAND-STORY,SMT,1,,X,,,Grant Braun
+6740,809,ROLAND-STORY,SMT,2,,X,,,Meri McMullen
+6740,809,ROLAND-STORY,SMT,3,,X,,,Emily Narigon
+6740,809,ROLAND-STORY,ACT,1,,X,,,Shelby Hennager
+6740,809,ROLAND-STORY,PO,1,,X,,,Megan Goeders
+6740,809,ROLAND-STORY,PO,2,,X,,,Anika DeWald
+6740,809,ROLAND-STORY,PO,3,,X,,,Julia Fauteux
+6740,809,ROLAND-STORY,PR,1,,X,,,Maddie Urbanek
+6740,809,ROLAND-STORY,PR,2,,X,,,Anna Humphrey
+6740,809,ROLAND-STORY,PR,3,,X,,,Emma Auld
+6740,809,ROLAND-STORY,LP,1,,X,,,Anne Wilgenbusch
+6740,809,ROLAND-STORY,LP,2,,X,,,Anna Humphrey
+6740,809,ROLAND-STORY,OO,1,,X,,,Ashley Burns
+6740,809,ROLAND-STORY,OO,2,,X,,,Hailey Louw
+6740,809,ROLAND-STORY,OO,3,,X,,,Perla Garcia
+6740,809,ROLAND-STORY,SS,1,,X,,,Ashley Burns
+6740,809,ROLAND-STORY,SS,2,,X,,,Eli Ruben
+6740,809,ROLAND-STORY,RN,1,,X,,,Ethan Beck
+6740,809,ROLAND-STORY,RN,2,,X,,,Matthew Hougland
+6740,809,ROLAND-STORY,EA,1,,X,,,Sarah Phelan
+6740,809,ROLAND-STORY,ST,1,,X,,,Saber Cory
+6740,809,ROLAND-STORY,ST,2,,X,,,Noah Krull
+6740,809,ROLAND-STORY,ST,3,,X,,,Emma Auld
+6740,809,ROLAND-STORY,IMP,1,,X,,,Noah Krull
+6740,809,ROLAND-STORY,RV,1,,X,,,Anika DeWald
+6741,810,ROLAND-STORY 9TH,SMT,1,,X,,,Dylan McKinley
+6741,810,ROLAND-STORY 9TH,ACT,1,,X,,,Maddie Hennager
+6741,810,ROLAND-STORY 9TH,RN,1,,X,,,Sam Sirna
+6760,428,ANKENY,SMT,1,,X,,,Sara Kottra
+6760,428,ANKENY,SMT,2,,X,,,Taylor McGill
+6760,428,ANKENY,SMT,3,,X,,,Tiffany Waggoner
+6760,428,ANKENY,ACT,1,,X,,,Justin Tyler Hooven
+6760,428,ANKENY,ACT,2,,X,,,Natalie Alleman
+6760,428,ANKENY,ACT,3,,X,,,Taylor Kohn
+6760,428,ANKENY,PO,1,,X,,,Aaron Hoang
+6760,428,ANKENY,PO,2,,X,,,Eleanor Gretz
+6760,428,ANKENY,PO,3,,X,,,Laine Trumper
+6760,428,ANKENY,PR,1,,X,,,Emma Hill
+6760,428,ANKENY,PR,2,,X,,,Justin Tyler Hooven
+6760,428,ANKENY,PR,3,,X,,,Ryan Gross
+6760,428,ANKENY,LP,1,,X,,,Katy Wohlford
+6760,428,ANKENY,OO,1,,X,,,Aaron Hoang
+6760,428,ANKENY,OO,2,,X,,,Anna Senneff
+6760,428,ANKENY,OO,3,,X,,,Nicholas Alger
+6760,428,ANKENY,SS,1,,X,,,Nicholas Alger
+6760,428,ANKENY,SS,2,,X,,,Anna Senneff
+6760,428,ANKENY,RN,1,,X,,,Ryan Gross
+6760,428,ANKENY,EA,1,,X,,,Marshall Johnson
+6760,428,ANKENY,EA,2,,X,,,Savanna Scholl
+6760,428,ANKENY,EA,3,,X,,,Sarah Wick
+6760,428,ANKENY,ST,1,,X,,,Allissa Van Steenis
+6760,428,ANKENY,ST,2,,X,,,Samantha Pareti
+6760,428,ANKENY,ST,3,,X,,,Kyrie Schut
+6760,428,ANKENY,AD,1,,X,,,Katy Wohlford
+6760,428,ANKENY,AD,2,,X,,,Meghan Harris
+6760,428,ANKENY,IMP,1,,X,,,Anthony Davis
+6760,428,ANKENY,IMP,2,,X,,,Eli Wilslund
+6787,764,NORWALK,IMP,1,,X,,,Noah Schumacher
+6801,1025,ANKENY CENTENNIAL,PA,1,U.N. Conference on Environment &  Development,X,,,Brooklyn Snyder 
+6801,1025,ANKENY CENTENNIAL,ACT,1,Seriously...Im Kidding,X,,,Kimberly Cavalier 
+6801,1025,ANKENY CENTENNIAL,PO,1,Red with a Green Stem,X,,,Gabrielle Seger
+6801,1025,ANKENY CENTENNIAL,PO,2,Autocorrect Humanity,X,,,Haley Gatica
+6801,1025,ANKENY CENTENNIAL,PO,3,Barbells Break Easier Than Hearts,X,,,Jordan Cubas
+6801,1025,ANKENY CENTENNIAL,PR,1,Sit on It ,X,,,Bailey Caskey 
+6801,1025,ANKENY CENTENNIAL,PR,2,Story of an Hour,X,,,Jess Viti
+6801,1025,ANKENY CENTENNIAL,PR,3,The Hot Sauce Debacle ,X,,,Kimberly Cavalier
+6801,1025,ANKENY CENTENNIAL,LP,1,The Hole,X,,,Brooklyn Snyder 
+6801,1025,ANKENY CENTENNIAL,OO,1,"R-E-J-E-C-T-E-D, You Just Got Rejected",X,,,Alexis Jacobs 
+6801,1025,ANKENY CENTENNIAL,OO,2,It's Just Love,X,,,Jessica Wyman 
+6801,1025,ANKENY CENTENNIAL,OO,3,So Long Suburbia ,X,,,Kathleen Brown 
+6801,1025,ANKENY CENTENNIAL,SS,1,,X,,,Justin Frank 
+6801,1025,ANKENY CENTENNIAL,EA,1,,X,,,Hannah Shrader
+6801,1025,ANKENY CENTENNIAL,EA,2,Welcome to Jersey,X,,,Jess Viti
+6801,1025,ANKENY CENTENNIAL,ST,1,Pack Your Bags,X,,,Alexis Jacobs
+6801,1025,ANKENY CENTENNIAL,AD,1,LIL,X,,,Bailey Caskey
+6801,1025,ANKENY CENTENNIAL,IMP,1,,X,,,Earl Powell
+6801,1025,ANKENY CENTENNIAL,IMP,2,,X,,,Jaron Jones
+6801,1025,ANKENY CENTENNIAL,RV,1,Young Frankenstein ,X,,,Earl Powell 
+6824,736,NEVADA 9TH,SMT,1,On My Own,X,,,Taylor Hall
+6824,736,NEVADA 9TH,SMT,2,Can't Get a Man with a Gun,X,,,Isabelle HumpalPash
+6824,736,NEVADA 9TH,ACT,1,At the Lace Counter,X,,,Isabelle HumpalPash
+6824,736,NEVADA 9TH,PO,1,,X,,,Taylor Hall
+6824,736,NEVADA 9TH,PR,1,,X,,,Mikayla Deters
+6824,736,NEVADA 9TH,OO,1,,X,,,Reagan Chitty
+6824,736,NEVADA 9TH,SS,1,,X,,,Lucas Rogers
+6824,736,NEVADA 9TH,SS,2,,X,,,Clay Bauman
+6824,736,NEVADA 9TH,IMP,1,,X,,,Clay Bauman
+6825,735,NEVADA,PA,1,Nathan Tanner,X,,,Nathan Tanner
+6825,735,NEVADA,PA,2,12 year old speaks out on Issue of Abortion,X,,,Noelle Huegerich
+6825,735,NEVADA,SMT,1,Go Looney,X,,,Joel Kellen
+6825,735,NEVADA,SMT,2,Kaylee Kruse,X,,,Kaylee Kruse
+6825,735,NEVADA,SMT,3,Nathan Tanner,X,,,Nathan Tanner
+6825,735,NEVADA,ACT,1,Mackenzie Garrett,X,,,Mackenzie Garrett
+6825,735,NEVADA,ACT,2,Tate Thacker,X,,,Tate Thacker
+6825,735,NEVADA,PO,1,Sadie Omundson,X,,,Sadie Omundson
+6825,735,NEVADA,PR,1,Alyssa Schaeffer,X,,,Alyssa Schaeffer
+6825,735,NEVADA,PR,2,Jacque Murphy,X,,,Jacque Murphy
+6825,735,NEVADA,OO,1,Noelle Huegerich,X,,,Noelle Huegerich
+6825,735,NEVADA,SS,1,,X,,,Madison Abraham
+6825,735,NEVADA,RN,1,,X,,,Madison Abraham
+6825,735,NEVADA,EA,1,Abigail Stephenson,X,,,Abigail Stephenson
+6825,735,NEVADA,ST,1,Destiny Merical,X,,,Destiny Merical
+6825,735,NEVADA,ST,2,Jack Steele,X,,,Jack Steele
+6825,735,NEVADA,ST,3,James Cheek,X,,,James Cheek
+6825,735,NEVADA,AD,1,Austin Doty,X,,,Austin Doty
+6825,735,NEVADA,AD,2,The National Nominating Convention,X,,,William Sutton
+6825,735,NEVADA,IMP,1,,X,,,Austin Doty
+6825,735,NEVADA,IMP,2,,X,,,Jack Steele
+6848,438,BALLARD,PA,1,Vogel TBD,X,,,Kristin Vogel
+6848,438,BALLARD,SMT,1,Don't Let Me Go,X,,,Chris Nemec
+6848,438,BALLARD,ACT,1,The Button,X,,,Alestair Metcalfe
+6848,438,BALLARD,ACT,2,Kraling TBD,X,,,Avery Kraling
+6848,438,BALLARD,ACT,3,Jet Lagged,X,,,Blazej Mosinski
+6848,438,BALLARD,ACT,4,The Search For Signs of Intelligent Life in the Universe,X,,,Bry Ronca
+6848,438,BALLARD,ACT,5,The Endurance Test,X,,,Talia Vespestad
+6848,438,BALLARD,PO,1,Pretty,X,,,Kaitlyn Vasey
+6848,438,BALLARD,PO,2,"Like, Totally Whatever",X,,,Teresa Hannasch
+6848,438,BALLARD,PR,1,"Love, a Senior",X,,,Avery Kraling
+6848,438,BALLARD,PR,2,Noack TBD,X,,,Danielle Noack
+6848,438,BALLARD,PR,3,Vogel TBD,X,,,Kristin Vogel
+6848,438,BALLARD,LP,1,Wabi-Sabi,X,,,Kaitlyn Vasey
+6848,438,BALLARD,LP,2,Alice,X,,,Rebekah Wiech
+6848,438,BALLARD,LP,3,How to Eat Like a Child,X,,,Talia Vepestad
+6848,438,BALLARD,OO,1,Urban Agriculture,X,,,Grace Long
+6848,438,BALLARD,SS,1,,X,,,Ryan Ledet
+6848,438,BALLARD,RN,1,,X,,,Jackson Olson
+6848,438,BALLARD,EA,1,What's the Buzz About Bees?,X,,,Grace Long
+6848,438,BALLARD,EA,2,Dance Trends,X,,,Mackenzie Kraling
+6848,438,BALLARD,ST,1,The Bogeyman,X,,,Bry Ronca
+6848,438,BALLARD,ST,2,Alexander and the Terrible Horrible No Good Very Bad Day,X,,,Chris Nemec
+6848,438,BALLARD,ST,3,Little Red Hooding Ride,X,,,Ian Dickens
+6848,438,BALLARD,AD,1,Snell TBD,X,,,Erin Snell
+6848,438,BALLARD,AD,2,Stephany TBD,X,,,Nathan Stephany
+6848,438,BALLARD,AD,3,Get Lost,X,,,Teresa Hannasch
+6848,438,BALLARD,IMP,1,,X,,,Mackenzie Kraling
+6848,438,BALLARD,RV,1,The Usual Suspects,X,,,Alestair Metcalfe
+6848,438,BALLARD,RV,2,Stephany TBD,X,,,Nathan Stephany
+6851,439,BALLARD 9TH,SMT,1,Watkins TBD,X,,,Gabry Watkins
+6851,439,BALLARD 9TH,ACT,1,A Beautiful Flavor,X,,,Aubrey Schafbuch
+6851,439,BALLARD 9TH,PO,1,Cinderella ,X,,,Sidra Vespestad
+6851,439,BALLARD 9TH,ST,1,Kings Big Dinner,X,,,Aubrey Schafbuch
+6851,439,BALLARD 9TH,ST,2,Stand Tall Molly Lou Melon,X,,,Ellie Twedt
+6851,439,BALLARD 9TH,ST,3,The Day the Crayons Quit,X,,,Sidra Vespestad
+6857,519,COLO-NESCO,PA,1,Short Public Address 1,X,,,Spencer Short
+6857,519,COLO-NESCO,SMT,1,Norris Musical Theater 1,X,,,Stephanie Norris
+6857,519,COLO-NESCO,PR,1,Good Omens,X,,,Caitlin McLoud
+6857,519,COLO-NESCO,OO,1,From Germany to Iowa,X,,,Marius Sprang
+6857,519,COLO-NESCO,RN,1,,X,,,Kaitlyn Witt
+6857,519,COLO-NESCO,RN,2,,X,,,Spencer Short
+6857,519,COLO-NESCO,ST,1,Brinkman Storytelling 1,X,,,Emily Brinkman
+6857,519,COLO-NESCO,AD,1,Duran After Dinner Speaking 1,X,,,Kasandra Duran
+6857,519,COLO-NESCO,IMP,1,,X,,,Caitlin McLoud
+6857,519,COLO-NESCO,IMP,2,,X,,,Autumn Cerka
+6862,548,DES MOINES NORTH,SMT,1,,X,,,Caleb Ostermann
+6862,548,DES MOINES NORTH,SMT,2,,X,,,Vanessa McGregor
+6862,548,DES MOINES NORTH,ACT,1,,X,,,Cassady Kelly
+6862,548,DES MOINES NORTH,ACT,2,,X,,,Joe Noble
+6862,548,DES MOINES NORTH,ACT,3,,X,,,Marcos Hernandez
+6862,548,DES MOINES NORTH,ACT,4,,X,,,Triet Ly
+6862,548,DES MOINES NORTH,PO,1,,X,,,Cassady Kelly
+6862,548,DES MOINES NORTH,PO,2,,X,,,Hailey Curtis
+6862,548,DES MOINES NORTH,PO,3,,X,,,Kayli Breeling
+6862,548,DES MOINES NORTH,PR,1,,X,,,Isabel Camacho-Arias
+6862,548,DES MOINES NORTH,PR,2,,X,,,Krystal O'Morrow
+6862,548,DES MOINES NORTH,LP,1,,X,,,Cherry Tran
+6862,548,DES MOINES NORTH,RN,1,,X,,,Darrick Burrage
+6862,548,DES MOINES NORTH,RN,2,,X,,,Jake Mentzer
+6862,548,DES MOINES NORTH,EA,1,,X,,,Jake Mentzer
+6862,548,DES MOINES NORTH,EA,2,,X,,,Yair Gomez-Cruz
+6862,548,DES MOINES NORTH,EA,3,,X,,,Vanessa McGregor
+6862,548,DES MOINES NORTH,ST,1,,X,,,Joe Noble
+6862,548,DES MOINES NORTH,AD,1,,X,,,Cherry Tran
+6862,548,DES MOINES NORTH,AD,2,,X,,,Yair Gomez-Cruz
+6862,548,DES MOINES NORTH,IMP,1,,X,,,Marcos Hernandez
+6862,548,DES MOINES NORTH,IMP,2,,X,,,Caleb Ostermann
+6862,548,DES MOINES NORTH,IMP,3,,X,,,Darrick Burrage
+6863,544,DES MOINES HOOVER,PA,1,The Great Dictator,X,,,Giorgi Kakabadze
+6863,544,DES MOINES HOOVER,PA,2,Woman of the Year,X,,,Sofia Lopez
+6863,544,DES MOINES HOOVER,PA,3,The Mountaintop,X,,,Luke Leonard
+6863,544,DES MOINES HOOVER,SMT,1,The Best Darn Song in the Whole Darn World,X,,,Max Tensen
+6863,544,DES MOINES HOOVER,SMT,2,Something fantastic,X,,,Pryce Johnson
+6863,544,DES MOINES HOOVER,SMT,3,She Used to be Mine,X,,,Annika Baker
+6863,544,DES MOINES HOOVER,ACT,1,Safe,X,,,Julie Tran
+6863,544,DES MOINES HOOVER,ACT,2,Pink Panther Strikes Again,X,,,Alex Finch
+6863,544,DES MOINES HOOVER,PO,1,Poems that will make you feel things,X,,,Elizabeth Mora
+6863,544,DES MOINES HOOVER,PO,2,Political Poems,X,,,Celeste Ruggle
+6863,544,DES MOINES HOOVER,PR,1,Amazon Reviews,X,,,Pryce Johnson
+6863,544,DES MOINES HOOVER,PR,2,She'll be reading something,X,,,Zoey Tensen
+6863,544,DES MOINES HOOVER,PR,3,A delightful little diddy,X,,,Celeste Ruggle
+6863,544,DES MOINES HOOVER,LP,1,There will be a title,X,,,Sofia Lopez
+6863,544,DES MOINES HOOVER,SS,1,,X,,,Max Tensen
+6863,544,DES MOINES HOOVER,SS,2,,X,,,Luke Leonard
+6863,544,DES MOINES HOOVER,SS,3,,X,,,Arif Custovic
+6863,544,DES MOINES HOOVER,ST,1,"Seriously, Cinderella is so annoying!",X,,,Izzy Owens
+6863,544,DES MOINES HOOVER,ST,2,A very good book,X,,,Julian Spencer
+6863,544,DES MOINES HOOVER,IMP,1,,X,,,Alex Finch
+6876,604,GILBERT 9TH,PA,1,The FFA Creed,X,,,Elizabeth Delaney
+6876,604,GILBERT 9TH,SS,1,,X,,,Matilda Hogan
+6876,604,GILBERT 9TH,SS,2,,X,,,Trent Brandner
+6877,603,GILBERT,PA,1,First Inaugural Address,X,,,Josh Timms
+6877,603,GILBERT,PA,2,"I Am Not Black, You Are Not White. ",X,,,Tristan Popillion
+6877,603,GILBERT,PA,3,Address to the GHMA,X,,,Noah Brinkmeyer
+6877,603,GILBERT,SMT,1,Don't Let Me Go,X,,,Ryan Weber
+6877,603,GILBERT,SMT,2,It Won't Be Long Now,X,,,Rebecca Wickert
+6877,603,GILBERT,SMT,3,"There's a Fine, Fine Line",X,,,Durga Sritharan
+6877,603,GILBERT,ACT,1,My William Shatner Man Crush,X,,,Mason Tharp
+6877,603,GILBERT,ACT,2,Watch Your Head,X,,,Alexandra Babcock
+6877,603,GILBERT,ACT,3,A Thing for Nerds,X,,,Natalie Lawrence
+6877,603,GILBERT,PO,1,The Highwayman,X,,,Allie Houseman
+6877,603,GILBERT,PO,2,Moles,X,,,Mya Gibbons
+6877,603,GILBERT,PO,3,To This Day,X,,,Camry Folkmann
+6877,603,GILBERT,PR,1,Lamb to the Slaughter,X,,,Olivia Fink
+6877,603,GILBERT,PR,2,Technology,X,,,Sam Royer
+6877,603,GILBERT,LP,1,An Ode to Schools,X,,,Mackenzie Carder
+6877,603,GILBERT,OO,1,Untitled,X,,,Ana Denison
+6877,603,GILBERT,OO,2,Gunshot Wounds,X,,,Tristan Popillion 
+6877,603,GILBERT,SS,1,,X,,,Josh Timms
+6877,603,GILBERT,SS,2,,X,,,Sandeep Stanley
+6877,603,GILBERT,SS,3,,X,,,TJ Swanson
+6877,603,GILBERT,RN,1,,X,,,Noah Brinkmeyer
+6877,603,GILBERT,RN,2,,X,,,Mason Tharp
+6877,603,GILBERT,RN,3,,X,,,Sarah Farwell
+6877,603,GILBERT,ST,1,Click Clack Moo,X,,,Olivia Fink
+6877,603,GILBERT,ST,2,Bear Snores On,X,,,Sydney Fink
+6877,603,GILBERT,IMP,1,,X,,,Natalie Lawrence
+6877,603,GILBERT,IMP,2,,X,,,Mackenzie Carder
+6877,603,GILBERT,IMP,3,,X,,,TJ Swanson
+6904,849,SOUTHEAST WARREN,PA,1,Duties of American Citzenship,X,,,Mason Ohnemus 
+6904,849,SOUTHEAST WARREN,PA,2,Duties of American Citzenship,X,,,Seth Cumbley
+6904,849,SOUTHEAST WARREN,ACT,1,The Beanstalk,X,,,Carson Dittmer
+6904,849,SOUTHEAST WARREN,ACT,2,Mira,X,,,Neva Vogal
+6904,849,SOUTHEAST WARREN,PO,1,,X,,,Alee Johnson
+6904,849,SOUTHEAST WARREN,PO,2,,X,,,Gabbie Smith
+6904,849,SOUTHEAST WARREN,PO,3,,X,,,Rylee Youmans
+6904,849,SOUTHEAST WARREN,PR,1,Family,X,,,Gabby Carlson
+6904,849,SOUTHEAST WARREN,PR,2,Less than Nothing,X,,,Kelli Chapman
+6904,849,SOUTHEAST WARREN,PR,3,The Room,X,,,Kyle Site
+6904,849,SOUTHEAST WARREN,SS,1,,X,,,Sean Gardner
+6904,849,SOUTHEAST WARREN,ST,1,The Book with No Pictures,X,,,Kelli Chapman
+6972,885,URBANDALE,PA,1,Standing Together Against Terrorism and Fear,X,,,Alex Brown
+6972,885,URBANDALE,SMT,1,Kindergarden Boyfriend-Heathers,X,,,Isabel Daza
+6972,885,URBANDALE,SMT,2,Astonishing-Little Women,X,,,Megan Eastwood
+6972,885,URBANDALE,ACT,1,The Yellow Wallpaper,X,,,Alex Cottington
+6972,885,URBANDALE,ACT,2,Reasons to be Pretty,X,,,Delanee Ensley
+6972,885,URBANDALE,PO,1,Cottington IRP,X,,,Alex Cottington
+6972,885,URBANDALE,PO,2,Invictus,X,,,Anna Perdue
+6972,885,URBANDALE,PO,3,Masters of War/Irony,X,,,Emma Kellogg
+6972,885,URBANDALE,PR,1,Ramayana Folk Tale,X,,,Aditya Kotla
+6972,885,URBANDALE,PR,2,Alice in Wonderland,X,,,Delanee Ensley
+6972,885,URBANDALE,LP,1,The Odyssey,X,,,Aiden Vedder
+6972,885,URBANDALE,LP,2,Tell Tale Heart/Murder Mystery Poem,X,,,Alex Brown
+6972,885,URBANDALE,LP,3,Catcalling “From a time when i thought it was a compliment”/To Walk As A Woman,X,,,Megan Eastwood
+6972,885,URBANDALE,OO,1,Native American Reservations,X,,,Katie Danielson
+6972,885,URBANDALE,SS,1,,X,,,Sejla Pujagic
+6972,885,URBANDALE,EA,1, The Science of Batman,X,,,Varun Vepa
+6972,885,URBANDALE,ST,1,The Leprehaun,X,,,Sejla Pujagic
+6972,885,URBANDALE,AD,1,Seniors on Search,X,,,Katie Danielson
+6972,885,URBANDALE,AD,2,Cottington ADS ,X,,,Keegan Cottington
+6972,885,URBANDALE,AD,3,Mime Convention,X,,,Logan Boyles
+6972,885,URBANDALE,IMP,1,,X,,,Isabel Daza
+6986,543,DES MOINES EAST,PA,1,The Gettysburg Address,X,,,Dylan Williams
+6986,543,DES MOINES EAST,PA,2,Michelle Obama,X,,,Jocelyn Paredas
+6986,543,DES MOINES EAST,PA,3,JF Kennedy,X,,,Noah La Vie
+6986,543,DES MOINES EAST,SMT,1,Every Door,X,,,Cristian Rodriguez
+6986,543,DES MOINES EAST,SMT,2,I Don't Know How to Love Him,X,,,Katy McCaull
+6986,543,DES MOINES EAST,SMT,3,History of Wrong Guys,X,,,Rachel Reidburn
+6986,543,DES MOINES EAST,ACT,1,Mississippi,X,,,Courtney Young
+6986,543,DES MOINES EAST,PO,1,Issues with Love,X,,,Brit Eddinger
+6986,543,DES MOINES EAST,PO,2,Try Me,X,,,Courtney Young
+6986,543,DES MOINES EAST,PO,3,An Actor's Dilemma,X,,,Elaina Rothmayer
+6986,543,DES MOINES EAST,PR,1,Twelve,X,,,Caitlyn Stills
+6986,543,DES MOINES EAST,PR,2,The Code,X,,,Marie Demuth
+6986,543,DES MOINES EAST,PR,3,Shhh,X,,,Tera Richardson
+6986,543,DES MOINES EAST,LP,1,Debate,X,,,Brooklynn Way
+6986,543,DES MOINES EAST,LP,2,The World Today,X,,,Jocelyn Paredas
+6986,543,DES MOINES EAST,LP,3,The Musical,X,,,Katy McCaull
+6986,543,DES MOINES EAST,OO,1,Pick Up a Brush,X,,,Melissa Goldberg
+6986,543,DES MOINES EAST,SS,1,,X,,,Camryn Drummond-Croy
+6986,543,DES MOINES EAST,SS,2,,X,,,Dylan Williams
+6986,543,DES MOINES EAST,RN,1,,X,,,Andrew Jackson
+6986,543,DES MOINES EAST,RN,2,,X,,,Victor Burns
+6986,543,DES MOINES EAST,EA,1,A Little Bit of Soil,X,,,Caitlyn Still
+6986,543,DES MOINES EAST,EA,2,Standing Up,X,,,Jazzy Johnson
+6986,543,DES MOINES EAST,ST,1,My Abueltia,X,,,Julieta Reveles
+6986,543,DES MOINES EAST,ST,2,The Paperbag Princess,X,,,Newal Rai
+6986,543,DES MOINES EAST,ST,3,What Do You Do With An Idea?,X,,,Tera Richardson
+6986,543,DES MOINES EAST,AD,1,On or Off The Spectrum,X,,,Cassandra Fiscus
+6986,543,DES MOINES EAST,AD,2,I Can Do This,X,,,Tim Schonkaes
+6986,543,DES MOINES EAST,IMP,1,,X,,,Newal Rai
+6986,543,DES MOINES EAST,IMP,2,,X,,,Noah La Vie
+6986,543,DES MOINES EAST,IMP,3,,X,,,Tim Schonkaes
+6986,543,DES MOINES EAST,RV,1,Jenny Han Series,X,,,Brit Eddinger
+6986,543,DES MOINES EAST,RV,2,Rock Horror Picture Show,X,,,Elaina Rothmayer
+6986,543,DES MOINES EAST,RV,3,A Musical,X,,,Rachel Reidburn
+6988,424,AMES,PA,1,Any Given Sunday,X,,,Philip Ma
+6988,424,AMES,PA,2,Speech at Harvard Law,X,,,Rachel Junck
+6988,424,AMES,PA,3,1996 Wellesley College Commencement,X,,,Tianxin Xu
+6988,424,AMES,SMT,1,On My Own,X,,,Ariana Engelman
+6988,424,AMES,SMT,2,Quiet,X,,,Hannah Wigdahl
+6988,424,AMES,SMT,3,Out There,X,,,Josh Gartin
+6988,424,AMES,ACT,1,William Shatner Man Crush,X,,,Jacob Peters
+6988,424,AMES,ACT,2,88 Keys,X,,,Jill Schoenrock
+6988,424,AMES,ACT,3,Letter to My Sixteen Year Old Self,X,,,Thomas Garrett
+6988,424,AMES,PO,1,What's Your Story,X,,,Ariana Engelman
+6988,424,AMES,PO,2,All About Birds,X,,,Elena Andrews
+6988,424,AMES,PR,1,Dakshina's Story,X,,,Dakshina Paudyal
+6988,424,AMES,PR,2,Night Vale,X,,,Nicole Kelly
+6988,424,AMES,LP,1,Racial Poverty,X,,,Kijune Kim
+6988,424,AMES,OO,1,Where are All the Women?,X,,,Tianxin Xu
+6988,424,AMES,SS,1,,X,,,Dakshina Paudyal
+6988,424,AMES,SS,2,,X,,,Helen Hu
+6988,424,AMES,EA,1,Helen's Speech,X,,,Helen Hu
+6988,424,AMES,ST,1,Rodeo Ron and His Milkshake Cows,X,,,Hannah Wigdahl
+6988,424,AMES,ST,2,"Louise, The Adventures of a Chicken",X,,,Libby Grunenwald
+6988,424,AMES,ST,3,Me First,X,,,Teresa Pelzer
+6988,424,AMES,IMP,1,,X,,,Jill Schoenrock
+6992,425,AMES 9TH,SMT,1,Flashlight,X,,,Tiffany Rong
+6992,425,AMES 9TH,SMT,2,Watch What Happens,X,,,Kendra Caulfield
+6992,425,AMES 9TH,SMT,3,Neverland,X,,,Andrea Martinez
+6992,425,AMES 9TH,OO,1,The Case for Patriotism,X,,,Kathleen Pelzer
+6992,425,AMES 9TH,RN,1,,X,,,Tiffany Rong
+6992,425,AMES 9TH,EA,1,Energy for the Future Comes from Coal?,X,,,Kathleen Pelzer
+6992,425,AMES 9TH,ST,1,Skippyjon Jones: Lost in Spice,X,,,Kendra Caulfield
+6996,425,AMES 9TH,SMT,1,Flashlight,X,,,Tiffany Rong
+6996,425,AMES 9TH,SMT,2,Watch What Happens,X,,,Kendra Caulfield
+6996,425,AMES 9TH,SMT,3,Neverland,X,,,Andrea Martinez
+6996,425,AMES 9TH,OO,1,The Case for Patriotism,X,,,Kathleen Pelzer
+6996,425,AMES 9TH,RN,1,,X,,,Tiffany Rong
+6996,425,AMES 9TH,EA,1,Energy for the Future Comes from Coal?,X,,,Kathleen Pelzer
+6996,425,AMES 9TH,ST,1,Skippyjon Jones: Lost in Spice,X,,,Kendra Caulfield
+7003,518,COLLINS-MAXWELL,SMT,1,Funny Girl,X,,,Malibu Brown
+7003,518,COLLINS-MAXWELL,PO,1,Somewhere in America,X,,,Micayla Applegate
+7003,518,COLLINS-MAXWELL,PR,1,Catcher in The Rye,X,,,Micayla Applegate
+7003,518,COLLINS-MAXWELL,ST,1,Madeline,X,,,Anna Jones
+7003,518,COLLINS-MAXWELL,IMP,1,,X,,,Noah Rhoades
+7003,518,COLLINS-MAXWELL,IMP,2,,X,,,Richard White
+7003,518,COLLINS-MAXWELL,IMP,3,,X,,,Jack Cheville
+7003,518,COLLINS-MAXWELL,RV,1,Star Wars: The Old Republic: Revan,X,,,Drake Ross
+7036,471,CARLISLE,SMT,1,Hayes Mentzer Musical theatre,X,,,Daphne Hayes Mentzer
+7036,471,CARLISLE,SMT,2,Fees Musical Theatre,X,,,Maddie Fees
+7036,471,CARLISLE,ACT,1,Lent Acting,X,,,Ann Lent
+7036,471,CARLISLE,ACT,2,Smalley Acting,X,,,Connor Smalley
+7036,471,CARLISLE,ACT,3,Hayes-Mentzer Acting,X,,,Daphne Hayes-Mentzer
+7036,471,CARLISLE,ACT,4,Ryan Acting,X,,,Hannah Ryan
+7036,471,CARLISLE,PO,1,Ryan Original,X,,,Hannah Ryan
+7036,471,CARLISLE,PO,2,Clark Poetry,X,,,Simon Clark
+7036,471,CARLISLE,ST,1,Lent Storytelling,X,,,Ann Lent
+7036,471,CARLISLE,ST,2,Johnson Storytelling,X,,,Derek Johnson
+7036,471,CARLISLE,ST,3,Fees Storytelling,X,,,Maddie Fees
+7036,471,CARLISLE,IMP,1,,X,,,Casey Hutchins
+7048,847,SOUTHEAST POLK,PA,1,I am Not Black; You are Not White,X,,,Amaris Albers
+7048,847,SOUTHEAST POLK,PA,2,Skinner PA,X,,,Dakota Skinner
+7048,847,SOUTHEAST POLK,PA,3,Spangler-Dunning PA,X,,,Tristan Spangler-Dunning
+7048,847,SOUTHEAST POLK,SMT,1,Brown ,X,,,Christian Brown
+7048,847,SOUTHEAST POLK,SMT,2,Skinner SMT,X,,,Dakota Skinner
+7048,847,SOUTHEAST POLK,SMT,3,Riley,X,,,Kathleen Riley
+7048,847,SOUTHEAST POLK,ACT,1,Closing from Time to Kill,X,,,Ethan Owens
+7048,847,SOUTHEAST POLK,ACT,2,The Sub from Down Under,X,,,Molly Hart
+7048,847,SOUTHEAST POLK,ACT,3,Cinderella in Red,X,,,Sydney Sickels
+7048,847,SOUTHEAST POLK,PO,1,Vannoy,X,,,Ashley Vannoy
+7048,847,SOUTHEAST POLK,PO,2,A Woman's Perspective,X,,,Mikayla Warrick
+7048,847,SOUTHEAST POLK,PO,3,Medina,X,,,Sara Medina
+7048,847,SOUTHEAST POLK,PR,1,Heck,X,,,Caitlin Heck
+7048,847,SOUTHEAST POLK,PR,2,Widman PR,X,,,Laura Widman
+7048,847,SOUTHEAST POLK,PR,3,Johannsen,X,,,Mariah Johannsen
+7048,847,SOUTHEAST POLK,LP,1,Morris,X,,,Amanda Morris
+7048,847,SOUTHEAST POLK,LP,2,Scheller,X,,,Jaeden Scheller
+7048,847,SOUTHEAST POLK,LP,3,Lynch,X,,,Morgan Lynch
+7048,847,SOUTHEAST POLK,SS,1,,X,,,Maura Ballagh
+7048,847,SOUTHEAST POLK,RN,1,,X,,,Ethan Owens
+7048,847,SOUTHEAST POLK,RN,2,,X,,,Tristan Spangler-Dunning
+7048,847,SOUTHEAST POLK,ST,1,Giraffes Can't Dance,X,,,Jessica Rish
+7048,847,SOUTHEAST POLK,ST,2,Boltz ST,X,,,Jordan Boltz
+7048,847,SOUTHEAST POLK,ST,3,Hasek ST,X,,,Nicole Hasek
+7048,847,SOUTHEAST POLK,AD,1,Atkins AD,X,,,Emily Atkins
+7048,847,SOUTHEAST POLK,AD,2,Ponce AD,X,,,Ivan Ponce
+7048,847,SOUTHEAST POLK,AD,3,Villarreal AD,X,,,Val Villarreal
+7048,847,SOUTHEAST POLK,IMP,1,,X,,,Brandan Treadway
+7048,847,SOUTHEAST POLK,IMP,2,,X,,,Damien Laughlin
+7048,847,SOUTHEAST POLK,RV,1,Widman RV,X,,,Laura Widman
+7048,847,SOUTHEAST POLK,RV,2,TeKolste,X,,,Logan TeKolste
+7048,847,SOUTHEAST POLK,RV,3,Sherlock Holmes,X,,,Marguerite Wiskus
+7073,657,JOHNSTON,PA,1,The New Republican Party,X,,,Katelynn Berg
+7073,657,JOHNSTON,SMT,1,Johnston SMT 3,X,,,Elizabeth Boeschen
+7073,657,JOHNSTON,SMT,2,Johnston SMT 1,X,,,Megan Gilbreth
+7073,657,JOHNSTON,SMT,3,Johnston SMT 2,X,,,Nic Ronker
+7073,657,JOHNSTON,ACT,1,Johnston Acting 1,X,,,Morgan Alaimo
+7073,657,JOHNSTON,ACT,2,A Wolf at the Table,X,,,Nic Ronker
+7073,657,JOHNSTON,ACT,3,Another American,X,,,Tara Djukanovic
+7073,657,JOHNSTON,PO,1,Johnston PO 1,X,,,Asia Mohammad
+7073,657,JOHNSTON,PO,2,Johnston PO 2,X,,,Claudia Tice
+7073,657,JOHNSTON,PO,3,Johnston PO 3,X,,,Shreya Shrestha
+7073,657,JOHNSTON,PR,1,Johnston PR 2,X,,,Elizabeth Jones
+7073,657,JOHNSTON,PR,2,Johnston PR 3,X,,,Jimmy Le
+7073,657,JOHNSTON,PR,3,Johnston PR 1,X,,,Morgan Alaimo
+7073,657,JOHNSTON,LP,1,Johnston LP 1,X,,,Shreya Shrestha
+7073,657,JOHNSTON,LP,2,Unheard Voices,X,,,Sierra Wicks
+7073,657,JOHNSTON,LP,3,Pretty Hurts,X,,,Tara Djukanovic
+7073,657,JOHNSTON,OO,1,Facing Life's Hurdles,X,,,Nicole Hobson
+7073,657,JOHNSTON,OO,2,Johnston OO 1,X,,,Nika Silkin
+7073,657,JOHNSTON,OO,3,Johnston OO 2,X,,,Peter Beebe
+7073,657,JOHNSTON,SS,1,,X,,,Alexis Rivett
+7073,657,JOHNSTON,SS,2,,X,,,Jack Lucas
+7073,657,JOHNSTON,SS,3,,X,,,Nika Silkin
+7073,657,JOHNSTON,RN,1,,X,,,Asyia Mohammad
+7073,657,JOHNSTON,RN,2,,X,,,Jack Lucas
+7073,657,JOHNSTON,EA,1,WACS,X,,,Alexis Rivett
+7073,657,JOHNSTON,EA,2,Johnston EX 1,X,,,Jimmy Le
+7073,657,JOHNSTON,EA,3,History has its Eyes on You,X,,,Sierra Wicks
+7073,657,JOHNSTON,ST,1,Johnston ST 2,X,,,Elizabeth Jones
+7073,657,JOHNSTON,ST,2,Johnston ST 3,X,,,Karsten Theilen
+7073,657,JOHNSTON,ST,3,Johnston ST 1,X,,,Nicole Hobson
+7073,657,JOHNSTON,IMP,1,,X,,,Ben O'Connor
+7073,657,JOHNSTON,IMP,2,,X,,,Joe Kronberg
+7073,657,JOHNSTON,IMP,3,,X,,,Will Linder
+7074,550,DES MOINES ROOSEVELT,SMT,1,Fight,X,,,Ben Harper
+7074,550,DES MOINES ROOSEVELT,SMT,2,Calm,X,,,Emily Boehm
+7074,550,DES MOINES ROOSEVELT,SMT,3,Astonishing ,X,,,LB Rivera
+7074,550,DES MOINES ROOSEVELT,ACT,1,Noises Off,X,,,Emily Boehm
+7074,550,DES MOINES ROOSEVELT,ACT,2,Goodbye,X,,,Olivia Allen
+7074,550,DES MOINES ROOSEVELT,ACT,3,Death and the Maiden,X,,,Tatum Clayburn
+7074,550,DES MOINES ROOSEVELT,PO,1,,X,,,Griffin Hutchison
+7074,550,DES MOINES ROOSEVELT,PR,1,Center of the Universe,X,,,Miranda Tanner
+7074,550,DES MOINES ROOSEVELT,PR,2,The Lonely Bones,X,,,Olivia Allen
+7074,550,DES MOINES ROOSEVELT,LP,1,,X,,,Kate Saunders
+7074,550,DES MOINES ROOSEVELT,OO,1,School Start Times,X,,,Max Jacob-Oliver
+7074,550,DES MOINES ROOSEVELT,RN,1,,X,,,Ashley Howland
+7074,550,DES MOINES ROOSEVELT,RN,2,,X,,,Jamaal Johnson
+7074,550,DES MOINES ROOSEVELT,RN,3,,X,,,Brooks Blackwood
+7074,550,DES MOINES ROOSEVELT,ST,1,Stinky Cheese Man,X,,,Jasmine Moreno
+7074,550,DES MOINES ROOSEVELT,ST,2,Have i got a Book For You,X,,,Aiden Moran
+7074,550,DES MOINES ROOSEVELT,AD,1,,X,,,Kate Saunders
+7074,550,DES MOINES ROOSEVELT,IMP,1,,X,,,Jayda Hawkins
+7094,429,ANKENY 9TH,PA,1,Advice to Youth,X,,,Katie Alger
+7094,429,ANKENY 9TH,SMT,1,When He Sees Me,X,,,Maddy Cisneros
+7094,429,ANKENY 9TH,SMT,2,Taylor the Latte Boy,X,,,Grace McGill
+7094,429,ANKENY 9TH,ACT,1,Trapped in a Monologue,X,,,Dyllan Konen
+7094,429,ANKENY 9TH,ACT,2,TBA,X,,,Grace McGill
+7094,429,ANKENY 9TH,PO,1,TBA,X,,,Jessica Sheets
+7094,429,ANKENY 9TH,PO,2,TBA,X,,,Grace Hagedorn
+7094,429,ANKENY 9TH,ST,1,TBA,X,,,Morghan Hurst
+7094,429,ANKENY 9TH,AD,1,Cross Country Runners,X,,,Marc Medici
+7094,429,ANKENY 9TH,AD,2,TBA,X,,,Joey Chavez
+7094,429,ANKENY 9TH,IMP,1,,X,,,Dyllan Konen
+7094,429,ANKENY 9TH,IMP,2,,X,,,Joey Chavez
+7094,429,ANKENY 9TH,RV,1,Titanfall 2,X,,,Gannon Kohn
+7094,429,ANKENY 9TH,RV,2,TBA,X,,,Payton Hermsen
+7112,551,DES MOINES ROOSEVELT 9TH,SMT,1,Suddenly Seymour,X,,,Holden McGraw
+7112,551,DES MOINES ROOSEVELT 9TH,SMT,2,When He Sees Me,X,,,Kaylee Reininga
+7112,551,DES MOINES ROOSEVELT 9TH,SMT,3,Musical Theater #3,X,,,Blythe Ennis
+7112,551,DES MOINES ROOSEVELT 9TH,PO,1,Cul-De-Sac Colonies,X,,,Lexi Hankerson
+7112,551,DES MOINES ROOSEVELT 9TH,PO,2,Confidence,X,,,Dimuncia Phancil
+7112,551,DES MOINES ROOSEVELT 9TH,IMP,1,,X,,,Zion Freeman
+7112,551,DES MOINES ROOSEVELT 9TH,IMP,2,,X,,,Aiden Andreasen
+7120,848,SOUTHEAST POLK 9TH,PA,1,Ryan,X,,,Cennedi Ryan
+7120,848,SOUTHEAST POLK 9TH,PA,2,Aldrich,X,,,Abby Aldrich
+7120,848,SOUTHEAST POLK 9TH,ACT,1,Reece ,X,,,CJ Reece
+7120,848,SOUTHEAST POLK 9TH,PR,1,Atkins,X,,,Jasmine Atkins
+7120,848,SOUTHEAST POLK 9TH,PR,2,McEnany,X,,,AJ McEnany
+7122,1026,ANKENY CENTENNIAL 9TH,PO,1,,X,,,Jeanne Peters
+7122,1026,ANKENY CENTENNIAL 9TH,PO,2,,X,,,Chris Martin
+7122,1026,ANKENY CENTENNIAL 9TH,PR,1,,X,,,Michael Webster
+7122,1026,ANKENY CENTENNIAL 9TH,PR,2,,X,,,Kaitlyn Meier
+7122,1026,ANKENY CENTENNIAL 9TH,PR,3,,X,,,Chris Martin
+7122,1026,ANKENY CENTENNIAL 9TH,RN,1,,X,,,Michael Webster
+7122,1026,ANKENY CENTENNIAL 9TH,RN,2,,X,,,Kaitlyn Meier
+7149,997,DES MOINES EAST 9TH,LP,1,In Another World,X,,,Riana Rice
+7149,997,DES MOINES EAST 9TH,ST,1,The Girl Who Wouldn't Brush Her Hair,X,,,Riana Rice
