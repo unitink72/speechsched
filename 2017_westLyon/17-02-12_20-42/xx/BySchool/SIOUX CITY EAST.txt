@@ -1,0 +1,43 @@
+Room                         Start  End   Cat  # EntryTitle
+A. Johnson Center N           8:00   8:08  RV  1 
+Sorensen Center O             8:30   8:38  OO  2 
+Rockhill Center D (Draw acr   8:36   8:41  RN  1 
+Band Room Center A            8:40   8:48 ACT  1 Red Hot Patriot
+Early Childhood Pod Center    8:40   8:48 ACT  3 
+Weber Center L                8:40   8:45  AD  2 
+J105 Metzger Center B         9:00   9:06  EA  1 Stressed Out
+A. Johnson Center N           9:10   9:18  RV  2 The Sour Truth
+J. Meyer Center I             9:20   9:28  LP  2 
+F117 Ripperda Center C        9:40   9:48  PA  2 
+J. Meyer Center I             9:40   9:48  LP  3 
+Winquist Center P             9:41   9:49  SS  1 
+Rockhill Center D (Draw acr   9:59  10:04  RN  3 
+Library Center F             10:00  10:08 IMP  1 
+Band Room Center A           10:10  10:18 ACT  2 Marilyn Monroe the Last Interview
+J105 Metzger Center B        10:10  10:16  EA  2 Bees
+J105 Metzger Center B        10:20  10:26  EA  3 Stop Being Fake
+Library Center F             10:20  10:28 IMP  2 
+Martinson Center H           11:00  11:06  PR  3 
+J. Meyer Center I            11:00  11:08  LP  1 
+Weber Center L               11:11  11:16  AD  3 
+Winquist Center P            11:13  11:21  SS  3 
+Weber Center L               11:43  11:48  AD  1 
+Winquist Center P            11:49  11:57  SS  2 
+Wiltgen Center G             11:54  12:00  PO  2 
+TeGrootenhuis Center J       11:54  12:00  PR  1 Let's Pretend this Never Happened
+F117 Ripperda Center C       12:20  12:28  PA  3 
+Choir Room Center E          12:24  12:29 SMT  1 
+Early Childhood Pod Center   12:32  12:37 SMT  3 
+Kerkvliet Center M           12:32  12:37  ST  2 
+A. Johnson Center N          12:54  12:59  ST  1 
+Choir Room Center E           1:04   1:09 SMT  2 
+Sorensen Center O             1:05   1:13  OO  1 
+TeGrootenhuis Center J        1:10   1:16  PR  2 
+J105 Metzger Center B         1:30   1:38  RV  3 
+Rockhill Center D (Draw acr   1:41   1:46  RN  2 
+A. Johnson Center N           1:46   1:51  ST  3 
+Wiltgen Center G              1:55   2:01  PO  3 I Am the Me You See...Now
+F117 Ripperda Center C        2:30   2:38  PA  1 It's a More Beautiful Later
+Wiltgen Center G              2:49   2:55  PO  1 
+Sorensen Center O             2:55   3:03  OO  3 
+Library Center F              3:30   3:38 IMP  3 

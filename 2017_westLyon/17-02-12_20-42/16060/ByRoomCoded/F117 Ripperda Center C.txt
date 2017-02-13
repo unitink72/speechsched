@@ -1,0 +1,29 @@
+Cat   School   Start  End    EntryTitle
+ PA   603        8:00   8:08  Standford Commencement Speech
+ PA   518        8:10   8:18  We Train Soldiers for War...
+ PA   583        8:20   8:28  Omeleto's Regrets
+ PA   457        8:30   8:38  It's a More Beautiful Later
+ PA   112        8:40   8:48  
+ PA   126        8:50   8:58  You're Not Special
+ PA   851        9:00   9:08  Impose Your Will
+ PA   343        9:10   9:18  Strength and Dignity
+ PA   518        9:40   9:48  Remarks by the President to the Clinton...
+ PA   408        9:50   9:58  
+ PA   343       10:00  10:08  TBD PA3
+ PA   178       10:10  10:18  Climate Change
+ PA   112       10:20  10:28  
+ PA   720       10:30  10:38  Untalented
+ PA   603       10:40  10:48  What You Could Do If You Didn't Know You Couldn't
+ PA   457       12:00  12:08  
+ PA   720       12:10  12:18  What Makes a Good Life?
+ PA   295       12:20  12:28  TBA
+ PA   122       12:30  12:38  Let Us Commence
+ PA   408       12:50  12:58  
+ PA   583        1:00   1:08  Dirks Public Address
+ PA   720        1:30   1:38  Who You Are
+ PA   583        1:40   1:48  Reagan's Farewell Address
+ PA   408        1:50   1:58  Commencement Address
+ PA   112        2:10   2:18  
+ PA   343        2:20   2:28  Sincere Meditations
+ PA   457        2:40   2:48  
+ PA   469        2:50   2:58  HeForShe

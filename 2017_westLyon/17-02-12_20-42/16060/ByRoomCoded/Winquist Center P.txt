@@ -1,0 +1,30 @@
+Cat   School   Start  End    EntryTitle
+ SS   408        8:00   8:08  
+ SS   112        8:09   8:17  
+ SS   603        8:18   8:26  
+ SS   295        8:27   8:35  
+ SS   720        8:36   8:44  
+ SS   343        8:54   9:02  
+ SS   457        9:03   9:11  
+ SS   583        9:32   9:40  
+ SS   112        9:41   9:49  
+ SS   720        9:50   9:58  
+ SS   408        9:59  10:07  
+ SS   457       10:08  10:16  
+ SS   603       10:17  10:25  
+ SS   343       10:35  10:43  
+ SS   457       11:04  11:12  
+ SS   343       11:22  11:30  
+ SS   483       11:31  11:39  
+ SS   408       11:49  11:57  
+ SS   720       11:58  12:06  
+ SS   112       12:07  12:15  
+ PR   690        1:30   1:36  Pretty
+ PR   518        1:39   1:45  The Toothbrush You Just Threw Away...
+ PR   112        1:48   1:54  
+ PR   343        1:57   2:03  Wear Sunscreen
+ PR   782        2:06   2:12  The Blacktop Slide
+ PO   112        2:25   2:31  
+ PO   408        2:43   2:49  
+ PO   178        2:52   2:58  Rape
+ PO   583        3:01   3:07  Farkle McBride

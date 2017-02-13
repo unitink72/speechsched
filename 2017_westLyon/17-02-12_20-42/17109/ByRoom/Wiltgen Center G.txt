@@ -1,0 +1,34 @@
+Cat  School                     Start  End    EntryTitle
+PO   MOC-FLOYD VALLEY            8:00   8:06  
+PO   ROCK VALLEY                 8:09   8:15  To This Day
+PO   LEMARS GEHLEN               8:27   8:33  Dear Future Generation
+PO   AKRON-WESTFIELD             8:36   8:42  A Gaggle of Saints
+PO   WESTERN CHRISTIAN           8:45   8:51  feelings revealed, his/hers
+PO   WEST LYON                   8:54   9:00  Pass On
+PO   SIOUX CENTER                9:03   9:09  Keys/The Plea
+PO   CENTRAL LYON                9:22   9:28  Tulips
+PO   LE MARS COMMUNITY           9:31   9:37  Poet Tree
+PO   ROCK VALLEY                 9:40   9:46  Last Game; Fast Break; Basketball's My Favorite Sport
+PO   GEORGE-LITTLE ROCK 9TH      9:58  10:04  Kali's Poetry
+PO   AKRON-WESTFIELD            10:07  10:13  Pretty & To This Day
+PO   LE MARS 9TH                10:16  10:22  
+PO   GEORGE-LITTLE ROCK         10:25  10:31  Farkle McBride
+PO   GEORGE-LITTLE ROCK         10:51  10:57  Kim's Poetry Program
+PO   SERGEANT BLUFF-LUTON       11:00  11:06  
+PO   ROCK VALLEY                11:09  11:15  Mom 
+PO   LE MARS COMMUNITY          11:18  11:24  
+PO   CENTRAL LYON               11:27  11:33  Pass On
+PO   WEST SIOUX 9TH             11:36  11:42  Packing for a Holiday Vacation
+PO   SIOUX CENTER               11:45  11:51  What Teachers Make/On Girls Lending Pens
+PO   SIOUX CITY EAST            11:54  12:00  
+PO   WEST LYON                   1:10   1:16  Next to Nothing
+PO   LEMARS GEHLEN               1:19   1:25  Not Everybody Live 
+PO   BOYDEN-HULL                 1:28   1:34  Surfer Chick
+PO   SIBLEY-OCHEYEDAN            1:37   1:43  TBA
+PO   WEST SIOUX                  1:46   1:52  Public Speaking
+PO   SIOUX CITY EAST             1:55   2:01  I Am the Me You See...Now
+PO   MOC-FLOYD VALLEY            2:22   2:28  
+PO   CENTRAL LYON                2:31   2:37  Teens and Tech
+PO   WEST LYON                   2:40   2:46  Blue Blanket
+PO   WEST SIOUX 9TH              2:49   2:55  You Are Beautiful
+PO   SIOUX CENTER                2:58   3:04  Stand back, said the Elephant, I'm Going to Sneeze!

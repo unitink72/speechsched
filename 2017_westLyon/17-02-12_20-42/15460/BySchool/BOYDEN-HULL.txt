@@ -1,0 +1,31 @@
+Room                         Start  End   Cat  # EntryTitle
+Kerkvliet Center M            8:00   8:05  ST  3 Frederick Finch, Loudmouth
+Band Room Center A            8:10   8:18 ACT  2 The Trouble with Guys
+Wiltgen Center G              8:27   8:33  PO  3 Surfer Chick
+Martinson Center H            8:27   8:33  PR  2 The Toothbrush You Just Threw Away...
+F117 Ripperda Center C        8:40   8:48  PA  1 Remarks by the President to the Clinton...
+Rockhill Center D (Draw acr   8:54   8:59  RN  3 
+Library Center F              9:10   9:18 IMP  3 
+TeGrootenhuis Center J        9:31   9:37  PO  2 The Man Who Loved Cheese
+Kerkvliet Center M            9:49   9:54  ST  1 The Web Files
+Weber Center L               10:03  10:08  AD  3 The Trials of Internet Addictions
+J. Meyer Center I            10:10  10:18  LP  3 Anorexia--A Cultural Battle
+Band Room Center A           10:20  10:28 ACT  3 Sun Dazed
+Library Center F             10:20  10:28 IMP  1 
+Sorensen Center O            10:20  10:28  OO  1 
+A. Johnson Center N          10:41  10:46  ST  2 Snoring
+Early Childhood Pod Center   11:00  11:08 ACT  1 Vacate
+Weber Center L               11:27  11:32  AD  2 
+TeGrootenhuis Center J       11:45  11:51  PR  3 One Week at the Gym
+Choir Room Center E          12:40  12:45 SMT  2 Burn
+Early Childhood Pod Center   12:56   1:01 SMT  1 Kindergarten Love Song
+Rockhill Center D (Draw acr   1:03   1:08  RN  1 
+Weber Center L                1:16   1:21  AD  1 
+F117 Ripperda Center C        1:30   1:38  PA  2 We Train Soldiers for War...
+Early Childhood Pod Center    1:30   1:38  LP  2 OCD
+Wiltgen Center G              1:46   1:52  PO  1 I'm a Christian
+J105 Metzger Center B         2:00   2:08  RV  1 Merlin
+J. Meyer Center I             2:20   2:28  LP  1 Memoirs of a Goldfish
+Rockhill Center D (Draw acr   2:35   2:40  RN  2 
+Martinson Center H            2:49   2:55  PR  1 Let's Get the (Birthday) Party Started
+Library Center F              3:30   3:38 IMP  2 

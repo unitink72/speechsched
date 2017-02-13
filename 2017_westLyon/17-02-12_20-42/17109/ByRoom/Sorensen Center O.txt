@@ -1,0 +1,30 @@
+Cat  School                     Start  End    EntryTitle
+OO   SIOUX CITY EAST             8:00   8:08  
+OO   WESTERN CHRISTIAN           8:10   8:18  Identity
+OO   MOC-FLOYD VALLEY            8:20   8:28  
+OO   BOYDEN-HULL                 8:30   8:38  
+OO   WEST SIOUX 9TH              8:40   8:48  Skin Deep
+OO   SIBLEY-OCHEYEDAN            8:50   8:58  TBA
+OO   SIOUX CITY EAST             9:10   9:18  
+OO   SIBLEY-OCHEYEDAN            9:20   9:28  TBA
+OO   WESTERN CHRISTIAN           9:30   9:38  Let Me Set the Scene
+OO   LE MARS COMMUNITY           9:40   9:48  
+OO   GEORGE-LITTLE ROCK          9:50   9:58  Jacob's Oratory
+OO   WEST SIOUX 9TH             10:00  10:08  One in Six
+OO   WEST SIOUX 9TH             10:20  10:28  As We Know It
+OO   WEST LYON                  10:30  10:38  How to Make a Difference in a Third World Country
+OO   MOC-FLOYD VALLEY           10:40  10:48  
+OO   SERGEANT BLUFF-LUTON       10:50  10:58  
+OO   GEORGE-LITTLE ROCK         11:10  11:18  Where Have All the Traditions Gone
+OO   WEST LYON                  12:35  12:43  Teacher Status
+OO   LE MARS COMMUNITY          12:55   1:03  
+OO   SERGEANT BLUFF-LUTON        1:05   1:13  
+OO   CENTRAL LYON 9TH            1:15   1:23  Web Comics In Our School System
+OO   SIOUX CENTER                1:25   1:33  Fear of the Unknown
+OO   SIOUX CENTER                1:45   1:53  Hiding the Pain
+OO   LE MARS COMMUNITY           1:55   2:03  
+OO   WEST LYON                   2:05   2:13  Electoral College
+OO   GEORGE-LITTLE ROCK          2:15   2:23  Embrace Your Narcissism
+OO   SERGEANT BLUFF-LUTON        2:25   2:33  
+OO   SIBLEY-OCHEYEDAN            2:35   2:43  TBA
+OO   SIOUX CITY EAST             2:55   3:03  

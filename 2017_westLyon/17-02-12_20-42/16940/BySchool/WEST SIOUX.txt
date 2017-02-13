@@ -1,0 +1,19 @@
+Room                         Start  End   Cat  # EntryTitle
+J. Meyer Center I             8:20   8:28  LP  1 Sweet Poison
+Wiltgen Center G              9:03   9:09  PO  3 Rape
+Early Childhood Pod Center    9:20   9:28 ACT  1 Bald and Beautiful
+TeGrootenhuis Center J       10:07  10:13  PO  1 I'm Not Okay
+Rockhill Center D (Draw acr  10:17  10:22  RN  1 
+Weber Center L               10:47  10:52  AD  1 Social Media Addicts Anonymous
+Martinson Center H           11:18  11:24  PR  3 Something I Couldn't See
+A. Johnson Center N          12:38  12:43  ST  1 A Series of Unfortunate Events
+Library Center F              1:00   1:08 IMP  2 
+Wiltgen Center G              1:19   1:25  PO  2 Public Speaking
+Kerkvliet Center M            1:41   1:46  ST  2 The Little Match Girl
+Martinson Center H            1:55   2:01  PR  2 This Is What It Feels Like
+F117 Ripperda Center C        2:20   2:28  PA  1 Climate Change
+Early Childhood Pod Center    2:20   2:28  LP  3 Sister Bonding
+Choir Room Center E           2:37   2:42 SMT  1 The Worst Pies in London
+Library Center F              3:00   3:08 IMP  1 
+J. Meyer Center I             3:00   3:08  LP  2 What Anxiety Feels Like
+TeGrootenhuis Center J        3:09   3:15  PR  1 Missing Natalie

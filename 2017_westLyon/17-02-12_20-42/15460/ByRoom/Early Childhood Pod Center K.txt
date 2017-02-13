@@ -1,0 +1,35 @@
+Cat  School                     Start  End    EntryTitle
+ACT   Sioux City East 9th         8:00   8:08  The Future is so Bright
+ACT   WESTERN CHRISTIAN           8:10   8:18  Driver's Test is a Piece of Cake
+ACT   SIOUX CITY EAST             8:20   8:28  
+ACT   AKRON-WESTFIELD             8:30   8:38  Beauty Sleep
+ACT   GEORGE-LITTLE ROCK          8:40   8:48  Erik's Acting
+ACT   LE MARS 9TH                 8:50   8:58  
+ACT   LE MARS COMMUNITY           9:00   9:08  The Serpent's Tale
+ACT   LEMARS GEHLEN               9:20   9:28  Charge up Yard Sale Hill
+ACT   CENTRAL LYON                9:30   9:38  I Woke Up In a Dream
+ACT   LE MARS 9TH                 9:40   9:48  As Seen on TV
+ACT   MOC-FLOYD VALLEY            9:50   9:58  
+ACT   Sioux City East 9th        10:00  10:08  Skinny Bones 
+ACT   AKRON-WESTFIELD 9TH        10:10  10:18  The Problem with Girls
+ACT   SERGEANT BLUFF-LUTON       10:20  10:28  
+ACT   WEST LYON                  10:40  10:48  The Brothers Grimm Spectaculathon
+ACT   ROCK VALLEY                10:50  10:58  Amanda
+ACT   BOYDEN-HULL                11:00  11:08  Vacate
+ACT   GEORGE-LITTLE ROCK         11:10  11:18  Starr's Acting
+ACT   SIBLEY-OCHEYEDAN           11:20  11:28  TBA
+ACT   SERGEANT BLUFF-LUTON       11:30  11:38  
+ACT   AKRON-WESTFIELD            11:40  11:48  Breaking Up Texting Style
+SMT   WEST LYON                  12:16  12:21  The Devil You Know
+SMT   GEORGE-LITTLE ROCK         12:24  12:29  Erik's Solo Musical Theater
+SMT   AKRON-WESTFIELD            12:32  12:37  Dyin Ain't So Bad
+SMT   CENTRAL LYON 9TH           12:40  12:45  Happily Ever After
+SMT   ROCK VALLEY                12:48  12:53  Taylor the Latte Boy
+SMT   BOYDEN-HULL                12:56   1:01  Kindergarten Love Song
+SMT   SIBLEY-OCHEYEDAN            1:04   1:09  TBA
+LP   BOYDEN-HULL                 1:30   1:38  OCD
+LP   GEORGE-LITTLE ROCK          1:40   1:48  Hamilton
+LP   SIBLEY-OCHEYEDAN            1:50   1:58  TBA
+LP   ROCK VALLEY                 2:00   2:08  Free Fall; Diary of Adam and Eve
+LP   WEST LYON                   2:10   2:18  Adventure
+LP   SIOUX CITY EAST             2:20   2:28  

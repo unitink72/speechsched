@@ -1,0 +1,36 @@
+Cat   School   Start  End    EntryTitle
+ PO   733        8:00   8:06  
+ PO   603        8:09   8:15  A Gaggle of Saints
+ PO   603        8:18   8:24  Pretty & To This Day
+ PO   720        8:27   8:33  Selections on Companionship
+ PO   112        8:36   8:42  
+ PO   603        8:45   8:51  Identity
+ PO   343        8:54   9:00  Next to Nothing
+ PO   469        9:03   9:09  You Are Beautiful
+ PO   295        9:22   9:28  TBA
+ PO   178        9:31   9:37  I'm Not Okay
+ PO   733        9:40   9:46  
+ PO   469        9:49   9:55  What I Learned in Life
+ PO   606        9:58  10:04  untitled
+ PO   122       10:07  10:13  
+ PO   518       10:16  10:22  The Man Who Loved Cheese
+ PR   690       10:51  10:57  To this Day
+ PR   295       11:00  11:06  TBA
+ PR   720       11:09  11:15  I Hate You, Wallace Pokras
+ PR   583       11:18  11:24  Candyce's Prose Selection
+ PR   178       11:36  11:42  Something I Couldn't See
+ PR   178       11:45  11:51  This Is What It Feels Like
+ PR   457       11:54  12:00  Let's Pretend this Never Happened
+ PR   457        1:10   1:16  
+ PR   469        1:19   1:25  What She Doesn't Know
+ PR   518        1:28   1:34  Let's Get the (Birthday) Party Started
+ PR   603        1:37   1:43  Old Yeller
+ PR   733        1:46   1:52  
+ PR   962        1:55   2:01  TBA
+ PR   225        2:04   2:10  Lynette's Dating Adventure
+ PR   469        2:13   2:19  Dear Dad
+ PR   295        2:42   2:48  TBA
+ PR   483        2:51   2:57  A Good Deed Goes Wrong
+ PR   720        3:00   3:06  Dear Poisoner
+ PR   483        3:09   3:15  Husband in Charge
+ PR   594        3:18   3:24  Lauren's Prose

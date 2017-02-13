@@ -1,0 +1,35 @@
+Cat  School                     Start  End    EntryTitle
+ACT   WEST SIOUX                  8:00   8:08  Bald and Beautiful
+ACT   BOYDEN-HULL                 8:10   8:18  Sun Dazed
+ACT   SIOUX CENTER                8:20   8:28  Life Doesn't Wait
+ACT   LE MARS 9TH                 8:30   8:38  
+ACT   SIBLEY-OCHEYEDAN            8:40   8:48  TBA
+ACT   GEORGE-LITTLE ROCK          8:50   8:58  Men Are Stupid and I Rock!
+ACT   MOC-FLOYD VALLEY            9:00   9:08  
+ACT   AKRON-WESTFIELD             9:20   9:28  Fat Boy vs. the Cheerleaders
+ACT   WESTERN CHRISTIAN           9:30   9:38  TBA
+ACT   LE MARS 9TH                 9:40   9:48  As Seen on TV
+ACT   SERGEANT BLUFF-LUTON        9:50   9:58  
+ACT   SIOUX CITY EAST            10:00  10:08  Red Hot Patriot
+ACT   LE MARS COMMUNITY          10:10  10:18  
+ACT   BOYDEN-HULL 9TH            10:20  10:28  Opening Tonight, Mother Goose
+ACT   ROCK VALLEY 9TH            10:40  10:48  For Who the Bell, Like, Tolls 
+ACT   WEST LYON                  10:50  10:58  The Brothers Grimm Spectaculathon
+ACT   GEORGE-LITTLE ROCK         11:00  11:08  Starr's Acting
+ACT   SERGEANT BLUFF-LUTON       11:10  11:18  
+ACT   LEMARS GEHLEN              11:20  11:28  Tribute
+ACT   BOYDEN-HULL 9TH            11:30  11:38  Super Sitter
+ACT   AKRON-WESTFIELD            11:40  11:48  White People
+SMT   SIBLEY-OCHEYEDAN           12:16  12:21  TBA
+SMT   WEST LYON                  12:24  12:29  On the Steps of the Palace
+SMT   CENTRAL LYON               12:32  12:37  I Know It's Today
+SMT   BOYDEN-HULL                12:40  12:45  Burn
+SMT   MOC-FLOYD VALLEY           12:48  12:53  
+SMT   LEMARS GEHLEN              12:56   1:01  TBD
+SMT   ROCK VALLEY                 1:04   1:09  Wishing You Were Somehow Here Again
+LP   MOC-FLOYD VALLEY            1:30   1:38  
+LP   ROCK VALLEY                 1:40   1:48  Every 27 Minutes; Red Light
+LP   BOYDEN-HULL                 1:50   1:58  OCD
+LP   WEST SIOUX                  2:00   2:08  What Anxiety Feels Like
+LP   SERGEANT BLUFF-LUTON        2:10   2:18  
+LP   LE MARS COMMUNITY           2:20   2:28  Cinderella

@@ -1,0 +1,43 @@
+Room                         Start  End   Cat  # EntryTitle
+Wiltgen Center G              8:00   8:06  PO  1 
+A. Johnson Center N           8:10   8:18  RV  2 
+Sorensen Center O             8:10   8:18  OO  3 
+J105 Metzger Center B         8:20   8:26  EA  1 Screenprinting 101
+Winquist Center P             8:27   8:35  SS  3 
+Martinson Center H            8:36   8:42  PR  3 
+Choir Room Center E           8:48   8:53 SMT  1 
+Kerkvliet Center M            8:48   8:53  ST  1 The Girl Who Wanted the Willies
+Choir Room Center E           8:56   9:01 SMT  3 
+Band Room Center A            9:10   9:18 ACT  3 The Serpent's Tale
+Library Center F              9:10   9:18 IMP  1 
+A. Johnson Center N           9:20   9:28  RV  1 Challenger Deep
+J. Meyer Center I             9:20   9:28  LP  2 
+J105 Metzger Center B         9:30   9:36  EA  3 
+Weber Center L                9:39   9:44  AD  2 
+Rockhill Center D (Draw acr   9:50   9:55  RN  1 
+Wiltgen Center G              9:58  10:04  PO  2 
+Martinson Center H            9:58  10:04  PR  2 Al Literation, Private Eye
+Winquist Center P            10:08  10:16  SS  1 
+Choir Room Center E          10:21  10:26 SMT  2 
+Kerkvliet Center M           10:21  10:26  ST  3 The Wicked Girl
+F117 Ripperda Center C       10:30  10:38  PA  3 
+Library Center F             10:30  10:38 IMP  3 
+Band Room Center A           10:40  10:48 ACT  1 
+A. Johnson Center N          10:49  10:54  ST  2 The Legend of Slappy Hooper
+Weber Center L               10:55  11:00  AD  3 
+Wiltgen Center G             11:09  11:15  PO  3 Poet Tree
+Martinson Center H           11:09  11:15  PR  1 Alexander and the Terrible, Horrible, No Good, Very Bad Day
+J105 Metzger Center B        11:40  11:46  EA  2 FFA
+Winquist Center P            11:58  12:06  SS  2 
+Rockhill Center D (Draw acr  12:18  12:23  RN  3 
+F117 Ripperda Center C       12:30  12:38  PA  2 
+Sorensen Center O            12:45  12:53  OO  1 
+Weber Center L                1:24   1:29  AD  1 Seniors with Nothing to Lose
+J105 Metzger Center B         1:30   1:38  RV  3 
+Library Center F              1:40   1:48 IMP  2 
+J. Meyer Center I             1:50   1:58  LP  1 
+Rockhill Center D (Draw acr   1:59   2:04  RN  2 
+Sorensen Center O             2:15   2:23  OO  2 
+J. Meyer Center I             2:30   2:38  LP  3 Cinderella
+Band Room Center A            2:40   2:48 ACT  2 The Big Picture
+F117 Ripperda Center C        2:50   2:58  PA  1 Commencement Address

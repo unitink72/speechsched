@@ -1,0 +1,33 @@
+Cat  School                     Start  End    EntryTitle
+PR   SIOUX CENTER                8:00   8:06  Husband in Charge
+PR   SIOUX CITY EAST             8:09   8:15  Let's Pretend this Never Happened
+PR   GEORGE-LITTLE ROCK          8:18   8:24  Seth's Prose
+PR   AKRON-WESTFIELD             8:27   8:33  Adventure Dog
+PR   SERGEANT BLUFF-LUTON        8:36   8:42  
+PR   LEMARS GEHLEN               8:45   8:51  To this Day
+PR   SIBLEY-OCHEYEDAN 9TH        8:54   9:00  TBA
+PR   LE MARS COMMUNITY           9:03   9:09  
+PR   CENTRAL LYON                9:22   9:28  Without a Phone!
+PR   MOC-FLOYD VALLEY 9TH        9:31   9:37  
+PR   GEORGE-LITTLE ROCK 9TH      9:40   9:46  Lauren's Prose
+PR   LE MARS COMMUNITY           9:49   9:55  Al Literation, Private Eye
+PR   WEST LYON                   9:58  10:04  Eleven
+PR   WEST SIOUX 9TH             10:16  10:22  Dear Dad
+PR   GEORGE-LITTLE ROCK         10:25  10:31  Candyce's Prose Selection
+PR   MOC-FLOYD VALLEY           11:00  11:06  
+PR   LE MARS 9TH                11:09  11:15  
+PR   WEST SIOUX                 11:18  11:24  Something I Couldn't See
+PR   LE MARS COMMUNITY          11:27  11:33  Alexander and the Terrible, Horrible, No Good, Very Bad Day
+PR   BOYDEN-HULL                11:36  11:42  The Toothbrush You Just Threw Away...
+PR   AKRON-WESTFIELD            11:45  11:51  Cardboard Signs
+PR   SIOUX CITY EAST            11:54  12:00  
+PR   WESTERN CHRISTIAN           1:10   1:16  Dear Poisoner
+PR   WEST LYON                   1:19   1:25  Three Questions
+PR   MOC-FLOYD VALLEY            1:28   1:34  
+PR   SIBLEY-OCHEYEDAN            1:37   1:43  TBA
+PR   ROCK VALLEY                 1:46   1:52  A Woman's Week at the Gym
+PR   WEST SIOUX                  1:55   2:01  This Is What It Feels Like
+PR   ROCK VALLEY                 2:22   2:28  The Very Best Reason
+PR   SIBLEY-OCHEYEDAN            2:31   2:37  TBA
+PR   CENTRAL LYON                2:49   2:55  The Benchwarmer
+PR   BOYDEN-HULL                 2:58   3:04  One Week at the Gym

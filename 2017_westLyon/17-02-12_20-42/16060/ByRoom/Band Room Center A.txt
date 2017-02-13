@@ -1,0 +1,33 @@
+Cat  School                     Start  End    EntryTitle
+ACT   SIOUX CITY EAST             8:00   8:08  
+ACT   WESTERN CHRISTIAN           8:10   8:18  TBA
+ACT   Sioux City East 9th         8:20   8:28  The Future is so Bright
+ACT   WEST LYON                   8:30   8:38  Soliloquies from Hamlet
+ACT   AKRON-WESTFIELD             8:40   8:48  White People
+ACT   GEORGE-LITTLE ROCK          8:50   8:58  Men Are Stupid and I Rock!
+ACT   LE MARS 9TH                 9:00   9:08  
+ACT   SIBLEY-OCHEYEDAN            9:10   9:18  TBA
+ACT   LE MARS COMMUNITY           9:40   9:48  
+ACT   LEMARS GEHLEN               9:50   9:58  Tribute
+ACT   WEST LYON                  10:00  10:08  The Brothers Grimm Spectaculathon
+ACT   SIBLEY-OCHEYEDAN           10:10  10:18  TBA
+ACT   SERGEANT BLUFF-LUTON       10:20  10:28  
+ACT   BOYDEN-HULL                10:30  10:38  The Trouble with Guys
+ACT   WEST SIOUX                 10:40  10:48  Bald and Beautiful
+ACT   LE MARS 9TH                10:50  10:58  
+ACT   SERGEANT BLUFF-LUTON       12:10  12:18  
+ACT   MOC-FLOYD VALLEY           12:20  12:28  
+ACT   SIOUX CITY EAST            12:30  12:38  Red Hot Patriot
+ACT   AKRON-WESTFIELD            12:40  12:48  Fat Boy vs. the Cheerleaders
+ACT   LE MARS COMMUNITY          12:50  12:58  The Big Picture
+ACT   SIOUX CENTER                1:00   1:08  Life Doesn't Wait
+ACT   ROCK VALLEY                 1:10   1:18  Amanda
+ACT   BOYDEN-HULL                 1:20   1:28  Vacate
+ACT   ROCK VALLEY                 1:50   1:58  A Mother's Touch
+ACT   SERGEANT BLUFF-LUTON        2:00   2:08  
+ACT   GEORGE-LITTLE ROCK          2:10   2:18  Starr's Acting
+ACT   AKRON-WESTFIELD             2:20   2:28  Breaking Up Texting Style
+ACT   BOYDEN-HULL 9TH             2:30   2:38  Super Sitter
+ACT   MOC-FLOYD VALLEY            2:40   2:48  
+ACT   Sioux City East 9th         2:50   2:58  Skinny Bones 
+ACT   WEST LYON                   3:00   3:08  TBD ACT 2

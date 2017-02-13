@@ -1,0 +1,22 @@
+Room                         Start  End   Cat  # EntryTitle
+Early Childhood Pod Center    8:00   8:08 ACT  2 
+Band Room Center A            8:30   8:38 ACT  1 As Seen on TV
+Kerkvliet Center M            9:04   9:09  ST  1 The Princess Mouse
+Library Center F              9:20   9:28 IMP  1 
+Wiltgen Center G              9:40   9:46  PO  2 
+TeGrootenhuis Center J        9:40   9:46  PO  1 
+Weber Center L                9:47   9:52  AD  1 
+Choir Room Center E           9:49   9:54 SMT  2 
+Library Center F             10:00  10:08 IMP  2 
+F117 Ripperda Center C       10:10  10:18  PA  1 Let Us Commence
+Band Room Center A           10:20  10:28 ACT  3 
+Martinson Center H           11:09  11:15  PR  2 
+J105 Metzger Center B        11:30  11:36  EA  1 
+Weber Center L               11:43  11:48  AD  2 
+Early Childhood Pod Center   12:16  12:21 SMT  3 
+Rockhill Center D (Draw acr   1:03   1:08  RN  1 
+TeGrootenhuis Center J        1:19   1:25  PR  1 
+A. Johnson Center N           1:38   1:43  ST  3 Beware of Storybook Wolves
+Kerkvliet Center M            2:13   2:18  ST  2 The Witch's Broom
+Choir Room Center E           2:21   2:26 SMT  1 
+TeGrootenhuis Center J        3:18   3:24  PR  3 

@@ -1,0 +1,30 @@
+Cat   School   Start  End    EntryTitle
+ OO   518        8:00   8:08  
+ OO   551        8:10   8:18  Web Comics In Our School System
+ OO   112        8:20   8:28  
+ OO   457        8:30   8:38  
+ OO   583        8:40   8:48  Where Have All the Traditions Gone
+ OO   408        8:50   8:58  
+ OO   343        9:10   9:18  Electoral College
+ OO   295        9:20   9:28  TBA
+ OO   720        9:30   9:38  Let Me Set the Scene
+ OO   483        9:40   9:48  Fear of the Unknown
+ OO   583        9:50   9:58  Jacob's Oratory
+ OO   343       10:00  10:08  How to Make a Difference in a Third World Country
+ OO   469       10:20  10:28  As We Know It
+ OO   469       10:30  10:38  One in Six
+ OO   112       10:40  10:48  
+ OO   733       10:50  10:58  
+ OO   720       11:10  11:18  Identity
+ OO   295       12:35  12:43  TBA
+ OO   295       12:55   1:03  TBA
+ OO   457        1:05   1:13  
+ OO   469        1:15   1:23  Skin Deep
+ OO   733        1:25   1:33  
+ OO   483        1:45   1:53  Hiding the Pain
+ OO   583        1:55   2:03  Embrace Your Narcissism
+ OO   408        2:05   2:13  
+ OO   408        2:15   2:23  
+ OO   733        2:25   2:33  
+ OO   343        2:35   2:43  Teacher Status
+ OO   457        2:55   3:03  

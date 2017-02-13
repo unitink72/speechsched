@@ -1,0 +1,29 @@
+Cat  School                     Start  End    EntryTitle
+PA   SIOUX CITY EAST             8:00   8:08  It's a More Beautiful Later
+PA   MOC-FLOYD VALLEY            8:10   8:18  
+PA   WEST SIOUX 9TH              8:20   8:28  HeForShe
+PA   SIBLEY-OCHEYEDAN            8:30   8:38  TBA
+PA   GEORGE-LITTLE ROCK          8:40   8:48  Reagan's Farewell Address
+PA   AKRON-WESTFIELD             8:50   8:58  Standford Commencement Speech
+PA   LE MARS COMMUNITY           9:10   9:18  
+PA   GEORGE-LITTLE ROCK          9:40   9:48  Omeleto's Regrets
+PA   WESTERN CHRISTIAN           9:50   9:58  Who You Are
+PA   MOC-FLOYD VALLEY           10:00  10:08  
+PA   LE MARS 9TH                10:10  10:18  Let Us Commence
+PA   AKRON-WESTFIELD            10:20  10:28  What You Could Do If You Didn't Know You Couldn't
+PA   BOYDEN-HULL                10:30  10:38  We Train Soldiers for War...
+PA   WEST LYON                  10:40  10:48  TBD PA3
+PA   WESTERN CHRISTIAN          12:00  12:08  Untalented
+PA   BOYDEN-HULL                12:10  12:18  Remarks by the President to the Clinton...
+PA   SIOUX CITY EAST            12:20  12:28  
+PA   ROCK VALLEY 9TH            12:30  12:38  You're Not Special
+PA   LE MARS COMMUNITY          12:40  12:48  
+PA   GEORGE-LITTLE ROCK         12:50  12:58  Dirks Public Address
+PA   WEST LYON                   1:00   1:08  Strength and Dignity
+PA   LE MARS COMMUNITY           1:30   1:38  Commencement Address
+PA   MOC-FLOYD VALLEY            2:00   2:08  
+PA   WEST LYON                   2:10   2:18  Sincere Meditations
+PA   WEST SIOUX                  2:20   2:28  Climate Change
+PA   ROCK VALLEY                 2:30   2:38  Impose Your Will
+PA   SIOUX CITY EAST             2:40   2:48  
+PA   WESTERN CHRISTIAN           2:50   2:58  What Makes a Good Life?

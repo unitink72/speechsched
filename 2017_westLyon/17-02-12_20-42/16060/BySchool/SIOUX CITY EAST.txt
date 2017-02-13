@@ -1,0 +1,43 @@
+Room                         Start  End   Cat  # EntryTitle
+Band Room Center A            8:00   8:08 ACT  3 
+Library Center F              8:00   8:08 IMP  3 
+Sorensen Center O             8:00   8:08  OO  2 
+Martinson Center H            8:09   8:15  PR  1 Let's Pretend this Never Happened
+Choir Room Center E           8:16   8:21 SMT  1 
+Choir Room Center E           8:24   8:29 SMT  2 
+Weber Center L                8:24   8:29  AD  3 
+Kerkvliet Center M            8:24   8:29  ST  1 
+F117 Ripperda Center C        8:30   8:38  PA  1 It's a More Beautiful Later
+J. Meyer Center I             8:30   8:38  LP  2 
+Sorensen Center O             8:30   8:38  OO  1 
+A. Johnson Center N           8:40   8:48  RV  2 The Sour Truth
+J105 Metzger Center B         8:50   8:56  EA  2 Bees
+Winquist Center P             9:03   9:11  SS  2 
+A. Johnson Center N           9:20   9:28  RV  3 
+J105 Metzger Center B         9:40   9:46  EA  1 Stressed Out
+Rockhill Center D (Draw acr   9:50   9:55  RN  1 
+Wiltgen Center G              9:58  10:04  PO  1 
+TeGrootenhuis Center J        9:58  10:04  PO  3 I Am the Me You See...Now
+Winquist Center P            10:08  10:16  SS  1 
+Library Center F             10:20  10:28 IMP  1 
+Choir Room Center E          10:29  10:34 SMT  3 
+J. Meyer Center I            10:40  10:48  LP  1 
+Weber Center L               10:55  11:00  AD  1 
+Winquist Center P            11:04  11:12  SS  3 
+Early Childhood Pod Center   11:30  11:38 ACT  2 Marilyn Monroe the Last Interview
+J105 Metzger Center B        11:50  11:56  EA  3 Stop Being Fake
+F117 Ripperda Center C       12:00  12:08  PA  3 
+Rockhill Center D (Draw acr  12:09  12:14  RN  3 
+Kerkvliet Center M           12:24  12:29  ST  3 
+Band Room Center A           12:30  12:38 ACT  1 Red Hot Patriot
+A. Johnson Center N           1:02   1:07  ST  2 
+Martinson Center H            1:10   1:16  PR  2 
+Weber Center L                1:24   1:29  AD  2 
+J105 Metzger Center B         1:30   1:38  RV  1 
+J. Meyer Center I             1:30   1:38  LP  3 
+TeGrootenhuis Center J        1:46   1:52  PR  3 
+Sorensen Center O             1:55   2:03  OO  3 
+Rockhill Center D (Draw acr   2:08   2:13  RN  2 
+Wiltgen Center G              2:22   2:28  PO  2 
+F117 Ripperda Center C        2:40   2:48  PA  2 
+Library Center F              3:00   3:08 IMP  2 

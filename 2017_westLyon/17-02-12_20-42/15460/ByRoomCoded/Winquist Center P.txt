@@ -1,0 +1,30 @@
+Cat   School   Start  End    EntryTitle
+ SS   408        8:00   8:08  
+ SS   295        8:09   8:17  
+ SS   603        8:18   8:26  
+ SS   112        8:27   8:35  
+ SS   457        8:45   8:53  
+ SS   720        8:54   9:02  
+ SS   343        9:03   9:11  
+ SS   408        9:32   9:40  
+ SS   583        9:41   9:49  
+ SS   720        9:50   9:58  
+ SS   483        9:59  10:07  
+ SS   457       10:08  10:16  
+ SS   343       10:17  10:25  
+ SS   112       10:26  10:34  
+ SS   720       11:13  11:21  
+ SS   343       11:22  11:30  
+ SS   408       11:31  11:39  
+ SS   603       11:40  11:48  
+ SS   457       11:58  12:06  
+ SS   112       12:07  12:15  
+ PR   469        1:30   1:36  I'll Be Looking For You, Ace
+ PR   720        1:39   1:45  Open Letter to My Kids
+ PR   599        1:48   1:54  
+ PR   733        1:57   2:03  
+ PR   504        2:06   2:12  The Benchwarmer
+ PO   603        2:25   2:31  Pretty & To This Day
+ PO   457        2:34   2:40  I Am the Me You See...Now
+ PO   851        2:43   2:49  Mom 
+ PO   720        3:01   3:07  Selections on Companionship

@@ -1,0 +1,23 @@
+Room                         Start  End   Cat  # EntryTitle
+Wiltgen Center G              8:36   8:42  PO  1 
+Martinson Center H            8:36   8:42  PR  2 
+J. Meyer Center I             8:50   8:58  LP  3 
+TeGrootenhuis Center J        9:31   9:37  PO  3 
+Early Childhood Pod Center    9:40   9:48 ACT  4 
+Sorensen Center O             9:50   9:58  OO  2 
+Band Room Center A           10:10  10:18 ACT  1 
+A. Johnson Center N          10:49  10:54  ST  1 
+Early Childhood Pod Center   11:00  11:08 ACT  2 
+Sorensen Center O            11:00  11:08  OO  3 
+J. Meyer Center I            11:20  11:28  LP  2 
+Wiltgen Center G             11:36  11:42  PO  2 
+Sorensen Center O            12:45  12:53  OO  1 
+Band Room Center A            1:00   1:08 ACT  5 
+Weber Center L                1:24   1:29  AD  1 
+Choir Room Center E           1:33   1:38 SMT  1 
+Winquist Center P             1:39   1:45  PR  1 
+A. Johnson Center N           1:46   1:51  ST  2 
+TeGrootenhuis Center J        1:55   2:01  PR  3 
+Kerkvliet Center M            2:05   2:10  ST  3 
+J. Meyer Center I             2:30   2:38  LP  1 
+Band Room Center A            2:50   2:58 ACT  3 

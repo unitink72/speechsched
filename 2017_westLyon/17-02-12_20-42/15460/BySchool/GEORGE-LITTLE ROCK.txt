@@ -1,0 +1,39 @@
+Room                         Start  End   Cat  # EntryTitle
+A. Johnson Center N           8:00   8:08  RV  2 Nick's Review
+Weber Center L                8:16   8:21  AD  2 A Small Town Girl Visits the Big Apple
+Choir Room Center E           8:24   8:29 SMT  1 
+J105 Metzger Center B         8:30   8:36  EA  1 The Lost Satchel
+Band Room Center A            8:40   8:48 ACT  3 Sarah's Keys
+Early Childhood Pod Center    8:40   8:48 ACT  1 Erik's Acting
+Wiltgen Center G              8:54   9:00  PO  2 Dhalten's Poetry Program
+Rockhill Center D (Draw acr   9:03   9:08  RN  1 
+Weber Center L                9:23   9:28  AD  1 Surviving a Sibling's Wedding
+A. Johnson Center N           9:30   9:38  RV  1 Sherlock
+Winquist Center P             9:41   9:49  SS  1 
+Rockhill Center D (Draw acr   9:50   9:55  RN  2 
+Wiltgen Center G              9:58  10:04  PO  3 Kim's Poetry Program
+J105 Metzger Center B        10:10  10:16  EA  3 Rebecca's Expository
+F117 Ripperda Center C       10:20  10:28  PA  2 Dirks Public Address
+J. Meyer Center I            10:20  10:28  LP  2 Bossy Pants
+Library Center F             10:40  10:48 IMP  1 
+TeGrootenhuis Center J       10:51  10:57  PR  3 Seth's Prose
+Sorensen Center O            11:00  11:08  OO  2 Where Have All the Traditions Gone
+Early Childhood Pod Center   11:10  11:18 ACT  2 Starr's Acting
+Weber Center L               11:19  11:24  AD  3 Rebecca's ADS
+J105 Metzger Center B        11:30  11:36  EA  2 The Fascinating World of Fasteners
+Wiltgen Center G             11:54  12:00  PO  1 Farkle McBride
+Early Childhood Pod Center   12:24  12:29 SMT  2 Erik's Solo Musical Theater
+Band Room Center A           12:30  12:38 ACT  4 Men Are Stupid and I Rock!
+F117 Ripperda Center C       12:30  12:38  PA  1 Reagan's Farewell Address
+Kerkvliet Center M           12:40  12:45  ST  1 Cook-A-Doodle-Doo
+A. Johnson Center N          12:46  12:51  ST  3 Megan's Storytelling
+Sorensen Center O             1:05   1:13  OO  1 Embrace Your Narcissism
+Rockhill Center D (Draw acr   1:32   1:37  RN  3 
+J. Meyer Center I             1:40   1:48  LP  3 Megan's Literary Program
+Early Childhood Pod Center    1:40   1:48  LP  1 Hamilton
+Kerkvliet Center M            1:49   1:54  ST  2 Whispering Town
+TeGrootenhuis Center J        1:55   2:01  PR  2 Candyce's Prose Selection
+Sorensen Center O             2:25   2:33  OO  3 Jacob's Oratory
+Library Center F              2:40   2:48 IMP  2 
+F117 Ripperda Center C        2:50   2:58  PA  3 Omeleto's Regrets
+TeGrootenhuis Center J        3:00   3:06  PR  1 Bullied, Bully, and Bystander

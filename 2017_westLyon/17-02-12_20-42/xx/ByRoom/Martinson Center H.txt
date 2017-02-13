@@ -1,0 +1,35 @@
+Cat  School                     Start  End    EntryTitle
+PR   CENTRAL LYON                8:00   8:06  The Benchwarmer
+PR   LE MARS COMMUNITY           8:09   8:15  
+PR   MOC-FLOYD VALLEY            8:18   8:24  
+PR   CENTRAL LYON                8:27   8:33  Born of Man and Woman
+PR   CENTRAL LYON                8:36   8:42  Without a Phone!
+PR   SERGEANT BLUFF-LUTON        8:45   8:51  
+PR   SERGEANT BLUFF-LUTON        8:54   9:00  
+PR   LEMARS GEHLEN               9:03   9:09  Crickets have arthritis
+PR   WEST LYON                   9:22   9:28  Three Questions
+PR   LE MARS COMMUNITY           9:31   9:37  Al Literation, Private Eye
+PR   WEST SIOUX 9TH              9:40   9:46  I'll Be Looking For You, Ace
+PR   BOYDEN-HULL                 9:49   9:55  One Week at the Gym
+PR   MOC-FLOYD VALLEY           10:07  10:13  
+PR   SIBLEY-OCHEYEDAN           10:16  10:22  TBA
+PR   GEORGE-LITTLE ROCK         10:25  10:31  Seth's Prose
+PR   SIOUX CENTER               10:51  10:57  Eating Disorders
+PR   SIOUX CITY EAST            11:00  11:06  
+PR   LE MARS 9TH                11:09  11:15  
+PR   MOC-FLOYD VALLEY 9TH       11:18  11:24  
+PR   WESTERN CHRISTIAN          11:27  11:33  Open Letter to My Kids
+PR   ROCK VALLEY                11:36  11:42  The Very Best Reason
+PR   AKRON-WESTFIELD 9TH        11:45  11:51  The Blacktop Slide
+PR   MOC-FLOYD VALLEY           11:54  12:00  
+PR   WEST SIOUX                  1:10   1:16  Missing Natalie
+PR   AKRON-WESTFIELD             1:19   1:25  Cardboard Signs
+PR   AKRON-WESTFIELD 9TH         1:28   1:34  Mr. One and Only
+PR   AKRON-WESTFIELD 9TH         1:37   1:43  I'm Not Ready
+PR   GEORGE-LITTLE ROCK          1:46   1:52  Bullied, Bully, and Bystander
+PR   LE MARS 9TH                 1:55   2:01  
+PR   GEORGE-LITTLE ROCK 9TH      2:22   2:28  The Littlest Angel
+PR   BOYDEN-HULL                 2:31   2:37  The Toothbrush You Just Threw Away...
+PR   LE MARS 9TH                 2:40   2:46  
+PR   AKRON-WESTFIELD             2:49   2:55  Adventure Dog
+PR   WEST LYON                   2:58   3:04  Eleven

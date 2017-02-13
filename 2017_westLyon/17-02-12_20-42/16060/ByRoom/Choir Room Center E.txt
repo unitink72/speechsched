@@ -1,0 +1,36 @@
+Cat  School                     Start  End    EntryTitle
+SMT   MOC-FLOYD VALLEY            8:00   8:05  
+SMT   SIBLEY-OCHEYEDAN            8:08   8:13  TBA
+SMT   SIOUX CITY EAST             8:16   8:21  
+SMT   SIOUX CITY EAST             8:24   8:29  
+SMT   Sioux City East 9th         8:32   8:37  
+SMT   LE MARS COMMUNITY           8:40   8:45  
+SMT   BOYDEN-HULL                 8:48   8:53  Burn
+SMT   SIOUX CENTER                8:56   9:01  When a Felon's Not Engaged in His Employment
+SMT   LE MARS COMMUNITY           9:04   9:09  
+SMT   LE MARS COMMUNITY           9:33   9:38  
+SMT   GEORGE-LITTLE ROCK          9:41   9:46  
+SMT   SIOUX CENTER                9:49   9:54  The Girl in 14G
+SMT   CENTRAL LYON                9:57  10:02  I Know It's Today
+SMT   ROCK VALLEY                10:13  10:18  Wishing You Were Somehow Here Again
+SMT   LE MARS 9TH                10:21  10:26  
+SMT   SIOUX CITY EAST            10:29  10:34  
+SMT   MOC-FLOYD VALLEY           10:37  10:42  
+SMT   WEST LYON                  12:00  12:05  Home
+SMT   AKRON-WESTFIELD            12:08  12:13  Empty Chairs and Empty Tables
+SMT   SIBLEY-OCHEYEDAN 9TH       12:16  12:21  TBA
+SMT   LEMARS GEHLEN              12:24  12:29  TBD
+SMT   SERGEANT BLUFF-LUTON       12:40  12:45  
+SMT   MOC-FLOYD VALLEY           12:48  12:53  
+SMT   BOYDEN-HULL                12:56   1:01  Kindergarten Love Song
+SMT   GEORGE-LITTLE ROCK 9TH      1:04   1:09  Kali's Musical
+SMT   WEST LYON                   1:33   1:38  On the Steps of the Palace
+SMT   LEMARS GEHLEN               1:41   1:46  I Don't Know How to Love Him
+SMT   LE MARS 9TH                 1:49   1:54  
+SMT   CENTRAL LYON 9TH            1:57   2:02  Happily Ever After
+SMT   WESTERN CHRISTIAN           2:05   2:10  Burn
+SMT   ROCK VALLEY                 2:13   2:18  Lost In Thy Darkness
+SMT   SIBLEY-OCHEYEDAN            2:21   2:26  TBA
+SMT   AKRON-WESTFIELD             2:29   2:34  Dyin Ain't So Bad
+SMT   MOC-FLOYD VALLEY 9TH        2:37   2:42  
+SMT   CENTRAL LYON                2:45   2:50  Party Hat

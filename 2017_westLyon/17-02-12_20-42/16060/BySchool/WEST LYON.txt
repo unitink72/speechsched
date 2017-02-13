@@ -1,0 +1,43 @@
+Room                         Start  End   Cat  # EntryTitle
+TeGrootenhuis Center J        8:00   8:06  PO  1 Blue Blanket
+J105 Metzger Center B         8:20   8:26  EA  1 Honeybees
+Band Room Center A            8:30   8:38 ACT  3 Soliloquies from Hamlet
+A. Johnson Center N           8:30   8:38  RV  3 Rogue One: The Dark (or Light?) Side of the Box Office
+Kerkvliet Center M            8:40   8:45  ST  2 Something Good
+Winquist Center P             8:54   9:02  SS  3 
+Rockhill Center D (Draw acr   9:03   9:08  RN  2 
+F117 Ripperda Center C        9:10   9:18  PA  2 Strength and Dignity
+Sorensen Center O             9:10   9:18  OO  2 How to Make a Difference in a Third World Country
+J. Meyer Center I             9:20   9:28  LP  1 TBD LP1
+Martinson Center H            9:31   9:37  PR  2 Eleven
+TeGrootenhuis Center J        9:40   9:46  PO  3 Next to Nothing
+Weber Center L                9:47   9:52  AD  2 Procrastination
+Band Room Center A           10:00  10:08 ACT  1 The Brothers Grimm Spectaculathon
+A. Johnson Center N          10:00  10:08  RV  1 Darkest Minds
+F117 Ripperda Center C       10:00  10:08  PA  3 TBD PA3
+Library Center F             10:00  10:08 IMP  1 
+J105 Metzger Center B        10:10  10:16  EA  2 GMOs
+Rockhill Center D (Draw acr  10:17  10:22  RN  3 
+Winquist Center P            10:35  10:43  SS  1 
+Weber Center L               10:47  10:52  AD  1 Association of Short Girls Everywhere
+J105 Metzger Center B        11:00  11:06  EA  3 TBD EXP3
+J. Meyer Center I            11:10  11:18  LP  3 Adventure
+Winquist Center P            11:22  11:30  SS  2 
+Wiltgen Center G             11:45  11:51  PO  2 Pass On
+Martinson Center H           11:45  11:51  PR  3 Three Questions
+Choir Room Center E          12:00  12:05 SMT  1 Home
+Rockhill Center D (Draw acr  12:18  12:23  RN  1 
+Early Childhood Pod Center   12:32  12:37 SMT  2 The Devil You Know
+Sorensen Center O            12:55   1:03  OO  1 Teacher Status
+Kerkvliet Center M            1:04   1:09  ST  1 Llama Llama Home with Mama
+J105 Metzger Center B         1:10   1:18  RV  2 Fantastic Beasts and Where to Find Them
+Library Center F              1:20   1:28 IMP  2 
+Choir Room Center E           1:33   1:38 SMT  3 On the Steps of the Palace
+Weber Center L                1:48   1:53  AD  3 TBD AD3
+Winquist Center P             1:57   2:03  PR  1 Wear Sunscreen
+Sorensen Center O             2:05   2:13  OO  3 Electoral College
+F117 Ripperda Center C        2:20   2:28  PA  1 Sincere Meditations
+Library Center F              2:20   2:28 IMP  3 
+J. Meyer Center I             2:20   2:28  LP  2 Colors of Death
+Kerkvliet Center M            2:37   2:42  ST  3 Memoirs of a Goldfish
+Band Room Center A            3:00   3:08 ACT  2 TBD ACT 2

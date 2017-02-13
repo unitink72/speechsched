@@ -1,0 +1,31 @@
+Cat  School                     Start  End    EntryTitle
+RN   WESTERN CHRISTIAN           8:00   8:05  
+RN   SIOUX CITY EAST             8:09   8:14  
+RN   WEST SIOUX                  8:18   8:23  
+RN   MOC-FLOYD VALLEY 9TH        8:36   8:41  
+RN   ROCK VALLEY                 8:45   8:50  
+RN   BOYDEN-HULL                 8:54   8:59  
+RN   GEORGE-LITTLE ROCK          9:03   9:08  
+RN   WEST LYON                   9:32   9:37  
+RN   LE MARS COMMUNITY           9:41   9:46  
+RN   GEORGE-LITTLE ROCK          9:50   9:55  
+RN   ROCK VALLEY                 9:59  10:04  
+RN   WEST SIOUX 9TH             10:08  10:13  
+RN   WESTERN CHRISTIAN          10:17  10:22  
+RN   SIOUX CENTER               10:26  10:31  
+RN   SIOUX CITY EAST            10:35  10:40  
+RN   WEST LYON                  12:00  12:05  
+RN   SIOUX CITY EAST            12:09  12:14  
+RN   MOC-FLOYD VALLEY 9TH       12:18  12:23  
+RN   WESTERN CHRISTIAN          12:27  12:32  
+RN   ROCK VALLEY                12:36  12:41  
+RN   LE MARS COMMUNITY          12:45  12:50  
+RN   WEST SIOUX 9TH             12:54  12:59  
+RN   BOYDEN-HULL                 1:03   1:08  
+RN   GEORGE-LITTLE ROCK          1:32   1:37  
+RN   WEST LYON                   1:41   1:46  
+RN   LE MARS 9TH                 1:50   1:55  
+RN   SIBLEY-OCHEYEDAN            1:59   2:04  
+RN   WEST SIOUX 9TH              2:08   2:13  
+RN   LE MARS COMMUNITY           2:26   2:31  
+RN   BOYDEN-HULL                 2:35   2:40  

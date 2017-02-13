@@ -1,0 +1,31 @@
+Room                         Start  End   Cat  # EntryTitle
+Rockhill Center D (Draw acr   8:00   8:05  RN  2 
+Weber Center L                8:16   8:21  AD  2 
+Early Childhood Pod Center    8:30   8:38 ACT  1 Vacate
+A. Johnson Center N           8:30   8:38  RV  1 Merlin
+Library Center F              8:30   8:38 IMP  2 
+TeGrootenhuis Center J        8:45   8:51  PO  2 The Man Who Loved Cheese
+Wiltgen Center G              9:31   9:37  PO  3 Surfer Chick
+Band Room Center A            9:40   9:48 ACT  3 Sun Dazed
+TeGrootenhuis Center J        9:49   9:55  PO  1 I'm a Christian
+Rockhill Center D (Draw acr  10:08  10:13  RN  3 
+Kerkvliet Center M           10:21  10:26  ST  1 The Web Files
+F117 Ripperda Center C       10:30  10:38  PA  2 We Train Soldiers for War...
+Library Center F             10:30  10:38 IMP  1 
+J. Meyer Center I            10:50  10:58  LP  3 Anorexia--A Cultural Battle
+TeGrootenhuis Center J       11:00  11:06  PR  1 Let's Get the (Birthday) Party Started
+Weber Center L               11:27  11:32  AD  1 
+Martinson Center H           11:36  11:42  PR  2 The Toothbrush You Just Threw Away...
+Kerkvliet Center M           12:00  12:05  ST  2 Snoring
+F117 Ripperda Center C       12:10  12:18  PA  1 Remarks by the President to the Clinton...
+Rockhill Center D (Draw acr  12:27  12:32  RN  1 
+Choir Room Center E          12:56   1:01 SMT  1 Kindergarten Love Song
+Band Room Center A            1:10   1:18 ACT  2 The Trouble with Guys
+Sorensen Center O             1:25   1:33  OO  1 
+Weber Center L                1:40   1:45  AD  3 The Trials of Internet Addictions
+Early Childhood Pod Center    1:50   1:58  LP  2 OCD
+Choir Room Center E           2:05   2:10 SMT  2 Burn
+J. Meyer Center I             2:20   2:28  LP  1 Memoirs of a Goldfish
+Kerkvliet Center M            2:29   2:34  ST  3 Frederick Finch, Loudmouth
+Library Center F              2:40   2:48 IMP  3 
+Martinson Center H            2:58   3:04  PR  3 One Week at the Gym

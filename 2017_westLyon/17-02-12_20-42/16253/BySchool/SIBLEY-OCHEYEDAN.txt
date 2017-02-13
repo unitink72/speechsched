@@ -1,0 +1,35 @@
+Room                         Start  End   Cat  # EntryTitle
+A. Johnson Center N           8:00   8:08  RV  1 TBA
+Sorensen Center O             8:00   8:08  OO  1 TBA
+J. Meyer Center I             8:10   8:18  LP  1 TBA
+J105 Metzger Center B         8:30   8:36  EA  2 TBA
+TeGrootenhuis Center J        8:45   8:51  PO  1 TBA
+Library Center F              9:00   9:08 IMP  1 
+Choir Room Center E           9:49   9:54 SMT  3 TBA
+Kerkvliet Center M            9:49   9:54  ST  2 Nail Soup
+J105 Metzger Center B        10:00  10:06  EA  3 Time After Time
+Weber Center L               10:11  10:16  AD  1 Superfluous Sesquipedalian Society
+Early Childhood Pod Center   10:20  10:28 ACT  3 Hamlet
+Sorensen Center O            10:30  10:38  OO  2 TBA
+Early Childhood Pod Center   10:40  10:48 ACT  2 TBA
+J105 Metzger Center B        11:00  11:06  EA  1 TBA
+TeGrootenhuis Center J       11:00  11:06  PR  3 TBA
+Weber Center L               11:11  11:16  AD  3 TBA
+Winquist Center P            11:22  11:30  SS  1 
+Choir Room Center E          12:00  12:05 SMT  1 TBA
+Kerkvliet Center M           12:16  12:21  ST  3 TBA
+Library Center F             12:30  12:38 IMP  3 
+Rockhill Center D (Draw acr  12:45  12:50  RN  1 
+Sorensen Center O            12:55   1:03  OO  3 TBA
+Early Childhood Pod Center    1:04   1:09 SMT  2 TBA
+Martinson Center H            1:10   1:16  PR  2 TBA
+J. Meyer Center I             1:20   1:28  LP  2 TBA
+Weber Center L                1:32   1:37  AD  2 Procrastination Association
+J105 Metzger Center B         1:40   1:48  RV  2 LA LA Land
+Early Childhood Pod Center    1:40   1:48  LP  3 TBA
+Kerkvliet Center M            1:57   2:02  ST  1 TBA
+TeGrootenhuis Center J        2:13   2:19  PR  1 TBA
+Band Room Center A            2:30   2:38 ACT  1 TBA
+Library Center F              2:30   2:38 IMP  2 
+F117 Ripperda Center C        2:40   2:48  PA  1 TBA
+Winquist Center P             3:01   3:07  PO  2 TBA

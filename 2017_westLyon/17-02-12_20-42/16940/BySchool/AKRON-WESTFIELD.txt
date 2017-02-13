@@ -1,0 +1,24 @@
+Room                         Start  End   Cat  # EntryTitle
+Choir Room Center E           8:08   8:13 SMT  2 Empty Chairs and Empty Tables
+Winquist Center P             8:18   8:26  SS  1 
+Martinson Center H            8:27   8:33  PR  3 Adventure Dog
+Band Room Center A            8:40   8:48 ACT  3 Breaking Up Texting Style
+F117 Ripperda Center C        8:50   8:58  PA  1 Standford Commencement Speech
+Weber Center L                9:39   9:44  AD  2 When No One Is Watching
+Wiltgen Center G              9:49   9:55  PO  1 A Gaggle of Saints
+Winquist Center P            10:08  10:16  SS  2 
+F117 Ripperda Center C       10:20  10:28  PA  2 What You Could Do If You Didn't Know You Couldn't
+Band Room Center A           10:30  10:38 ACT  4 Beauty Sleep
+Early Childhood Pod Center   10:50  10:58 ACT  2 White People
+J. Meyer Center I            11:00  11:08  LP  1 Downtrodden
+Martinson Center H           11:45  11:51  PR  2 Cardboard Signs
+Choir Room Center E          12:48  12:53 SMT  1 Dyin Ain't So Bad
+A. Johnson Center N           1:02   1:07  ST  1 Beauty and the Beast
+Weber Center L                1:08   1:13  AD  1 Double Red-Headed Trouble
+Wiltgen Center G              1:37   1:43  PO  3 Identity
+TeGrootenhuis Center J        1:37   1:43  PR  1 Old Yeller
+Band Room Center A            1:50   1:58 ACT  1 Fat Boy vs. the Cheerleaders
+A. Johnson Center N           2:02   2:07  ST  2 The Barking Mouse
+Kerkvliet Center M            2:37   2:42  ST  3 The Seven Chickens
+Winquist Center P             2:43   2:49  PO  2 Pretty & To This Day
+Library Center F              2:50   2:58 IMP  1 

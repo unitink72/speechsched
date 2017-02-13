@@ -1,0 +1,37 @@
+Cat   School   Start  End    EntryTitle
+ ST   126        8:00   8:05  Cinderella
+ ST   782        8:08   8:13  Rumplestiltskin
+ ST   720        8:16   8:21  Stand Back, Said the Elephant, I'm Going to Sneeze
+ ST   483        8:24   8:29  Little Red Hot
+ ST   583        8:32   8:37  Megan's Storytelling
+ ST   771        8:40   8:45  Dinoella
+ ST   408        8:48   8:53  The Girl Who Wanted the Willies
+ ST   112        8:56   9:01  
+ ST   122        9:04   9:09  The Princess Mouse
+ ST   112        9:33   9:38  
+ ST   408        9:41   9:46  The Legend of Slappy Hooper
+ ST   851        9:49   9:54  Don't Let the Pigeon Drive the Bus
+ ST   504        9:57  10:02  You Are Special
+ ST   343       10:05  10:10  Memoirs of a Goldfish
+ ST   457       10:13  10:18  
+ ST   518       10:21  10:26  The Web Files
+ ST   295       10:29  10:34  TBA
+ ST   720       10:37  10:42  Monsters Eat Whiny Children
+ ST   518       12:00  12:05  Snoring
+ ST   771       12:08  12:13  Seriously, Cinderella is So Annoying
+ ST   574       12:16  12:21  Corduroy
+ ST   483       12:24  12:29  Owen
+ ST   504       12:32  12:37  Corduroy
+ ST   583       12:40  12:45  Whispering Town
+ ST   112       12:48  12:53  
+ ST   457       12:56   1:01  
+ ST   720        1:04   1:09  The Day the Crayons Came Home
+ ST   771        1:33   1:38  The Princess and the Pig
+ ST   178        1:41   1:46  The Little Match Girl
+ ST   583        1:49   1:54  Cook-A-Doodle-Doo
+ ST   574        1:57   2:02  Tortise and the Hare Race Again
+ ST   733        2:05   2:10  
+ ST   122        2:13   2:18  The Witch's Broom
+ ST   343        2:21   2:26  Llama Llama Home with Mama
+ ST   518        2:29   2:34  Frederick Finch, Loudmouth
+ ST   603        2:37   2:42  The Seven Chickens

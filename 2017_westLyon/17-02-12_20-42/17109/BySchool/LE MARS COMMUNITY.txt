@@ -1,0 +1,43 @@
+Room                         Start  End   Cat  # EntryTitle
+F117 Ripperda Center C        8:10   8:18  PA  3 
+Library Center F              8:10   8:18 IMP  3 
+J105 Metzger Center B         8:20   8:26  EA  2 FFA
+A. Johnson Center N           8:20   8:28  RV  1 Challenger Deep
+Choir Room Center E           8:32   8:37 SMT  2 
+Kerkvliet Center M            8:32   8:37  ST  1 The Girl Who Wanted the Willies
+Rockhill Center D (Draw acr   8:45   8:50  RN  1 
+Martinson Center H            8:45   8:51  PR  3 
+Choir Room Center E           8:56   9:01 SMT  3 
+Weber Center L                8:56   9:01  AD  3 
+Winquist Center P             9:03   9:11  SS  1 
+J105 Metzger Center B         9:20   9:26  EA  3 
+Wiltgen Center G              9:31   9:37  PO  3 Poet Tree
+Martinson Center H            9:31   9:37  PR  2 Al Literation, Private Eye
+Band Room Center A            9:40   9:48 ACT  3 The Serpent's Tale
+A. Johnson Center N           9:40   9:48  RV  2 
+Sorensen Center O             9:40   9:48  OO  1 
+Choir Room Center E           9:57  10:02 SMT  1 
+Kerkvliet Center M            9:57  10:02  ST  3 The Wicked Girl
+Early Childhood Pod Center   10:10  10:18 ACT  1 
+J. Meyer Center I            10:20  10:28  LP  2 
+Winquist Center P            10:35  10:43  SS  3 
+Library Center F             10:50  10:58 IMP  1 
+J. Meyer Center I            10:50  10:58  LP  1 
+TeGrootenhuis Center J       11:00  11:06  PR  1 Alexander and the Terrible, Horrible, No Good, Very Bad Day
+Weber Center L               11:11  11:16  AD  2 
+Wiltgen Center G             11:18  11:24  PO  1 
+Winquist Center P            11:40  11:48  SS  2 
+J105 Metzger Center B        11:50  11:56  EA  1 Screenprinting 101
+F117 Ripperda Center C       12:00  12:08  PA  1 Commencement Address
+Rockhill Center D (Draw acr  12:36  12:41  RN  2 
+Sorensen Center O            12:55   1:03  OO  3 
+Weber Center L                1:08   1:13  AD  1 Seniors with Nothing to Lose
+Rockhill Center D (Draw acr   1:32   1:37  RN  3 
+F117 Ripperda Center C        1:40   1:48  PA  2 
+Kerkvliet Center M            1:49   1:54  ST  2 The Legend of Slappy Hooper
+Sorensen Center O             1:55   2:03  OO  2 
+Band Room Center A            2:10   2:18 ACT  2 The Big Picture
+J105 Metzger Center B         2:10   2:18  RV  3 
+Early Childhood Pod Center    2:20   2:28  LP  3 Cinderella
+Winquist Center P             2:34   2:40  PO  2 
+Library Center F              3:10   3:18 IMP  2 

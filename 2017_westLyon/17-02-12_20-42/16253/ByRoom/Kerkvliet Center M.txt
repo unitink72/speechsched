@@ -1,0 +1,36 @@
+Cat  School                     Start  End    EntryTitle
+ST   WEST LYON                   8:00   8:05  Something Good
+ST   MOC-FLOYD VALLEY            8:08   8:13  
+ST   CENTRAL LYON                8:16   8:21  You Are Special
+ST   GEORGE-LITTLE ROCK 9TH      8:24   8:29  I Need My Monster
+ST   SIOUX CITY EAST             8:32   8:37  
+ST   SERGEANT BLUFF-LUTON        8:40   8:45  
+ST   LE MARS COMMUNITY           8:48   8:53  The Girl Who Wanted the Willies
+ST   BOYDEN-HULL 9TH             8:56   9:01  Seriously, Cinderella is So Annoying
+ST   AKRON-WESTFIELD             9:04   9:09  Beauty and the Beast
+ST   ROCK VALLEY                 9:41   9:46  Interrupting Chicken
+ST   SIBLEY-OCHEYEDAN            9:49   9:54  Nail Soup
+ST   SERGEANT BLUFF-LUTON        9:57  10:02  
+ST   ROCK VALLEY 9TH            10:05  10:10  Cinderella
+ST   WEST SIOUX                 10:13  10:18  The Little Match Girl
+ST   LE MARS COMMUNITY          10:21  10:26  The Wicked Girl
+ST   GEORGE-LITTLE ROCK         10:29  10:34  Cook-A-Doodle-Doo
+ST   CENTRAL LYON               10:37  10:42  Corduroy
+ST   LE MARS 9TH                12:00  12:05  The Princess Mouse
+ST   WESTERN CHRISTIAN          12:08  12:13  Monsters Eat Whiny Children
+ST   SIBLEY-OCHEYEDAN           12:16  12:21  TBA
+ST   SERGEANT BLUFF-LUTON       12:24  12:29  
+ST   WEST LYON                  12:32  12:37  Memoirs of a Goldfish
+ST   GEORGE-LITTLE ROCK 9TH     12:40  12:45  Coat of Many Colors
+ST   SIOUX CITY EAST            12:48  12:53  
+ST   GEORGE-LITTLE ROCK         12:56   1:01  Megan's Storytelling
+ST   BOYDEN-HULL 9TH             1:04   1:09  The Princess and the Pig
+ST   ROCK VALLEY                 1:33   1:38  The True Story of the Three Little Pigs 
+ST   SIOUX CITY EAST             1:41   1:46  
+ST   LE MARS 9TH                 1:49   1:54  Beware of Storybook Wolves
+ST   SIBLEY-OCHEYEDAN            1:57   2:02  TBA
+ST   CENTRAL LYON 9TH            2:05   2:10  Charlie
+ST   Sioux City East 9th         2:13   2:18  Corduroy
+ST   AKRON-WESTFIELD 9TH         2:21   2:26  Rumplestiltskin
+ST   WESTERN CHRISTIAN           2:29   2:34  The Day the Crayons Came Home
+ST   BOYDEN-HULL                 2:37   2:42  The Web Files

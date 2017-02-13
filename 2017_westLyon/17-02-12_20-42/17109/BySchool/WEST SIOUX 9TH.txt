@@ -1,0 +1,16 @@
+Room                         Start  End   Cat  # EntryTitle
+Rockhill Center D (Draw acr   8:00   8:05  RN  1 
+F117 Ripperda Center C        8:40   8:48  PA  1 HeForShe
+J. Meyer Center I             8:40   8:48  LP  1 Over Time
+Sorensen Center O             8:40   8:48  OO  1 Skin Deep
+J105 Metzger Center B         9:40   9:46  EA  1 Hunger Across America:  What We Need to do About It
+TeGrootenhuis Center J        9:49   9:55  PO  2 What I Learned in Life
+Sorensen Center O            10:00  10:08  OO  2 One in Six
+Sorensen Center O            10:20  10:28  OO  3 As We Know It
+Martinson Center H           10:51  10:57  PR  2 I'll Be Looking For You, Ace
+Wiltgen Center G             11:36  11:42  PO  1 Packing for a Holiday Vacation
+Rockhill Center D (Draw acr  12:45  12:50  RN  2 
+Winquist Center P             1:48   1:54  PR  3 What She Doesn't Know
+Rockhill Center D (Draw acr   1:59   2:04  RN  3 
+TeGrootenhuis Center J        2:13   2:19  PR  1 Dear Dad
+Wiltgen Center G              2:49   2:55  PO  3 You Are Beautiful

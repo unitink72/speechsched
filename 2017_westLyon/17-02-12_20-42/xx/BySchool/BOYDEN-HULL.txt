@@ -1,0 +1,31 @@
+Room                         Start  End   Cat  # EntryTitle
+Sorensen Center O             8:00   8:08  OO  1 
+A. Johnson Center N           8:40   8:48  RV  1 Merlin
+Kerkvliet Center M            8:40   8:45  ST  3 Frederick Finch, Loudmouth
+Early Childhood Pod Center    8:50   8:58 ACT  3 Sun Dazed
+F117 Ripperda Center C        8:50   8:58  PA  2 We Train Soldiers for War...
+Library Center F              9:20   9:28 IMP  3 
+Martinson Center H            9:49   9:55  PR  3 One Week at the Gym
+Rockhill Center D (Draw acr   9:50   9:55  RN  1 
+J. Meyer Center I            10:00  10:08  LP  3 Anorexia--A Cultural Battle
+TeGrootenhuis Center J       10:16  10:22  PO  2 The Man Who Loved Cheese
+Weber Center L               10:19  10:24  AD  1 
+F117 Ripperda Center C       10:40  10:48  PA  1 Remarks by the President to the Clinton...
+Band Room Center A           10:50  10:58 ACT  1 Vacate
+Weber Center L               11:03  11:08  AD  2 
+Choir Room Center E          12:00  12:05 SMT  1 Kindergarten Love Song
+Kerkvliet Center M           12:16  12:21  ST  2 Snoring
+Early Childhood Pod Center   12:40  12:45 SMT  2 Burn
+Rockhill Center D (Draw acr   1:03   1:08  RN  3 
+Band Room Center A            1:10   1:18 ACT  2 The Trouble with Guys
+Library Center F              1:20   1:28 IMP  1 
+Wiltgen Center G              1:28   1:34  PO  3 Surfer Chick
+TeGrootenhuis Center J        1:28   1:34  PR  1 Let's Get the (Birthday) Party Started
+Early Childhood Pod Center    1:40   1:48  LP  2 OCD
+Weber Center L                1:40   1:45  AD  3 The Trials of Internet Addictions
+A. Johnson Center N           2:10   2:15  ST  1 The Web Files
+Library Center F              2:20   2:28 IMP  2 
+Early Childhood Pod Center    2:20   2:28  LP  1 Memoirs of a Goldfish
+Martinson Center H            2:31   2:37  PR  2 The Toothbrush You Just Threw Away...
+Rockhill Center D (Draw acr   2:35   2:40  RN  2 
+Winquist Center P             2:43   2:49  PO  1 I'm a Christian

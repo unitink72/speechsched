@@ -1,0 +1,506 @@
+12 20:42:38 -- Begin Sessions File Report --
+12 20:42:38 Loaded 535 sessions 68 breaks
+12 20:42:38 ACT   53 Sessions  6 Breaks
+12 20:42:38 ST   54 Sessions  7 Breaks
+12 20:42:38 RV   20 Sessions  3 Breaks
+12 20:42:38 IMP   36 Sessions  4 Breaks
+12 20:42:38 PR   61 Sessions  8 Breaks
+12 20:42:38 LP   39 Sessions  6 Breaks
+12 20:42:38 RN   32 Sessions  4 Breaks
+12 20:42:38 OO   32 Sessions  5 Breaks
+12 20:42:38 PO   56 Sessions  7 Breaks
+12 20:42:38 SS   24 Sessions  3 Breaks
+12 20:42:38 PA   31 Sessions  3 Breaks
+12 20:42:38 SMT   44 Sessions  5 Breaks
+12 20:42:38 EA   21 Sessions  3 Breaks
+12 20:42:38 AD   32 Sessions  4 Breaks
+12 20:42:38 -- End Sessions File Report --
+12 20:42:38 Loaded 27 schools, 505 entries
+12 20:42:38 505 in contest after reading RestrSheet
+12 20:42:38 Contest entries per category:
+12 20:42:38 ACT : 52
+12 20:42:38 ST : 53
+12 20:42:38 RV : 17
+12 20:42:38 IMP : 34
+12 20:42:38 PR : 58
+12 20:42:38 LP : 38
+12 20:42:38 RN : 30
+12 20:42:38 OO : 29
+12 20:42:38 PO : 53
+12 20:42:38 SS : 20
+12 20:42:38 PA : 28
+12 20:42:38 SMT : 42
+12 20:42:38 EA : 20
+12 20:42:38 AD : 31
+12 20:42:39 getDist 932:926 HULL,IA              INWOOD,IA            (28)
+12 20:42:41 getDist 926:1028 INWOOD,IA            HULL,IA              (29)
+12 20:42:42 getDist 926:1040 INWOOD,IA            HULL,IA              (29)
+12 20:42:43 getDist 926:457 INWOOD,IA            HULL,IA              (29)
+12 20:42:44 getDist 926:719 INWOOD,IA            ORANGE CITY,IA       (47)
+12 20:42:46 getDist 926:720 INWOOD,IA            ORANGE CITY,IA       (47)
+12 20:42:47 getDist 926:1048 INWOOD,IA            HAWARDEN,IA          (30)
+12 20:42:48 getDist 926:601 INWOOD,IA            GEORGE,IA            (28)
+12 20:42:49 getDist 926:602 INWOOD,IA            GEORGE,IA            (28)
+12 20:42:51 getDist 926:412 INWOOD,IA            AKRON,IA             (45)
+12 20:42:52 getDist 926:413 INWOOD,IA            AKRON,IA             (45)
+12 20:42:53 getDist 926:1061 INWOOD,IA            Sioux City,IA        (72)
+12 20:42:55 getDist 926:673 INWOOD,IA            LE MARS,IA           (57)
+12 20:42:56 getDist 926:674 INWOOD,IA            LE MARS,IA           (57)
+12 20:42:58 getDist 926:804 INWOOD,IA            ROCK VALLEY,IA       (18)
+12 20:43:00 getDist 926:805 INWOOD,IA            ROCK VALLEY,IA       (18)
+12 20:43:01 getDist 926:496 INWOOD,IA            ROCK RAPIDS,IA       (24)
+12 20:43:02 getDist 926:497 INWOOD,IA            ROCK RAPIDS,IA       (24)
+12 20:43:05 getDist 926:821 INWOOD,IA            SERGEANT BLUFF,IA    (81)
+12 20:43:06 getDist 926:836 INWOOD,IA            SIOUX CITY,IA        (72)
+12 20:43:07 getDist 926:827 INWOOD,IA            SIBLEY,IA            (47)
+12 20:43:08 getDist 926:828 INWOOD,IA            SIBLEY,IA            (47)
+12 20:43:09 getDist 926:831 INWOOD,IA            SIOUX CENTER,IA      (34)
+12 20:43:11 getDist 931:926 HAWARDEN,IA          INWOOD,IA            (30)
+12 20:43:12 getDist 990:926 LE MARS,IA           INWOOD,IA            (56)
+12 20:43:14 getDist 1010:926 Sioux City,IA        INWOOD,IA            (73)
+12 20:43:14 Start Main Loop
+12 20:43:14 +++ Printing current best of 636483
+12 20:45:17 Best Score 274963
+12 20:47:19 Best Score 188253
+12 20:49:15 Best Score 137253
+12 20:49:37 *
+12 20:51:16 Best Score 98253
+12 20:53:19 Best Score 74253
+12 20:55:21 Best Score 54453
+12 20:57:15 Best Score 37773
+12 20:59:17 Best Score 30740
+12 21:01:18 Best Score 27473
+12 21:03:21 Best Score 25140
+12 21:05:15 Best Score 24109
+12 21:07:17 Best Score 22163
+12 21:09:19 Best Score 21109
+12 21:11:20 Best Score 19109
+12 21:13:15 Best Score 18240
+12 21:15:17 Best Score 18240
+12 21:17:19 Best Score 18240
+12 21:19:20 Best Score 17109
+12 21:21:22 Best Score 17109
+12 21:22:46 Flushing list
+12 21:22:46 Main GC Obj 32732
+12 21:22:46 Adding 17109 to top scores
+12 21:23:15 Best Score 419953
+12 21:23:55 +++ Printing current best of 17109
+12 21:23:56 Validation Passed
+12 21:25:17 Best Score 245203
+12 21:27:15 Best Score 163563
+12 21:28:59 *
+12 21:29:22 Best Score 111610
+12 21:31:17 Best Score 81430
+12 21:33:20 Best Score 58430
+12 21:35:22 Best Score 45430
+12 21:37:16 Best Score 36430
+12 21:39:17 Best Score 29330
+12 21:41:19 Best Score 24330
+12 21:43:20 Best Score 22893
+12 21:45:15 Best Score 20893
+12 21:47:16 Best Score 19330
+12 21:49:18 Best Score 19330
+12 21:50:57 Flushing list
+12 21:50:57 Main GC Obj 35766
+12 21:50:57 Adding 19330 to top scores
+12 21:51:16 Best Score 490213
+12 21:53:19 Best Score 263453
+12 21:55:21 Best Score 165283
+12 21:57:11 *
+12 21:57:18 Best Score 124283
+12 21:59:21 Best Score 89883
+12 22:01:16 Best Score 68883
+12 22:03:18 Best Score 51373
+12 22:05:19 Best Score 40273
+12 22:07:20 Best Score 30173
+12 22:09:22 Best Score 29173
+12 22:11:15 Best Score 25360
+12 22:13:17 Best Score 23173
+12 22:15:18 Best Score 22360
+12 22:17:19 Best Score 20360
+12 22:19:21 Best Score 19573
+12 22:21:22 Best Score 19573
+12 22:23:16 Best Score 19573
+12 22:25:18 Best Score 18460
+12 22:27:19 Best Score 17460
+12 22:29:21 Best Score 17460
+12 22:31:15 Best Score 17140
+12 22:33:17 Best Score 17140
+12 22:35:18 Best Score 17140
+12 22:35:18 Flushing list
+12 22:35:18 Main GC Obj 37283
+12 22:35:18 Adding 17140 to top scores
+12 22:37:18 Best Score 273973
+12 22:39:17 Best Score 169363
+12 22:41:18 Best Score 117253
+12 22:41:33 *
+12 22:43:20 Best Score 90253
+12 22:45:15 Best Score 68253
+12 22:47:18 Best Score 49253
+12 22:49:20 Best Score 38253
+12 22:51:21 Best Score 29253
+12 22:53:15 Best Score 26040
+12 22:55:17 Best Score 21760
+12 22:57:19 Best Score 21760
+12 22:59:21 Best Score 19609
+12 23:01:15 Best Score 17609
+12 23:03:16 Best Score 17609
+12 23:05:18 Best Score 17609
+12 23:05:41 Flushing list
+12 23:05:41 Main GC Obj 38800
+12 23:05:41 Adding 17609 to top scores
+12 23:07:17 Best Score 314303
+12 23:09:17 Best Score 198633
+12 23:11:19 Best Score 138543
+12 23:11:56 *
+12 23:13:21 Best Score 105073
+12 23:15:16 Best Score 81153
+12 23:17:18 Best Score 63553
+12 23:19:20 Best Score 47553
+12 23:21:22 Best Score 36553
+12 23:23:16 Best Score 26553
+12 23:25:18 Best Score 24553
+12 23:27:20 Best Score 21440
+12 23:29:22 Best Score 19229
+12 23:31:16 Best Score 19229
+12 23:33:18 Best Score 18440
+12 23:35:20 Best Score 18440
+12 23:37:22 Best Score 18360
+12 23:39:16 Best Score 18360
+12 23:41:18 Best Score 17440
+12 23:43:20 Best Score 17440
+12 23:45:15 Best Score 17229
+12 23:47:17 Best Score 17229
+12 23:49:19 Best Score 17229
+12 23:49:57 Flushing list
+12 23:49:57 Main GC Obj 40317
+12 23:49:57 Adding 17229 to top scores
+12 23:51:15 Best Score 337193
+12 23:53:17 Best Score 203103
+12 23:55:16 Best Score 147493
+12 23:56:14 *
+12 23:57:16 Best Score 109053
+12 23:59:19 Best Score 81053
+13 00:01:22 Best Score 57053
+13 00:03:16 Best Score 43953
+13 00:05:18 Best Score 34953
+13 00:07:20 Best Score 26553
+13 00:09:22 Best Score 23523
+13 00:11:16 Best Score 22523
+13 00:13:18 Best Score 22323
+13 00:15:20 Best Score 21453
+13 00:17:22 Best Score 21453
+13 00:19:16 Best Score 20740
+13 00:21:18 Best Score 19540
+13 00:23:20 Best Score 16940
+13 00:25:15 Best Score 16940
+13 00:27:17 Best Score 16940
+13 00:27:24 Flushing list
+13 00:27:24 Main GC Obj 41834
+13 00:27:24 Adding 16940 to top scores
+13 00:29:12 +++ Printing current best of 16940
+13 00:29:12 Validation Passed
+13 00:29:16 Best Score 269083
+13 00:31:18 Best Score 173613
+13 00:33:18 Best Score 124943
+13 00:33:40 *
+13 00:35:20 Best Score 95253
+13 00:37:16 Best Score 71253
+13 00:39:19 Best Score 51253
+13 00:41:21 Best Score 39040
+13 00:43:15 Best Score 31453
+13 00:45:18 Best Score 24353
+13 00:47:20 Best Score 20353
+13 00:49:22 Best Score 17253
+13 00:51:16 Best Score 17253
+13 00:53:19 Best Score 17253
+13 00:55:21 Best Score 16253
+13 00:57:15 Best Score 16253
+13 00:58:39 Flushing list
+13 00:58:39 Main GC Obj 43351
+13 00:58:39 Adding 16253 to top scores
+13 00:59:16 Best Score 421443
+13 00:59:47 +++ Printing current best of 16253
+13 00:59:47 Validation Passed
+13 01:01:17 Best Score 239043
+13 01:03:18 Best Score 160013
+13 01:04:56 *
+13 01:05:19 Best Score 115193
+13 01:07:15 Best Score 89193
+13 01:09:18 Best Score 68440
+13 01:11:20 Best Score 48763
+13 01:13:15 Best Score 35663
+13 01:15:17 Best Score 27663
+13 01:17:19 Best Score 23763
+13 01:19:21 Best Score 23763
+13 01:21:16 Best Score 21853
+13 01:23:18 Best Score 21853
+13 01:25:20 Best Score 21853
+13 01:25:20 Flushing list
+13 01:25:20 Main GC Obj 43351
+13 01:25:20 Adding 21853 to top scores
+13 01:27:17 Best Score 263703
+13 01:29:15 Best Score 180173
+13 01:31:15 Best Score 131443
+13 01:31:37 *
+13 01:33:17 Best Score 94490
+13 01:35:21 Best Score 71490
+13 01:37:16 Best Score 53340
+13 01:39:18 Best Score 37353
+13 01:41:20 Best Score 30153
+13 01:43:15 Best Score 25253
+13 01:45:17 Best Score 22109
+13 01:47:19 Best Score 19109
+13 01:49:21 Best Score 18109
+13 01:51:16 Best Score 17109
+13 01:53:18 Best Score 17109
+13 01:54:34 Flushing list
+13 01:54:34 Main GC Obj 46385
+13 01:54:34 Adding 17109 to top scores
+13 01:55:15 Best Score 403563
+13 01:57:17 Best Score 224613
+13 01:59:20 Best Score 156053
+13 02:00:51 *
+13 02:01:22 Best Score 112053
+13 02:03:18 Best Score 89053
+13 02:05:21 Best Score 62893
+13 02:07:16 Best Score 45893
+13 02:09:19 Best Score 33829
+13 02:11:21 Best Score 26829
+13 02:13:15 Best Score 25829
+13 02:15:17 Best Score 22240
+13 02:17:19 Best Score 19660
+13 02:19:21 Best Score 19060
+13 02:21:16 Best Score 19060
+13 02:23:18 Best Score 16060
+13 02:25:20 Best Score 16060
+13 02:27:22 Best Score 16060
+13 02:28:23 Flushing list
+13 02:28:23 Main GC Obj 47902
+13 02:28:23 Adding 16060 to top scores
+13 02:29:15 Best Score 368863
+13 02:29:37 +++ Printing current best of 16060
+13 02:29:37 Validation Passed
+13 02:31:17 Best Score 221373
+13 02:33:16 Best Score 156053
+13 02:34:42 *
+13 02:35:20 Best Score 121053
+13 02:37:16 Best Score 92253
+13 02:39:19 Best Score 71983
+13 02:41:22 Best Score 54033
+13 02:43:17 Best Score 40033
+13 02:45:19 Best Score 31833
+13 02:47:21 Best Score 27833
+13 02:49:16 Best Score 24833
+13 02:51:18 Best Score 22460
+13 02:53:20 Best Score 20460
+13 02:55:22 Best Score 19460
+13 02:57:17 Best Score 18460
+13 02:59:19 Best Score 18460
+13 03:01:22 Best Score 18460
+13 03:03:16 Best Score 18273
+13 03:05:19 Best Score 17609
+13 03:07:21 Best Score 17609
+13 03:09:16 Best Score 17609
+13 03:11:18 Best Score 17273
+13 03:13:20 Best Score 17273
+13 03:15:15 Best Score 16460
+13 03:17:17 Best Score 15460
+13 03:19:20 Best Score 15460
+13 03:21:22 Best Score 15460
+13 03:21:37 Flushing list
+13 03:21:37 Main GC Obj 49419
+13 03:21:37 Adding 15460 to top scores
+13 03:22:45 +++ Printing current best of 15460
+13 03:22:45 Validation Passed
+13 03:23:18 Best Score 298513
+13 03:25:15 Best Score 199573
+13 03:27:18 Best Score 142693
+13 03:27:55 *
+13 03:29:20 Best Score 109633
+13 03:31:16 Best Score 79633
+13 03:33:19 Best Score 61333
+13 03:35:22 Best Score 46253
+13 03:37:17 Best Score 34253
+13 03:39:19 Best Score 28160
+13 03:41:21 Best Score 25160
+13 03:43:16 Best Score 22160
+13 03:45:19 Best Score 21253
+13 03:47:21 Best Score 20253
+13 03:49:16 Best Score 19160
+13 03:51:18 Best Score 19160
+13 03:53:13 Flushing list
+13 03:53:13 Main GC Obj 50936
+13 03:53:13 Adding 19160 to top scores
+13 03:53:15 Best Score 613933
+13 03:55:15 Best Score 293613
+13 03:57:16 Best Score 197090
+13 03:59:18 Best Score 141663
+13 03:59:33 *
+13 04:01:21 Best Score 108729
+13 04:03:17 Best Score 83653
+13 04:05:20 Best Score 61653
+13 04:07:15 Best Score 47653
+13 04:09:17 Best Score 37040
+13 04:11:19 Best Score 31040
+13 04:13:21 Best Score 27843
+13 04:15:16 Best Score 26843
+13 04:17:18 Best Score 25440
+13 04:19:20 Best Score 23840
+13 04:21:15 Best Score 22840
+13 04:23:17 Best Score 22840
+13 04:25:20 Best Score 20843
+13 04:27:15 Best Score 19843
+13 04:29:17 Best Score 18843
+13 04:31:19 Best Score 18843
+13 04:32:28 Flushing list
+13 04:32:28 Main GC Obj 50936
+13 04:32:28 Adding 18843 to top scores
+13 04:33:15 Best Score 391733
+13 04:35:18 Best Score 218273
+13 04:37:15 Best Score 143873
+13 04:38:48 *
+13 04:39:18 Best Score 107873
+13 04:41:15 Best Score 83463
+13 04:43:18 Best Score 62263
+13 04:45:21 Best Score 44263
+13 04:47:16 Best Score 36263
+13 04:49:19 Best Score 28360
+13 04:51:21 Best Score 25860
+13 04:53:16 Best Score 22260
+13 04:55:18 Best Score 18260
+13 04:57:21 Best Score 18260
+13 04:59:16 Best Score 18260
+13 04:59:31 Flushing list
+13 04:59:31 Main GC Obj 53970
+13 04:59:31 Adding 18260 to top scores
+13 05:01:16 Best Score 313633
+13 05:03:16 Best Score 203683
+13 05:05:21 Best Score 138623
+13 05:05:51 *
+13 05:07:16 Best Score 101073
+13 05:09:20 Best Score 72573
+13 05:11:16 Best Score 52573
+13 05:13:19 Best Score 39573
+13 05:15:21 Best Score 32073
+13 05:17:16 Best Score 27283
+13 05:19:18 Best Score 24283
+13 05:21:20 Best Score 22263
+13 05:23:15 Best Score 20263
+13 05:25:17 Best Score 19009
+13 05:27:20 Best Score 18540
+13 05:29:15 Best Score 17540
+13 05:31:17 Best Score 17540
+13 05:33:20 Best Score 17540
+13 05:33:43 Flushing list
+13 05:33:43 Main GC Obj 55487
+13 05:33:43 Adding 17540 to top scores
+13 05:35:17 Best Score 327950
+13 05:37:17 Best Score 197733
+13 05:39:20 Best Score 137073
+13 05:40:04 *
+13 05:41:22 Best Score 97473
+13 05:43:18 Best Score 74473
+13 05:45:22 Best Score 58473
+13 05:47:17 Best Score 41473
+13 05:49:20 Best Score 33473
+13 05:51:15 Best Score 27360
+13 05:53:18 Best Score 23460
+13 05:55:20 Best Score 21283
+13 05:57:15 Best Score 18060
+13 05:59:18 Best Score 17060
+13 06:01:21 Best Score 17060
+13 06:03:16 Best Score 17060
+13 06:03:39 Flushing list
+13 06:03:39 Main GC Obj 57004
+13 06:03:39 Adding 17060 to top scores
+13 06:05:16 Best Score 295690
+13 06:07:18 Best Score 196273
+13 06:09:15 Best Score 141163
+13 06:09:59 *
+13 06:11:17 Best Score 109513
+13 06:13:21 Best Score 84093
+13 06:15:16 Best Score 64373
+13 06:17:19 Best Score 44880
+13 06:19:22 Best Score 37880
+13 06:21:16 Best Score 29783
+13 06:23:19 Best Score 23693
+13 06:25:22 Best Score 22693
+13 06:27:17 Best Score 21660
+13 06:29:19 Best Score 21209
+13 06:31:22 Best Score 19209
+13 06:33:17 Best Score 19209
+13 06:35:20 Best Score 19209
+13 06:35:50 Flushing list
+13 06:35:50 Main GC Obj 58521
+13 06:35:50 Adding 19209 to top scores
+13 06:37:16 Best Score 326173
+13 06:39:19 Best Score 208073
+13 06:41:21 Best Score 150703
+13 06:42:13 *
+13 06:43:15 Best Score 115813
+13 06:45:19 Best Score 87963
+13 06:47:15 Best Score 67393
+13 06:49:18 Best Score 49393
+13 06:51:21 Best Score 35393
+13 06:53:16 Best Score 27393
+13 06:55:19 Best Score 22360
+13 06:57:22 Best Score 22360
+13 06:59:17 Best Score 19360
+13 07:01:20 Best Score 18360
+13 07:03:15 Best Score 17360
+13 07:05:18 Best Score 17360
+13 07:07:20 Best Score 16360
+13 07:09:16 Best Score 16360
+13 07:10:32 Flushing list
+13 07:10:32 Main GC Obj 60038
+13 07:10:32 Adding 16360 to top scores
+13 07:11:17 Best Score 413563
+13 07:13:18 Best Score 251423
+13 07:15:15 Best Score 174843
+13 07:16:54 *
+13 07:17:17 Best Score 127283
+13 07:19:22 Best Score 95493
+13 07:21:18 Best Score 73493
+13 07:23:21 Best Score 56503
+13 07:25:16 Best Score 42753
+13 07:27:19 Best Score 33223
+13 07:29:22 Best Score 24473
+13 07:31:17 Best Score 21473
+13 07:33:20 Best Score 19473
+13 07:35:15 Best Score 18473
+13 07:37:18 Best Score 17473
+13 07:39:21 Best Score 16473
+13 07:41:18 Best Score 16473
+13 07:43:21 Best Score 16473
+13 07:43:36 Flushing list
+13 07:43:36 Main GC Obj 60038
+13 07:43:36 Adding 16473 to top scores
+13 07:45:18 Best Score 289279
+13 07:47:17 Best Score 186710
+13 07:49:15 Best Score 131340
+13 07:50:01 *
+13 07:51:20 Best Score 100840
+13 07:53:19 Best Score 76140
+13 07:55:18 Best Score 57140
+13 07:57:16 Best Score 43963
+13 07:59:17 Best Score 34140
+13 08:01:22 Best Score 29140
+13 08:03:20 Best Score 27140
+13 08:05:18 Best Score 25173
+13 08:07:15 Best Score 21729
+13 08:09:21 Best Score 21209
+13 08:11:18 Best Score 21209
+13 08:12:37 Flushing list
+13 08:12:37 Main GC Obj 63072
+13 08:12:37 Adding 21209 to top scores
+13 08:13:17 Best Score 366773
+13 08:15:19 Best Score 226063
+13 08:17:16 Best Score 158383
+13 08:19:04 *
+13 08:19:20 Best Score 120643
+13 08:21:19 Best Score 94043
+13 08:23:17 Best Score 72273
+13 08:25:15 Best Score 53273
+13 08:27:21 Best Score 39140
+13 08:29:18 Best Score 29140

@@ -1,0 +1,17 @@
+Room                         Start  End   Cat  # EntryTitle
+TeGrootenhuis Center J        8:18   8:24  PO  2 Pass On
+Wiltgen Center G              8:54   9:00  PO  1 Tulips
+Martinson Center H            9:22   9:28  PR  1 Without a Phone!
+Kerkvliet Center M            9:57  10:02  ST  3 You Are Special
+A. Johnson Center N          11:05  11:10  ST  2 Where the Wild Things Are
+TeGrootenhuis Center J       11:54  12:00  PR  3 Born of Man and Woman
+Choir Room Center E          12:32  12:37 SMT  1 I Know It's Today
+Early Childhood Pod Center   12:32  12:37 SMT  3 Party Hat
+Kerkvliet Center M           12:32  12:37  ST  1 Corduroy
+Band Room Center A           12:40  12:48 ACT  2 I Woke Up In a Dream
+J. Meyer Center I             1:40   1:48  LP  1 The Glorious Game of Golf
+Choir Room Center E           1:57   2:02 SMT  2 Still Hurting
+Library Center F              2:10   2:18 IMP  1 
+Winquist Center P             2:25   2:31  PO  3 Teens and Tech
+Band Room Center A            2:40   2:48 ACT  1 The Plum Colored Sweater
+Martinson Center H            2:49   2:55  PR  2 The Benchwarmer

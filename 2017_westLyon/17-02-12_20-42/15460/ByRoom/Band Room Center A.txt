@@ -1,0 +1,32 @@
+Cat  School                     Start  End    EntryTitle
+ACT   WEST SIOUX                  8:00   8:08  Bald and Beautiful
+ACT   BOYDEN-HULL                 8:10   8:18  The Trouble with Guys
+ACT   LE MARS 9TH                 8:20   8:28  
+ACT   SERGEANT BLUFF-LUTON        8:30   8:38  
+ACT   GEORGE-LITTLE ROCK          8:40   8:48  Sarah's Keys
+ACT   LE MARS COMMUNITY           9:00   9:08  
+ACT   MOC-FLOYD VALLEY            9:10   9:18  
+ACT   LEMARS GEHLEN               9:40   9:48  Tribute
+ACT   WEST LYON                   9:50   9:58  TBD ACT 2
+ACT   LE MARS COMMUNITY          10:00  10:08  The Big Picture
+ACT   MOC-FLOYD VALLEY           10:10  10:18  
+ACT   BOYDEN-HULL                10:20  10:28  Sun Dazed
+ACT   WESTERN CHRISTIAN          10:30  10:38  TBA
+ACT   SERGEANT BLUFF-LUTON       10:40  10:48  
+ACT   AKRON-WESTFIELD            10:50  10:58  Fat Boy vs. the Cheerleaders
+ACT   BOYDEN-HULL 9TH            12:10  12:18  Super Sitter
+ACT   SIBLEY-OCHEYEDAN           12:20  12:28  TBA
+ACT   GEORGE-LITTLE ROCK         12:30  12:38  Men Are Stupid and I Rock!
+ACT   AKRON-WESTFIELD            12:40  12:48  White People
+ACT   SERGEANT BLUFF-LUTON       12:50  12:58  
+ACT   ROCK VALLEY                 1:00   1:08  Multiple Personality Murder
+ACT   SIOUX CITY EAST             1:10   1:18  Red Hot Patriot
+ACT   CENTRAL LYON                1:20   1:28  The Plum Colored Sweater
+ACT   WESTERN CHRISTIAN           1:50   1:58  Insanity
+ACT   SIOUX CITY EAST             2:00   2:08  Marilyn Monroe the Last Interview
+ACT   SIOUX CENTER                2:10   2:18  Life Doesn't Wait
+ACT   ROCK VALLEY                 2:20   2:28  A Mother's Touch
+ACT   SIBLEY-OCHEYEDAN            2:30   2:38  Hamlet
+ACT   BOYDEN-HULL 9TH             2:40   2:48  Opening Tonight, Mother Goose
+ACT   ROCK VALLEY 9TH             2:50   2:58  For Who the Bell, Like, Tolls 
+ACT   WEST LYON                   3:00   3:08  Soliloquies from Hamlet

@@ -1,0 +1,39 @@
+Room                         Start  End   Cat  # EntryTitle
+J105 Metzger Center B         8:10   8:16  EA  3 Rebecca's Expository
+F117 Ripperda Center C        8:20   8:28  PA  3 Omeleto's Regrets
+Library Center F              8:20   8:28 IMP  2 
+Sorensen Center O             8:20   8:28  OO  1 Embrace Your Narcissism
+Weber Center L                8:40   8:45  AD  1 Surviving a Sibling's Wedding
+Band Room Center A            8:50   8:58 ACT  4 Men Are Stupid and I Rock!
+Early Childhood Pod Center    8:50   8:58 ACT  1 Erik's Acting
+A. Johnson Center N           8:50   8:58  RV  1 Sherlock
+J. Meyer Center I             8:50   8:58  LP  2 Bossy Pants
+Kerkvliet Center M            9:04   9:09  ST  2 Whispering Town
+J105 Metzger Center B         9:20   9:26  EA  2 The Fascinating World of Fasteners
+Winquist Center P             9:32   9:40  SS  1 
+Choir Room Center E           9:41   9:46 SMT  1 
+Early Childhood Pod Center    9:50   9:58 ACT  3 Sarah's Keys
+A. Johnson Center N           9:50   9:58  RV  2 Nick's Review
+J. Meyer Center I            10:00  10:08  LP  1 Hamilton
+Rockhill Center D (Draw acr  10:08  10:13  RN  1 
+Weber Center L               10:19  10:24  AD  3 Rebecca's ADS
+TeGrootenhuis Center J       10:25  10:31  PO  3 Kim's Poetry Program
+Sorensen Center O            10:40  10:48  OO  3 Jacob's Oratory
+Wiltgen Center G             11:09  11:15  PO  2 Dhalten's Poetry Program
+J105 Metzger Center B        11:20  11:26  EA  1 The Lost Satchel
+TeGrootenhuis Center J       11:36  11:42  PR  2 Candyce's Prose Selection
+Rockhill Center D (Draw acr  12:00  12:05  RN  3 
+Kerkvliet Center M           12:00  12:05  ST  3 Megan's Storytelling
+Early Childhood Pod Center   12:24  12:29 SMT  2 Erik's Solo Musical Theater
+Sorensen Center O            12:45  12:53  OO  2 Where Have All the Traditions Gone
+F117 Ripperda Center C        1:00   1:08  PA  2 Dirks Public Address
+J. Meyer Center I             1:00   1:08  LP  3 Megan's Literary Program
+A. Johnson Center N           1:10   1:15  ST  1 Cook-A-Doodle-Doo
+Weber Center L                1:16   1:21  AD  2 A Small Town Girl Visits the Big Apple
+F117 Ripperda Center C        1:40   1:48  PA  1 Reagan's Farewell Address
+Martinson Center H            1:55   2:01  PR  3 Seth's Prose
+TeGrootenhuis Center J        1:55   2:01  PR  1 Bullied, Bully, and Bystander
+Band Room Center A            2:10   2:18 ACT  2 Starr's Acting
+Rockhill Center D (Draw acr   2:26   2:31  RN  2 
+Winquist Center P             3:01   3:07  PO  1 Farkle McBride
+Library Center F              3:30   3:38 IMP  1 

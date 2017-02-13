@@ -1,0 +1,28 @@
+Cat  School                     Start  End    EntryTitle
+RV   SIOUX CITY EAST             8:00   8:08  
+RV   SIBLEY-OCHEYEDAN            8:10   8:18  TBA
+RV   LE MARS COMMUNITY           8:20   8:28  Challenger Deep
+RV   WEST LYON                   8:30   8:38  Darkest Minds
+RV   SIOUX CENTER                8:40   8:48  Sharknado
+RV   SIOUX CITY EAST             9:10   9:18  The Sour Truth
+RV   WEST LYON                   9:20   9:28  Rogue One: The Dark (or Light?) Side of the Box Office
+RV   LE MARS COMMUNITY           9:40   9:48  
+RV   GEORGE-LITTLE ROCK          9:50   9:58  Nick's Review
+ST   WEST SIOUX                 10:25  10:30  A Series of Unfortunate Events
+ST   SIBLEY-OCHEYEDAN           10:33  10:38  TBA
+ST   GEORGE-LITTLE ROCK         10:41  10:46  Megan's Storytelling
+ST   BOYDEN-HULL 9TH            10:49  10:54  Seriously, Cinderella is So Annoying
+ST   CENTRAL LYON               10:57  11:02  Where the Wild Things Are
+ST   AKRON-WESTFIELD            11:05  11:10  The Barking Mouse
+ST   SERGEANT BLUFF-LUTON       12:30  12:35  
+ST   CENTRAL LYON               12:38  12:43  Corduroy
+ST   WEST LYON                  12:46  12:51  Memoirs of a Goldfish
+ST   SIOUX CITY EAST            12:54  12:59  
+ST   MOC-FLOYD VALLEY            1:02   1:07  
+ST   LE MARS 9TH                 1:10   1:15  Beware of Storybook Wolves
+ST   SIBLEY-OCHEYEDAN            1:30   1:35  TBA
+ST   WESTERN CHRISTIAN           1:38   1:43  Monsters Eat Whiny Children
+ST   CENTRAL LYON 9TH            1:46   1:51  Charlie
+ST   GEORGE-LITTLE ROCK          1:54   1:59  Whispering Town
+ST   ROCK VALLEY                 2:02   2:07  Interrupting Chicken
+ST   BOYDEN-HULL                 2:10   2:15  The Web Files

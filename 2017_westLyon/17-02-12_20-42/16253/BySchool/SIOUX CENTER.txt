@@ -1,0 +1,24 @@
+Room                         Start  End   Cat  # EntryTitle
+TeGrootenhuis Center J        8:00   8:06  PO  1 Stand back, said the Elephant, I'm Going to Sneeze!
+Weber Center L                8:16   8:21  AD  1 Fast Food
+A. Johnson Center N           8:30   8:38  RV  1 Sharknado
+Choir Room Center E           8:40   8:45 SMT  1 The Girl in 14G
+J105 Metzger Center B         8:50   8:56  EA  1 Apollo 13
+Martinson Center H            9:03   9:09  PR  3 Husband in Charge
+A. Johnson Center N           9:10   9:18  RV  2 Field Notes from a Catastrophe
+Choir Room Center E           9:33   9:38 SMT  2 When a Felon's Not Engaged in His Employment
+TeGrootenhuis Center J        9:49   9:55  PO  2 What Teachers Make/On Girls Lending Pens
+Rockhill Center D (Draw acr   9:59  10:04  RN  1 
+J. Meyer Center I            10:20  10:28  LP  1 Death
+A. Johnson Center N          10:33  10:38  ST  1 Little Red Hot
+Library Center F             10:40  10:48 IMP  1 
+TeGrootenhuis Center J       10:51  10:57  PR  1 A Good Deed Goes Wrong
+Sorensen Center O            11:00  11:08  OO  1 Hiding the Pain
+Martinson Center H           11:27  11:33  PR  2 Eating Disorders
+Winquist Center P            11:49  11:57  SS  1 
+Band Room Center A           12:10  12:18 ACT  1 Life Doesn't Wait
+A. Johnson Center N          12:38  12:43  ST  2 Owen
+Weber Center L                1:16   1:21  AD  2 Book Worms
+Sorensen Center O             1:55   2:03  OO  2 Fear of the Unknown
+Wiltgen Center G              2:22   2:28  PO  3 Keys/The Plea
+J. Meyer Center I             2:40   2:48  LP  2 Don't Lose Yourself

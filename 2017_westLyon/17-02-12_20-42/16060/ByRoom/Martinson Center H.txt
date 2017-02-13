@@ -1,0 +1,34 @@
+Cat  School                     Start  End    EntryTitle
+PR   SIOUX CENTER                8:00   8:06  A Good Deed Goes Wrong
+PR   SIOUX CITY EAST             8:09   8:15  Let's Pretend this Never Happened
+PR   LE MARS COMMUNITY           8:18   8:24  Al Literation, Private Eye
+PR   GEORGE-LITTLE ROCK 9TH      8:27   8:33  The Littlest Angel
+PR   AKRON-WESTFIELD 9TH         8:36   8:42  I'm Not Ready
+PR   CENTRAL LYON                8:45   8:51  Born of Man and Woman
+PR   SIBLEY-OCHEYEDAN            9:22   9:28  TBA
+PR   WEST LYON                   9:31   9:37  Eleven
+PR   SIBLEY-OCHEYEDAN 9TH        9:40   9:46  TBA
+PR   WEST SIOUX                  9:49   9:55  Something I Couldn't See
+PR   MOC-FLOYD VALLEY            9:58  10:04  
+PR   GEORGE-LITTLE ROCK 9TH     10:07  10:13  Lauren's Prose
+PR   LE MARS COMMUNITY          10:16  10:22  
+PR   WEST SIOUX 9TH             10:25  10:31  What She Doesn't Know
+PR   SIOUX CENTER               10:51  10:57  Husband in Charge
+PR   AKRON-WESTFIELD            11:00  11:06  Old Yeller
+PR   SERGEANT BLUFF-LUTON       11:09  11:15  
+PR   LE MARS COMMUNITY          11:18  11:24  Alexander and the Terrible, Horrible, No Good, Very Bad Day
+PR   WESTERN CHRISTIAN          11:27  11:33  I Hate You, Wallace Pokras
+PR   LEMARS GEHLEN              11:36  11:42  To this Day
+PR   WEST LYON                  11:45  11:51  Three Questions
+PR   BOYDEN-HULL                11:54  12:00  One Week at the Gym
+PR   SIOUX CITY EAST             1:10   1:16  
+PR   AKRON-WESTFIELD 9TH         1:19   1:25  Mr. One and Only
+PR   SIBLEY-OCHEYEDAN            1:28   1:34  TBA
+PR   MOC-FLOYD VALLEY 9TH        1:37   1:43  
+PR   WEST SIOUX 9TH              1:46   1:52  I'll Be Looking For You, Ace
+PR   GEORGE-LITTLE ROCK          1:55   2:01  Seth's Prose
+PR   WEST SIOUX                  2:22   2:28  Missing Natalie
+PR   ROCK VALLEY                 2:31   2:37  The Very Best Reason
+PR   SERGEANT BLUFF-LUTON        2:40   2:46  
+PR   WESTERN CHRISTIAN           2:49   2:55  Open Letter to My Kids
+PR   SIBLEY-OCHEYEDAN            2:58   3:04  TBA

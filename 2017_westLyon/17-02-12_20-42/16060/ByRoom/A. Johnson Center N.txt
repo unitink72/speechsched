@@ -1,0 +1,31 @@
+Cat  School                     Start  End    EntryTitle
+RV   LE MARS COMMUNITY           8:00   8:08  
+RV   SIOUX CENTER                8:10   8:18  Sharknado
+RV   BOYDEN-HULL                 8:20   8:28  Merlin
+RV   WEST LYON                   8:30   8:38  Rogue One: The Dark (or Light?) Side of the Box Office
+RV   SIOUX CITY EAST             8:40   8:48  The Sour Truth
+RV   GEORGE-LITTLE ROCK          8:50   8:58  Sherlock
+RV   LE MARS COMMUNITY           9:10   9:18  
+RV   SIOUX CITY EAST             9:20   9:28  
+RV   SIOUX CENTER                9:30   9:38  Field Notes from a Catastrophe
+RV   SIBLEY-OCHEYEDAN            9:40   9:48  TBA
+RV   GEORGE-LITTLE ROCK          9:50   9:58  Nick's Review
+RV   WEST LYON                  10:00  10:08  Darkest Minds
+ST   LE MARS COMMUNITY          10:25  10:30  The Wicked Girl
+ST   WEST SIOUX                 10:33  10:38  A Series of Unfortunate Events
+ST   SIBLEY-OCHEYEDAN           10:41  10:46  TBA
+ST   MOC-FLOYD VALLEY           10:49  10:54  
+ST   BOYDEN-HULL                10:57  11:02  Frederick Finch, Loudmouth
+ST   LE MARS 9TH                11:05  11:10  Beware of Storybook Wolves
+ST   Sioux City East 9th        12:30  12:35  Corduroy
+ST   GEORGE-LITTLE ROCK 9TH     12:38  12:43  Coat of Many Colors
+ST   SIOUX CENTER               12:46  12:51  Owen
+ST   MOC-FLOYD VALLEY           12:54  12:59  
+ST   SIOUX CITY EAST             1:02   1:07  
+ST   GEORGE-LITTLE ROCK          1:10   1:15  Cook-A-Doodle-Doo
+ST   Sioux City East 9th         1:30   1:35  Tortise and the Hare Race Again
+ST   AKRON-WESTFIELD 9TH         1:38   1:43  Rumplestiltskin
+ST   AKRON-WESTFIELD             1:46   1:51  Beauty and the Beast
+ST   BOYDEN-HULL 9TH             1:54   1:59  Seriously, Cinderella is So Annoying
+ST   LE MARS COMMUNITY           2:02   2:07  The Legend of Slappy Hooper
+ST   BOYDEN-HULL                 2:10   2:15  The Web Files

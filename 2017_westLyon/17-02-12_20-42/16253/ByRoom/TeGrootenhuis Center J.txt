@@ -1,0 +1,38 @@
+Cat  School                     Start  End    EntryTitle
+PO   SIOUX CENTER                8:00   8:06  Stand back, said the Elephant, I'm Going to Sneeze!
+PO   AKRON-WESTFIELD             8:09   8:15  Pretty & To This Day
+PO   LE MARS 9TH                 8:18   8:24  
+PO   WESTERN CHRISTIAN           8:27   8:33  Littel Red Riding Hood
+PO   BOYDEN-HULL                 8:36   8:42  Surfer Chick
+PO   SIBLEY-OCHEYEDAN            8:45   8:51  TBA
+PO   WEST SIOUX 9TH              8:54   9:00  Packing for a Holiday Vacation
+PO   SERGEANT BLUFF-LUTON        9:03   9:09  
+PO   SIOUX CITY EAST             9:22   9:28  
+PO   WESTERN CHRISTIAN           9:31   9:37  feelings revealed, his/hers
+PO   CENTRAL LYON                9:40   9:46  Pass On
+PO   SIOUX CENTER                9:49   9:55  What Teachers Make/On Girls Lending Pens
+PO   WEST SIOUX                  9:58  10:04  Public Speaking
+PO   GEORGE-LITTLE ROCK 9TH     10:07  10:13  Kali's Poetry
+PO   WEST LYON                  10:16  10:22  Next to Nothing
+PO   AKRON-WESTFIELD            10:25  10:31  Identity
+PR   SIOUX CENTER               10:51  10:57  A Good Deed Goes Wrong
+PR   SIBLEY-OCHEYEDAN           11:00  11:06  TBA
+PR   WEST LYON                  11:09  11:15  Wear Sunscreen
+PR   LE MARS 9TH                11:18  11:24  
+PR   GEORGE-LITTLE ROCK 9TH     11:27  11:33  The Littlest Angel
+PR   WESTERN CHRISTIAN          11:36  11:42  Open Letter to My Kids
+PR   BOYDEN-HULL                11:45  11:51  One Week at the Gym
+PR   WEST SIOUX 9TH             11:54  12:00  Dear Dad
+PR   WEST SIOUX 9TH              1:10   1:16  What She Doesn't Know
+PR   MOC-FLOYD VALLEY            1:19   1:25  
+PR   GEORGE-LITTLE ROCK          1:28   1:34  Bullied, Bully, and Bystander
+PR   AKRON-WESTFIELD             1:37   1:43  Old Yeller
+PR   LEMARS GEHLEN               1:46   1:52  Pretty
+PR   CENTRAL LYON                1:55   2:01  Born of Man and Woman
+PR   AKRON-WESTFIELD 9TH         2:04   2:10  Mr. One and Only
+PR   SIBLEY-OCHEYEDAN            2:13   2:19  TBA
+PR   WEST LYON                   2:42   2:48  Three Questions
+PR   SIOUX CITY EAST             2:51   2:57  
+PR   SERGEANT BLUFF-LUTON        3:00   3:06  
+PR   ROCK VALLEY                 3:09   3:15  The Very Best Reason
+PR   GEORGE-LITTLE ROCK          3:18   3:24  Seth's Prose

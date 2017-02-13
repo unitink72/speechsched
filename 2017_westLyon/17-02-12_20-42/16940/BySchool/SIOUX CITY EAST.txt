@@ -1,0 +1,43 @@
+Room                         Start  End   Cat  # EntryTitle
+Band Room Center A            8:00   8:08 ACT  3 
+A. Johnson Center N           8:00   8:08  RV  1 
+F117 Ripperda Center C        8:00   8:08  PA  1 It's a More Beautiful Later
+Library Center F              8:00   8:08 IMP  3 
+J. Meyer Center I             8:00   8:08  LP  3 
+Sorensen Center O             8:00   8:08  OO  2 
+Martinson Center H            8:09   8:15  PR  1 Let's Pretend this Never Happened
+Weber Center L                8:24   8:29  AD  3 
+J105 Metzger Center B         8:30   8:36  EA  1 Stressed Out
+Winquist Center P             8:45   8:53  SS  1 
+Rockhill Center D (Draw acr   8:54   8:59  RN  2 
+Choir Room Center E           9:04   9:09 SMT  2 
+Sorensen Center O             9:10   9:18  OO  1 
+Winquist Center P             9:32   9:40  SS  3 
+Choir Room Center E           9:41   9:46 SMT  1 
+J105 Metzger Center B         9:50   9:56  EA  2 Bees
+A. Johnson Center N          10:00  10:08  RV  2 The Sour Truth
+Kerkvliet Center M           10:13  10:18  ST  2 
+Choir Room Center E          10:21  10:26 SMT  3 
+Rockhill Center D (Draw acr  10:35  10:40  RN  1 
+Weber Center L               10:55  11:00  AD  2 
+J. Meyer Center I            11:10  11:18  LP  2 
+J105 Metzger Center B        11:20  11:26  EA  3 Stop Being Fake
+Winquist Center P            11:31  11:39  SS  2 
+TeGrootenhuis Center J       11:45  11:51  PR  2 
+Wiltgen Center G             11:54  12:00  PO  3 I Am the Me You See...Now
+Martinson Center H           11:54  12:00  PR  3 
+Band Room Center A           12:10  12:18 ACT  1 Red Hot Patriot
+F117 Ripperda Center C       12:20  12:28  PA  2 
+A. Johnson Center N          12:30  12:35  ST  3 
+Kerkvliet Center M           12:56   1:01  ST  1 
+Sorensen Center O             1:05   1:13  OO  3 
+Weber Center L                1:16   1:21  AD  1 
+Rockhill Center D (Draw acr   1:32   1:37  RN  3 
+Early Childhood Pod Center    1:40   1:48  LP  1 
+Library Center F              1:50   1:58 IMP  1 
+J105 Metzger Center B         2:10   2:18  RV  3 
+Wiltgen Center G              2:22   2:28  PO  1 
+F117 Ripperda Center C        2:40   2:48  PA  3 
+Winquist Center P             2:52   2:58  PO  2 
+Band Room Center A            3:00   3:08 ACT  2 Marilyn Monroe the Last Interview
+Library Center F              3:10   3:18 IMP  2 

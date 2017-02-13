@@ -1,0 +1,27 @@
+Cat  School                     Start  End    EntryTitle
+EA   MOC-FLOYD VALLEY            8:00   8:06  
+EA   GEORGE-LITTLE ROCK          8:10   8:16  The Lost Satchel
+EA   LE MARS COMMUNITY           8:20   8:26  Screenprinting 101
+EA   SIBLEY-OCHEYEDAN            8:30   8:36  TBA
+EA   SIOUX CITY EAST             8:40   8:46  Bees
+EA   SIOUX CENTER                8:50   8:56  Apollo 13
+EA   WEST LYON                   9:00   9:06  Honeybees
+EA   LE MARS COMMUNITY           9:30   9:36  
+EA   SIOUX CITY EAST             9:40   9:46  Stop Being Fake
+EA   WEST LYON                   9:50   9:56  TBD EXP3
+EA   SIBLEY-OCHEYEDAN           10:00  10:06  Time After Time
+EA   MOC-FLOYD VALLEY           10:10  10:16  
+EA   GEORGE-LITTLE ROCK         10:20  10:26  Rebecca's Expository
+EA   GEORGE-LITTLE ROCK         10:50  10:56  The Fascinating World of Fasteners
+EA   SIBLEY-OCHEYEDAN           11:00  11:06  TBA
+EA   WEST SIOUX 9TH             11:10  11:16  Hunger Across America:  What We Need to do About It
+EA   WEST LYON                  11:20  11:26  GMOs
+EA   SIOUX CITY EAST            11:30  11:36  Stressed Out
+EA   LE MARS COMMUNITY          11:40  11:46  FFA
+EA   LE MARS 9TH                11:50  11:56  
+RV   WEST LYON                   1:20   1:28  Fantastic Beasts and Where to Find Them
+RV   LE MARS COMMUNITY           1:30   1:38  
+RV   SIBLEY-OCHEYEDAN            1:40   1:48  LA LA Land
+RV   GEORGE-LITTLE ROCK          1:50   1:58  Nick's Review
+RV   BOYDEN-HULL                 2:10   2:18  Merlin
+RV   SIOUX CITY EAST             2:20   2:28  

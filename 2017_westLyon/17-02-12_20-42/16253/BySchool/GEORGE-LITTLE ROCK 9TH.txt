@@ -1,0 +1,7 @@
+Room                         Start  End   Cat  # EntryTitle
+Kerkvliet Center M            8:24   8:29  ST  2 I Need My Monster
+TeGrootenhuis Center J       10:07  10:13  PO  1 Kali's Poetry
+TeGrootenhuis Center J       11:27  11:33  PR  1 The Littlest Angel
+Kerkvliet Center M           12:40  12:45  ST  1 Coat of Many Colors
+Choir Room Center E           1:57   2:02 SMT  1 Kali's Musical
+Martinson Center H            2:22   2:28  PR  2 Lauren's Prose

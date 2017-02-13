@@ -1,0 +1,35 @@
+Cat  School                     Start  End    EntryTitle
+IMP   SIOUX CITY EAST             8:00   8:08  
+IMP   Sioux City East 9th         8:10   8:18  
+IMP   GEORGE-LITTLE ROCK          8:20   8:28  
+IMP   WEST SIOUX                  8:30   8:38  
+IMP   SIOUX CENTER                8:40   8:48  
+IMP   ROCK VALLEY                 8:50   8:58  
+IMP   SIBLEY-OCHEYEDAN            9:00   9:08  
+IMP   LE MARS COMMUNITY           9:10   9:18  
+IMP   WESTERN CHRISTIAN           9:20   9:28  
+IMP   AKRON-WESTFIELD             9:40   9:48  
+IMP   LE MARS COMMUNITY           9:50   9:58  
+IMP   WEST LYON                  10:00  10:08  
+IMP   LE MARS 9TH                10:10  10:18  
+IMP   SIOUX CITY EAST            10:20  10:28  
+IMP   ROCK VALLEY                10:30  10:38  
+IMP   BOYDEN-HULL                10:40  10:48  
+IMP   WEST SIOUX                 11:00  11:08  
+IMP   WESTERN CHRISTIAN          12:30  12:38  
+IMP   Sioux City East 9th        12:40  12:48  
+IMP   MOC-FLOYD VALLEY            1:00   1:08  
+IMP   SIBLEY-OCHEYEDAN            1:10   1:18  
+IMP   WEST LYON                   1:20   1:28  
+IMP   BOYDEN-HULL                 1:30   1:38  
+IMP   LE MARS 9TH                 1:40   1:48  
+IMP   CENTRAL LYON                1:50   1:58  
+IMP   ROCK VALLEY 9TH             2:10   2:18  
+IMP   WEST LYON                   2:20   2:28  
+IMP   SIBLEY-OCHEYEDAN            2:30   2:38  
+IMP   BOYDEN-HULL                 2:40   2:48  
+IMP   ROCK VALLEY                 2:50   2:58  
+IMP   SIOUX CITY EAST             3:00   3:08  
+IMP   LE MARS COMMUNITY           3:10   3:18  
+IMP   WESTERN CHRISTIAN           3:20   3:28  
+IMP   GEORGE-LITTLE ROCK          3:30   3:38  

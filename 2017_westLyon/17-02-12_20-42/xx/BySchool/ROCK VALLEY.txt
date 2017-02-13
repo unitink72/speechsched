@@ -1,0 +1,25 @@
+Room                         Start  End   Cat  # EntryTitle
+Kerkvliet Center M            8:00   8:05  ST  1 The True Story of the Three Little Pigs 
+Rockhill Center D (Draw acr   8:18   8:23  RN  3 
+Library Center F              8:30   8:38 IMP  1 
+Choir Room Center E           8:48   8:53 SMT  2 Lost In Thy Darkness
+J. Meyer Center I             8:50   8:58  LP  2 Free Fall; Diary of Adam and Eve
+Band Room Center A            9:00   9:08 ACT  3 A Mother's Touch
+Wiltgen Center G              9:31   9:37  PO  3 Mom 
+Kerkvliet Center M            9:33   9:38  ST  2 Don't Let the Pigeon Drive the Bus
+Library Center F              9:40   9:48 IMP  3 
+Wiltgen Center G              9:40   9:46  PO  1 Last Game; Fast Break; Basketball's My Favorite Sport
+Choir Room Center E          10:21  10:26 SMT  3 Taylor the Latte Boy
+Band Room Center A           10:40  10:48 ACT  2 Amanda
+Wiltgen Center G             11:00  11:06  PO  2 To This Day
+A. Johnson Center N          11:05  11:10  ST  3 Interrupting Chicken
+Early Childhood Pod Center   11:10  11:18 ACT  1 Multiple Personality Murder
+Martinson Center H           11:36  11:42  PR  1 The Very Best Reason
+F117 Ripperda Center C       12:00  12:08  PA  1 Impose Your Will
+Rockhill Center D (Draw acr  12:09  12:14  RN  1 
+Winquist Center P             1:30   1:36  PR  2 A Woman's Week at the Gym
+J. Meyer Center I             1:40   1:48  LP  3 Missing Natalie; If I Knew
+Library Center F              1:50   1:58 IMP  2 
+Choir Room Center E           2:05   2:10 SMT  1 Wishing You Were Somehow Here Again
+Rockhill Center D (Draw acr   2:08   2:13  RN  2 
+J. Meyer Center I             2:40   2:48  LP  1 Every 27 Minutes; Red Light

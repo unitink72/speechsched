@@ -1,0 +1,29 @@
+Cat   School   Start  End    EntryTitle
+ EA   583        8:00   8:06  Rebecca's Expository
+ EA   457        8:10   8:16  Bees
+ EA   408        8:20   8:26  FFA
+ EA   483        8:30   8:36  Apollo 13
+ EA   343        8:40   8:46  GMOs
+ EA   295        9:00   9:06  TBA
+ EA   408        9:20   9:26  
+ EA   112        9:30   9:36  
+ EA   469        9:40   9:46  Hunger Across America:  What We Need to do About It
+ EA   295        9:50   9:56  TBA
+ EA   583       10:00  10:06  The Fascinating World of Fasteners
+ EA   343       10:10  10:16  Honeybees
+ EA   457       10:20  10:26  Stop Being Fake
+ EA   295       10:50  10:56  Time After Time
+ EA   343       11:00  11:06  TBD EXP3
+ EA   112       11:10  11:16  
+ EA   583       11:20  11:26  The Lost Satchel
+ EA   457       11:30  11:36  Stressed Out
+ EA   122       11:40  11:46  
+ EA   408       11:50  11:56  Screenprinting 101
+ RV   583        1:10   1:18  Sherlock
+ RV   343        1:20   1:28  Fantastic Beasts and Where to Find Them
+ RV   457        1:30   1:38  
+ RV   112        1:40   1:48  
+ RV   295        1:50   1:58  LA LA Land
+ RV   518        2:00   2:08  Merlin
+ RV   408        2:10   2:18  
+ RV   483        2:20   2:28  Field Notes from a Catastrophe

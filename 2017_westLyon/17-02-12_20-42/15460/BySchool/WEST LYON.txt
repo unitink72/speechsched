@@ -1,0 +1,43 @@
+Room                         Start  End   Cat  # EntryTitle
+J105 Metzger Center B         8:00   8:06  EA  1 Honeybees
+Wiltgen Center G              8:00   8:06  PO  2 Pass On
+Weber Center L                8:08   8:13  AD  1 Association of Short Girls Everywhere
+Kerkvliet Center M            8:16   8:21  ST  1 Llama Llama Home with Mama
+F117 Ripperda Center C        8:30   8:38  PA  3 TBD PA3
+A. Johnson Center N           8:40   8:48  RV  3 Rogue One: The Dark (or Light?) Side of the Box Office
+TeGrootenhuis Center J        8:54   9:00  PO  3 Next to Nothing
+Martinson Center H            8:54   9:00  PR  1 Wear Sunscreen
+Winquist Center P             9:03   9:11  SS  1 
+J105 Metzger Center B         9:30   9:36  EA  3 TBD EXP3
+Rockhill Center D (Draw acr   9:32   9:37  RN  2 
+Martinson Center H            9:40   9:46  PR  2 Eleven
+Band Room Center A            9:50   9:58 ACT  2 TBD ACT 2
+Sorensen Center O             9:50   9:58  OO  3 Electoral College
+A. Johnson Center N          10:00  10:08  RV  2 Fantastic Beasts and Where to Find Them
+F117 Ripperda Center C       10:00  10:08  PA  1 Sincere Meditations
+Winquist Center P            10:17  10:25  SS  3 
+Library Center F             10:30  10:38 IMP  1 
+Early Childhood Pod Center   10:40  10:48 ACT  1 The Brothers Grimm Spectaculathon
+J105 Metzger Center B        10:50  10:56  EA  2 GMOs
+J. Meyer Center I            11:00  11:08  LP  1 TBD LP1
+Sorensen Center O            11:10  11:18  OO  2 How to Make a Difference in a Third World Country
+Winquist Center P            11:22  11:30  SS  2 
+Weber Center L               11:43  11:48  AD  2 Procrastination
+Rockhill Center D (Draw acr  12:00  12:05  RN  3 
+Kerkvliet Center M           12:08  12:13  ST  3 Memoirs of a Goldfish
+Choir Room Center E          12:16  12:21 SMT  1 Home
+Early Childhood Pod Center   12:16  12:21 SMT  2 The Devil You Know
+Library Center F             12:30  12:38 IMP  2 
+Weber Center L                1:08   1:13  AD  3 TBD AD3
+Kerkvliet Center M            1:33   1:38  ST  2 Something Good
+Rockhill Center D (Draw acr   1:41   1:46  RN  1 
+Choir Room Center E           1:41   1:46 SMT  3 On the Steps of the Palace
+Sorensen Center O             1:55   2:03  OO  1 Teacher Status
+Early Childhood Pod Center    2:10   2:18  LP  3 Adventure
+J105 Metzger Center B         2:20   2:28  RV  1 Darkest Minds
+Library Center F              2:20   2:28 IMP  3 
+Wiltgen Center G              2:31   2:37  PO  1 Blue Blanket
+F117 Ripperda Center C        2:40   2:48  PA  2 Strength and Dignity
+J. Meyer Center I             2:40   2:48  LP  2 Colors of Death
+TeGrootenhuis Center J        2:51   2:57  PR  3 Three Questions
+Band Room Center A            3:00   3:08 ACT  3 Soliloquies from Hamlet

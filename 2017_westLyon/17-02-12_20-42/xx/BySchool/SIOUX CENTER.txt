@@ -1,0 +1,24 @@
+Room                         Start  End   Cat  # EntryTitle
+Kerkvliet Center M            8:08   8:13  ST  2 Owen
+J. Meyer Center I             8:20   8:28  LP  1 Death
+J105 Metzger Center B         8:30   8:36  EA  1 Apollo 13
+J. Meyer Center I             8:30   8:38  LP  2 Don't Lose Yourself
+Library Center F              9:00   9:08 IMP  1 
+Wiltgen Center G              9:03   9:09  PO  3 Keys/The Plea
+Sorensen Center O             9:40   9:48  OO  2 Fear of the Unknown
+Choir Room Center E           9:41   9:46 SMT  1 The Girl in 14G
+Kerkvliet Center M           10:13  10:18  ST  1 Little Red Hot
+Winquist Center P            10:26  10:34  SS  1 
+Weber Center L               10:47  10:52  AD  2 Book Worms
+Martinson Center H           10:51  10:57  PR  2 Eating Disorders
+Early Childhood Pod Center   12:16  12:21 SMT  2 When a Felon's Not Engaged in His Employment
+Rockhill Center D (Draw acr  12:36  12:41  RN  1 
+Band Room Center A           12:50  12:58 ACT  1 Life Doesn't Wait
+Sorensen Center O             1:45   1:53  OO  1 Hiding the Pain
+Wiltgen Center G              1:46   1:52  PO  2 What Teachers Make/On Girls Lending Pens
+Weber Center L                1:48   1:53  AD  1 Fast Food
+J105 Metzger Center B         2:00   2:08  RV  1 Sharknado
+J105 Metzger Center B         2:20   2:28  RV  2 Field Notes from a Catastrophe
+TeGrootenhuis Center J        2:51   2:57  PR  1 A Good Deed Goes Wrong
+Wiltgen Center G              2:58   3:04  PO  1 Stand back, said the Elephant, I'm Going to Sneeze!
+TeGrootenhuis Center J        3:09   3:15  PR  3 Husband in Charge

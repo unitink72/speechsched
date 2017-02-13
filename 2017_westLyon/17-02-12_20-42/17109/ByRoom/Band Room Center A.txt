@@ -1,0 +1,32 @@
+Cat  School                     Start  End    EntryTitle
+ACT   SIOUX CITY EAST             8:00   8:08  
+ACT   LE MARS 9TH                 8:10   8:18  
+ACT   Sioux City East 9th         8:20   8:28  The Future is so Bright
+ACT   CENTRAL LYON                8:30   8:38  The Plum Colored Sweater
+ACT   SIBLEY-OCHEYEDAN            8:40   8:48  TBA
+ACT   ROCK VALLEY                 8:50   8:58  A Mother's Touch
+ACT   SERGEANT BLUFF-LUTON        9:00   9:08  
+ACT   AKRON-WESTFIELD             9:10   9:18  Breaking Up Texting Style
+ACT   LE MARS COMMUNITY           9:40   9:48  The Serpent's Tale
+ACT   GEORGE-LITTLE ROCK          9:50   9:58  Sarah's Keys
+ACT   CENTRAL LYON               10:00  10:08  I Woke Up In a Dream
+ACT   SIOUX CITY EAST            10:10  10:18  Marilyn Monroe the Last Interview
+ACT   WESTERN CHRISTIAN          10:30  10:38  Driver's Test is a Piece of Cake
+ACT   ROCK VALLEY                10:40  10:48  Amanda
+ACT   BOYDEN-HULL                10:50  10:58  Vacate
+ACT   AKRON-WESTFIELD            12:10  12:18  Beauty Sleep
+ACT   MOC-FLOYD VALLEY           12:20  12:28  
+ACT   WESTERN CHRISTIAN          12:30  12:38  Insanity
+ACT   Sioux City East 9th        12:40  12:48  Skinny Bones 
+ACT   SERGEANT BLUFF-LUTON       12:50  12:58  
+ACT   SIBLEY-OCHEYEDAN            1:00   1:08  Hamlet
+ACT   BOYDEN-HULL                 1:10   1:18  The Trouble with Guys
+ACT   WEST LYON                   1:20   1:28  TBD ACT 2
+ACT   ROCK VALLEY                 1:50   1:58  Multiple Personality Murder
+ACT   LEMARS GEHLEN               2:00   2:08  Charge up Yard Sale Hill
+ACT   LE MARS COMMUNITY           2:10   2:18  The Big Picture
+ACT   AKRON-WESTFIELD 9TH         2:20   2:28  The Problem with Girls
+ACT   MOC-FLOYD VALLEY            2:30   2:38  
+ACT   SERGEANT BLUFF-LUTON        2:40   2:48  
+ACT   GEORGE-LITTLE ROCK          2:50   2:58  Erik's Acting
+ACT   WEST LYON                   3:00   3:08  Soliloquies from Hamlet

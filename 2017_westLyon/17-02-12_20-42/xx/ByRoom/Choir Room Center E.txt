@@ -1,0 +1,36 @@
+Cat  School                     Start  End    EntryTitle
+SMT   WEST SIOUX                  8:00   8:05  The Worst Pies in London
+SMT   WEST LYON                   8:08   8:13  The Devil You Know
+SMT   AKRON-WESTFIELD             8:16   8:21  Empty Chairs and Empty Tables
+SMT   MOC-FLOYD VALLEY 9TH        8:24   8:29  
+SMT   CENTRAL LYON                8:32   8:37  Party Hat
+SMT   WESTERN CHRISTIAN           8:40   8:45  Burn
+SMT   ROCK VALLEY                 8:48   8:53  Lost In Thy Darkness
+SMT   CENTRAL LYON                8:56   9:01  I Know It's Today
+SMT   LE MARS 9TH                 9:04   9:09  
+SMT   LEMARS GEHLEN               9:33   9:38  I Don't Know How to Love Him
+SMT   SIOUX CENTER                9:41   9:46  The Girl in 14G
+SMT   MOC-FLOYD VALLEY            9:57  10:02  
+SMT   GEORGE-LITTLE ROCK         10:05  10:10  
+SMT   ROCK VALLEY                10:21  10:26  Taylor the Latte Boy
+SMT   CENTRAL LYON               10:29  10:34  Still Hurting
+SMT   GEORGE-LITTLE ROCK         10:37  10:42  Erik's Solo Musical Theater
+SMT   BOYDEN-HULL                12:00  12:05  Kindergarten Love Song
+SMT   LE MARS COMMUNITY          12:08  12:13  
+SMT   SIBLEY-OCHEYEDAN           12:16  12:21  TBA
+SMT   SIOUX CITY EAST            12:24  12:29  
+SMT   GEORGE-LITTLE ROCK 9TH     12:32  12:37  Kali's Musical
+SMT   SIBLEY-OCHEYEDAN           12:40  12:45  TBA
+SMT   WEST LYON                  12:48  12:53  On the Steps of the Palace
+SMT   LE MARS COMMUNITY          12:56   1:01  
+SMT   SIOUX CITY EAST             1:04   1:09  
+SMT   WEST LYON                   1:33   1:38  Home
+SMT   LE MARS 9TH                 1:41   1:46  
+SMT   LE MARS COMMUNITY           1:49   1:54  
+SMT   LE MARS 9TH                 1:57   2:02  
+SMT   ROCK VALLEY                 2:05   2:10  Wishing You Were Somehow Here Again
+SMT   SIBLEY-OCHEYEDAN            2:13   2:18  TBA
+SMT   MOC-FLOYD VALLEY            2:21   2:26  
+SMT   MOC-FLOYD VALLEY            2:29   2:34  
+SMT   AKRON-WESTFIELD             2:37   2:42  Dyin Ain't So Bad
+SMT   Sioux City East 9th         2:45   2:50  

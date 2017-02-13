@@ -1,0 +1,32 @@
+Cat   School   Start  End    EntryTitle
+ AD   112        8:00   8:05  
+ AD   483        8:08   8:13  Fast Food
+ AD   518        8:16   8:21  
+ AD   457        8:24   8:29  
+ AD   343        8:32   8:37  Association of Short Girls Everywhere
+ AD   720        8:48   8:53  Dear Younger Brothers . . .
+ AD   408        8:56   9:01  Seniors with Nothing to Lose
+ AD   720        9:23   9:28  Restaurant Employment Made EASY!
+ AD   295        9:31   9:36  TBA
+ AD   603        9:39   9:44  When No One Is Watching
+ AD   122        9:47   9:52  
+ AD   574        9:55  10:00  
+ AD   408       10:03  10:08  
+ AD   343       10:11  10:16  Procrastination
+ AD   583       10:19  10:24  Surviving a Sibling's Wedding
+ AD   178       10:47  10:52  Social Media Addicts Anonymous
+ AD   457       10:55  11:00  
+ AD   343       11:03  11:08  TBD AD3
+ AD   483       11:11  11:16  Book Worms
+ AD   583       11:19  11:24  Rebecca's ADS
+ AD   518       11:27  11:32  
+ AD   295       11:35  11:40  Procrastination Association
+ AD   122       11:43  11:48  
+ AD   603        1:08   1:13  Double Red-Headed Trouble
+ AD   457        1:16   1:21  
+ AD   733        1:24   1:29  
+ AD   583        1:32   1:37  A Small Town Girl Visits the Big Apple
+ AD   518        1:40   1:45  The Trials of Internet Addictions
+ AD   408        1:48   1:53  
+ AD   720        1:56   2:01  Being a Freshman Girl for Dummies
+ AD   295        2:04   2:09  Superfluous Sesquipedalian Society

@@ -1,0 +1,33 @@
+Cat   School   Start  End    EntryTitle
+ PR   483        8:00   8:06  Husband in Charge
+ PR   457        8:09   8:15  Let's Pretend this Never Happened
+ PR   583        8:18   8:24  Seth's Prose
+ PR   603        8:27   8:33  Adventure Dog
+ PR   733        8:36   8:42  
+ PR   690        8:45   8:51  To this Day
+ PR   962        8:54   9:00  TBA
+ PR   408        9:03   9:09  
+ PR   504        9:22   9:28  Without a Phone!
+ PR   599        9:31   9:37  
+ PR   594        9:40   9:46  Lauren's Prose
+ PR   408        9:49   9:55  Al Literation, Private Eye
+ PR   343        9:58  10:04  Eleven
+ PR   469       10:16  10:22  Dear Dad
+ PR   583       10:25  10:31  Candyce's Prose Selection
+ PR   112       11:00  11:06  
+ PR   122       11:09  11:15  
+ PR   178       11:18  11:24  Something I Couldn't See
+ PR   408       11:27  11:33  Alexander and the Terrible, Horrible, No Good, Very Bad Day
+ PR   518       11:36  11:42  The Toothbrush You Just Threw Away...
+ PR   603       11:45  11:51  Cardboard Signs
+ PR   457       11:54  12:00  
+ PR   720        1:10   1:16  Dear Poisoner
+ PR   343        1:19   1:25  Three Questions
+ PR   112        1:28   1:34  
+ PR   295        1:37   1:43  TBA
+ PR   851        1:46   1:52  A Woman's Week at the Gym
+ PR   178        1:55   2:01  This Is What It Feels Like
+ PR   851        2:22   2:28  The Very Best Reason
+ PR   295        2:31   2:37  TBA
+ PR   504        2:49   2:55  The Benchwarmer
+ PR   518        2:58   3:04  One Week at the Gym

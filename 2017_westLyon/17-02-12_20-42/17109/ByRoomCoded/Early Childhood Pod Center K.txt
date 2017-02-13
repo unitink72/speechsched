@@ -1,0 +1,35 @@
+Cat   School   Start  End    EntryTitle
+ACT   178        8:00   8:08  Bald and Beautiful
+ACT   518        8:10   8:18  Sun Dazed
+ACT   483        8:20   8:28  Life Doesn't Wait
+ACT   122        8:30   8:38  
+ACT   295        8:40   8:48  TBA
+ACT   583        8:50   8:58  Men Are Stupid and I Rock!
+ACT   112        9:00   9:08  
+ACT   603        9:20   9:28  Fat Boy vs. the Cheerleaders
+ACT   720        9:30   9:38  TBA
+ACT   122        9:40   9:48  As Seen on TV
+ACT   733        9:50   9:58  
+ACT   457       10:00  10:08  Red Hot Patriot
+ACT   408       10:10  10:18  
+ACT   771       10:20  10:28  Opening Tonight, Mother Goose
+ACT   126       10:40  10:48  For Who the Bell, Like, Tolls 
+ACT   343       10:50  10:58  The Brothers Grimm Spectaculathon
+ACT   583       11:00  11:08  Starr's Acting
+ACT   733       11:10  11:18  
+ACT   690       11:20  11:28  Tribute
+ACT   771       11:30  11:38  Super Sitter
+ACT   603       11:40  11:48  White People
+SMT   295       12:16  12:21  TBA
+SMT   343       12:24  12:29  On the Steps of the Palace
+SMT   504       12:32  12:37  I Know It's Today
+SMT   518       12:40  12:45  Burn
+SMT   112       12:48  12:53  
+SMT   690       12:56   1:01  TBD
+SMT   851        1:04   1:09  Wishing You Were Somehow Here Again
+ LP   112        1:30   1:38  
+ LP   851        1:40   1:48  Every 27 Minutes; Red Light
+ LP   518        1:50   1:58  OCD
+ LP   178        2:00   2:08  What Anxiety Feels Like
+ LP   733        2:10   2:18  
+ LP   408        2:20   2:28  Cinderella

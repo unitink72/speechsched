@@ -1,0 +1,33 @@
+Cat  School                     Start  End    EntryTitle
+LP   LE MARS COMMUNITY           8:00   8:08  Cinderella
+LP   WESTERN CHRISTIAN           8:10   8:18  He Said, She Said
+LP   SIOUX CENTER                8:20   8:28  Death
+LP   SIOUX CENTER                8:30   8:38  Don't Lose Yourself
+LP   MOC-FLOYD VALLEY            8:40   8:48  
+LP   ROCK VALLEY                 8:50   8:58  Free Fall; Diary of Adam and Eve
+LP   SERGEANT BLUFF-LUTON        9:00   9:08  
+LP   SIOUX CITY EAST             9:20   9:28  
+LP   WEST LYON                   9:30   9:38  TBD LP1
+LP   SIOUX CITY EAST             9:40   9:48  
+LP   SIBLEY-OCHEYEDAN            9:50   9:58  TBA
+LP   BOYDEN-HULL                10:00  10:08  Anorexia--A Cultural Battle
+LP   GEORGE-LITTLE ROCK         10:10  10:18  Hamilton
+LP   MOC-FLOYD VALLEY           10:20  10:28  
+LP   LE MARS COMMUNITY          10:40  10:48  
+LP   WEST LYON                  10:50  10:58  Colors of Death
+LP   SIOUX CITY EAST            11:00  11:08  
+LP   WEST SIOUX                 11:10  11:18  Sweet Poison
+LP   AKRON-WESTFIELD            11:20  11:28  Downtrodden
+LP   MOC-FLOYD VALLEY           11:30  11:38  
+LP   WEST SIOUX                 11:40  11:48  Sister Bonding
+LP   GEORGE-LITTLE ROCK          1:00   1:08  Bossy Pants
+LP   WEST LYON                   1:20   1:28  Adventure
+LP   SIBLEY-OCHEYEDAN            1:30   1:38  TBA
+LP   ROCK VALLEY                 1:40   1:48  Missing Natalie; If I Knew
+LP   WESTERN CHRISTIAN           1:50   1:58  Fabulously Fit  . . . or fatigued
+LP   SIBLEY-OCHEYEDAN            2:10   2:18  TBA
+LP   CENTRAL LYON                2:20   2:28  The Glorious Game of Golf
+LP   WESTERN CHRISTIAN           2:30   2:38  True Beauty
+LP   ROCK VALLEY                 2:40   2:48  Every 27 Minutes; Red Light
+LP   WEST SIOUX 9TH              2:50   2:58  Over Time
+LP   SERGEANT BLUFF-LUTON        3:00   3:08  

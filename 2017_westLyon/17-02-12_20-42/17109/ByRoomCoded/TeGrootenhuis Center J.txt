@@ -1,0 +1,37 @@
+Cat   School   Start  End    EntryTitle
+ PO   112        8:00   8:06  
+ PO   178        8:09   8:15  Rape
+ PO   583        8:18   8:24  Dhalten's Poetry Program
+ PO   720        8:27   8:33  Selections on Companionship
+ PO   733        8:36   8:42  
+ PO   603        8:45   8:51  Identity
+ PO   574        8:54   9:00  
+ PO   457        9:03   9:09  
+ PO   518        9:22   9:28  The Man Who Loved Cheese
+ PO   178        9:31   9:37  I'm Not Okay
+ PO   733        9:40   9:46  
+ PO   469        9:49   9:55  What I Learned in Life
+ PO   606        9:58  10:04  untitled
+ PO   295       10:16  10:22  TBA
+ PO   122       10:25  10:31  
+ PR   603       10:51  10:57  Cardboard Signs
+ PR   408       11:00  11:06  Alexander and the Terrible, Horrible, No Good, Very Bad Day
+ PR   720       11:09  11:15  I Hate You, Wallace Pokras
+ PR   112       11:18  11:24  
+ PR   733       11:27  11:33  
+ PR   178       11:36  11:42  Something I Couldn't See
+ PR   690       11:45  11:51  To this Day
+ PR   483       11:54  12:00  Eating Disorders
+ PR   457        1:10   1:16  
+ PR   690        1:19   1:25  Pretty
+ PR   518        1:28   1:34  Let's Get the (Birthday) Party Started
+ PR   603        1:37   1:43  Old Yeller
+ PR   733        1:46   1:52  
+ PR   504        1:55   2:01  Without a Phone!
+ PR   225        2:04   2:10  Lynette's Dating Adventure
+ PR   469        2:13   2:19  Dear Dad
+ PR   690        2:42   2:48  Crickets have arthritis
+ PR   295        2:51   2:57  TBA
+ PR   720        3:00   3:06  Open Letter to My Kids
+ PR   112        3:09   3:15  
+ PR   122        3:18   3:24  

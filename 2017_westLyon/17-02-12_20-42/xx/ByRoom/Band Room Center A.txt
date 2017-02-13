@@ -1,0 +1,32 @@
+Cat  School                     Start  End    EntryTitle
+ACT   GEORGE-LITTLE ROCK          8:00   8:08  Sarah's Keys
+ACT   Sioux City East 9th         8:10   8:18  The Future is so Bright
+ACT   LE MARS 9TH                 8:20   8:28  
+ACT   CENTRAL LYON                8:30   8:38  The Plum Colored Sweater
+ACT   SIOUX CITY EAST             8:40   8:48  Red Hot Patriot
+ACT   SERGEANT BLUFF-LUTON        8:50   8:58  
+ACT   ROCK VALLEY                 9:00   9:08  A Mother's Touch
+ACT   AKRON-WESTFIELD             9:40   9:48  Breaking Up Texting Style
+ACT   SIBLEY-OCHEYEDAN            9:50   9:58  TBA
+ACT   CENTRAL LYON               10:00  10:08  I Woke Up In a Dream
+ACT   SIOUX CITY EAST            10:10  10:18  Marilyn Monroe the Last Interview
+ACT   SIBLEY-OCHEYEDAN           10:20  10:28  TBA
+ACT   WESTERN CHRISTIAN          10:30  10:38  Driver's Test is a Piece of Cake
+ACT   ROCK VALLEY                10:40  10:48  Amanda
+ACT   BOYDEN-HULL                10:50  10:58  Vacate
+ACT   AKRON-WESTFIELD            12:10  12:18  Beauty Sleep
+ACT   MOC-FLOYD VALLEY           12:20  12:28  
+ACT   MOC-FLOYD VALLEY           12:30  12:38  
+ACT   Sioux City East 9th        12:40  12:48  Skinny Bones 
+ACT   SIOUX CENTER               12:50  12:58  Life Doesn't Wait
+ACT   LEMARS GEHLEN               1:00   1:08  Charge up Yard Sale Hill
+ACT   BOYDEN-HULL                 1:10   1:18  The Trouble with Guys
+ACT   WESTERN CHRISTIAN           1:20   1:28  Insanity
+ACT   SERGEANT BLUFF-LUTON        1:50   1:58  
+ACT   LE MARS COMMUNITY           2:00   2:08  The Serpent's Tale
+ACT   LE MARS COMMUNITY           2:10   2:18  The Big Picture
+ACT   SERGEANT BLUFF-LUTON        2:20   2:28  
+ACT   MOC-FLOYD VALLEY            2:30   2:38  
+ACT   LE MARS 9TH                 2:40   2:48  
+ACT   GEORGE-LITTLE ROCK          2:50   2:58  Erik's Acting
+ACT   WEST LYON                   3:00   3:08  Soliloquies from Hamlet

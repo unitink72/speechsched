@@ -1,0 +1,33 @@
+Cat   School   Start  End    EntryTitle
+ACT   457        8:00   8:08  
+ACT   720        8:10   8:18  TBA
+ACT   574        8:20   8:28  The Future is so Bright
+ACT   343        8:30   8:38  Soliloquies from Hamlet
+ACT   603        8:40   8:48  White People
+ACT   583        8:50   8:58  Men Are Stupid and I Rock!
+ACT   122        9:00   9:08  
+ACT   295        9:10   9:18  TBA
+ACT   408        9:40   9:48  
+ACT   690        9:50   9:58  Tribute
+ACT   343       10:00  10:08  The Brothers Grimm Spectaculathon
+ACT   295       10:10  10:18  TBA
+ACT   733       10:20  10:28  
+ACT   518       10:30  10:38  The Trouble with Guys
+ACT   178       10:40  10:48  Bald and Beautiful
+ACT   122       10:50  10:58  
+ACT   733       12:10  12:18  
+ACT   112       12:20  12:28  
+ACT   457       12:30  12:38  Red Hot Patriot
+ACT   603       12:40  12:48  Fat Boy vs. the Cheerleaders
+ACT   408       12:50  12:58  The Big Picture
+ACT   483        1:00   1:08  Life Doesn't Wait
+ACT   851        1:10   1:18  Amanda
+ACT   518        1:20   1:28  Vacate
+ACT   851        1:50   1:58  A Mother's Touch
+ACT   733        2:00   2:08  
+ACT   583        2:10   2:18  Starr's Acting
+ACT   603        2:20   2:28  Breaking Up Texting Style
+ACT   771        2:30   2:38  Super Sitter
+ACT   112        2:40   2:48  
+ACT   574        2:50   2:58  Skinny Bones 
+ACT   343        3:00   3:08  TBD ACT 2

@@ -1,0 +1,30 @@
+Cat  School                     Start  End    EntryTitle
+SS   LE MARS COMMUNITY           8:00   8:08  
+SS   SIBLEY-OCHEYEDAN            8:09   8:17  
+SS   AKRON-WESTFIELD             8:18   8:26  
+SS   MOC-FLOYD VALLEY            8:27   8:35  
+SS   SIOUX CITY EAST             8:45   8:53  
+SS   WESTERN CHRISTIAN           8:54   9:02  
+SS   WEST LYON                   9:03   9:11  
+SS   LE MARS COMMUNITY           9:32   9:40  
+SS   GEORGE-LITTLE ROCK          9:41   9:49  
+SS   WESTERN CHRISTIAN           9:50   9:58  
+SS   SIOUX CENTER                9:59  10:07  
+SS   SIOUX CITY EAST            10:08  10:16  
+SS   WEST LYON                  10:17  10:25  
+SS   MOC-FLOYD VALLEY           10:26  10:34  
+SS   WESTERN CHRISTIAN          11:13  11:21  
+SS   WEST LYON                  11:22  11:30  
+SS   LE MARS COMMUNITY          11:31  11:39  
+SS   AKRON-WESTFIELD            11:40  11:48  
+SS   SIOUX CITY EAST            11:58  12:06  
+SS   MOC-FLOYD VALLEY           12:07  12:15  
+PR   WEST SIOUX 9TH              1:30   1:36  I'll Be Looking For You, Ace
+PR   WESTERN CHRISTIAN           1:39   1:45  Open Letter to My Kids
+PR   MOC-FLOYD VALLEY 9TH        1:48   1:54  
+PR   SERGEANT BLUFF-LUTON        1:57   2:03  
+PR   CENTRAL LYON                2:06   2:12  The Benchwarmer
+PO   AKRON-WESTFIELD             2:25   2:31  Pretty & To This Day
+PO   SIOUX CITY EAST             2:34   2:40  I Am the Me You See...Now
+PO   ROCK VALLEY                 2:43   2:49  Mom 
+PO   WESTERN CHRISTIAN           3:01   3:07  Selections on Companionship

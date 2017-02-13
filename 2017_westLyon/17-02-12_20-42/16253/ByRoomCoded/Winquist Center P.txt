@@ -1,0 +1,30 @@
+Cat   School   Start  End    EntryTitle
+ SS   603        8:00   8:08  
+ SS   720        8:09   8:17  
+ SS   343        8:18   8:26  
+ SS   408        8:27   8:35  
+ SS   583        8:45   8:53  
+ SS   457        8:54   9:02  
+ SS   112        9:03   9:11  
+ SS   603        9:41   9:49  
+ SS   720        9:50   9:58  
+ SS   408       10:08  10:16  
+ SS   457       10:17  10:25  
+ SS   112       10:26  10:34  
+ SS   343       10:35  10:43  
+ SS   112       11:04  11:12  
+ SS   720       11:13  11:21  
+ SS   295       11:22  11:30  
+ SS   457       11:40  11:48  
+ SS   483       11:49  11:57  
+ SS   408       11:58  12:06  
+ SS   343       12:07  12:15  
+ PR   603        1:30   1:36  Cardboard Signs
+ PR   504        1:48   1:54  The Benchwarmer
+ PR   457        1:57   2:03  
+ PR   583        2:06   2:12  Candyce's Prose Selection
+ PO   112        2:25   2:31  
+ PO   457        2:34   2:40  I Am the Me You See...Now
+ PO   504        2:43   2:49  Teens and Tech
+ PO   851        2:52   2:58  To This Day
+ PO   295        3:01   3:07  TBA

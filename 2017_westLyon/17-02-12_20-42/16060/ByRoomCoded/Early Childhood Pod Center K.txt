@@ -1,0 +1,34 @@
+Cat   School   Start  End    EntryTitle
+ACT   408        8:00   8:08  The Serpent's Tale
+ACT   518        8:20   8:28  Sun Dazed
+ACT   126        8:30   8:38  For Who the Bell, Like, Tolls 
+ACT   112        8:40   8:48  
+ACT   583        8:50   8:58  Erik's Acting
+ACT   733        9:00   9:08  
+ACT   733        9:20   9:28  
+ACT   782        9:30   9:38  The Problem with Girls
+ACT   504        9:40   9:48  I Woke Up In a Dream
+ACT   583        9:50   9:58  Sarah's Keys
+ACT   122       10:00  10:08  As Seen on TV
+ACT   720       10:10  10:18  Driver's Test is a Piece of Cake
+ACT   690       10:20  10:28  Charge up Yard Sale Hill
+ACT   720       10:40  10:48  Insanity
+ACT   504       10:50  10:58  The Plum Colored Sweater
+ACT   295       11:00  11:08  Hamlet
+ACT   603       11:10  11:18  Beauty Sleep
+ACT   771       11:20  11:28  Opening Tonight, Mother Goose
+ACT   457       11:30  11:38  Marilyn Monroe the Last Interview
+ACT   851       11:40  11:48  Multiple Personality Murder
+SMT   178       12:16  12:21  The Worst Pies in London
+SMT   583       12:24  12:29  Erik's Solo Musical Theater
+SMT   343       12:32  12:37  The Devil You Know
+SMT   504       12:40  12:45  Still Hurting
+SMT   295       12:48  12:53  TBA
+SMT   851       12:56   1:01  Taylor the Latte Boy
+SMT   122        1:04   1:09  
+ LP   518        1:30   1:38  Memoirs of a Goldfish
+ LP   295        1:40   1:48  TBA
+ LP   851        1:50   1:58  Free Fall; Diary of Adam and Eve
+ LP   733        2:00   2:08  
+ LP   112        2:10   2:18  
+ LP   720        2:20   2:28  Fabulously Fit  . . . or fatigued

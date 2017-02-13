@@ -1,0 +1,11 @@
+Room                         Start  End   Cat  # EntryTitle
+Library Center F              8:10   8:18 IMP  1 
+Early Childhood Pod Center    8:20   8:28 ACT  1 The Future is so Bright
+TeGrootenhuis Center J        8:36   8:42  PO  1 
+Weber Center L                9:55  10:00  AD  1 
+Early Childhood Pod Center   11:20  11:28 ACT  2 Skinny Bones 
+Kerkvliet Center M           12:16  12:21  ST  2 Corduroy
+Early Childhood Pod Center   12:56   1:01 SMT  1 
+Library Center F              1:10   1:18 IMP  2 
+Kerkvliet Center M            1:57   2:02  ST  1 Tortise and the Hare Race Again
+Winquist Center P             2:34   2:40  PO  2 

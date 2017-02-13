@@ -1,0 +1,32 @@
+Room                         Start  End   Cat  # EntryTitle
+Choir Room Center E           8:00   8:05 SMT  3 
+Weber Center L                8:00   8:05  AD  1 
+Winquist Center P             8:09   8:17  SS  2 
+Wiltgen Center G              8:18   8:24  PO  1 
+Early Childhood Pod Center    8:40   8:48 ACT  3 
+F117 Ripperda Center C        8:40   8:48  PA  1 
+J105 Metzger Center B         9:00   9:06  EA  2 
+Winquist Center P             9:41   9:49  SS  3 
+J105 Metzger Center B         9:50   9:56  EA  1 
+Martinson Center H            9:58  10:04  PR  1 
+Kerkvliet Center M           10:05  10:10  ST  2 
+F117 Ripperda Center C       10:20  10:28  PA  3 
+J. Meyer Center I            10:20  10:28  LP  1 
+Sorensen Center O            10:20  10:28  OO  2 
+Choir Room Center E          10:37  10:42 SMT  1 
+A. Johnson Center N          10:49  10:54  ST  1 
+Wiltgen Center G             11:00  11:06  PO  3 
+Winquist Center P            12:07  12:15  SS  1 
+Band Room Center A           12:20  12:28 ACT  2 
+Choir Room Center E          12:48  12:53 SMT  2 
+A. Johnson Center N          12:54  12:59  ST  3 
+Library Center F              1:00   1:08 IMP  1 
+TeGrootenhuis Center J        1:10   1:16  PR  2 
+J105 Metzger Center B         1:20   1:28  RV  1 
+Winquist Center P             1:48   1:54  PR  3 
+F117 Ripperda Center C        2:10   2:18  PA  2 
+J. Meyer Center I             2:10   2:18  LP  3 
+Early Childhood Pod Center    2:10   2:18  LP  2 
+Winquist Center P             2:25   2:31  PO  2 
+Band Room Center A            2:40   2:48 ACT  1 
+Sorensen Center O             2:55   3:03  OO  1 

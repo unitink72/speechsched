@@ -1,0 +1,33 @@
+Cat   School   Start  End    EntryTitle
+ LP   457        8:00   8:08  
+ LP   408        8:10   8:18  
+ LP   178        8:20   8:28  Sweet Poison
+ LP   295        8:30   8:38  TBA
+ LP   583        8:40   8:48  Bossy Pants
+ LP   733        8:50   8:58  
+ LP   720        9:00   9:08  He Said, She Said
+ LP   112        9:20   9:28  
+ LP   343        9:30   9:38  TBD LP1
+ LP   720        9:40   9:48  Fabulously Fit  . . . or fatigued
+ LP   295        9:50   9:58  TBA
+ LP   583       10:00  10:08  Hamilton
+ LP   483       10:10  10:18  Don't Lose Yourself
+ LP   851       10:20  10:28  Free Fall; Diary of Adam and Eve
+ LP   583       10:40  10:48  Megan's Literary Program
+ LP   518       10:50  10:58  Anorexia--A Cultural Battle
+ LP   603       11:00  11:08  Downtrodden
+ LP   457       11:10  11:18  
+ LP   733       11:20  11:28  
+ LP   469       11:30  11:38  Over Time
+ LP   851       11:40  11:48  Every 27 Minutes; Red Light
+ LP   851        1:00   1:08  Missing Natalie; If I Knew
+ LP   295        1:10   1:18  TBA
+ LP   408        1:20   1:28  
+ LP   343        1:30   1:38  Colors of Death
+ LP   504        1:40   1:48  The Glorious Game of Golf
+ LP   112        1:50   1:58  
+ LP   518        2:20   2:28  Memoirs of a Goldfish
+ LP   733        2:30   2:38  
+ LP   408        2:40   2:48  Cinderella
+ LP   112        2:50   2:58  
+ LP   178        3:00   3:08  What Anxiety Feels Like

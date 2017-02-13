@@ -1,0 +1,32 @@
+Cat   School   Start  End    EntryTitle
+ACT   178        8:00   8:08  Bald and Beautiful
+ACT   518        8:10   8:18  The Trouble with Guys
+ACT   122        8:20   8:28  
+ACT   733        8:30   8:38  
+ACT   583        8:40   8:48  Sarah's Keys
+ACT   408        9:00   9:08  
+ACT   112        9:10   9:18  
+ACT   690        9:40   9:48  Tribute
+ACT   343        9:50   9:58  TBD ACT 2
+ACT   408       10:00  10:08  The Big Picture
+ACT   112       10:10  10:18  
+ACT   518       10:20  10:28  Sun Dazed
+ACT   720       10:30  10:38  TBA
+ACT   733       10:40  10:48  
+ACT   603       10:50  10:58  Fat Boy vs. the Cheerleaders
+ACT   771       12:10  12:18  Super Sitter
+ACT   295       12:20  12:28  TBA
+ACT   583       12:30  12:38  Men Are Stupid and I Rock!
+ACT   603       12:40  12:48  White People
+ACT   733       12:50  12:58  
+ACT   851        1:00   1:08  Multiple Personality Murder
+ACT   457        1:10   1:18  Red Hot Patriot
+ACT   504        1:20   1:28  The Plum Colored Sweater
+ACT   720        1:50   1:58  Insanity
+ACT   457        2:00   2:08  Marilyn Monroe the Last Interview
+ACT   483        2:10   2:18  Life Doesn't Wait
+ACT   851        2:20   2:28  A Mother's Touch
+ACT   295        2:30   2:38  Hamlet
+ACT   771        2:40   2:48  Opening Tonight, Mother Goose
+ACT   126        2:50   2:58  For Who the Bell, Like, Tolls 
+ACT   343        3:00   3:08  Soliloquies from Hamlet

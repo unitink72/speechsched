@@ -1,0 +1,36 @@
+Cat  School                     Start  End    EntryTitle
+SMT   LE MARS COMMUNITY           8:00   8:05  
+SMT   AKRON-WESTFIELD             8:08   8:13  Empty Chairs and Empty Tables
+SMT   CENTRAL LYON 9TH            8:16   8:21  Happily Ever After
+SMT   WESTERN CHRISTIAN           8:24   8:29  Burn
+SMT   SIOUX CENTER                8:32   8:37  The Girl in 14G
+SMT   ROCK VALLEY                 8:40   8:45  Wishing You Were Somehow Here Again
+SMT   LE MARS COMMUNITY           8:56   9:01  
+SMT   SIOUX CITY EAST             9:04   9:09  
+SMT   SIOUX CENTER                9:33   9:38  When a Felon's Not Engaged in His Employment
+SMT   SIOUX CITY EAST             9:41   9:46  
+SMT   LE MARS 9TH                 9:49   9:54  
+SMT   LE MARS COMMUNITY           9:57  10:02  
+SMT   MOC-FLOYD VALLEY 9TH       10:05  10:10  
+SMT   GEORGE-LITTLE ROCK         10:13  10:18  Erik's Solo Musical Theater
+SMT   SIOUX CITY EAST            10:21  10:26  
+SMT   LEMARS GEHLEN              10:29  10:34  TBD
+SMT   ROCK VALLEY                10:37  10:42  Taylor the Latte Boy
+SMT   MOC-FLOYD VALLEY           12:00  12:05  
+SMT   WEST LYON                  12:08  12:13  On the Steps of the Palace
+SMT   LEMARS GEHLEN              12:24  12:29  I Don't Know How to Love Him
+SMT   CENTRAL LYON               12:32  12:37  I Know It's Today
+SMT   SIBLEY-OCHEYEDAN           12:40  12:45  TBA
+SMT   AKRON-WESTFIELD            12:48  12:53  Dyin Ain't So Bad
+SMT   BOYDEN-HULL                12:56   1:01  Kindergarten Love Song
+SMT   GEORGE-LITTLE ROCK 9TH      1:04   1:09  Kali's Musical
+SMT   SERGEANT BLUFF-LUTON        1:33   1:38  
+SMT   MOC-FLOYD VALLEY            1:41   1:46  
+SMT   GEORGE-LITTLE ROCK          1:49   1:54  
+SMT   CENTRAL LYON                1:57   2:02  Still Hurting
+SMT   BOYDEN-HULL                 2:05   2:10  Burn
+SMT   SIBLEY-OCHEYEDAN 9TH        2:13   2:18  TBA
+SMT   LE MARS 9TH                 2:21   2:26  
+SMT   WEST LYON                   2:29   2:34  The Devil You Know
+SMT   WEST SIOUX                  2:37   2:42  The Worst Pies in London
+SMT   SIBLEY-OCHEYEDAN            2:45   2:50  TBA

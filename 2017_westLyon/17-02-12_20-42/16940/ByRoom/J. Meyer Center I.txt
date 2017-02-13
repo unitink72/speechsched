@@ -1,0 +1,33 @@
+Cat  School                     Start  End    EntryTitle
+LP   SIOUX CITY EAST             8:00   8:08  
+LP   LE MARS COMMUNITY           8:10   8:18  
+LP   WEST SIOUX                  8:20   8:28  Sweet Poison
+LP   SIBLEY-OCHEYEDAN            8:30   8:38  TBA
+LP   GEORGE-LITTLE ROCK          8:40   8:48  Bossy Pants
+LP   SERGEANT BLUFF-LUTON        8:50   8:58  
+LP   WESTERN CHRISTIAN           9:00   9:08  He Said, She Said
+LP   MOC-FLOYD VALLEY            9:20   9:28  
+LP   WEST LYON                   9:30   9:38  TBD LP1
+LP   WESTERN CHRISTIAN           9:40   9:48  Fabulously Fit  . . . or fatigued
+LP   SIBLEY-OCHEYEDAN            9:50   9:58  TBA
+LP   GEORGE-LITTLE ROCK         10:00  10:08  Hamilton
+LP   SIOUX CENTER               10:10  10:18  Don't Lose Yourself
+LP   ROCK VALLEY                10:20  10:28  Free Fall; Diary of Adam and Eve
+LP   GEORGE-LITTLE ROCK         10:40  10:48  Megan's Literary Program
+LP   BOYDEN-HULL                10:50  10:58  Anorexia--A Cultural Battle
+LP   AKRON-WESTFIELD            11:00  11:08  Downtrodden
+LP   SIOUX CITY EAST            11:10  11:18  
+LP   SERGEANT BLUFF-LUTON       11:20  11:28  
+LP   WEST SIOUX 9TH             11:30  11:38  Over Time
+LP   ROCK VALLEY                11:40  11:48  Every 27 Minutes; Red Light
+LP   ROCK VALLEY                 1:00   1:08  Missing Natalie; If I Knew
+LP   SIBLEY-OCHEYEDAN            1:10   1:18  TBA
+LP   LE MARS COMMUNITY           1:20   1:28  
+LP   WEST LYON                   1:30   1:38  Colors of Death
+LP   CENTRAL LYON                1:40   1:48  The Glorious Game of Golf
+LP   MOC-FLOYD VALLEY            1:50   1:58  
+LP   BOYDEN-HULL                 2:20   2:28  Memoirs of a Goldfish
+LP   SERGEANT BLUFF-LUTON        2:30   2:38  
+LP   LE MARS COMMUNITY           2:40   2:48  Cinderella
+LP   MOC-FLOYD VALLEY            2:50   2:58  
+LP   WEST SIOUX                  3:00   3:08  What Anxiety Feels Like

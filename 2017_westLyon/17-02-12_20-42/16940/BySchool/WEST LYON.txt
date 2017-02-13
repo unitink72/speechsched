@@ -1,0 +1,43 @@
+Room                         Start  End   Cat  # EntryTitle
+Winquist Center P             8:09   8:17  SS  1 
+A. Johnson Center N           8:20   8:28  RV  3 Rogue One: The Dark (or Light?) Side of the Box Office
+Weber Center L                8:32   8:37  AD  1 Association of Short Girls Everywhere
+Library Center F              8:40   8:48 IMP  1 
+J105 Metzger Center B         8:50   8:56  EA  1 Honeybees
+Rockhill Center D (Draw acr   9:03   9:08  RN  2 
+Wiltgen Center G              9:22   9:28  PO  2 Pass On
+A. Johnson Center N           9:30   9:38  RV  1 Darkest Minds
+J. Meyer Center I             9:30   9:38  LP  1 TBD LP1
+Sorensen Center O             9:30   9:38  OO  1 Teacher Status
+J105 Metzger Center B         9:40   9:46  EA  3 TBD EXP3
+Martinson Center H            9:58  10:04  PR  2 Eleven
+Kerkvliet Center M           10:05  10:10  ST  3 Memoirs of a Goldfish
+Weber Center L               10:11  10:16  AD  2 Procrastination
+Winquist Center P            10:17  10:25  SS  3 
+A. Johnson Center N          10:33  10:38  ST  2 Something Good
+Band Room Center A           10:40  10:48 ACT  3 Soliloquies from Hamlet
+F117 Ripperda Center C       10:40  10:48  PA  3 TBD PA3
+Library Center F             10:40  10:48 IMP  3 
+Wiltgen Center G             10:51  10:57  PO  3 Next to Nothing
+Weber Center L               11:03  11:08  AD  3 TBD AD3
+Sorensen Center O            11:10  11:18  OO  3 Electoral College
+Winquist Center P            11:22  11:30  SS  2 
+Early Childhood Pod Center   11:40  11:48 ACT  1 The Brothers Grimm Spectaculathon
+J105 Metzger Center B        11:50  11:56  EA  2 GMOs
+Choir Room Center E          12:08  12:13 SMT  3 On the Steps of the Palace
+Band Room Center A           12:20  12:28 ACT  2 TBD ACT 2
+Library Center F             12:30  12:38 IMP  2 
+Early Childhood Pod Center   12:40  12:45 SMT  1 Home
+Rockhill Center D (Draw acr  12:45  12:50  RN  1 
+F117 Ripperda Center C        1:00   1:08  PA  2 Strength and Dignity
+Martinson Center H            1:19   1:25  PR  3 Three Questions
+J105 Metzger Center B         1:30   1:38  RV  2 Fantastic Beasts and Where to Find Them
+J. Meyer Center I             1:30   1:38  LP  2 Colors of Death
+Rockhill Center D (Draw acr   1:41   1:46  RN  3 
+Winquist Center P             1:48   1:54  PR  1 Wear Sunscreen
+Sorensen Center O             1:55   2:03  OO  2 How to Make a Difference in a Third World Country
+F117 Ripperda Center C        2:10   2:18  PA  1 Sincere Meditations
+Early Childhood Pod Center    2:10   2:18  LP  3 Adventure
+Kerkvliet Center M            2:21   2:26  ST  1 Llama Llama Home with Mama
+Choir Room Center E           2:29   2:34 SMT  2 The Devil You Know
+Wiltgen Center G              2:58   3:04  PO  1 Blue Blanket
