@@ -7,10 +7,10 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 6716,664,KNOXVILLE,PO,3,TBA,X,,,Cidney DeWitt
 6716,664,KNOXVILLE,PR,1,TBA,X,,,Brooke Willardson
 6716,664,KNOXVILLE,PR,2,Gone With the Wind,X,,,Tierney Heffron
-6716,664,KNOXVILLE,OO,1,Love is Love,X,,,Alaina Gerdes 
+6716,664,KNOXVILLE,OO,1,Love is Love,X,,,Alaina Gerdes
 6716,664,KNOXVILLE,SS,1,,X,,,Asa Leonard
 6716,664,KNOXVILLE,SS,2,,X,,,Nyan Baker
-6716,664,KNOXVILLE,SS,3,,X,,,Tierney Heffron 
+6716,664,KNOXVILLE,SS,3,,X,,,Tierney Heffron
 6716,664,KNOXVILLE,AD,1,Support Group,X,,,Quinlin Robuck
 6780,704,MARSHALLTOWN,PA,1,Women's Suffrage,X,,,Emily Miller
 6780,704,MARSHALLTOWN,PA,2,Women's March 2017,X,,,Isabel Parades
@@ -43,6 +43,7 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 6793,613,GMG 9TH,PR,2,I Used to Think,X,,,Reahna Van Rees
 6793,613,GMG 9TH,PR,3,What Mother Doesn't Know Won't Hurt Me,X,,,Tabitha Kauten
 6793,613,GMG 9TH,OO,1,Fitting In At High School,X,,,Jackson Edens
+6793,613,GMG 9TH,OO,2,The Media Influence,X,,,Christian Deam
 6793,613,GMG 9TH,SS,1,,X,,,Christian Deam
 6793,613,GMG 9TH,SS,2,,X,,,Hallie Claussen
 6793,613,GMG 9TH,SS,3,,X,,,Jevan Stokely
@@ -55,7 +56,7 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 6794,612,GMG,ACT,2,Junie B. Jones Sneaky Peaky,X,,,Kyla Krier
 6794,612,GMG,ACT,3,Girls,X,,,Spencer Tweedy
 6794,612,GMG,ACT,4,"Mom,  Got A Date",X,,,Connor Casto
-6794,612,GMG,PO,1,Black Speck,X,,,Parker Welton 
+6794,612,GMG,PO,1,Black Speck,X,,,Parker Welton
 6794,612,GMG,PO,2,The Sneeches,X,,,Haley Stahl
 6794,612,GMG,PO,3,What Was I Scared Of?,X,,,Jasmine Deal
 6794,612,GMG,PR,1,The Toilet Police,X,,,Connor Casto
@@ -111,38 +112,38 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 6821,1030,Baxter High School,PO,1,Things Fall Apart,X,,,Emma Vander heiden
 6821,1030,Baxter High School,PO,2,Influences of Nature,X,,,Paige Wolff
 6821,1030,Baxter High School,PO,3,Fatherhood,X,,,Faithyna Leanord
-6821,1030,Baxter High School,PR,1,A Haunted House ,X,,,Elena Alvarado
+6821,1030,Baxter High School,PR,1,A Haunted House,X,,,Elena Alvarado
 6821,1030,Baxter High School,PR,2,The Cask Of Amontillado,X,,,Christian Brandt
 6821,1030,Baxter High School,SS,1,,X,,,Faithyna Leanord
 6821,1030,Baxter High School,AD,1,Ding,X,,,Hailey Pierce
 6855,516,COLFAX-MINGO,SMT,1,Audition (The Fools Who Dream),X,,,Willa Colville
-6855,516,COLFAX-MINGO,SMT,2,Home ,X,,,Audra Campbell
-6855,516,COLFAX-MINGO,SMT,3,Part of That ,X,,,Jazmine Cooper 
-6855,516,COLFAX-MINGO,ACT,1,A Walk in the Woods,X,,,Cameron Warner 
-6855,516,COLFAX-MINGO,ACT,2,Wishin' and Hopin' ,X,,,Jasmine Riley 
-6855,516,COLFAX-MINGO,ACT,3,Don't Let the Pigeon Drive the Bus,X,,,Ilia Hostetter 
-6855,516,COLFAX-MINGO,PO,1,Deep and Wide ,X,,,Odessa Cross 
-6855,516,COLFAX-MINGO,PO,2,A collection ,X,,,Dakota Hostetter 
+6855,516,COLFAX-MINGO,SMT,2,Home,X,,,Audra Campbell
+6855,516,COLFAX-MINGO,SMT,3,Part of That,X,,,Jazmine Cooper
+6855,516,COLFAX-MINGO,ACT,1,A Walk in the Woods,X,,,Cameron Warner
+6855,516,COLFAX-MINGO,ACT,2,Wishin' and Hopin',X,,,Jasmine Riley
+6855,516,COLFAX-MINGO,ACT,3,Don't Let the Pigeon Drive the Bus,X,,,Ilia Hostetter
+6855,516,COLFAX-MINGO,PO,1,Deep and Wide,X,,,Odessa Cross
+6855,516,COLFAX-MINGO,PO,2,A collection,X,,,Dakota Hostetter
 6855,516,COLFAX-MINGO,PO,3,"Beauty, from Milk and Honey ",X,,,Meredith Mayes
-6855,516,COLFAX-MINGO,PR,1,Cyclone Softball ,X,,,Amy Russell
-6855,516,COLFAX-MINGO,PR,2,Lost Childhood ,X,,,Caitlyn Hefley 
-6855,516,COLFAX-MINGO,PR,3,Prison of the Mind ,X,,,Ries WIlson
-6855,516,COLFAX-MINGO,LP,1,Lost Innocence,X,,,Caitlyn Hefley 
-6855,516,COLFAX-MINGO,LP,2,The Life of a Chicken ,X,,,Courtney Burdess
-6855,516,COLFAX-MINGO,LP,3,How Language Shapes Us,X,,,Delaney Underwood 
-6855,516,COLFAX-MINGO,OO,1,Space Exploration ,X,,,Jasmine Riley 
-6855,516,COLFAX-MINGO,OO,2,Colbee OO,X,,,Colbee Cunningham 
-6855,516,COLFAX-MINGO,SS,1,,X,,,Jacob Frier 
-6855,516,COLFAX-MINGO,RN,1,,X,,,KC Huffman 
+6855,516,COLFAX-MINGO,PR,1,Cyclone Softball,X,,,Amy Russell
+6855,516,COLFAX-MINGO,PR,2,Lost Childhood,X,,,Caitlyn Hefley
+6855,516,COLFAX-MINGO,PR,3,Prison of the Mind,X,,,Ries WIlson
+6855,516,COLFAX-MINGO,LP,1,Lost Innocence,X,,,Caitlyn Hefley
+6855,516,COLFAX-MINGO,LP,2,The Life of a Chicken,X,,,Courtney Burdess
+6855,516,COLFAX-MINGO,LP,3,How Language Shapes Us,X,,,Delaney Underwood
+6855,516,COLFAX-MINGO,OO,1,Space Exploration,X,,,Jasmine Riley
+6855,516,COLFAX-MINGO,OO,2,Colbee OO,X,,,Colbee Cunningham
+6855,516,COLFAX-MINGO,SS,1,,X,,,Jacob Frier
+6855,516,COLFAX-MINGO,RN,1,,X,,,KC Huffman
 6855,516,COLFAX-MINGO,EA,1,Being a Catcher,X,,,Chelsea Russell
-6855,516,COLFAX-MINGO,ST,1,The Recess Queen,X,,,Annalee Workman 
-6855,516,COLFAX-MINGO,ST,2,The Emperor's New Clothes ,X,,,Ethan Summy 
-6855,516,COLFAX-MINGO,ST,3,Today I Feel Silly,X,,,Camilla Schlosser 
+6855,516,COLFAX-MINGO,ST,1,The Recess Queen,X,,,Annalee Workman
+6855,516,COLFAX-MINGO,ST,2,The Emperor's New Clothes,X,,,Ethan Summy
+6855,516,COLFAX-MINGO,ST,3,Today I Feel Silly,X,,,Camilla Schlosser
 6855,516,COLFAX-MINGO,AD,1,A Farmer's Almanac,X,,,Camilla Schlosser
-6855,516,COLFAX-MINGO,IMP,1,,X,,,Reese Arndt 
-6855,516,COLFAX-MINGO,RV,1,The Des Moines Symphony ,X,,,Misha Seebeck
-6855,516,COLFAX-MINGO,RV,2,A Review ,X,,,Jazmine Cooper 
-6858,517,COLFAX-MINGO 9TH,PA,1,Want to be happy? Be grateful. ,X,,,Morgan Edwards
+6855,516,COLFAX-MINGO,IMP,1,,X,,,Reese Arndt
+6855,516,COLFAX-MINGO,RV,1,The Des Moines Symphony,X,,,Misha Seebeck
+6855,516,COLFAX-MINGO,RV,2,A Review,X,,,Jazmine Cooper
+6858,517,COLFAX-MINGO 9TH,PA,1,Want to be happy? Be grateful.,X,,,Morgan Edwards
 6858,517,COLFAX-MINGO 9TH,SMT,1,Bring Him Home,X,,,Emmy Bosworth
 6858,517,COLFAX-MINGO 9TH,SMT,2,There are Worse Things I Could Do,X,,,Abby McConeghey
 6858,517,COLFAX-MINGO 9TH,PO,1,The Woes of Womanhood,X,,,Kendall Earles
@@ -195,40 +196,40 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 6902,619,GRINNELL 9TH,ST,1,You Are Special,X,,,Theresa Crawford
 6921,757,NORTH TAMA,PA,1,"Success, Failure and the Drive to Keep Creating",X,,,Olivia Jones
 6921,757,NORTH TAMA,OO,1,Scleroderma,X,,,Danielle Steinwendt
-6921,757,NORTH TAMA,OO,2,The Benefits of the Food Bank,X,,,Adel Scherrer
+6921,757,NORTH TAMA,OO,2,The Benefits of the Food Bank,X,1300,1600,Adel Scherrer
 6921,757,NORTH TAMA,OO,3,NaNoWriMo,X,,,Holly Rigel
 6921,757,NORTH TAMA,EA,1,How to CosPlay,X,,,Holly Rigel
 6921,757,NORTH TAMA,EA,2,How to Play the Viola,X,,,Mallory Welsch
-6921,757,NORTH TAMA,ST,1,A Cinderella Story,X,,,Emma Scherrer
-6921,757,NORTH TAMA,AD,1,Welcome to the National Inquirer ,X,,,Claire Schafer
+6921,757,NORTH TAMA,ST,1,A Cinderella Story,X,1400,1600,Emma Scherrer
+6921,757,NORTH TAMA,AD,1,Welcome to the National Inquirer,X,,,Claire Schafer
 6921,757,NORTH TAMA,AD,2,How to Be Sarcastic Without Even Trying,X,,,Olivia Jones
-6925,741,NEWTON,SMT,1,If I Can't Love Her ,X,,,Joe Malsom
-6925,741,NEWTON,SMT,2,You Can't Get a Man with a Gun,X,,,Alayna Reynolds
-6925,741,NEWTON,SMT,3,Creation of Man,X,,,Reese Rosenquist
+6925,741,NEWTON,SMT,1,If I Can't Love Her,X,,,Joe Malsom
+6925,741,NEWTON,SMT,2,You Can't Get a Man with a Gun,X,1200,1600,Alayna Reynolds
+6925,741,NEWTON,SMT,3,Creation of Man,X,1200,1600,Reese Rosenquist
 6925,741,NEWTON,PO,1,Fairytales and Lessons Learned,X,,,Alia Smith
 6925,741,NEWTON,PO,2,Barnes,X,,,Kaitlyn Barnes
-6925,741,NEWTON,PO,3,The Tie that Binds,X,,,Miranda Ervin
+6925,741,NEWTON,PO,3,The Tie that Binds,X,1000,1600,Miranda Ervin
 6925,741,NEWTON,PR,1,Trouble Sleeping,X,,,Casidy Stanton
 6925,741,NEWTON,PR,2,Two-wheeled ATV,X,,,Ethan Short
 6925,741,NEWTON,PR,3,Strong Enough for Both of Us,X,,,Faith Harlow
-6925,741,NEWTON,LP,1,The Power of the People,X,,,Taylor Carpenter
+6925,741,NEWTON,LP,1,The Power of the People,,,,Taylor Carpenter
 6925,741,NEWTON,LP,2,Dare I Hope,X,,,Haley Rinehart
 6925,741,NEWTON,LP,3,Fate,X,,,Brenton Reffett
 6925,741,NEWTON,SS,1,,X,,,Lienne Pak
 6925,741,NEWTON,SS,2,,X,,,Zoya Urbanowicz
 6925,741,NEWTON,RN,1,,X,,,Zoya Urbanowicz
 6925,741,NEWTON,RN,2,,X,,,Landon Criswell
-6925,741,NEWTON,RN,3,,X,,,Joe Malsom
+6925,741,NEWTON,RN,3,,X,1200,1600,Joe Malsom
 6925,741,NEWTON,EA,1,History of the space program,X,,,Lane Rose
 6925,741,NEWTON,EA,2,Miller,X,,,Reid Miller
-6925,741,NEWTON,EA,3,A Proper Poetry Performance Presentation,X,,,Miranda Ervin
+6925,741,NEWTON,EA,3,A Proper Poetry Performance Presentation,X,1000,1600,Miranda Ervin
 6925,741,NEWTON,ST,1,Tacky the Penguin,X,,,Isaac Friedman
 6925,741,NEWTON,ST,2,What are you doing New Year's Eve?,X,,,Bauston Van Sickle
 6925,741,NEWTON,ST,3,More Parts,X,,,Sadie Steinbach
-6925,741,NEWTON,IMP,1,,X,,,Damon Ross
+6925,741,NEWTON,IMP,1,,,,,Damon Ross
 6925,741,NEWTON,IMP,2,,X,,,Mitch Faidley
 6928,713,MELCHER-DALLAS,SMT,1,What's This?,X,,,Hunter Bonnett
-6928,713,MELCHER-DALLAS,SMT,2,The Wizard and I ,X,,,Madelyn Mann
+6928,713,MELCHER-DALLAS,SMT,2,The Wizard and I,X,,,Madelyn Mann
 6928,713,MELCHER-DALLAS,ACT,1,Unsure,X,,,Madelyn Mann
 6928,713,MELCHER-DALLAS,ACT,2,March in Line,X,,,Sarah Hyatt
 6928,713,MELCHER-DALLAS,PO,1,Ragged Old Flag,X,,,Cameron Davis
@@ -268,7 +269,7 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 7031,780,PELLA CHRISTIAN,SMT,2,Wick - The Secret Garden,X,,,Jimmy Beyer
 7031,780,PELLA CHRISTIAN,SMT,3,I Believe - Book of Mormon,X,,,Tyler Egesdal
 7031,780,PELLA CHRISTIAN,PO,1,Infirmary,X,,,Jalayna Morgan
-7031,780,PELLA CHRISTIAN,PO,2,Change Consumes Me ,X,,,Patrick Strang
+7031,780,PELLA CHRISTIAN,PO,2,Change Consumes Me,X,,,Patrick Strang
 7031,780,PELLA CHRISTIAN,PO,3,Never Forget,X,,,Ryan Van Gilst
 7031,780,PELLA CHRISTIAN,PR,1,Tell Tale Heart,X,,,Bethany Wilson
 7031,780,PELLA CHRISTIAN,PR,2,Two Rooms,X,,,Ryan Van Gilst
@@ -314,6 +315,8 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 7079,959,MESKWAKI SETTLEMENT,PA,1,Ain't I a Woman,X,,,Rosie YoungBear
 7079,959,MESKWAKI SETTLEMENT,PO,1,I Wish I Could Tell a Lie,X,,,Tanner Garcia
 7079,959,MESKWAKI SETTLEMENT,PO,2,Is There Really a Human Race?,X,,,Tylen Garcia
+7079,959,MESKWAKI SETTLEMENT,PR,1,Sweetheart,X,,,Danielle Seymour
+7079,959,MESKWAKI SETTLEMENT,PR,2,The Day I Got Kicked Out of Home Ec,X,,,Marley Whitefish
 7079,959,MESKWAKI SETTLEMENT,LP,1,Connections,X,,,Michelle Davenport
 7079,959,MESKWAKI SETTLEMENT,LP,2,Loved Ones Seperated,X,,,Rosie YoungBear
 7079,959,MESKWAKI SETTLEMENT,EA,1,Mental Health Awareness,X,,,Marybelle Armajo
@@ -352,7 +355,7 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 7107,781,PELLA COMMUNITY,EA,1,Plastic Surgery,X,,,Ava Rowe
 7107,781,PELLA COMMUNITY,EA,2,Democracy,X,,,Zion Miller
 7107,781,PELLA COMMUNITY,ST,1,Pout Pout Fish,X,,,Kaylee Butler
-7107,781,PELLA COMMUNITY,ST,2,Leave Me Alone! ,X,,,Lauren Ashworth
+7107,781,PELLA COMMUNITY,ST,2,Leave Me Alone!,X,,,Lauren Ashworth
 7107,781,PELLA COMMUNITY,ST,3,Those Darn Squirrels,X,,,Ryan Van Maanan
 7107,781,PELLA COMMUNITY,AD,1,Rowe After Dinner,X,,,Ava Rowe
 7107,781,PELLA COMMUNITY,AD,2,Pastor's Kid,X,,,Grace Larson
@@ -405,3 +408,21 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 7155,687,LYNNVILLE-SULLY,ST,1,Princess Boots,X,,,Maddeline Mintle
 7155,687,LYNNVILLE-SULLY,ST,2,The Paper Bag Princess,X,,,Kayla Van Dyke
 7155,687,LYNNVILLE-SULLY,IMP,1,,X,,,James Trettin
+7162,498,CHARITON,SMT,1,Mama Mia,X,,,Emily Surratt
+7162,498,CHARITON,ACT,1,The Mighty Thirsty,X,,,Fidel Reyes
+7162,498,CHARITON,PO,1,,X,,,Abby Adams
+7162,498,CHARITON,PO,2,"Two Sides, Carry On",X,,,Ashley Gress
+7162,498,CHARITON,PO,3,"Stick, StoneSs, and Glass",X,,,Emily Suratt
+7162,498,CHARITON,PR,1,Excerpt from Intructions for a Bad Day,X,,,Ashley Gress
+7162,498,CHARITON,PR,2,To This Day,X,,,Kaylee Goodson
+7162,498,CHARITON,LP,1,"Look Up, Can We Auto Correct Humanity",X,,,Brooklyn Nichols
+7162,498,CHARITON,LP,2,"It Snowed at Your Funeral, Your Suicide",X,,,Kaylee Goodson
+7162,498,CHARITON,LP,3,"Colors of Love, Colors",X,,,Lille Murphy
+7162,498,CHARITON,OO,1,,X,,,Gavin Mills
+7162,498,CHARITON,OO,2,Justification to Live,X,,,Lillie Murphy
+7162,498,CHARITON,SS,1,,X,,,Stanislav Kutsel
+7162,498,CHARITON,RN,1,,X,,,Stanislav Kutsel
+7162,498,CHARITON,ST,1,There's a Man in the Woods,X,,,Brooklyn Nichols
+7162,498,CHARITON,IMP,1,,X,,,Fidel Reyes
+7162,498,CHARITON,IMP,2,,X,,,Gavin Mills
+7162,498,CHARITON,IMP,3,,X,,,Nathan Smith
