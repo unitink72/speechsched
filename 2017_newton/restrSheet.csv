@@ -1,0 +1,428 @@
+regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,latestEnd,performers
+6716,664,KNOXVILLE,PA,1,Magic,X,,,Asa Leonard
+6716,664,KNOXVILLE,PA,2,A Time for Choosing,X,,,Nyan Baker
+6716,664,KNOXVILLE,SMT,1,The Last Five Years,X,,,Shannon Yocum
+6716,664,KNOXVILLE,PO,1,TBA,X,,,Shelby Isidore
+6716,664,KNOXVILLE,PO,2,TBA,X,,,Brooke Willardson
+6716,664,KNOXVILLE,PO,3,TBA,X,,,Cidney DeWitt
+6716,664,KNOXVILLE,PR,1,TBA,X,,,Brooke Willardson
+6716,664,KNOXVILLE,PR,2,Gone With the Wind,X,,,Tierney Heffron
+6716,664,KNOXVILLE,OO,1,Love is Love,X,,,Alaina Gerdes
+6716,664,KNOXVILLE,SS,1,,X,,,Asa Leonard
+6716,664,KNOXVILLE,SS,2,,X,,,Nyan Baker
+6716,664,KNOXVILLE,SS,3,,X,,,Tierney Heffron
+6716,664,KNOXVILLE,AD,1,Support Group,X,,,Quinlin Robuck
+6780,704,MARSHALLTOWN,PA,1,Women's Suffrage,X,,,Emily Miller
+6780,704,MARSHALLTOWN,PA,2,Women's March 2017,X,,,Isabel Parades
+6780,704,MARSHALLTOWN,SMT,1,Blue,X,,,Jordan Blue
+6780,704,MARSHALLTOWN,ACT,1,Queen of Oz,X,,,Keyara McDowell
+6780,704,MARSHALLTOWN,PO,1,La Washa,X,,,Keyara McDowell
+6780,704,MARSHALLTOWN,PO,2,Somewhere in America,X,,,Nathan Thill
+6780,704,MARSHALLTOWN,PO,3,Know Me,X,,,Patricia Ramirez
+6780,704,MARSHALLTOWN,LP,1,See Me,X,,,Maria Urbina
+6780,704,MARSHALLTOWN,LP,2,My Rights,X,,,Catory Miller
+6780,704,MARSHALLTOWN,EA,1,Extra Curricular Events,X,,,Ryan Levis
+6780,704,MARSHALLTOWN,EA,2,Roseburrough,X,,,Dylan Roseburrough
+6780,704,MARSHALLTOWN,ST,1,Peter Rabbit,X,,,Maria Urbina
+6780,704,MARSHALLTOWN,ST,2,The Duckling Gets a Cookie,X,,,Phoebe Osgood
+6780,704,MARSHALLTOWN,ST,3,Blue TBD,X,,,Jordan Blue
+6780,704,MARSHALLTOWN,AD,1,Autism,X,,,Mackenzie Moyer
+6780,704,MARSHALLTOWN,AD,2,Mathis GSA,X,,,Noah Mathis
+6780,704,MARSHALLTOWN,RV,1,Roseburrough TBD,X,,,Dylan Roseburrough
+6780,704,MARSHALLTOWN,RV,2,The Catcher in the Rye,X,,,Emily Miller
+6789,844,SOUTH TAMA 9TH,SMT,1,My New Philosophy from You're a Good Man Charlie Brown,X,,,Clarissa Rosenberger
+6789,844,SOUTH TAMA 9TH,PO,1,Tupac's Reality,X,,,Tyrin Lasley
+6789,844,SOUTH TAMA 9TH,PO,2,Things Get Better,X,,,Kaisha Struve
+6789,844,SOUTH TAMA 9TH,PR,1,Leap Year Leap,X,,,Addison Cronk
+6789,844,SOUTH TAMA 9TH,ST,1,The Princess and the Pony,X,,,Addison Cronk
+6793,613,GMG 9TH,SMT,1,Going To Wash That Man right Out of my Hair,X,,,Talia Trumbo
+6793,613,GMG 9TH,PO,1,Yen Yanks,X,,,Hallie Claussen
+6793,613,GMG 9TH,PO,2,Alone and Trying,X,,,Jackson Edens
+6793,613,GMG 9TH,PO,3,To Believe/Daddy's Poem,X,,,Megan Kohn
+6793,613,GMG 9TH,PR,1,All Mothers Are Clairvoyant,X,,,Grace Schewe
+6793,613,GMG 9TH,PR,2,I Used to Think,X,,,Reahna Van Rees
+6793,613,GMG 9TH,PR,3,What Mother Doesn't Know Won't Hurt Me,X,,,Tabitha Kauten
+6793,613,GMG 9TH,OO,1,Fitting In At High School,X,,,Jackson Edens
+6793,613,GMG 9TH,OO,2,The Media Influence,X,,,Christian Deam
+6793,613,GMG 9TH,SS,1,,X,,,Christian Deam
+6793,613,GMG 9TH,SS,2,,X,,,Hallie Claussen
+6793,613,GMG 9TH,SS,3,,X,,,Jevan Stokely
+6793,613,GMG 9TH,RN,1,,X,,,Lindsey Slifer
+6793,613,GMG 9TH,RN,2,,X,,,Megan Kohn
+6793,613,GMG 9TH,ST,1,The Rabbits Short Tail,X,,,Lindsey Slifer
+6793,613,GMG 9TH,ST,2,Little Brown Kitten,X,,,Megan Kohn
+6793,613,GMG 9TH,IMP,1,,X,,,Jevan Stokely
+6794,612,GMG,ACT,1,The Coach,X,,,Daniel Hughes
+6794,612,GMG,ACT,2,Junie B. Jones Sneaky Peaky,X,,,Kyla Krier
+6794,612,GMG,ACT,3,Girls,X,,,Spencer Tweedy
+6794,612,GMG,ACT,4,"Mom,  Got A Date",X,,,Connor Casto
+6794,612,GMG,PO,1,Black Speck,X,,,Parker Welton
+6794,612,GMG,PO,2,The Sneeches,X,,,Haley Stahl
+6794,612,GMG,PO,3,What Was I Scared Of?,X,,,Jasmine Deal
+6794,612,GMG,PR,1,The Toilet Police,X,,,Connor Casto
+6794,612,GMG,PR,2,A Boy and A Dog,X,,,Haley Stahl
+6794,612,GMG,PR,3,My Mother The Bus Driver,X,,,Wesley Steiner
+6794,612,GMG,OO,1,Convictions of Faith,X,,,Kyla Wilkening
+6794,612,GMG,OO,2,What Do You Think?,X,,,Mable Dieleman
+6794,612,GMG,RN,1,,X,,,Chase Deam
+6794,612,GMG,RN,2,,X,,,Ethan Karsjen
+6794,612,GMG,RN,3,,X,,,Parker Welton
+6794,612,GMG,EA,1,It's All In The Art of It,X,,,Jasmine Deal
+6794,612,GMG,EA,2,Wildlife Rehabbing,X,,,Kayla Vavroch
+6794,612,GMG,ST,1,Bumpy Lumpy Tunnels,X,,,Daniel Hughes
+6794,612,GMG,ST,2,Give Mom a Muffin,X,,,Kyla Krier
+6794,612,GMG,ST,3,You Wouldn't Believe Me If I told You,X,,,Spencer Tweedy
+6794,612,GMG,IMP,1,,X,,,Chase Deam
+6794,612,GMG,IMP,2,,X,,,Ethan Karsjen
+6794,612,GMG,IMP,3,,X,,,Wesley Steiner
+6811,843,SOUTH TAMA,PA,1,"They Go Low, We Go High",X,,,Keely Driscoll
+6811,843,SOUTH TAMA,PA,2,Remarks on No Child Left Behind,X,,,Mahala Doyle
+6811,843,SOUTH TAMA,PA,3,"Speech to the UN Security Council, 2013",X,,,Stephanie Slaven
+6811,843,SOUTH TAMA,SMT,1,"Little Brains, Little Talent from Damn Yankees",X,,,Aleks Beha
+6811,843,SOUTH TAMA,SMT,2,Just You Wait from My Fair Lady,X,,,Lauren Gumm
+6811,843,SOUTH TAMA,SMT,3,Confrontation from Jekyll and Hyde,X,,,Thayne Lamb
+6811,843,SOUTH TAMA,ACT,1,Last First Kiss,X,,,McKenna Knock
+6811,843,SOUTH TAMA,ACT,2,Search for Intelligent Life in the Universe,X,,,Sabrina Holtz
+6811,843,SOUTH TAMA,ACT,3,Ronnie's Monologue from The House of the Blue Leaves,X,,,Wyatt Hintermeister
+6811,843,SOUTH TAMA,PO,1,Love at the Perfect Moment,X,,,Dorothy Youngbear
+6811,843,SOUTH TAMA,PO,2,Heartbreak,X,,,Kaylynn Dunn
+6811,843,SOUTH TAMA,PR,1,Screams and Whispers,X,,,Logan Witt
+6811,843,SOUTH TAMA,PR,2,Cold Blooded Murderer,X,,,Stacey Slaven
+6811,843,SOUTH TAMA,PR,3,The Perks of Being a Wallflower,X,,,Thayne Lamb
+6811,843,SOUTH TAMA,OO,1,Being Homeless,X,,,Rosie Acevedo
+6811,843,SOUTH TAMA,OO,2,Countin' on the Metric System,X,,,Shae Slaven
+6811,843,SOUTH TAMA,SS,1,,X,,,Ashley Steele
+6811,843,SOUTH TAMA,SS,2,,X,,,Josephine Youngbear
+6811,843,SOUTH TAMA,RN,1,,X,,,Daniel Mendoza
+6811,843,SOUTH TAMA,EA,1,Dungeons and Dragons for Dummies,X,,,Jacob Dostal
+6811,843,SOUTH TAMA,EA,2,Racism Exposed,X,,,Mikaila Collier
+6811,843,SOUTH TAMA,EA,3,Arabic 101,X,,,Salma Razak
+6811,843,SOUTH TAMA,ST,1,The Day the Crayons Quit,X,,,Bailey Waldo
+6811,843,SOUTH TAMA,ST,2,Spoon,X,,,Wyatt Hintermeister
+6811,843,SOUTH TAMA,AD,1,I Speak for the Trees,X,,,Jenifer Barajas
+6811,843,SOUTH TAMA,AD,2,Hypocrites of America,X,,,Jensen Vodochodsky
+6811,843,SOUTH TAMA,AD,3,Trust,X,,,Kate Froelich
+6811,843,SOUTH TAMA,RV,1,"Girl, Interrupted",X,,,Kennedy Adams
+6811,843,SOUTH TAMA,RV,2,Allegiant,X,,,Taylor Hraback
+6811,843,SOUTH TAMA,RV,3,Nightcrawler,X,,,Veronica Peters
+6821,1030,Baxter High School,PA,1,Gender Equality is Your Issue Too,X,,,Andee Joos
+6821,1030,Baxter High School,ACT,1,Ghosts I've Known,X,,,Mary Schabillion
+6821,1030,Baxter High School,ACT,2,he Next Mrs. Jacob Anderson,X,,,Maya Phelps
+6821,1030,Baxter High School,ACT,3,Spongebob,X,,,Jesse Garr
+6821,1030,Baxter High School,PO,1,Things Fall Apart,X,,,Emma Vander heiden
+6821,1030,Baxter High School,PO,2,Influences of Nature,X,,,Paige Wolff
+6821,1030,Baxter High School,PO,3,Fatherhood,X,,,Faithyna Leanord
+6821,1030,Baxter High School,PR,1,A Haunted House,X,,,Elena Alvarado
+6821,1030,Baxter High School,PR,2,The Cask Of Amontillado,X,,,Christian Brandt
+6821,1030,Baxter High School,SS,1,,X,,,Faithyna Leanord
+6821,1030,Baxter High School,AD,1,Ding,X,,,Hailey Pierce
+6855,516,COLFAX-MINGO,SMT,1,Audition (The Fools Who Dream),X,,,Willa Colville
+6855,516,COLFAX-MINGO,SMT,2,Home,X,,,Audra Campbell
+6855,516,COLFAX-MINGO,SMT,3,Part of That,X,,,Jazmine Cooper
+6855,516,COLFAX-MINGO,ACT,1,A Walk in the Woods,X,,,Cameron Warner
+6855,516,COLFAX-MINGO,ACT,2,Wishin' and Hopin',X,,,Jasmine Riley
+6855,516,COLFAX-MINGO,ACT,3,Don't Let the Pigeon Drive the Bus,X,,,Ilia Hostetter
+6855,516,COLFAX-MINGO,PO,1,Deep and Wide,X,,,Odessa Cross
+6855,516,COLFAX-MINGO,PO,2,A collection,X,,,Dakota Hostetter
+6855,516,COLFAX-MINGO,PO,3,"Beauty, from Milk and Honey ",X,,,Meredith Mayes
+6855,516,COLFAX-MINGO,PR,1,Cyclone Softball,X,,,Amy Russell
+6855,516,COLFAX-MINGO,PR,2,Lost Childhood,X,,,Caitlyn Hefley
+6855,516,COLFAX-MINGO,PR,3,Prison of the Mind,X,,,Ries WIlson
+6855,516,COLFAX-MINGO,LP,1,Lost Innocence,X,,,Caitlyn Hefley
+6855,516,COLFAX-MINGO,LP,2,The Life of a Chicken,X,,,Courtney Burdess
+6855,516,COLFAX-MINGO,LP,3,How Language Shapes Us,X,,,Delaney Underwood
+6855,516,COLFAX-MINGO,OO,1,Space Exploration,X,,,Jasmine Riley
+6855,516,COLFAX-MINGO,OO,2,Colbee OO,X,,,Colbee Cunningham
+6855,516,COLFAX-MINGO,SS,1,,X,,,Jacob Frier
+6855,516,COLFAX-MINGO,RN,1,,X,,,KC Huffman
+6855,516,COLFAX-MINGO,EA,1,Being a Catcher,X,,,Chelsea Russell
+6855,516,COLFAX-MINGO,ST,1,The Recess Queen,X,,,Annalee Workman
+6855,516,COLFAX-MINGO,ST,2,The Emperor's New Clothes,X,,,Ethan Summy
+6855,516,COLFAX-MINGO,ST,3,Today I Feel Silly,X,,,Camilla Schlosser
+6855,516,COLFAX-MINGO,AD,1,A Farmer's Almanac,X,,,Camilla Schlosser
+6855,516,COLFAX-MINGO,IMP,1,,X,,,Reese Arndt
+6855,516,COLFAX-MINGO,RV,1,The Des Moines Symphony,X,,,Misha Seebeck
+6855,516,COLFAX-MINGO,RV,2,A Review,X,,,Jazmine Cooper
+6858,517,COLFAX-MINGO 9TH,PA,1,Want to be happy? Be grateful.,X,,,Morgan Edwards
+6858,517,COLFAX-MINGO 9TH,SMT,1,Bring Him Home,X,,,Emmy Bosworth
+6858,517,COLFAX-MINGO 9TH,SMT,2,There are Worse Things I Could Do,X,,,Abby McConeghey
+6858,517,COLFAX-MINGO 9TH,PO,1,The Woes of Womanhood,X,,,Kendall Earles
+6858,517,COLFAX-MINGO 9TH,PR,1,Attack of the Killer Gnomes,X,,,Nelly McGruder
+6858,517,COLFAX-MINGO 9TH,PR,2,Not a Creature was Stirring,X,,,Brielle Reed
+6858,517,COLFAX-MINGO 9TH,PR,3,"from Maybe, Maybe Not",X,,,Jodine Woods
+6858,517,COLFAX-MINGO 9TH,RN,1,,X,,,Ethan Martin
+6858,517,COLFAX-MINGO 9TH,RN,2,,X,,,Emily Lehmer
+6858,517,COLFAX-MINGO 9TH,RN,3,,X,,,Cyden Fitch
+6858,517,COLFAX-MINGO 9TH,EA,1,Esperanto,X,,,Emmy Bosworth
+6858,517,COLFAX-MINGO 9TH,ST,1,True Story of the Three Little Pigs,X,,,Eli Steenhoek
+6858,517,COLFAX-MINGO 9TH,ST,2,Wild About Books,X,,,Chelsea Atwood
+6858,517,COLFAX-MINGO 9TH,IMP,1,,X,,,Johnecia Lankford
+6869,618,GRINNELL,PA,1,Nelson,X,,,Hope Nelson
+6869,618,GRINNELL,PA,2,Diary of a Syrian Refugee,X,,,Riley Osborne
+6869,618,GRINNELL,SMT,1,She Loves Me,X,,,Lucas Chamberland
+6869,618,GRINNELL,SMT,2,See I'm Smiling,X,,,Maddie Toplift
+6869,618,GRINNELL,SMT,3,Put On a Happy Face,X,,,Zach Loftin
+6869,618,GRINNELL,ACT,1,MagstadtKA,X,,,Kaylee Magstadt
+6869,618,GRINNELL,ACT,2,Conjugal Connections,X,,,Matti Shaver
+6869,618,GRINNELL,ACT,3,ThomasSU,X,,,Summer Thomas
+6869,618,GRINNELL,PO,1,Please Hear What I'm Not Saying,X,,,Julia Chamberland
+6869,618,GRINNELL,PO,2,You Brought This on Yourself,X,,,Matti Shaver
+6869,618,GRINNELL,PO,3,My Message to You,X,,,Rebecca Crawford
+6869,618,GRINNELL,PR,1,MagstadtK,X,,,Kaylee Magstadt
+6869,618,GRINNELL,PR,2,Pretty,X,,,Rebecca Crawford
+6869,618,GRINNELL,PR,3,OsborneR,X,,,Riley Osborne
+6869,618,GRINNELL,LP,1,OswaldoA,X,,,Ambrosio Oswaldo
+6869,618,GRINNELL,LP,2,Dating in the Digital Age,X,,,Maddie Toplift
+6869,618,GRINNELL,LP,3,ThomasS,X,,,Summer Thomas
+6869,618,GRINNELL,OO,1,Reding,X,,,Abby Reding
+6869,618,GRINNELL,OO,2,Eckhart,X,,,Roland Eckhart
+6869,618,GRINNELL,OO,3,Hall story,X,,,Jaylere Hall
+6869,618,GRINNELL,SS,1,,X,,,Oswaldo Ambrosio
+6869,618,GRINNELL,SS,2,,X,,,Roland Eckhart
+6869,618,GRINNELL,RN,1,,X,,,Blake Walker
+6869,618,GRINNELL,RN,2,,X,,,Lucas Chamberland
+6869,618,GRINNELL,RN,3,,X,,,Jaylere Hall
+6869,618,GRINNELL,EA,1,Africa: The Truth,X,,,Mezekrta Tesfay
+6869,618,GRINNELL,EA,2,ShaverMI,X,,,Mira Shaver
+6869,618,GRINNELL,ST,1,NelsonH,X,,,Hope Nelson
+6869,618,GRINNELL,ST,2,ChamberlandJ,X,,,Julia Chamberland
+6869,618,GRINNELL,ST,3,ShaverM,X,,,Mira Shaver
+6869,618,GRINNELL,AD,1,Moisan,X,,,Julien Moisan
+6869,618,GRINNELL,IMP,1,,X,,,Julien Moisan
+6902,619,GRINNELL 9TH,PO,1,Arment,X,,,Natalie Arment
+6902,619,GRINNELL 9TH,PR,1,How to Eat Cat Food With Dignity,X,,,Bella Amador-Lacson
+6902,619,GRINNELL 9TH,PR,2,Where Do the Mermaids Stand?,X,,,Theresa Crawford
+6902,619,GRINNELL 9TH,RN,1,,X,,,Bella Amador-Lacson
+6902,619,GRINNELL 9TH,ST,1,You Are Special,X,,,Theresa Crawford
+6921,757,NORTH TAMA,PA,1,"Success, Failure and the Drive to Keep Creating",X,,,Olivia Jones
+6921,757,NORTH TAMA,OO,1,Scleroderma,X,,,Danielle Steinwendt
+6921,757,NORTH TAMA,OO,2,The Benefits of the Food Bank,X,1300,1600,Adel Scherrer
+6921,757,NORTH TAMA,OO,3,NaNoWriMo,X,,,Holly Rigel
+6921,757,NORTH TAMA,EA,1,How to CosPlay,X,,,Holly Rigel
+6921,757,NORTH TAMA,EA,2,How to Play the Viola,X,,,Mallory Welsch
+6921,757,NORTH TAMA,ST,1,A Cinderella Story,X,1400,1600,Emma Scherrer
+6921,757,NORTH TAMA,AD,1,Welcome to the National Inquirer,X,,,Claire Schafer
+6921,757,NORTH TAMA,AD,2,How to Be Sarcastic Without Even Trying,X,,,Olivia Jones
+6925,741,NEWTON,SMT,1,If I Can't Love Her,X,,,Joe Malsom
+6925,741,NEWTON,SMT,2,You Can't Get a Man with a Gun,X,1200,1600,Alayna Reynolds
+6925,741,NEWTON,SMT,3,Creation of Man,X,1200,1600,Reese Rosenquist
+6925,741,NEWTON,PO,1,Fairytales and Lessons Learned,X,,,Alia Smith
+6925,741,NEWTON,PO,2,Barnes,X,,,Kaitlyn Barnes
+6925,741,NEWTON,PO,3,The Tie that Binds,X,1000,1600,Miranda Ervin
+6925,741,NEWTON,PR,1,Trouble Sleeping,X,,,Casidy Stanton
+6925,741,NEWTON,PR,2,Two-wheeled ATV,X,,,Ethan Short
+6925,741,NEWTON,PR,3,Strong Enough for Both of Us,X,,,Faith Harlow
+6925,741,NEWTON,LP,1,The Power of the People,,,,Taylor Carpenter
+6925,741,NEWTON,LP,2,Dare I Hope,X,,,Haley Rinehart
+6925,741,NEWTON,LP,3,Fate,X,,,Brenton Reffett
+6925,741,NEWTON,SS,1,,X,,,Lienne Pak
+6925,741,NEWTON,SS,2,,X,,,Zoya Urbanowicz
+6925,741,NEWTON,RN,1,,X,,,Zoya Urbanowicz
+6925,741,NEWTON,RN,2,,X,,,Landon Criswell
+6925,741,NEWTON,RN,3,,X,1200,1600,Joe Malsom
+6925,741,NEWTON,EA,1,History of the space program,X,,,Lane Rose
+6925,741,NEWTON,EA,2,Miller,X,,,Reid Miller
+6925,741,NEWTON,EA,3,A Proper Poetry Performance Presentation,X,1000,1600,Miranda Ervin
+6925,741,NEWTON,ST,1,Tacky the Penguin,X,,,Isaac Friedman
+6925,741,NEWTON,ST,2,What are you doing New Year's Eve?,X,,,Bauston Van Sickle
+6925,741,NEWTON,ST,3,More Parts,X,,,Sadie Steinbach
+6925,741,NEWTON,IMP,1,,,,,Damon Ross
+6925,741,NEWTON,IMP,2,,X,,,Mitch Faidley
+6928,713,MELCHER-DALLAS,SMT,1,What's This?,X,,,Hunter Bonnett
+6928,713,MELCHER-DALLAS,SMT,2,The Wizard and I,X,,,Madelyn Mann
+6928,713,MELCHER-DALLAS,ACT,1,Unsure,X,,,Madelyn Mann
+6928,713,MELCHER-DALLAS,ACT,2,March in Line,X,,,Sarah Hyatt
+6928,713,MELCHER-DALLAS,PO,1,Ragged Old Flag,X,,,Cameron Davis
+6928,713,MELCHER-DALLAS,PO,2,Television,X,,,Paul Hyatt
+6928,713,MELCHER-DALLAS,PR,1,Gym Candy,X,,,Cameron Davis
+6928,713,MELCHER-DALLAS,PR,2,Zombies,X,,,Paul Hyatt
+6928,713,MELCHER-DALLAS,RN,1,,X,,,Hunter Bonnett
+6928,713,MELCHER-DALLAS,EA,1,Aliens,X,,,Sarah Hyatt
+6928,713,MELCHER-DALLAS,ST,1,The Stinky Cheeseman,X,,,Elijah Williams
+6971,570,EAST MARSHALL,PA,1,Zygon Inversion,X,,,Andrew Ash
+6971,570,EAST MARSHALL,SMT,1,I'm Here,X,,,Jordan King
+6971,570,EAST MARSHALL,SMT,2,Happy Little Working Song,X,,,Megan McCrary
+6971,570,EAST MARSHALL,SMT,3,I Can Hear the Bells,X,,,Sarah Johnston
+6971,570,EAST MARSHALL,ACT,1,Breathes There A Man,X,,,Andrew Ash
+6971,570,EAST MARSHALL,ACT,2,Daddy's Hands,X,,,Ashlee Fogt
+6971,570,EAST MARSHALL,ACT,3,All Dressed up and No Place to go,X,,,Melody Eddy
+6971,570,EAST MARSHALL,PO,1,To Have Loved & Lost,X,,,Carrington Curphy
+6971,570,EAST MARSHALL,PO,2,Take me as I am,X,,,Hunter Boecker
+6971,570,EAST MARSHALL,PR,1,I Never Believed in Santa Claus,X,,,Carrington
+6971,570,EAST MARSHALL,PR,2,Math Curse,X,,,Grant Curtis
+6971,570,EAST MARSHALL,PR,3,Breaking the Stigma,X,,,Hunter Boecker
+6971,570,EAST MARSHALL,LP,1,Leavy,X,,,Jazlyn Leavy
+6971,570,EAST MARSHALL,LP,2,Romance: A Modern Fairytale or Social Media Catastroph?,X,,,Jordan King
+6971,570,EAST MARSHALL,LP,3,Faith of a Farmer,X,,,Megan Pansegrau
+6971,570,EAST MARSHALL,OO,1,Zombies of Change,X,,,Marisa Meling
+6971,570,EAST MARSHALL,SS,1,,X,,,Dorian Twedt
+6971,570,EAST MARSHALL,RN,1,,X,,,Dorian Twedt
+6971,570,EAST MARSHALL,RN,2,,X,,,Rachael McAnulty
+6971,570,EAST MARSHALL,ST,1,The Web Files,X,,,Grant Curtis
+6971,570,EAST MARSHALL,ST,2,Tikki Tikki Tembo,X,,,Megan McCrary
+6971,570,EAST MARSHALL,IMP,1,,X,,,Austin Earley
+6971,570,EAST MARSHALL,IMP,2,,X,,,Chase Gratopp
+6971,570,EAST MARSHALL,IMP,3,,X,,,Jimmy Sylvester
+7031,780,PELLA CHRISTIAN,PA,1,Trump's Inauguration Speech,X,,,Bethany Spencer
+7031,780,PELLA CHRISTIAN,PA,2,A Woman's Place in Science,X,,,Katie Larson
+7031,780,PELLA CHRISTIAN,SMT,1,"No One Else - Natasha, Pierre and the Great Comet of 1812",X,,,Emma Stravers
+7031,780,PELLA CHRISTIAN,SMT,2,Wick - The Secret Garden,X,,,Jimmy Beyer
+7031,780,PELLA CHRISTIAN,SMT,3,I Believe - Book of Mormon,X,,,Tyler Egesdal
+7031,780,PELLA CHRISTIAN,PO,1,Infirmary,X,,,Jalayna Morgan
+7031,780,PELLA CHRISTIAN,PO,2,Change Consumes Me,X,,,Patrick Strang
+7031,780,PELLA CHRISTIAN,PO,3,Never Forget,X,,,Ryan Van Gilst
+7031,780,PELLA CHRISTIAN,PR,1,Tell Tale Heart,X,,,Bethany Wilson
+7031,780,PELLA CHRISTIAN,PR,2,Two Rooms,X,,,Ryan Van Gilst
+7031,780,PELLA CHRISTIAN,LP,1,,X,,,Abby Ambroson
+7031,780,PELLA CHRISTIAN,LP,2,The Intelligence of Dragons,X,,,Alexis De Vries
+7031,780,PELLA CHRISTIAN,RN,1,,X,,,Patrick Strang
+7031,780,PELLA CHRISTIAN,ST,1,The Triune Tale of Diminutive Swine,X,,,Lindsay Breon
+7031,780,PELLA CHRISTIAN,IMP,1,,X,,,Jackson Smith
+7031,780,PELLA CHRISTIAN,RV,1,,X,,,Jackson Smith
+7075,785,PLEASANTVILLE,PA,1,BPD,X,,,Alli Jorris
+7075,785,PLEASANTVILLE,SMT,1,In My Own Little Corner,X,,,Chloe Bender
+7075,785,PLEASANTVILLE,SMT,2,Suppertime,X,,,Jack Ray
+7075,785,PLEASANTVILLE,SMT,3,Accident Prone,X,,,Josie Beier
+7075,785,PLEASANTVILLE,ACT,1,The Bench,X,,,Chance Bender
+7075,785,PLEASANTVILLE,ACT,2,The Audition,X,,,Colten Stephens
+7075,785,PLEASANTVILLE,ACT,3,monologue,X,,,Jessica Grau
+7075,785,PLEASANTVILLE,PO,1,How To Be a Person,X,,,Josie Houser
+7075,785,PLEASANTVILLE,PO,2,The Fairy Reel,X,,,Melena Johnson
+7075,785,PLEASANTVILLE,PO,3,What Do You Know,X,,,Sam Hommer
+7075,785,PLEASANTVILLE,PR,1,Colonoscopy,X,,,Colten Stephens
+7075,785,PLEASANTVILLE,PR,2,Politically Correct Goldilocks,X,,,Grace Stephens
+7075,785,PLEASANTVILLE,PR,3,Waiting,X,,,Jack Lauer
+7075,785,PLEASANTVILLE,LP,1,I Think,X,,,Alyssa McKay
+7075,785,PLEASANTVILLE,LP,2,I Pitch,X,,,Emma Jahner
+7075,785,PLEASANTVILLE,LP,3,Every 27 Minutes,X,,,Tess Ray
+7075,785,PLEASANTVILLE,OO,1,my story,X,,,Alli Jorris
+7075,785,PLEASANTVILLE,OO,2,The Importance of Ag,X,,,Brooke Mead
+7075,785,PLEASANTVILLE,OO,3,The American Dream,X,,,Jack Lauer
+7075,785,PLEASANTVILLE,SS,1,,X,,,Avery Lauer
+7075,785,PLEASANTVILLE,SS,2,,X,,,Chloe Bender
+7075,785,PLEASANTVILLE,RN,1,,X,,,Avery Lauer
+7075,785,PLEASANTVILLE,RN,2,,X,,,Brooke Mead
+7075,785,PLEASANTVILLE,RN,3,,X,,,Connor Stone
+7075,785,PLEASANTVILLE,EA,1,Equine Rehab,X,,,Afton West
+7075,785,PLEASANTVILLE,ST,1,Aladdin,X,,,Grace Stephens
+7075,785,PLEASANTVILLE,ST,2,A Bad Case of the Stripes,X,,,Jack Ray
+7075,785,PLEASANTVILLE,ST,3,Tessa's Tip Tapping Toes,X,,,Tessa Wadle
+7075,785,PLEASANTVILLE,AD,1,It's All About Me,X,,,Chance Bender
+7075,785,PLEASANTVILLE,IMP,1,,X,,,Joe Culp
+7075,785,PLEASANTVILLE,IMP,2,,X,,,Kylen Zeroni
+7075,785,PLEASANTVILLE,IMP,3,,X,,,Melvin Moore
+7075,785,PLEASANTVILLE,RV,1,LaLa Land,X,,,Joe Culp
+7079,959,MESKWAKI SETTLEMENT,PA,1,Ain't I a Woman,X,,,Rosie YoungBear
+7079,959,MESKWAKI SETTLEMENT,PO,1,I Wish I Could Tell a Lie,X,,,Tanner Garcia
+7079,959,MESKWAKI SETTLEMENT,PO,2,Is There Really a Human Race?,X,,,Tylen Garcia
+7079,959,MESKWAKI SETTLEMENT,PR,1,Sweetheart,X,,,Danielle Seymour
+7079,959,MESKWAKI SETTLEMENT,PR,2,The Day I Got Kicked Out of Home Ec,X,,,Marley Whitefish
+7079,959,MESKWAKI SETTLEMENT,LP,1,Connections,X,,,Michelle Davenport
+7079,959,MESKWAKI SETTLEMENT,LP,2,Loved Ones Seperated,X,,,Rosie YoungBear
+7079,959,MESKWAKI SETTLEMENT,EA,1,Mental Health Awareness,X,,,Marybelle Armajo
+7092,976,PELLA 9th,SMT,1,VanZanten SMT,X,,,Colton VanZanten
+7092,976,PELLA 9th,ACT,1,Kendall Acting,X,,,Hanna Kendall
+7092,976,PELLA 9th,PR,1,Rozendaal PR,X,,,Emily Rozendaal
+7092,976,PELLA 9th,LP,1,The End of the Road,X,,,Olivia Marstall
+7092,976,PELLA 9th,LP,2,Card LP,X,,,Zoe Card
+7092,976,PELLA 9th,OO,1,Pumphrey TBD,X,,,Lily Pumphrey
+7092,976,PELLA 9th,RN,1,,X,,,Jack Stratton
+7092,976,PELLA 9th,EA,1,Marstall Expos,X,,,Olivia Marstall
+7092,976,PELLA 9th,ST,1,Card Storytelling,X,,,Zoe Card
+7092,976,PELLA 9th,AD,1,Cat Park,X,,,Grace Cottington
+7092,976,PELLA 9th,IMP,1,,X,,,Noah Zeimetz
+7092,976,PELLA 9th,RV,1,Nedder Review,X,,,Jacob Nedder
+7107,781,PELLA COMMUNITY,PA,1,Nora Ephron at Wellesly,X,,,Rebekah Fyfe
+7107,781,PELLA COMMUNITY,SMT,1,You'll Be Back,X,,,Cameron Blom
+7107,781,PELLA COMMUNITY,SMT,2,Aladdin,X,,,Micah Hammann
+7107,781,PELLA COMMUNITY,SMT,3,Michael in the Bathroom,X,,,Michael Schildroth
+7107,781,PELLA COMMUNITY,ACT,1,The Belle of Amherst,X,,,Brenna Hildebrand
+7107,781,PELLA COMMUNITY,ACT,2,Drowsy Chaperone,X,,,Ethan Vance
+7107,781,PELLA COMMUNITY,ACT,3,Miller Acting,X,,,Lauren Miller
+7107,781,PELLA COMMUNITY,PO,1,Dislocation,X,,,Bri Deason
+7107,781,PELLA COMMUNITY,PO,2,To This Day,X,,,Elsa Scheepers
+7107,781,PELLA COMMUNITY,PO,3,The Color White,X,,,Grace Fisher
+7107,781,PELLA COMMUNITY,PR,1,The Last Picture Show,X,,,Chandler Jahner
+7107,781,PELLA COMMUNITY,PR,2,Van Wyngarden Prose,X,,,Joy Van Wyngarden
+7107,781,PELLA COMMUNITY,PR,3,Da Prose,X,,,Kara Da
+7107,781,PELLA COMMUNITY,LP,1,Van Weeldon Lit Program,X,,,Elizabeth Van Weeldon
+7107,781,PELLA COMMUNITY,LP,2,Cutler Lit Program,X,,,Hannah Cutler
+7107,781,PELLA COMMUNITY,LP,3,Teen Girl,X,,,Mandolin Holmes
+7107,781,PELLA COMMUNITY,SS,1,,X,,,Adam Smart
+7107,781,PELLA COMMUNITY,SS,2,,X,,,Mark Sutija
+7107,781,PELLA COMMUNITY,RN,1,,X,,,Caleb Rietveld
+7107,781,PELLA COMMUNITY,RN,2,,X,,,Logan Hudson
+7107,781,PELLA COMMUNITY,EA,1,Plastic Surgery,X,,,Ava Rowe
+7107,781,PELLA COMMUNITY,EA,2,Democracy,X,,,Zion Miller
+7107,781,PELLA COMMUNITY,ST,1,Pout Pout Fish,X,,,Kaylee Butler
+7107,781,PELLA COMMUNITY,ST,2,Leave Me Alone!,X,,,Lauren Ashworth
+7107,781,PELLA COMMUNITY,ST,3,Those Darn Squirrels,X,,,Ryan Van Maanan
+7107,781,PELLA COMMUNITY,AD,1,Rowe After Dinner,X,,,Ava Rowe
+7107,781,PELLA COMMUNITY,AD,2,Pastor's Kid,X,,,Grace Larson
+7107,781,PELLA COMMUNITY,AD,3,Schemm After Dinner,X,,,Luke Schemm
+7107,781,PELLA COMMUNITY,IMP,1,,X,,,Isaac Zeimetz
+7107,781,PELLA COMMUNITY,IMP,2,,X,,,Jack Rumer
+7107,781,PELLA COMMUNITY,IMP,3,,X,,,Mark Sutija
+7107,781,PELLA COMMUNITY,RV,1,Zeimetz Review,X,,,Isaac Zeimetz
+7107,781,PELLA COMMUNITY,RV,2,Lyons Review,X,,,Kaleb Lyons
+7128,452,BGM,SMT,1,Lonely Room,X,,,Dillon Brady
+7128,452,BGM,SMT,2,I Dreamed a Dream,X,,,Tacoma Bleiyu
+7128,452,BGM,PO,1,Mollie Tibbetts Poem Untitled,X,,,Mollie Tibbetts
+7128,452,BGM,PO,2,A Mothers Eye/Conflicted,X,,,Kali Smith
+7128,452,BGM,PO,3,"Darling, Yes Isn't Always the Answer",X,,,Lara Hilpipre
+7128,452,BGM,OO,1,Mollie Tibbetts OO Untitled,X,,,Mollie Tibbetts
+7128,452,BGM,OO,2,Euthanization,X,,,Kali Smith
+7128,452,BGM,OO,3,Isolated,X,,,Zoe Carns
+7128,452,BGM,ST,1,Green Eggs and Ham,X,,,Zoe Carnes
+7128,452,BGM,IMP,1,,X,,,Emily Fischer
+7134,778,PCM,PA,1,TBA,X,,,Madeline Buys
+7134,778,PCM,SMT,1,I'm Not That Smart,X,,,Graham Davis
+7134,778,PCM,SMT,2,TBA,X,,,Sidney Metzger
+7134,778,PCM,SMT,3,TBA,X,,,Sydney Burns
+7134,778,PCM,ACT,1,TBA,X,,,Blake VanDerKamp
+7134,778,PCM,ACT,2,TBA,X,,,Kinsey Phipps
+7134,778,PCM,ACT,3,TBA,X,,,Zoey Emmack
+7134,778,PCM,PO,1,TBA,X,,,Kirstin Ives
+7134,778,PCM,PO,2,TBA,X,,,Magan VanHaaften
+7134,778,PCM,PO,3,TBA,X,,,Megan Cox
+7134,778,PCM,ST,1,TBA,X,,,Magan VanHaaften
+7134,778,PCM,ST,2,TBA,X,,,Mallery Downey
+7134,778,PCM,AD,1,TBA,X,,,Carson Clark
+7134,778,PCM,AD,2,TBA,X,,,Mia Rouse
+7134,778,PCM,IMP,1,,X,,,Jacob Cox
+7134,778,PCM,IMP,2,,X,,,Jared Smith
+7134,778,PCM,IMP,3,,X,,,Payton Konek
+7155,687,LYNNVILLE-SULLY,PA,1,Ohio State University Commencement Address,X,,,Maddeline Mintle
+7155,687,LYNNVILLE-SULLY,PA,2,An Open Letter to Students Returning to School,X,,,Tessa Van Maanen
+7155,687,LYNNVILLE-SULLY,PA,3,Johnnie Cash,X,,,Isaac Collins
+7155,687,LYNNVILLE-SULLY,SMT,1,Reflection,X,,,Madison Johnson
+7155,687,LYNNVILLE-SULLY,SMT,2,Bogaard,X,,,Andrea Bogaard
+7155,687,LYNNVILLE-SULLY,ACT,1,Arm Wrestling With My Father,X,,,James Trettin
+7155,687,LYNNVILLE-SULLY,PO,1,Messy Room,X,,,Andrea Bogaard
+7155,687,LYNNVILLE-SULLY,PO,2,The Road Not Taken,X,,,Caitlyn Bartholomew
+7155,687,LYNNVILLE-SULLY,PO,3,Just Let Him Send A Valentine,X,,,Kaylee Maasdam
+7155,687,LYNNVILLE-SULLY,PR,1,The Little Red Shovel,X,,,Madison Johnson
+7155,687,LYNNVILLE-SULLY,PR,2,Father,X,,,Isabella Bogaard
+7155,687,LYNNVILLE-SULLY,PR,3,Louis,X,,,Carson Dunsbergen
+7155,687,LYNNVILLE-SULLY,LP,1,Rules of the Game,X,,,Tessa Van Maanen
+7155,687,LYNNVILLE-SULLY,ST,1,Princess Boots,X,,,Maddeline Mintle
+7155,687,LYNNVILLE-SULLY,ST,2,The Paper Bag Princess,X,,,Kayla Van Dyke
+7155,687,LYNNVILLE-SULLY,IMP,1,,X,,,James Trettin
+7162,498,CHARITON,SMT,1,Mama Mia,X,,,Emily Surratt
+7162,498,CHARITON,ACT,1,The Mighty Thirsty,X,,,Fidel Reyes
+7162,498,CHARITON,PO,1,,X,,,Abby Adams
+7162,498,CHARITON,PO,2,"Two Sides, Carry On",X,,,Ashley Gress
+7162,498,CHARITON,PO,3,"Stick, StoneSs, and Glass",X,,,Emily Suratt
+7162,498,CHARITON,PR,1,Excerpt from Intructions for a Bad Day,X,,,Ashley Gress
+7162,498,CHARITON,PR,2,To This Day,X,,,Kaylee Goodson
+7162,498,CHARITON,LP,1,"Look Up, Can We Auto Correct Humanity",X,,,Brooklyn Nichols
+7162,498,CHARITON,LP,2,"It Snowed at Your Funeral, Your Suicide",X,,,Kaylee Goodson
+7162,498,CHARITON,LP,3,"Colors of Love, Colors",X,,,Lille Murphy
+7162,498,CHARITON,OO,1,,X,,,Gavin Mills
+7162,498,CHARITON,OO,2,Justification to Live,X,,,Lillie Murphy
+7162,498,CHARITON,SS,1,,X,,,Stanislav Kutsel
+7162,498,CHARITON,RN,1,,X,,,Stanislav Kutsel
+7162,498,CHARITON,ST,1,There's a Man in the Woods,X,,,Brooklyn Nichols
+7162,498,CHARITON,IMP,1,,X,,,Fidel Reyes
+7162,498,CHARITON,IMP,2,,X,,,Gavin Mills
+7162,498,CHARITON,IMP,3,,X,,,Nathan Smith
