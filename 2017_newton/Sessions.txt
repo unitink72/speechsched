@@ -263,7 +263,7 @@ Room 232 High School Center 13
 1245
 1255
 1305
-1315 Break
+1315
 
 
 Solo Musical Theatre  SMT 5
@@ -511,8 +511,9 @@ Room 74 High School Center 3
 1500
 1509
 1518
-
-
+1527
+1536
+1545
 
 Poetry PO 6
 Room 70 High School Center 2
@@ -560,6 +561,7 @@ Room 70 High School Center 2
 1509
 1518
 1527
+1536
 
 
 Lit Program LP 8
@@ -603,5 +605,4 @@ Room 62 High School Center 4
 1450
 1500
 1510 Break
-
 
