@@ -16,7 +16,7 @@ HOST_SCHOOL_ID = 891 #Vinton-Shellsburg
 
 #List of sitenames for this contest.  Will only be 1 for district contests,
 # four for state contests.  Must match case EXACTLY from registration data.
-CONTEST_SITENAME = ['Tri-County','Newton','Cedar Rapids Prairie','Tipton']
+CONTEST_SITENAME = ['Tri-County','NEWTON','Prairie, Cedar Rapids','Tipton']
 
 #Is this a Large Group or Individual Speech contest. 'Group' or 'Indiv'
 CONTEST_TYPE = 'Indiv'
