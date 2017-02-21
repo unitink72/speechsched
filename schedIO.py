@@ -463,13 +463,9 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
                     'entryTitle'    : row[csvColName],                 \
                     'performers'    : [],                              \
                     'earliestStart' : 100,                             \
-                    'latestEnd'     : 2300,                            \
-                    'studentDataFilled' : False}
+                    'latestEnd'     : 2300}
 
             #print('E SchoolId %d RegId %d' % (schoolIdCsv, regIdCsv))
-            #StudentDataFilled is used by the student data reader to show that
-            # entry's student and entry name have been filled in.  Only used
-            # for individual contest logic
             entriesList.append(newE)
             #Adding a unique index makes it easy to compare entries for equality,
             #instead of doing a bunch of string and list comparisons.
@@ -492,6 +488,9 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
                     'latestEnd'     : 2300,                            \
                     'studentDataFilled' : False}
 
+            #StudentDataFilled is used by the student data reader to show that
+            # entry's student and entry name have been filled in.  Only used
+            # for individual contest logic
             entriesList.append(newE)
             entryIndex += 1
 
@@ -525,21 +524,7 @@ def readStudentWebCsv(entriesList, fileName):
 #    'radiobroadcasting2'   : ("RB",2),            \
 #    'shortfilm1'           : ("SF",1),            \
 #    'shortfilm2'           : ("SF",2),            \
-#    'musicaltheatre1'      : ("MT",1),            \
-#    'musicaltheatre2'      : ("MT",2),            \
-#    'musicaltheatre3'      : ("MT",3),            \
-#    'group1'               : ("GI",1),            \
-#    'group2'               : ("GI",2),            \
-#    'group3'               : ("GI",3),            \
-#    'ensemble1'            : ("EA",1),            \
-#    'ensemble2'            : ("EA",2),            \
-#    'ensemble3'            : ("EA",3),            \
-#    'groupmime1'           : ("GM",1),            \
-#    'groupmime2'           : ("GM",2),            \
-#    'groupmime3'           : ("GM",3),            \
-#    'solomime1'            : ("SM",1),            \
-#    'solomime2'            : ("SM",2),            \
-#    'solomime3'            : ("SM",3),            \
+#    ...
 #  }
   csvFields = cats.studentRegFields()
 
@@ -552,22 +537,38 @@ def readStudentWebCsv(entriesList, fileName):
       csvRegId    = int(row['RegistrationID'])
       csvCategory = row['Category']
 
-      for entry in entriesList:
-        if entry['regId'] == csvRegId and                     \
-           not entry['studentDataFilled'] and                 \
-           csvFields[csvCategory][0] == entry['catShort'] and \
-           csvFields[csvCategory][1] == entry['catSchoolIdx']:
-  #INDV         csvCategory.lower() == cats.shortToLong(entry['catShort']).lower():
-  #INDV This replaces the two lines above containing csvCategory
-           
-           #This student row matches by regId (school),
-           # category and index(1-3)
-           entry['performers'].append(row['Name'])
-  #INDIV         entry['entryTitle'] = row['Title']
-           #Mark this one as filled.  Useful for INDV only
-  #INDIV         entry['studentDataFilled'] = True
-           #print('Placed ', row['Name'])
-           break
+      if cats.isGroupContest():
+        #####################################################
+        ############        GROUP CONTEST          ##########
+        #####################################################
+        for entry in entriesList:
+          if entry['regId'] == csvRegId and                     \
+             csvFields[csvCategory][0] == entry['catShort'] and \
+             csvFields[csvCategory][1] == entry['catSchoolIdx']:
+
+            #This student row matches by regId (school), category and index(1-3)
+            entry['performers'].append(row['Name'])
+            #print('Placed ', row['Name'])
+            break
+        #else:
+          #print('No entry match for student ' + row['Name'] + ' ' +row['Category'])
+
+      else:
+        #####################################################
+        ############        INDIVIDUAL CONTEST     ##########
+        #####################################################
+         for entry in entriesList:
+           if entry['regId'] == csvRegId and                     \
+              not entry['studentDataFilled'] and                 \
+              csvCategory.lower() == cats.shortToLong(entry['catShort']).lower():
+
+              #This student row matches by regId (school)
+               entry['performers'].append(row['Name'])
+               entry['entryTitle'] = row['Title']
+               #Mark this one as filled.  Useful for INDV only
+               entry['studentDataFilled'] = True
+               #print('Placed ', row['Name'])
+               break
        #else:
         #print('No entry match for student ' + row['Name'] + ' ' +row['Category'])
     currentLine += 1
