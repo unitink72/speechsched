@@ -390,7 +390,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
         #Dock points as conflicts are found
         if timeDelta < 10:
           points = schConfig['STUDENT_SCHEDULE_TIME_CONFLICT']
-        elif timeDelta >= 10 and timeDelta <= 30:
+        elif timeDelta >= 10 and timeDelta <= 45:
           points = schConfig['STUDENT_SCHEDULE_TIME_CONFLICT'] - (timeDelta * schConfig['STUDENT_SCHEDULE_CONFLICT_PER_MIN'])
         if saveReport and points > 0:
           txt = '6 Student Time Conflict %4d Times %4d %4d %s %s\n' %      \
