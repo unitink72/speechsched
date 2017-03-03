@@ -123,7 +123,7 @@ Room 133 Center 2
 
 Radio News RN 5
 Room 134/134A Center 3
-Draw 30 minutes before your performance time!
+##Draw 30 minutes before your performance time!
 830
 837
 844
