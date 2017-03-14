@@ -251,9 +251,9 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
       if 'entry' in session:
         ioLog.msg ('BREAK FILLED %s %d' % (session['room'], session['start']))
 
-      f.write('%s,\"%s\",%4d,,BREAK' % (session['catShort'],      \
-                                        session['room'],          \
-                                        session['start']))
+      f.write('%s,\"%s\",%4d,,BREAK,BREAK' % (session['catShort'],      \
+                                              session['room'],          \
+                                              session['start']))
     else:
       f.write('%s,%s,%4d,%4d' % (session['catShort'],      \
                                  session['room'],          \
