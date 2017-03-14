@@ -241,7 +241,11 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
 
   f = open(os.path.join(outFolder, 'masterSched.csv'), 'w', newline='\r\n')
   #f.write ('Score %d\n' % schedule['score'])
-  f.write ('Category,Room/Center,Start,End,School,Code,Entry#,EntryTitle,Students\n')
+  if cats.isGroupContest():
+    f.write ('Category,Room/Center,Start,End,School,Code,Entry#,EntryTitle,Performers\n')
+  else:
+    f.write ('Category,Room/Center,Start,End,School,Code,Entry#,Performer\n')
+
   for session in schedule['lst']:
     if session['isBreak'] == True:
       if 'entry' in session:
@@ -257,12 +261,18 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
                                  session['end']))
     if 'entry' in session:
       #Quotes screw up csv
-      sessionStr = '\"' + session['entry']['entryTitle'].replace('\"','').replace('\'','') + '\"'
-      f.write(',%s,%s,%d,%s,\"' %                                      \
-             (schoolInf[session['entry']['schoolId']]['name'],       \
-              schoolInf[session['entry']['schoolId']]['code'],       \
-              session['entry']['catSchoolIdx'],                      \
-              sessionStr))
+      if cats.isGroupContest():
+        sessionStr = '\"' + session['entry']['entryTitle'].replace('\"','').replace('\'','') + '\"'
+        f.write(',%s,%s,%d,%s,\"' %                                      \
+               (schoolInf[session['entry']['schoolId']]['name'],       \
+                schoolInf[session['entry']['schoolId']]['code'],       \
+                session['entry']['catSchoolIdx'],                      \
+                sessionStr))
+      else:
+        f.write(',%s,%s,%d,\"' %                                      \
+               (schoolInf[session['entry']['schoolId']]['name'],      \
+                schoolInf[session['entry']['schoolId']]['code'],      \
+                session['entry']['catSchoolIdx']))
 
       #Print student names
       firstStudentName = True
@@ -287,7 +297,11 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
     schoolName = schoolInf[school]['name']
     schoolFileString = schoolName.replace('\\','_').replace('/','_')  #Get rid of slashes
     f = open(os.path.join(bySchoolFolder, schoolFileString + '.txt'), 'w', newline='\r\n')
-    f.write('Room                         Start  End   Cat  # EntryTitle\n')
+    if cats.isGroupContest():
+      f.write('Room                         Start  End   Cat  # EntryTitle\n')
+    else:
+      f.write('Room                         Start  End   Cat  # Performer\n')
+
     sessionList = []
     for session in schedule['lst']:
       if 'entry' in session and session['entry']['schoolId'] == school:
@@ -295,13 +309,18 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
         
     sessionsSorted = sorted(sessionList,  key=itemgetter('start'))
     for session in sessionsSorted:
+      if cats.isGroupContest():
+        grpTitleIndivPerformer = session['entry']['entryTitle']
+      else:
+        grpTitleIndivPerformer = session['entry']['performers'][0]
+
       f.write('%17s  %s  %s %3s  %d %s\n' % \
               (str(session['room'] + ' '*27) [:27],   \
                to12hr(session['start']),              \
                to12hr(session['end']),                \
                session['catShort'],                   \
                session['entry']['catSchoolIdx'],      \
-               session['entry']['entryTitle']))
+               grpTitleIndivPerformer))
     #end session loop
     f.close()
   #end school loop
@@ -316,7 +335,11 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
   for room in roomList:
     roomFileString = str(room).replace('\\','_').replace('/','_')  #Get rid of slashes
     f = open(os.path.join(byRoomFolder, roomFileString + '.txt'), 'w', newline='\r\n')
-    f.write('Cat  School                     Start  End    EntryTitle\n')
+    if cats.isGroupContest():
+      f.write('Cat  School                     Start  End    EntryTitle\n')
+    else:
+      f.write('Cat  School                     Start  End    Performer\n')
+
     sessionList = []
     for session in schedule['lst']:
       if 'entry' in session and session['room'] == room:
@@ -324,28 +347,42 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
     sessionsSorted = sorted(sessionList,  key=itemgetter('start'))
     
     for session in sessionsSorted:
+      if cats.isGroupContest():
+        grpTitleIndivPerformer = session['entry']['entryTitle']
+      else:
+        grpTitleIndivPerformer = session['entry']['performers'][0]
+
       schoolName = schoolInf[session['entry']['schoolId']]['name']
       f.write('%s   %25s  %s  %s  %s\n' %                    \
                (session['catShort'],                         \
                 (schoolName + ' '*25) [:25],                 \
                 to12hr(session['start']),                    \
                 to12hr(session['end']),                      \
-                session['entry']['entryTitle']))
+                grpTitleIndivPerformer))
     f.close()
 
     f = open(os.path.join(byRoomCodedFolder, roomFileString + '.txt'), 'w', newline='\r\n')
-    f.write('Cat   School   Start  End    EntryTitle\n')
+    if cats.isGroupContest():
+      f.write('Cat   School   Start  End    EntryTitle\n')
+    else:
+      f.write('Cat   School   Start  End    Performer\n')
+
     for session in sessionsSorted:
+      if cats.isGroupContest():
+        grpTitleIndivPerformer = session['entry']['entryTitle']
+      else:
+        grpTitleIndivPerformer = session['entry']['performers'][0]
+
       f.write('%3s   %s       %s  %s  %s\n' % 
                (session['catShort'],                              \
                 schoolInf[session['entry']['schoolId']]['code'],  \
                 #(session['entry']['schoolCode'] + ' '*5) [:5],   \
                 to12hr(session['start']),                         \
                 to12hr(session['end']),                           \
-                session['entry']['entryTitle']))
+                grpTitleIndivPerformer))
     f.close()
   #end room loop
-  
+
   #Map from school codes to school names
   schoolNameDict = {}
   for schoolId in schoolList:
