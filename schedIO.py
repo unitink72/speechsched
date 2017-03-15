@@ -286,8 +286,10 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
       f.write(',,\n')   #Time slot is blank
   f.close()
 
-  # Assemble the list of schools scheduled to create the BySchool reports
-  schoolList = []
+  #############################################################################
+  ########################### BySchool ########################################
+  #############################################################################
+  schoolList = []         # Assemble the list of schools scheduled
   for session in schedule['lst']:
     if 'entry' in session and session['entry']['schoolId'] not in schoolList:
       schoolList.append(session['entry']['schoolId'])
@@ -297,36 +299,55 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
     schoolName = schoolInf[school]['name']
     schoolFileString = schoolName.replace('\\','_').replace('/','_')  #Get rid of slashes
     f = open(os.path.join(bySchoolFolder, schoolFileString + '.txt'), 'w', newline='\r\n')
-    if cats.isGroupContest():
-      f.write('Room                         Start  End   Cat  # EntryTitle\n')
-    else:
-      f.write('Room                         Start  End   Cat  # Performer\n')
-
-    sessionList = []
+                                                  
+    sessionList  = []
+    longestTitle = 0
+    longestRoom  = 0
     for session in schedule['lst']:
       if 'entry' in session and session['entry']['schoolId'] == school:
         sessionList.append(session)
-        
+        longestTitle = max(longestTitle, len(session['entry']['entryTitle']))
+        longestRoom  = max(longestRoom, len(session['room']))
+    longestTitle += 1
+    longestRoom  += 1
+
+    if cats.isGroupContest():
+      f.write('Room                         Start  End   Cat  # EntryTitle' + \
+              ' ' * (longestTitle-10) + 'Performers\n')
+    else:
+      f.write('Room                         Start  End   Cat  # Performer\n')
+
     sessionsSorted = sorted(sessionList,  key=itemgetter('start'))
     for session in sessionsSorted:
       if cats.isGroupContest():
-        grpTitleIndivPerformer = session['entry']['entryTitle']
+        grpTitleIndivPerformer = (session['entry']['entryTitle'] + ' '*longestTitle) [:longestTitle]
       else:
         grpTitleIndivPerformer = session['entry']['performers'][0]
 
-      f.write('%17s  %s  %s %3s  %d %s\n' % \
+      f.write('%17s  %s  %s %3s  %d %s' % \
               (str(session['room'] + ' '*27) [:27],   \
                to12hr(session['start']),              \
                to12hr(session['end']),                \
                session['catShort'],                   \
                session['entry']['catSchoolIdx'],      \
                grpTitleIndivPerformer))
+
+      if cats.isGroupContest():        #Print student names
+        firstStudentName = True
+        for studentName in session['entry']['performers']:
+           if not firstStudentName:
+              f.write(',')
+           f.write('%s' % studentName)
+           firstStudentName = False
+      f.write('\n')
     #end session loop
     f.close()
   #end school loop
 
-  # Assemble the list of rooms scheduled to create the ByRoom reports
-  roomList = []
+  #############################################################################
+  ########################### ByRoom ##########################################
+  #############################################################################
+  roomList = []    # Assemble the list of rooms scheduled
   for session in schedule['lst']:
     if 'entry' in session and session['room'] not in roomList:
       roomList.append(session['room'])
@@ -359,6 +380,7 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
                 to12hr(session['start']),                    \
                 to12hr(session['end']),                      \
                 grpTitleIndivPerformer))
+
     f.close()
 
     f = open(os.path.join(byRoomCodedFolder, roomFileString + '.txt'), 'w', newline='\r\n')
