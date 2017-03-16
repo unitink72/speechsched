@@ -210,6 +210,8 @@ def readSessionsFile(fileName):
 #end readSessionsFile #########################################################
 ###############################################################################
 
+
+###############################################################################
 def printSched(schedule, schoolInf, entriesLst, outFolder):
   bySchoolFolder      = os.path.join(outFolder, 'BySchool')
   byRoomFolder        = os.path.join(outFolder, 'ByRoom')
@@ -357,50 +359,81 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
     roomFileString = str(room).replace('\\','_').replace('/','_')  #Get rid of slashes
     f = open(os.path.join(byRoomFolder, roomFileString + '.txt'), 'w', newline='\r\n')
     if cats.isGroupContest():
-      f.write('Cat  School                     Start  End    EntryTitle\n')
+      f.write('Cat  School                     Start  End    Contestant EntryTitle\n')
     else:
-      f.write('Cat  School                     Start  End    Performer\n')
+      f.write('Cat  School                     Start  End    Contestant Performer\n')
 
-    sessionList = []
+    sessionList  = []
     for session in schedule['lst']:
-      if 'entry' in session and session['room'] == room:
+      if session['room'] == room:
         sessionList.append(session)        
     sessionsSorted = sorted(sessionList,  key=itemgetter('start'))
     
+    #Compute performance/contestant numbers
+    prevCatShort = ''
+    perfMajorNum = 1
+    perfMinorNum = 1
+    removeList   = []
     for session in sessionsSorted:
+      #Breaks and empties still in the list
+      if session['isBreak'] == True:
+        perfMajorNum += 1
+        perfMinorNum = 1
+        #sessionsSorted.remove(session)
+      elif 'entry' in session:
+        if session['entry']['catShort'] != prevCatShort:
+          #Check MinorNum != 1 because if a center switches categories it will get
+          #both a break and a category switch at that time
+          if perfMinorNum != 1:
+            perfMajorNum += 1
+            perfMinorNum = 1
+          prevCatShort = session['entry']['catShort']
+
+        session['contestantNum'] = (str(perfMajorNum) + '-' + str(perfMinorNum)).replace(' ','').ljust(10)
+        perfMinorNum += 1
+
+    for session in sessionsSorted:
+      if session['isBreak'] or 'entry' not in session:
+        continue
+
       if cats.isGroupContest():
         grpTitleIndivPerformer = session['entry']['entryTitle']
       else:
         grpTitleIndivPerformer = session['entry']['performers'][0]
 
       schoolName = schoolInf[session['entry']['schoolId']]['name']
-      f.write('%s   %25s  %s  %s  %s\n' %                    \
-               (session['catShort'],                         \
+      f.write('%s  %25s  %s  %s  %s %s\n' %                  \
+               (session['catShort'].ljust(3),                \
                 (schoolName + ' '*25) [:25],                 \
                 to12hr(session['start']),                    \
                 to12hr(session['end']),                      \
+                session['contestantNum'],                    \
                 grpTitleIndivPerformer))
 
     f.close()
 
     f = open(os.path.join(byRoomCodedFolder, roomFileString + '.txt'), 'w', newline='\r\n')
     if cats.isGroupContest():
-      f.write('Cat   School   Start  End    EntryTitle\n')
+      f.write('Cat  School    Start  End    Contestant EntryTitle\n')
     else:
-      f.write('Cat   School   Start  End    Performer\n')
+      f.write('Cat  School    Start  End    Contestant Performer\n')
 
     for session in sessionsSorted:
+      if session['isBreak'] or 'entry' not in session:
+        continue
+
       if cats.isGroupContest():
         grpTitleIndivPerformer = session['entry']['entryTitle']
       else:
         grpTitleIndivPerformer = session['entry']['performers'][0]
 
-      f.write('%3s   %s       %s  %s  %s\n' % 
-               (session['catShort'],                              \
+      f.write('%3s  %s       %s  %s  %s %s\n' %                   \
+               (session['catShort'].ljust(3),                     \
                 schoolInf[session['entry']['schoolId']]['code'],  \
                 #(session['entry']['schoolCode'] + ' '*5) [:5],   \
                 to12hr(session['start']),                         \
                 to12hr(session['end']),                           \
+                session['contestantNum'],                         \
                 grpTitleIndivPerformer))
     f.close()
   #end room loop
