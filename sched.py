@@ -470,6 +470,8 @@ if len(sys.argv) < 2:
 if not os.path.exists(sys.argv[1]):
   sys.exit('ERROR: Job Folder %s was not found!' % sys.argv[1])
 
+dryRunMode = '-dryrun' in sys.argv
+
 randGenMain = random.SystemRandom()
 
 #Setup output folder and Logger for this run
@@ -492,6 +494,9 @@ exec(open(os.path.join(jobFolder,"settings.py")).read(), config)
 for key,value in configRaw:  #For some reason the raw config isnt pickleable
   config[key] = value
 
+if dryRunMode:
+   print ('--++## Dry Run Mode ##++--')
+
 #Tell schedIO and Categories object if we are group or individal.
 if 'G' in config['CONTEST_TYPE'].upper():
   schedIO.setCats('group')
@@ -504,7 +509,7 @@ restrSheetFile   = os.path.join(jobFolder, 'restrSheet.csv')
 schoolCsvFile    = os.path.join(config['MASTER_FILE_PATH'], 'schoolReg.csv')
 schoolExportFile = os.path.join(config['MASTER_FILE_PATH'], 'schoolsExport.csv')
 studentCsvFile   = os.path.join(config['MASTER_FILE_PATH'], 'students.csv')
-  
+
 if not os.path.isfile(sessionsFile):     sys.exit ('Sessions file not found: %s' % sessionsFile)
 if not os.path.isfile(restrSheetFile):   sys.exit ('RestrSheet file not found: %s' % restrSheetFile)
 if not os.path.isfile(schoolCsvFile):    sys.exit ('SchoolCsv file not found: %s' % schoolCsvFile)
@@ -534,7 +539,7 @@ for school in schoolInfo:
 
 #Fill in school address info, force a write to cache.  Clients
 # will read this cache for their distance lookups.
-distMgr = distManager.DistManager(logger,config)
+distMgr = distManager.DistManager(logger,config,dryRunMode)
 for school, data in schoolInfo.items():
   if data['inContest']:
     if data['city']:
@@ -628,6 +633,9 @@ schedIO.printSched (schedule   = rdm[2],                \
                     schoolInf  = schoolInfo,            \
                     entriesLst = entriesList,           \
                     outFolder  = outFolder + '/xx')
+if dryRunMode:
+   logger.msg('Finished dry run')
+   exit()
 
 while True:
   parentsList = findParentSchedules(rdm, jobCurrentSize, randGenMain)
