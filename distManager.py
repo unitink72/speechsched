@@ -2,6 +2,7 @@ from collections import defaultdict
 import drivingTime
 import os
 import pickle
+import random
 
 def formatSch (schoolStr):
   strWidth = 20
@@ -17,7 +18,7 @@ class DistManager:
   _cacheFile = 'schoolDist.cache'
 
 
-  def __init__ (self,logger,config):
+  def __init__ (self,logger,config,dryRunMode):
 
     if os.path.exists(self._cacheFile):
       f = open(self._cacheFile, 'rb')
@@ -32,6 +33,9 @@ class DistManager:
     self.logger       = logger
     self.hostSchool   = 0
     self.allAddrValid = 1
+    self.dryRunMode   = dryRunMode
+    if dryRunMode:
+       self.logger.msg('getDist using RANDOM values from 1-100 for dryrun mode')
   #end __init__
 
 
@@ -108,8 +112,11 @@ class DistManager:
              dist = 0
           else:
              #self.logger.msg('Addr:%s: Addr:%s:)' % (self.schoolAddr[school1],self.schoolAddr[school2]))
-             dist = self.timeFetcher.getDist (self.schoolAddr[school1],     \
-                                              self.schoolAddr[school2])
+             if self.dryRunMode:
+                dist = random.randrange(100)
+             else: 
+                dist = self.timeFetcher.getDist (self.schoolAddr[school1],     \
+                                                 self.schoolAddr[school2])
           
           self.nestedDict[school1][school2] = dist
           self.logger.msg('getDist %s:%s %s %s (%d)' % (school1,         \
@@ -146,8 +153,11 @@ class DistManager:
         (  school1 not in self.nestedDict[school2] or     \
            self.nestedDict[school2][school1] is None ):
 
-          dist = self.timeFetcher.getDist (self.schoolAddr[school1],     \
-                                           self.schoolAddr[school2])
+          if self.dryRunMode:
+             dist = random.randrange(100)
+          else:
+             dist = self.timeFetcher.getDist (self.schoolAddr[school1],     \
+                                              self.schoolAddr[school2])
 
           self.nestedDict[school1][school2] = dist
           self.logger.msg('getDist %s:%s %s %s (%d)' % (school1,         \
