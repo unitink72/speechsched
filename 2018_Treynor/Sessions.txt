@@ -106,6 +106,9 @@ Room 113 Center J
 1015
 1030
 1045 break
+1515
+1530
+1545
 
 TV News TV 12
 Room 113 Center J
@@ -141,21 +144,28 @@ Room 111 Center I
 1100
 1115
 1130 lunch
-1145:00 AM
+1145
 1230
 1245
 1300
 1315
 1330
-1345 break
+1345 
+1359 break
 
-Radio Broadcasting RB
+Radio Broadcasting RB 6
 Room 111 Center I
 1400
 1415
 1430
 1445
+1459 break
 1500
+1515
+1530
+1545
+1559 break
+
 
 Group Improv GI 8
 Room 204 ICN Center A
