@@ -164,7 +164,7 @@ Room 312 Center 4
 1659 break
 
 Readers Theater  RT  25
-Library Center 5
+Room Library Center 5
 800
 830
 859  break
