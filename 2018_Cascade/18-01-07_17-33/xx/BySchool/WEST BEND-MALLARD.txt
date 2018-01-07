@@ -1,3 +1,0 @@
-Room                         Start  End   Cat  # EntryTitlePerformers
-107 Center 4                 11:15  11:25  TV  1 wqrp sam,harold
-107 Center 4                  1:15   1:25  TV  2 abc  gabe,blue

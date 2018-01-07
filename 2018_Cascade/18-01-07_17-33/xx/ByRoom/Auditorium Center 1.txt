@@ -1,9 +1,0 @@
-Cat  School                     Start  End    Contestant EntryTitle
-OA   UNION                       8:00   8:35  1-1        CLUE
-OA   UNION 9TH                   8:45   9:20  1-2        Humpty Dumpty Is Missing!
-OA   WEST DELAWARE               9:30  10:05  2-1        Sending Down the Sparrows
-OA   MAQUOKETA VALLEY           10:15  10:50  2-2        Strong Crazy Ladies
-OA   WESTERN DUBUQUE            11:00  11:35  2-3        This is a Test
-OA   DUBUQUE SENIOR             12:15  12:50  3-1        9 Circles
-OA   CASCADE                     1:00   1:35  3-2        #Viral
-OA   INDEPENDENCE                1:45   2:20  3-3        The Last of Sherlock Holmes

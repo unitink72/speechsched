@@ -1,8 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                              Performers
-107 Center 4                  9:30   9:55  RT  1 The Girl in the Gap                     faith rogers,lila miller,lily hersom,logan newman,sarah collison
-107 Center 4                 10:00  10:10  TV  1 WARZ                                    brandon stanford,chris fuller,christian sattgast,elijah moritz,emma baker,gwen cabalka,miranda franzen,tyson russell
-Music Suite Center 2         10:30  10:40  MT  1 All I Wanna Do is Eat from Disenchanted emma cook,faith rogers,gwen cabalka,kalli hintz,mercedes wilson,sarah collison
-223 Center 8                  2:00   2:08  GI  2 Bullerman/Torre/Miller                  aj bullerman,lila miller,miguel de la torre
-216 Center 5                  3:00   3:06  RB  1 MF1A                                    aj bullerman,braydon ellis,christian sattgast,emma cook,jasmyne riniker,jon stanford,mercedes wilson,miguel de la torre
-223 Center 8                  3:30   3:38  GI  1 Crawford/Ellis/Fuller                   braydon ellis,chris fuller,logan crawford
-222 Center 7                  3:45   3:52  SF  1 TBD SF1                                 carmella coleman,elijah moritz,hope moses,jasmyne riniker,lauren james,logan newman,vaughn coleman
