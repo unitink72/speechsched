@@ -1,0 +1,5 @@
+Room                         Start  End   Cat  # EntryTitle                        Performers
+107 Center 4                  9:00   9:25  RT  1 THS PHNE 2.0: The Next Generation carson kirby,kirstyn payne,harrison underwood,jenna ries,mariah zittergruen,emma ehlers,maddison barnhart
+Music Suite Center 2          1:00   1:15  CR  1 Make It STOP                      anna dolan,payton rochford,nick bockenstedt,maddy streicher,delaney bergan,bailee helle,kelsi askeland,ethan streicher,alex schmitz,erica voss,kearstin hansel,mia kelzer,morgan vorwald,natalie palmersheim
+220 Center 6                  2:10   2:25  EA  1 The Cure                          ethan staner,kenzie bockenstedt,rose heuchelin,carson kirby
+227 Center 10                 3:20   3:30  RB  1 HAWK                              dayne bergan,ethan streicher, dinara abdikadyr,morgan vorwald,kearstin hansel

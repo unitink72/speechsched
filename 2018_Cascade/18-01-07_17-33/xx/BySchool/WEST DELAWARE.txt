@@ -1,0 +1,21 @@
+Room                         Start  End   Cat  # EntryTitle                                 Performers
+222 Center 7                  9:10   9:17  GM  3 Jeopar-Fortune: Sponsored by OxiTide       chloe wilson,ethan glick,leah phillipp,sydney bolsinger
+223 Center 8                  9:10   9:18  GI  2 Litterer, Andregg, Neuzil, Ponsar          adam andregg,ben litterer,olivia neuzil,zoey ponsar
+Auditorium Center 1           9:30  10:05  OA  1 Sending Down the Sparrows                  alex zumbach,allison collier,ashlee vick,holden smith,joey sunne,justin miester,karley vantheemsche,kendra offerman,kennedy niles,max weber,noah crumpton,sarah weber,zoey ponsar
+223 Center 8                  9:30   9:38  GI  1 Crumpton, LaRosa, Ostrander, Kehrli, Reiss caleb kehrli,emily larosa,grace reiss,noah crumpton,parker ostrander
+Music Suite Center 2         10:00  10:10  MT  1 Legally Blonde                             annika sutter,chloe wilson,mariah seeley,paris schaul
+222 Center 7                 10:10  10:17  GM  1 The Ride                                   hannah albrecht,kaleah carter,madison hanson
+223 Center 8                 10:20  10:28  GI  3 Vaske, Haight, Scherbring, Cook, Lopez     aleah vaske,amber cook,kelley scherbring,laia lopez,rachel haight
+222 Center 7                 10:30  10:37  GM  2 Rieken/Cook Mime                           addy rieken,hayley cook
+100/ Library Center 3        12:30  12:55  RT  1 13 Reasons Why                             colby samuelson,dakota waterhouse,daniel meissner,jacob vaske,kaleah carter,kaliah griffin,kolin wright,leah phillipp,malena grummitt,paris schaul,victoria harris
+220 Center 6                 12:30  12:35  SM  2 Mommy's Here                               annika sutter
+220 Center 6                 12:40  12:45  SM  1 Don't Bite Off More Than You Can Chew      gracie weeks
+222 Center 7                  1:15   1:22  SF  1 Second Chance                              andrea salow,bailey beckman,cole turnis,kendra offerman,laia lopez,tyler salow
+223 Center 9                  1:40   1:55  EA  3 Regina Flector Wins the Science Fair       emily larosa,isabel barron,justin grawe,leah wegmann
+107 Center 4                  1:45   1:55  TV  1 AWU                                        addy rieken,colby samuelson,emma dunkel,gracie weeks,jacob vaske,jaeden davis,justin miester,karley vantheemsche,kyle edwards,nolan monaghan,tyler salow
+223 Center 9                  2:00   2:15  EA  2 Tickets, Please                            amber cook,bryonna rodgers
+100/ Library Center 3         2:30   2:45  CR  1 You Should Date an Illiterate Girl         alex zumbach,bailey beckman,ethan glick,ethan opitz,gabby schuman,grant schnieders,isabel barron,isabelle willey,justin grawe,kaylee muller,kelley scherbring,kennedy niles,rachel haight
+227 Center 10                 2:30   2:40  RB  2 K-OLD                                      ashlee vick,dakota waterhouse,emma dunkel,gabby schuman,kyle edwards,madison hanson,victoria harris
+222 Center 7                  2:30   2:37  SF  2 The Cloffice                               ben litterer,caleb kehrli,holden smith,joey sunne,leah wegmann,mariah seeley,parker ostrander
+223 Center 9                  3:40   3:55  EA  1 Table for Four                             adam andregg,grace reiss,max weber,olivia neuzil
+227 Center 10                 4:00   4:10  RB  1 KRIP                                       ethan opitz,hayley cook,isabelle willey,kaliah griffin,kaylee muller,malena grummitt,nolan monaghan,sarah weber

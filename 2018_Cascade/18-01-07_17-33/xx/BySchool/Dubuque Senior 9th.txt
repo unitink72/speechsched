@@ -1,0 +1,9 @@
+Room                         Start  End   Cat  # EntryTitle                         Performers
+220 Center 6                  8:20   8:35  EA  1 The Whole Shebang                  max enabnit,kate farnum,abbie geers,izzy gorton,maria markus,harrison tompkins
+100/ Library Center 3         8:30   8:55  RT  1 Through the Looking-Glass          jacob brimeyer,elizabeth mcauliffe,jackson mulgrew,cecilia oberdoerster,riley o'donnell,cassie williams
+Music Suite Center 2          8:35   8:50  CR  1 The Day the Crayons Quit           madison herrig,julia howes,evelyn jenkins,emma kelsey,rebecca may,morgan mcclain,lyden michels,cora mills,molly norton,brooke poll,john pope,olivia reinert,alyssa seyer,hannah smith
+222 Center 7                  9:20   9:27  GM  1 Pilot Error                        matt gunn,abigail klapatauskas,aleeyah kreiss,eva wood
+220 Center 6                 10:30  10:35  SM  1 Sick or Slacker?                   emma kelsey
+223 Center 8                 12:20  12:28  GI  1 Geers/Lawless/Mulgrew/Oberdoerster abbie geers,will lawless,jackson mulgrew,cecilia oberdoerster
+Music Suite Center 2          3:00   3:10  MT  1 13 - The Musical                   max enabnit,izzy gorton,matt gun,will lawless,maria markus,riley o'donnell,harrison tompkins,cassie williams
+222 Center 7                  4:15   4:22  SF  1 The Lumberjack                     isabella garcia,gavin hall,payton kizer,audrey kosel,lyden michels,molly norton,cali rampton,sairah ruh,taylor starkey,eli weidemann,anna witthoeft

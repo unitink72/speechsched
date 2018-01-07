@@ -1,0 +1,10 @@
+Room                         Start  End   Cat  # EntryTitle               Performers
+220 Center 6                  9:40   9:55  EA  2 An Apple A Day           faith ohrt,rachel clayberg
+222 Center 7                  9:40   9:47  GM  1 The Frozen Duel          payton ruckdashel,alexus jensen,rhianna bigwood
+107 Center 4                 10:30  10:40  TV  1 KCXL                     tanner cole,taveon sullark,brodie kresser,brady dahl,jase pilcher
+Music Suite Center 2         11:40  11:55  CR  1 The Real High School     jenna tolle,sarah burke,payton ruckdashel,madison landcaster,bailey federspiel,zoe rottinghaus,alyssa hoey,kristin hoey
+222 Center 7                  1:00   1:07  SF  1 The Great Train Robbery  courtney kauffman,destiny hale,luke vanbrocklin,mackenzie lorenz,anna sweeney,mirrisa mashek
+223 Center 9                  1:20   1:35  EA  1 From the Mouths of Babes jenna tolle,alex moore,ethan backes,sydney andrews
+220 Center 6                  1:50   2:05  EA  3 The Good, Old Days       haliegh richter,camrin moore,carley pint,kaleh perez
+216 Center 5                  2:50   2:56  RB  1 BKFD                     mirrisa mashek,dylan roth,destiny hale,akela warm,kristin sadler,courtney kauffman,mackenzie lorenz
+107 Center 4                  3:15   3:40  RT  1 Just Like I Wanted       brady dahl,alyssa hoey,kristin hoey,haliegh richter,bailey federspiel,noa marting,madison landcaster,zoe rottinghaus,tanner cole,jase pilcher

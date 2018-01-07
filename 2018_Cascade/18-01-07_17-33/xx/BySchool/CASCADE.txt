@@ -1,0 +1,14 @@
+Room                         Start  End   Cat  # EntryTitle                             Performers
+100/ Library Center 3         8:00   8:25  RT  1 Aesop's Fables Redux                   alexis shaffer,brianna ostwinkle,brittany koppes,cade brouwer,emma sanders,gavin foust-wollenberg,isabelle fransen,kate manternach,madeline rhomberg,morgan staner,shannon rogers,tori freiburger
+Music Suite Center 2          8:15   8:30  CR  1 Changing the World, One Word at a Time anna finzel,ashley lyons,chloe geerts,danejia lobdell,faith blakeman,maddie weber,marcella bruns,morgan staner
+220 Center 6                  9:20   9:35  EA  1 If Men Played Cards like Women Do      derek koppes,evan knipper,gannon o'brien,luke bertling
+222 Center 7                 10:40  10:47  GM  1 Batty Bed Making                       kiley callahan,sidney burns
+Music Suite Center 2         11:00  11:10  MT  1 Legally Blonde                         chloe geerts,elizabeth knepper,taylor waller
+223 Center 8                 11:10  11:18  GI  1 Curoe/Gehl/Redmond                     liam curoe,madison gehl,mitchell redmond
+222 Center 7                 12:30  12:37  SF  2 Promise                                elizabeth knepper
+Auditorium Center 1           1:00   1:35  OA  1 #Viral                                 brianna ostwinkle,brittany koppes,caleb weber,holly beringer,john trumm,kate manternach,marcella bruns,natalie recker,nathan knepper,rachel merritt,robyn takes,shannon rogers,taylor hogan,tonya menke,will otting
+Music Suite Center 2          2:45   2:55  MT  2 Guys and Dolls                         danejia lobdell,evan knipper,gavin foust-wollenberg,holly beringer,madeline ludwig,rachel merritt,zach green
+227 Center 10                 3:00   3:10  RB  1 KTMB - The Morning Babble              cade wessels,carter simon,will otting
+222 Center 7                  3:00   3:07  SF  1 Two Steps Behind                       cade brouwer,caleb weber,cheyanne caldwell,taylee o'brien
+223 Center 9                  3:20   3:35  EA  2 Drugs are Bad                          liam curoe,maddie weber,mitchell redmond
+216 Center 5                  3:40   3:46  RB  2 WTAG - The Hog: Where there's No Bull  austin sanders,john trumm,nick welter

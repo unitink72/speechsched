@@ -1,0 +1,17 @@
+Cat  School    Start  End    Contestant EntryTitle
+RT   380        8:00   8:25  1-1        Aesop's Fables Redux
+RT   611        8:30   8:55  1-2        Through the Looking-Glass
+RT   502        9:00   9:25  2-1        The Legend of Slappy Hopper
+RT   168        9:30   9:55  2-2        Death by Public Speaking
+RT   978       10:00  10:25  3-1        Take Me Out to the Ballgame
+RT   551       10:30  10:55  3-2        Jack vs. Jill
+RT   673       11:00  11:25  4-1        Lip Service
+RT   765       11:30  11:55  4-2        The Seusification of Romeo and Juliet
+RT   808       12:30  12:55  5-1        13 Reasons Why
+RT   841        1:00   1:25  5-2        The Adventures of Sherlock Holmes
+RT   872        1:30   1:55  6-1        The Brothers Grimm Spectaculathon
+RT   323        2:00   2:25  6-2        If Only
+CR   808        2:30   2:45  7-1        You Should Date an Illiterate Girl
+CR   444        2:50   3:05  7-2        Hate
+CR   841        3:30   3:45  7-3        Death vs. Life
+CR   716        3:50   4:05  7-4        A Girls Guide to A Great High School Life

@@ -1,0 +1,6 @@
+Room                         Start  End   Cat  # EntryTitle                                 Performers
+223 Center 9                  8:40   8:55  EA  1 God's Favorite                             hannah o'connell,ellie magee
+223 Center 9                 12:40  12:55  EA  2 Pimples and Other Distractions             brooke best,jade roquet,will fettkether
+223 Center 8                  2:20   2:28  GI  1 Michels/Fettkether                         will fettkether,carter michels
+100/ Library Center 3         2:50   3:05  CR  1 Hate                                       alicia wilder,kayli finck,hannah o'connell,brooke best,abbi treichel,melissa boner
+107 Center 4                  3:45   4:10  RT  1 The Complete History of America (abridged) alicia wilder,ellie magee,melissa boner,julianna neff,caitlyn russell,jade roquet

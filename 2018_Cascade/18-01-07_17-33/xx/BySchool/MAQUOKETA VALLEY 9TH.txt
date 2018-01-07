@@ -1,0 +1,9 @@
+Room                         Start  End   Cat  # EntryTitle                         Performers
+220 Center 6                 10:00  10:15  EA  1 Let's Go Already                   andrew kloser,madeline gellersen
+100/ Library Center 3        10:30  10:55  RT  1 Jack vs. Jill                      andrew holtz,andrew kloser,ella imler,krista ries,miguel bojorquez,payton beaman,reece mensen,teige hunt
+222 Center 7                 11:10  11:17  GM  1 The Good, the Bad, the Ugly        kailene chen,kim sellner,paige panosh,zoey mulford
+223 Center 8                 11:20  11:28  GI  2 Krapfl/Johnson/Mulford             claire krapfl,logan johnson,zoey mulford
+Music Suite Center 2         12:00  12:15  CR  1 Peanut Butter & Jelly Brains       allie dunn,annisten trenkamp,claire krapfl,ella imler,emerson whittenbaugh,krista ries,mitch heims,reece mensen,sarah goedken,tara goedken,taya tucker,teige hunt
+216 Center 5                  2:40   2:46  RB  2 96.8 BABY                          abbie sheehy,kim sellner,payton beaman,sarah goedken
+216 Center 5                  3:10   3:16  RB  1 108.3 CSWC                         emerson whittenbaugh,logan johnson,owen mensen,taya tucker,zach digman
+223 Center 8                  3:45   3:53  GI  1 Trenkamp/Bojorquez/Panosh/Offerman annisten trenkamp,miguel bojorquez,paige panosh,tony offerman

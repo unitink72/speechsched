@@ -1,0 +1,50 @@
+07 17:32:38 -- Begin Sessions File Report --
+07 17:32:38 Loaded 214 sessions 54 breaks
+07 17:32:38 CR   14 Sessions  4 Breaks
+07 17:32:38 RB   20 Sessions  4 Breaks
+07 17:32:38 TV   13 Sessions  4 Breaks
+07 17:32:38 GI   37 Sessions  8 Breaks
+07 17:32:38 RT   20 Sessions 10 Breaks
+07 17:32:38 OA    8 Sessions  3 Breaks
+07 17:32:38 EA   37 Sessions  8 Breaks
+07 17:32:38 MT   16 Sessions  5 Breaks
+07 17:32:38 GM   20 Sessions  4 Breaks
+07 17:32:38 SF   16 Sessions  3 Breaks
+07 17:32:38 SM   13 Sessions  1 Breaks
+07 17:32:38 -- End Sessions File Report --
+07 17:32:38 Loaded 22 schools, 204 entries
+07 17:32:38 204 in contest after reading RestrSheet
+07 17:32:38 Contest entries per category:
+07 17:32:38 CR : 13
+07 17:32:38 RB : 19
+07 17:32:38 TV : 14
+07 17:32:38 GI : 33
+07 17:32:38 RT : 19
+07 17:32:38 OA : 8
+07 17:32:38 EA : 36
+07 17:32:38 MT : 16
+07 17:32:38 GM : 18
+07 17:32:38 SF : 16
+07 17:32:38 SM : 12
+07 17:32:38 getDist using RANDOM values from 1-100 for dryrun mode
+07 17:32:38 getDist 656:473 JESUP,IA             CASCADE,IA           (67)
+07 17:32:38 getDist 913:473 WEST BEND,IA         CASCADE,IA           (69)
+07 17:32:38 getDist 917:473 MANCHESTER,IA        CASCADE,IA           (39)
+07 17:32:38 getDist 918:473 MANCHESTER,IA        CASCADE,IA           (20)
+07 17:32:38 getDist 473:1049 CASCADE,IA           ARLINGTON,IA         (68)
+07 17:32:38 getDist 474:473 CASCADE,IA           CASCADE,IA           (47)
+07 17:32:38 getDist 862:473 ARLINGTON,IA         CASCADE,IA           (69)
+07 17:32:38 getDist 933:473 EPWORTH,IA           CASCADE,IA           (30)
+07 17:32:38 getDist 977:473 DUBUQUE,IA           CASCADE,IA           (43)
+07 17:32:38 getDist 639:473 INDEPENDENCE,IA      CASCADE,IA           (9)
+07 17:32:38 getDist 555:473 GILBERTVILLE,IA      CASCADE,IA           (32)
+07 17:32:38 getDist 557:473 DUBUQUE,IA           CASCADE,IA           (40)
+07 17:32:38 getDist 559:473 DUBUQUE,IA           CASCADE,IA           (99)
+07 17:32:38 getDist 561:473 DUNKERTON,IA         CASCADE,IA           (74)
+07 17:32:38 getDist 882:473 LA PORTE CITY,IA     CASCADE,IA           (31)
+07 17:32:38 getDist 883:473 LA PORTE CITY,IA     CASCADE,IA           (5)
+07 17:32:38 getDist 567:473 WINTHROP,IA          CASCADE,IA           (9)
+07 17:32:38 getDist 699:473 DELHI,IA             CASCADE,IA           (13)
+07 17:32:38 getDist 700:473 DLEHI,IA             CASCADE,IA           (12)
+07 17:32:38 getDist 574:473 EDGEWOOD,IA          CASCADE,IA           (16)
+07 17:32:38 getDist 511:473 GUTTENBERG,IA        CASCADE,IA           (66)

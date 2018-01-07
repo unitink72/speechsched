@@ -1,0 +1,5 @@
+Room                         Start  End   Cat  # EntryTitle               Performers
+100/ Library Center 3         9:30   9:55  RT  1 Death by Public Speaking anna hamlett,amanda becker,gabrielle willfong,hailey bergfeld,quynci swales,nattie genkinger
+223 Center 8                  1:00   1:08  GI  1 Group Improv 1           raquel rosburg,ethan smith
+107 Center 4                  2:00   2:10  TV  1 TBD                      anne carbone barbosa,vienna baumgartner,nattie genkinger,gabrielle willfong,anna hamlett,raquel rosburg
+222 Center 7                  2:45   2:52  SF  1 TBD                      anne carbone barbosa,vienna baumgartner,meredith groth

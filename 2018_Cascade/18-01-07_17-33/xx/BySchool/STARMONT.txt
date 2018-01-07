@@ -1,0 +1,12 @@
+Room                         Start  End   Cat  # EntryTitle                        Performers
+223 Center 9                  8:00   8:15  EA  2 The Last Can                      brandon becker,callan willie
+223 Center 9                  9:00   9:15  EA  1 Psychiatry in a Can               gabrielle moellers,grace marie smith
+222 Center 7                  9:00   9:07  GM  1 TBD                               ashley powers,aylee pope,bianca malone
+223 Center 9                 10:40  10:55  EA  3 Organ Recital                     anna minchk,elizabeth kirby,henry hahn,rylee zobac
+220 Center 6                 11:00  11:05  SM  1 TBD                               maire powell
+100/ Library Center 3         1:00   1:25  RT  1 The Adventures of Sherlock Holmes amber taylor,anna minchk,ashley powers,aylee pope,elizabeth kirby,kalyn mctaggart,rylee zobac
+107 Center 4                  1:00   1:10  TV  1 TBD                               carson willie,dillon piper,quinn o'brien
+222 Center 7                  1:45   1:52  SF  1 TBD                               brady fettkether,caleb wittman,clayton smith,dillon piper,gabrielle moellers,grace marie smith
+100/ Library Center 3         3:30   3:45  CR  1 Death vs. Life                    adrianne hickson,amber taylor,audry goedken,camryn oakes,isabel johanns,kalyn mctaggart,paige goedken,sharai gonzalez
+Music Suite Center 2          3:30   3:40  MT  1 Rent                              adrianne hickson,audry goedken,camryn oakes,henry hahn,maire powell,meredith tucker
+223 Center 8                  4:00   4:08  GI  1 Improv 1                          caleb wittman,carson willie,meredith tucker,quinn o'brien

@@ -1,0 +1,15 @@
+Room                         Start  End   Cat  # EntryTitle                               Performers
+220 Center 6                  8:00   8:15  EA  3 The Accident                             brian smith,catherine lake,dylan erdelt,josie fischels,marissa robinson,tucker chorpening
+Music Suite Center 2         10:45  10:55  MT  1 Next to Normal                           allie broughton,caleb shonk,emma hansen,josie fischels,kelby durin
+107 Center 4                 10:45  10:55  TV  1 CJSE                                     caleb kilby,esha jayswall,jerome stivers,sophia meador
+223 Center 8                 11:00  11:08  GI  1 Burns, C. Shonk, B. Smith                brian smith,caleb shonk,jacob burns
+220 Center 6                 11:20  11:25  SM  1 Sneaky Ninja                             sydney naylor
+223 Center 8                  1:10   1:18  GI  3 Whited, J. Smith, R. Shonk               jazlyn smith,rachel shonk,will whited
+100/ Library Center 3         1:30   1:55  RT  1 The Brothers Grimm Spectaculathon        dylan erdelt,esha jayswal,karlie michael,makenzie homan,marissa robinson,michaela reed,peyton kohrs,rachel shonk,sophia meador,sydney naylor,tucker chorpening
+Auditorium Center 1           1:45   2:20  OA  1 The Last of Sherlock Holmes              allie broughton,catherine lake,jacob burns,kira reed
+Music Suite Center 2          2:15   2:25  MT  3 HairSpray                                ana beatty,jo dawson,megan corkery,savannah astlford
+223 Center 9                  2:20   2:35  EA  1 10 Ways to Survive the Zombie Apocalypse faith oien,jazlyn smith,karlie michael,molly rothman,peyton kohrs,will whited
+Music Suite Center 2          2:30   2:40  MT  2 Cell Block Tango                         jenavieve grover,jenna smith,kira reed,michaela reed,molly rothman,taylor justason
+220 Center 6                  2:30   2:45  EA  2 It's Not You, It's Me                    cullen anderson,emma hansen,jenna smith,makenzie homan
+227 Center 10                 3:10   3:20  RB  1 C2CJ                                     caleb kilby,caleb kremer,cullen anderson,jerome stivers
+223 Center 8                  3:15   3:23  GI  2 Kruger, Kremer, Grover                   caleb kremer,cora kruger,jenavieve grover
