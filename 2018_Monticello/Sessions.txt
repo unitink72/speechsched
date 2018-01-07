@@ -163,7 +163,7 @@ Room 312 Center 4
 1650
 1659 break
 
-Reader's Theater  RT  25
+Readers Theater  RT  25
 Library Center 5
 800
 830
@@ -190,7 +190,7 @@ Library Center 5
 1630
 1659  break
 
-Reader's Theater  RT  25
+Readers Theater  RT  25
 Room 373 Center 6
 800
 830
