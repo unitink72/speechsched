@@ -1,0 +1,11 @@
+Room                         Start  End   Cat  # EntryTitle                              Performers
+301 Center 1                  8:30   8:45  EA  2 Break Fast                              angela graf,austin dougherty,vanessa kotouc
+430 Center 12                 8:50   8:55  SM  1 TBD                                     molly cummings
+377 Center 7                  9:15   9:30  EA  3 The Blueberry Hill Accord               brooklyn peterson,emma hearn
+303 Center 3                  9:40   9:46  SF  2 TBD                                     emmet cummings
+301 Center 1                 10:00  10:15  EA  1 Drugs are Bad                           chad bryant,maggie burke,noah dierks
+303 Center 3                 11:00  11:06  SF  1 TBD                                     brandon drier,jack anstoetter,jed wyse,jj von sprecken,mitchell mccauley,ryan kapfer
+Library Center 5              1:00   1:25  RT  1 13 Ways to Screw Up a College Interview alexa coller,brooklyn peterson,caitlyn beals,emma hearn,faith maue,grace willms,macy overturf,sara stephens,taylor kastli
+312 Center 4                  1:20   1:28  GI  1 Bryant, Burke, Randall                  chad bryant,maggie burke,michael randall
+312 Center 4                  1:40   1:48  GI  2 Cummings                                emmet cummings,molly cummings
+312 Center 4                  3:10   3:18  GI  3 Drier, Kapfer, Miller, Niec             brandon drier,matthew niec,ryan kapfer,tristen miller

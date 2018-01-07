@@ -1,0 +1,13 @@
+Room                         Start  End   Cat  # EntryTitle                                 Performers
+377 Center 7                  8:45   9:00  EA  2 Keeping Score                              emily schultz,faith venenga,natalie ott,renae hasselbusch
+430 Center 12                 9:00   9:07  GM  1 Under the Influence                        brayton frey,faith venenga,grace clark,bryce clausen
+Band Room Center 10           9:15   9:30  CR  1 How Did You Love?                          katelyn decious,emily davis,rachel ross,grace morningstar,cody techau,trey holets,sam bennett,emma bock,emily schultz,bailey svatosch,hannah neymeyer,alyssa jubeck,jordan juett
+312 Center 4                  9:20   9:28  GI  1 Brooks                                     garrett brooks,zane ralls,eliza carter,cassie kay ross,alyssa jubeck
+430 Center 12                 9:20   9:27  GM  2 Window Box                                 cayla richardson,olivia hasselmann,brynnley baxa,jenna awbrey
+377 Center 7                  9:30   9:45  EA  3 Breaking News                              emma bock,eliza carter,ben larson,tyler vanous,bryce clausen
+Choir Room Center 11          9:48   9:58  MT  2 Band Geeks                                 jordan juett,cody techau,trey holets,ben larson,zane ralls,tyler vanous
+430 Center 12                10:20  10:25  SM  1 Enough!                                    kiah kilburg
+430 Center 12                11:40  11:47  GM  3 Camping Catastrophe                        natalie ott,sam bennett
+303 Center 3                 11:50  11:56  SF  1 TBA                                        sam schrantz,grace morningstar,bailey svatosch,grace clark,hannah neymeyer,emily davis,hannah sperfslage,thatcher krob,brayton frey,jenna awbrey
+Choir Room Center 11          2:15   2:25  MT  1 The 25th Annual Putnam County Spelling Bee garrett herring,abbie larson,renae hasselbusch,chris cannon,cayla richardson
+377 Center 7                  3:15   3:30  EA  1 Almost                                     abbie larson,garrett herring

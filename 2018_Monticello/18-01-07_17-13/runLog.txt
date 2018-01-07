@@ -1,0 +1,64 @@
+07 17:13:20 -- Begin Sessions File Report --
+07 17:13:20 Loaded 364 sessions 91 breaks
+07 17:13:20 RB   23 Sessions  5 Breaks
+07 17:13:20 MT   54 Sessions 12 Breaks
+07 17:13:20 TV   16 Sessions  5 Breaks
+07 17:13:20 RT   32 Sessions 16 Breaks
+07 17:13:20 CR   17 Sessions  4 Breaks
+07 17:13:20 GI   66 Sessions 11 Breaks
+07 17:13:20 SM   24 Sessions  5 Breaks
+07 17:13:20 GM   25 Sessions  4 Breaks
+07 17:13:20 SF   30 Sessions  5 Breaks
+07 17:13:20 OA   13 Sessions  8 Breaks
+07 17:13:20 EA   64 Sessions 16 Breaks
+07 17:13:20 -- End Sessions File Report --
+07 17:13:20 Loaded 34 schools, 311 entries
+07 17:13:20 311 in contest after reading RestrSheet
+07 17:13:20 Contest entries per category:
+07 17:13:20 RB : 22
+07 17:13:20 MT : 38
+07 17:13:20 TV : 16
+07 17:13:20 RT : 21
+07 17:13:20 CR : 17
+07 17:13:20 GI : 62
+07 17:13:20 SM : 16
+07 17:13:20 GM : 20
+07 17:13:20 SF : 30
+07 17:13:20 OA : 13
+07 17:13:20 EA : 56
+07 17:13:20 getDist using RANDOM values from 1-100 for dryrun mode
+07 17:13:20 getDist 969:723 Marion,IA            MONTICELLO,IA        (21)
+07 17:13:20 getDist 759:723 TROY MILLS,IA        MONTICELLO,IA        (5)
+07 17:13:20 getDist 974:723 MOUNT VERNON,IA      MONTICELLO,IA        (29)
+07 17:13:20 getDist 723:416 MONTICELLO,IA        ALBURNETT,IA         (85)
+07 17:13:20 getDist 723:480 MONTICELLO,IA        CEDAR RAPIDS,IA      (98)
+07 17:13:20 getDist 723:482 MONTICELLO,IA        CEDAR RAPIDS,IA      (63)
+07 17:13:20 getDist 723:483 MONTICELLO,IA        CEDAR RAPIDS,IA      (24)
+07 17:13:20 getDist 723:484 MONTICELLO,IA        CEDAR RAPIDS,IA      (47)
+07 17:13:20 getDist 723:485 MONTICELLO,IA        CENTER POINT,IA      (77)
+07 17:13:20 getDist 723:481 MONTICELLO,IA        CEDAR RAPIDS,IA      (92)
+07 17:13:20 getDist 723:489 MONTICELLO,IA        CENTRAL CITY,IA      (53)
+07 17:13:20 getDist 723:490 MONTICELLO,IA        DE WITT,IA           (17)
+07 17:13:20 getDist 723:491 MONTICELLO,IA        DE WITT,IA           (60)
+07 17:13:20 getDist 723:717 MONTICELLO,IA        WYOMING,IA           (17)
+07 17:13:20 getDist 723:466 MONTICELLO,IA        WHEATLAND,IA         (6)
+07 17:13:20 getDist 723:469 MONTICELLO,IA        CAMANCHE,IA          (15)
+07 17:13:20 getDist 723:681 MONTICELLO,IA        LISBON,IA            (55)
+07 17:13:20 getDist 723:697 MONTICELLO,IA        MAQUOKETA,IA         (92)
+07 17:13:20 getDist 723:447 MONTICELLO,IA        BELLEVUE,IA          (13)
+07 17:13:20 getDist 723:446 MONTICELLO,IA        BELLEVUE,IA          (68)
+07 17:13:20 getDist 723:703 MONTICELLO,IA        MARION,IA            (74)
+07 17:13:20 getDist 724:723 MONTICELLO,IA        MONTICELLO,IA        (79)
+07 17:13:20 getDist 761:723 GOOSE LAKE,IA        MONTICELLO,IA        (77)
+07 17:13:20 getDist 793:723 CLINTON,IA           MONTICELLO,IA        (80)
+07 17:13:20 getDist 859:723 SPRINGVILLE,IA       MONTICELLO,IA        (93)
+07 17:13:20 getDist 732:723 MOUNT VERNON,IA      MONTICELLO,IA        (35)
+07 17:13:20 getDist 1017:723 cedar Rapids,IA      MONTICELLO,IA        (12)
+07 17:13:20 getDist 978:723 Camanche,IA          MONTICELLO,IA        (17)
+07 17:13:20 getDist 1021:723 PRESTON,IA           MONTICELLO,IA        (43)
+07 17:13:20 getDist 1014:723 CEDAR RAPIDS,IA      MONTICELLO,IA        (23)
+07 17:13:20 getDist 1018:723 CEDAR RAPIDS,IA      MONTICELLO,IA        (26)
+07 17:13:20 getDist 746:723 STANWOOD,IA          MONTICELLO,IA        (91)
+07 17:13:21 Start Main Loop
+07 17:13:21 +++ Printing current best of 836610
+07 17:13:21 Finished dry run

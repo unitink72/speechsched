@@ -1,0 +1,31 @@
+Cat  School                     Start  End    Contestant EntryTitle
+SF   CEDAR RAPIDS WASHINGTON     8:00   8:06  1-1        Mary and Izzie
+SF   Cedar Valley Christian Hi   8:10   8:16  1-2        Choices
+SF   MONTICELLO                  8:20   8:26  1-3        A New Beginning
+SF   LINN-MAR 9th                8:30   8:36  1-4        TBA
+SF   MOUNT VERNON                8:40   8:46  1-5        Pause, Play, Pause
+SF   LINN-MAR 9th                8:50   8:56  1-6        Chance
+SF   MARION                      9:00   9:06  2-1        TBA
+SF   CENTRAL DEWITT 9TH          9:10   9:16  2-2        Insecurities
+SF   CEDAR RAPIDS WASHINGTON     9:20   9:26  2-3        A.D.
+SF   NORTHEAST COMMUNITY         9:30   9:36  2-4        A Broken Mind
+SF   CENTER POINT-URBANA         9:40   9:46  2-5        TBD
+SF   CALAMUS-WHEATLAND           9:50   9:56  2-6        TBD  - Olson
+SF   CEDAR RAPIDS PRAIRIE       10:00  10:06  3-1        Dear Mom
+SF   CEDAR RAPIDS KENNEDY       10:10  10:16  3-2        Clockwork
+SF   CEDAR RAPIDS KENNEDY       10:20  10:26  3-3        Paige's Story
+SF   SPRINGVILLE                10:30  10:36  3-4        The Decline and Fall of the Talk Show Host
+SF   SPRINGVILLE                10:40  10:46  3-5        Confrontation in the Internet Age
+SF   CEDAR RAPIDS KENNEDY 9TH   10:50  10:56  3-6        Tomorrow
+SF   CENTER POINT-URBANA        11:00  11:06  4-1        TBD
+SF   MOUNT VERNON               11:10  11:16  4-2        Shopping Code
+SF   MONTICELLO                 11:20  11:26  4-3        Too Late
+SF   CENTRAL DEWITT             11:30  11:36  4-4        Prisoner #1776
+SF   MAQUOKETA                  11:40  11:46  4-5        Shop to the Future
+SF   LISBON                     11:50  11:56  4-6        TBA
+SF   CALAMUS-WHEATLAND           1:00   1:06  5-1        It Could Have Been You
+SF   LINN-MAR 9th                1:10   1:16  5-2        The Room
+SF   CEDAR RAPIDS PRAIRIE        1:20   1:26  5-3        Chess Game of Life
+SF   NORTHEAST COMMUNITY         1:30   1:36  5-4        Don't Worry About It
+SF   CENTRAL DEWITT              1:40   1:46  5-5        The Oreo Ordeal
+SF   CEDAR RAPIDS XAVIER         1:50   1:56  5-6        Exposed!

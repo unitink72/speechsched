@@ -1,0 +1,5 @@
+Room                         Start  End   Cat  # EntryTitle               Performers
+Choir Room Center 11          8:00   8:10  MT  1 Agony                    henry dehaan,kyle holmes
+346 Center 8                  8:50   8:56  RB  1 KEAT                     grant olson,hunter manatt,jacob vance,koal bossom
+303 Center 3                  9:10   9:16  SF  1 Insecurities             annabelle schneider,bethany witt,brynn vanhorn,ella boomershine,emilie butler,kami zeimet
+430 Center 12                 1:30   1:35  SM  1 Night Routine Gone Wrong krystina francks

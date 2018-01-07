@@ -1,0 +1,11 @@
+Room                         Start  End   Cat  # EntryTitle            Performers
+430 Center 12                 8:00   8:05  SM  2 The Tell Tale Heart   harlee holub
+430 Center 12                 8:10   8:15  SM  1 The Plunge            jacklyn whitson
+Auditorium Center 9           8:40   9:15  OA  1 Check Please          madison sprague,jenub wan,alex hoffner,christi engelmann,aurora elliott,garrett pospisil,madison little,paige wolf,luke frosch,stella collin 
+377 Center 7                  9:00   9:15  EA  1 Parallel Lives        alyssa dalton,alyssa silver
+301 Center 1                  9:30   9:45  EA  2 Midnight Run          patrick hansen,garrett pospisil
+430 Center 12                 9:30   9:37  GM  3 Boys Night Out        nyvaeh bowen,madison sprague,luke frosch,jacklyn whitson,courtney mcgovern
+Band Room Center 10          12:00  12:15  CR  1 I'll Keep your Secret nyvaeh bowen,harlee holub,aurora elliott
+430 Center 12                 1:00   1:05  SM  3 Diary of Anne Frank   courtney mcgovern
+430 Center 12                 2:50   2:57  GM  1 A Parents Sacrifice   patrick hansen,alyssa dalton,alyssa silver
+430 Center 12                 4:00   4:07  GM  2 Garden of Eden        rachel campbell,christi engelmann,jenub wan,stella collin,paige wolf

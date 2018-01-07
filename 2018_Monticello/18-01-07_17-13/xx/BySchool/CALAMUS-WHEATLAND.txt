@@ -1,0 +1,11 @@
+Room                         Start  End   Cat  # EntryTitle             Performers
+303 Center 3                  9:50   9:56  SF  1 TBD  - Olson           drake olson,hunter rickels,lucas hagg,navia erbst,sadie kuchel,zach weih,cwequip
+312 Center 4                 10:20  10:28  GI  1 Scheer                 brett mccartt,carter dwyer,cassi knudtson,marissa scheer
+346 Center 8                 10:50  10:56  RB  1 TBD - Kerr             hunter rickels,isabelle kerr
+312 Center 4                 11:50  11:58  GI  2 Sedgwick               autumn sedgwick,brianna davisson,kourtney ganzer,noah williams
+303 Center 3                  1:00   1:06  SF  2 It Could Have Been You anne tulley,beth tulley,brett mccartt,brianna williams,chloe bennett,jon kastantin,paige heileman,samantha kalarovich,thekla weise,cwequip
+346 Center 8                  1:15   1:27  TV  2 NEEZBEEZ News          anne tulley,avery snyder,carter dwyer,paige heileman,cwequip
+312 Center 4                  2:20   2:28  GI  3 Snyder                 avery snyder,navia erbst,sadie kuchel,kaleb caves
+430 Center 12                 2:30   2:37  GM  1 The Magician           brianna williams,isabelle kerr,jon kastantin,thekla wiese
+346 Center 8                  3:00   3:12  TV  1 SFC News               ashley vanderheiden,lexie schroeder,sarah garland
+Choir Room Center 11          3:30   3:40  MT  1 Anything Goes          cassi knudtson,marissa scheer

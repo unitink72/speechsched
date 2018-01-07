@@ -1,0 +1,10 @@
+Room                         Start  End   Cat  # EntryTitle         Performers
+312 Center 4                  8:00   8:08  GI  2 JACKSON            jonathan lemley,mason snitkey,rachael jackson
+312 Center 4                  8:10   8:18  GI  3 TULL               ashley tull,logan williams,matthew peiffer
+Choir Room Center 11          9:24   9:34  MT  3 Matilda            berkley garman,britt garman,faith cross,jacob aberle,morgan ingwersen,reaghan jackson
+312 Center 4                 11:00  11:08  GI  1 GARMAN             berkley garman,britt garman,gabrielle godwin-webster
+Band Room Center 10          11:45  12:00  CR  1 Every 23 Minutes   amy letts,ashley tull,brittany carlson,reaghan jackson
+377 Center 7                  2:00   2:15  EA  1 Exterminating Fear jacob aberle,jae valley
+Band Room Center 10           2:24   2:34  MT  1 Legally Blonde     brooke schott,elle waskow,erin jackson,kaitlyn bean,mikayla hageman,rachael jackson,veronica jons
+346 Center 8                  2:50   2:56  RB  1 Undecided          amy letts,austin west,jonathan lemley
+Band Room Center 10           4:45   4:55  MT  2 Into the Woods     logan williams,matthew peiffer

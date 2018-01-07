@@ -1,0 +1,14 @@
+Cat  School    Start  End    Contestant EntryTitle
+OA   718        8:00   8:35  1-1        Cut
+OA   776        8:40   9:15  1-2        Check Please
+OA   167        9:20   9:55  2-1        Broken
+OA   130       10:00  10:35  3-1        Gruesome Playground Injuries
+OA   622       10:40  11:15  3-2        The Other Room
+OA   763       11:20  11:55  4-1        Rogue
+OA   630       12:40   1:15  5-1        Greater Tuna
+OA   756        1:20   1:55  6-1        Juliet and This Guy Romeo
+OA   185        2:00   2:35  7-1        To Serve Man
+OA   259        2:40   3:15  8-1        Questionable
+OA   185        3:20   3:55  8-2        10 Reasons You Should Have Stayed Home Sick
+OA   757        4:00   4:35  9-1        Next
+OA   107        4:40   5:15  9-2        I Hate Shakespeare

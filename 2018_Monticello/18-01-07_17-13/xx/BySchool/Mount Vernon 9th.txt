@@ -1,0 +1,9 @@
+Room                         Start  End   Cat  # EntryTitle                                                      Performers
+Library Center 5              8:00   8:25  RT  1  All Summer in a Day                                            isabelle krapfl,lillie hawker,megan baumler,emma stevenson,emrys yaminishi,ellie crock
+377 Center 7                 10:00  10:15  EA  1 Duck Walks Into a Bar                                           ashton hunt,sophia andrews
+Band Room Center 10          10:30  10:45  CR  1 Dear Abbi                                                       kai yaminishi,jasper rood,nathan woods,ashton hunt,sage mcvay
+377 Center 7                 10:45  11:00  EA  2 I Hate Hamlet                                                   jasper rood ,elijah webster
+377 Center 7                  1:15   1:30  EA  3 Joe and Stew’s Theatre of Brotherly Love and Financial Success  megan baumler,isabelle krapfl 
+302 Center 2                  3:00   3:08  GI  1 The Minute Sphere                                               nathan woods ,kai yaminishi ,emma stevenson,lance erickson
+346 Center 8                  4:40   4:46  RB  1 Teen Talk Radio                                                 jillian mcguire,leah kaminsky,aryn siddell
+Auditorium Center 9           4:40   5:15  OA  1 I Hate Shakespeare                                              lillie hawker,emrys yaminishi,ellie crock,sophia andrews,kaylynn burgin

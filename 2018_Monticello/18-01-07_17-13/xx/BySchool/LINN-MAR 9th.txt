@@ -1,0 +1,20 @@
+Room                         Start  End   Cat  # EntryTitle                                  Performers
+303 Center 3                  8:30   8:36  SF  1 TBA                                         conlan ryan,morgin marks,sam alexman
+346 Center 8                  8:30   8:36  RB  2 KZOM                                        alexander pfaff,cael donels,cael sleezer,ian aquino,isha kalia,kyle kacena,zach fontana
+Band Room Center 10           8:30   8:45  CR  1 The Good Body                               allie mersch,eve ensler,katie andreasen,mckenna flood,zoey marciniak
+Choir Room Center 11          8:36   8:46  MT  1 You and Me (But Mostly Me)                  casey cerveny,daniel o'hara
+312 Center 4                  8:50   8:58  GI  1 Purchase                                    diamond purchase,nia purchase,soloman groothuis
+303 Center 3                  8:50   8:56  SF  1 Chance                                      cody lorenz,emma clanin,emma stano,harrison langfitt,jake varner,luke poellet,sadie staker,tyler vivian
+346 Center 8                 10:10  10:16  RB  1 KSRN                                        erica peck,katie hidlebaugh,liberty moore,luke poellet,maddie dejong,tia lawrence
+430 Center 12                11:00  11:07  GM  1 Casper the Friendless Ghost                 cheyenne mann,maddie dejong
+346 Center 8                 11:15  11:27  TV  1 EBC                                         allie mersch,bella dix,cael donels,jonathan issa,tyler vivian
+Library Center 5             11:30  11:55  RT  1 I Don't Want to Talk About It               brandon cortez,brianna haynes,cameron wehmeier,dylan schueler-crane,mandy williams,morgan vizecky,sadie staker
+312 Center 4                 11:40  11:48  GI  2 Strauss                                     bella dix,jack kopesky,moriah tedrow,sami strauss
+312 Center 4                  1:10   1:18  GI  1 Berta                                       aaron berta,morgin marks,olivia holm
+303 Center 3                  1:10   1:16  SF  2 The Room                                    alyssa schueler,avery peifer,brynn carr,caleb hawkins,kevin drahos,tori niemeyer
+Auditorium Center 9           2:00   2:35  OA  1 To Serve Man                                brandon cortez,cameron wehmeier,cheyenne mann,dawn ramirez,diamond purchase,dylan schueler-crane,erica peck,erin o'hara,gloria hunt,jack kopesky,jill klinkefus,jonathan issa,kai block,katie hidlebaugh,mandy williams,megan renz,moriah tedrow,sami strauss,seth white,tia lawrence
+430 Center 12                 2:20   2:27  GM  2 Tiara Tandrum                               liberty moore,seth white
+Auditorium Center 9           3:20   3:55  OA  1 10 Reasons You Should Have Stayed Home Sick abby franks,aili hill,bryna gloeckner,haley hartshorne,katie bellows,parker miller,sam alexman,shane kelsey,skyla meyer,tanvi garg
+377 Center 7                  4:00   4:15  EA  1 Just Role With It                           ruthie gustason,sierra christensen
+301 Center 1                  4:15   4:30  EA  1 All in the Timing-Sure Thing                aaron berta,olivia holm
+346 Center 8                  4:20   4:26  RB  1 Cavan                                       cavan o'hara,kylie egbvert,sarah hansen,sophia wepking

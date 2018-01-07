@@ -1,0 +1,9 @@
+Room                         Start  End   Cat  # EntryTitle                     Performers
+312 Center 4                  9:50   9:58  GI  3 Franzen                        callie franzen,connor olson,amber pease
+346 Center 8                 10:40  10:46  RB  1 KFRM                           aydan rickels,daken kramer,amber pease
+Band Room Center 10          11:15  11:30  CR  1 FTI: Fairy Tale Investigations maggie anderson,bryanna buckley,aubree driscoll,taya myers,nicole zeimet,mason driscoll,josie christof,callie franzen
+377 Center 7                  1:00   1:15  EA  1 Waiting on Trains              mason driscoll,zoey jenkins,connor olson,kaylynn schultz
+Choir Room Center 11          1:30   1:40  MT  1 A Boy Like That/I Have a Love  cambrie lane,aubree driscoll
+312 Center 4                  3:00   3:08  GI  2 Myers                          taya myers,aydan rickels,nicole zeimet
+312 Center 4                  3:40   3:48  GI  1 Schultz                        cambrie lane,zoey jenkins,kaylynn schultz
+Band Room Center 10           5:00   5:10  MT  2 For Good                       bryanna buckley,josie christof

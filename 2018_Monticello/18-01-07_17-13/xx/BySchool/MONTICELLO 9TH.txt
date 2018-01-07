@@ -1,0 +1,6 @@
+Room                         Start  End   Cat  # EntryTitle                                  Performers
+312 Center 4                 11:20  11:28  GI  2 Pasker/Range-  GI#2                         pasker, gary,range, jonathan
+Choir Room Center 11          1:45   1:55  MT  1 Mushnik and Son                             schnieter, grahm,temple, levi
+312 Center 4                  2:00   2:08  GI  1 Ahlrichs/Campbell/Mahoney/Peitz-  GI#1      ahlrichs, hannah,campbell, kehde,mahoney, megan,peitz, delaney
+346 Center 8                  2:10   2:16  RB  1 WFAT                                        freeze, sydney,glawatz, keagan,guilford, gabrielle,guyer, kaitlin,mcdonald, tori,range, jonathan,schneiter, grahm
+Library Center 5              3:30   3:55  RT  1 10 Reasons You Should Have Stayed Home Sick ahlrichs, hannah,baugh, gavin,campbell, kehde,cox, reese,gillmore, caleb,graver, jaelyn,mysak, kenzie,nietert, jasper,peitz, delaney,stadtmueller, maddie,stark, brooklyn,temple, levi

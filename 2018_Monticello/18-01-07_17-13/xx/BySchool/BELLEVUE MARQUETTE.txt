@@ -1,0 +1,5 @@
+Room                         Start  End   Cat  # EntryTitle      Performers
+377 Center 7                  8:00   8:15  EA  2 Steel Magnolias sydney jacobs,macey kremer,brooklynn moore,sunny north,lauren sieverding
+301 Center 1                 10:30  10:45  EA  1 Ditzies         molly muenster,maura tracy
+377 Center 7                 11:30  11:45  EA  3 Elevator Games  allison hager,halle kilburg,amanda koos
+302 Center 2                  4:20   4:28  GI  1 The Boys        daniel koos,garret krieg,jebadiah schwager

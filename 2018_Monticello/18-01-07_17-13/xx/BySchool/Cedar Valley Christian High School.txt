@@ -1,0 +1,7 @@
+Room                         Start  End   Cat  # EntryTitle         Performers
+303 Center 3                  8:10   8:16  SF  1 Choices            abby sulek,baylea snodgrass,ethan crittenden,isaac ormsby,jannessa betsworth,levi seeley,micaiah davidson,sam pospisil,zakk wood
+312 Center 4                  8:20   8:28  GI  1 Spamalot           jon flamming,luke crow,sam pospisil
+346 Center 8                 11:00  11:12  TV  1 MAAD               micaiah davidson,abby pospisil,abby scroggs,abby sulek,delaney schefers
+Band Room Center 10          11:00  11:15  CR  1 Love Your Neighbor abby pospisil,candy mafuta,erin gillette,jackson foote,jennah sherman,jon flamming,luke crow,rickey stephen,ryan foote
+312 Center 4                  2:50   2:58  GI  2 TJL                jannessa betsworth,levi seeley,tyler snodgass
+312 Center 4                  3:20   3:28  GI  3 RRZ                rickey stephen,ryan foote,zakk wood

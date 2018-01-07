@@ -1,0 +1,20 @@
+Room                         Start  End   Cat  # EntryTitle                                                 Performers
+Band Room Center 10           8:00   8:15  CR  1 The Crucifixion of Innocence                               grace krapf,quinnie rodman,david wolfe,cate morgan,jeremy ferguson,kode banwart,maddie steen,connor myers,derek jordan,clara conroy,sam white,cassie kaminsky,aubrey frey,haley krob,alina merlak
+373 Center 6                  8:30   8:55  RT  1 Politically Correct Christmas Stories                      shianne sneed,chloe bunch,becky fishbein,jack ossenkop,kayle fairchild,oliver crocker,mat zobac,preston johnson
+303 Center 3                  8:40   8:46  SF  1 Pause, Play, Pause                                         martin benesh,mitchell hall,oliver crocker,elijah recalde,clarissa player
+346 Center 8                  9:00   9:12  TV  2 The Rear View                                              aidan frantz,kode banwart,tryston locke
+346 Center 8                 10:00  10:06  RB  2 TJFM                                                       evan tvedt,preston johnson,emily friedman,kate margheim
+Auditorium Center 9          10:00  10:35  OA  1 Gruesome Playground Injuries                               sam white,zach vig
+377 Center 7                 11:00  11:15  EA  3 Dr Fritz; or The Forces of Light                           martin benesh,quinnie rodman
+303 Center 3                 11:10  11:16  SF  2 Shopping Code                                              samantha edwards,becky fishbein,daniella torres-roe
+346 Center 8                 11:30  11:42  TV  1 FLIA 2.0                                                   jackson brus,ben  mcguire,david wolfe,mason stanbro,mitchell hall
+430 Center 12                 1:50   1:55  SM  1 Heavy Swing                                                daniella torres-roe
+346 Center 8                  2:00   2:06  RB  1 CASE                                                       amanda dragon,samantha edwards,chloe bunch
+377 Center 7                  2:15   2:30  EA  2 Four                                                       cedar zangerle,cate morgan,alannah malone,nicole theobald,jack ossenkop
+Band Room Center 10           2:36   2:46  MT  3 Chicago                                                    maddie steen,clarissa player,clara conroy,alina merlak,grace krapfl,haley hepker
+302 Center 2                  4:00   4:08  GI  2 JAZ                                                        jackson brus,alannah malone,zach vig
+312 Center 4                  4:00   4:08  GI  3 The Muffins                                                cedar zangerle,kayle fairchild,caroline see,bryan harris
+Band Room Center 10           4:15   4:25  MT  2 Legally Blonde                                             nicole theobald,ryley hoffman,sadie player,caroline see
+Choir Room Center 11          4:15   4:25  MT  1 Dr. Horrible’s Sing-Along Blog                             jeremy ferguson,aubrey frey,haley krob
+312 Center 4                  4:30   4:38  GI  1 Hardy Boys                                                 gunnar hageman,david hermsenwhite,jake stanerson,xander hunt
+301 Center 1                  4:45   5:00  EA  1 Nancy Drew and the Case of the Mysterious Japanese Jukebox emily friedman,kate margheim,gracie luchtenberg,mat zobac,xander hunt

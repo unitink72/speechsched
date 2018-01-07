@@ -1,0 +1,4 @@
+Room                         Start  End   Cat  # EntryTitle   Performers
+Library Center 5             10:30  10:55  RT  1 Note to Self morgan strait,lilian strait,ryan gailbreath,leah house,lauryn eganhouse,emily hainstock,kylee stropes
+302 Center 2                  3:40   3:48  GI  1 Midland 1    ryan gailbreath,leah house
+302 Center 2                  4:10   4:18  GI  2 Midland 2    kylee stropes,lauryn eganhouse,hanna chase

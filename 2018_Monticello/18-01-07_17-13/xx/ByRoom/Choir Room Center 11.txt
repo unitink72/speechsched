@@ -1,0 +1,28 @@
+Cat  School                     Start  End    Contestant EntryTitle
+MT   CENTRAL DEWITT 9TH          8:00   8:10  1-1        Agony
+MT   LINN-MAR 9th                8:36   8:46  1-2        You and Me (But Mostly Me)
+MT   CEDAR RAPIDS PRAIRIE        8:48   8:58  1-3        West Side Story
+MT   CEDAR RAPIDS PRAIRIE        9:00   9:10  2-1        I Love You, You’re Perfect, Now Change
+MT   NORTH LINN                  9:24   9:34  2-2        Matilda
+MT   LISBON                      9:48   9:58  2-3        Band Geeks
+MT   MARION                     10:00  10:10  3-1        Beauty and the Beast
+MT   CEDAR RAPIDS KENNEDY       10:12  10:22  3-2        Catch Me If You Can 
+MT   CEDAR RAPIDS KENNEDY       10:24  10:34  3-3        In the Heights 
+MT   PRINCE OF PEACE PREP       10:36  10:46  3-4        Under the Sea from The Little Mermaid
+MT   NORTHEAST COMMUNITY        10:48  10:58  3-5        Shrek
+MT   CEDAR RAPIDS WASHINGTON    11:00  11:10  4-1        Little Women
+MT   CEDAR RAPIDS KENNEDY 9TH   11:12  11:22  4-2        Schoolhouse Rocks!
+MT   CEDAR RAPIDS XAVIER        11:24  11:34  4-3        Les Miserables
+MT   CENTRAL DEWITT             11:36  11:46  4-4        SHOUT!
+MT   CEDAR RAPIDS KENNEDY        1:00   1:10  5-1        Wicked
+MT   MARION                      1:15   1:25  5-2        Into the Woods
+MT   EASTON VALLEY               1:30   1:40  5-3        A Boy Like That/I Have a Love
+MT   MONTICELLO 9TH              1:45   1:55  5-4        Mushnik and Son
+MT   LISBON                      2:15   2:25  6-1        The 25th Annual Putnam County Spelling Bee
+MT   CEDAR RAPIDS XAVIER         2:30   2:40  6-2        Sister Act
+MT   PRINCE OF PEACE PREP        2:45   2:55  6-3        Alone in the Universe from Seussical Jr.
+MT   CALAMUS-WHEATLAND           3:30   3:40  7-1        Anything Goes
+MT   ALBURNETT                   3:45   3:55  7-2        A Whole New World
+MT   MOUNT VERNON                4:15   4:25  8-1        Dr. Horrible’s Sing-Along Blog
+MT   MAQUOKETA                   4:30   4:40  8-2        Selections from Fiddler on the Roof
+MT   CEDAR RAPIDS WASHINGTON     4:45   4:55  8-3        She Loves Me

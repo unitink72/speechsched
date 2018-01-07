@@ -1,0 +1,17 @@
+Room                         Start  End   Cat  # EntryTitle                       Performers
+312 Center 4                 10:00  10:08  GI  2 Schulte                          julia schulte,kira manuel,sam bennett
+312 Center 4                 10:10  10:18  GI  1 Joens                            cael joens,james tolly,xzavier hoofnagle
+303 Center 3                 10:10  10:16  SF  1 Clockwork                        ashton nanke,bobbi scott,elton storey,kira manuel 
+Choir Room Center 11         10:12  10:22  MT  2 Catch Me If You Can              alex young,amadeus borchardt,brayden remerowski,john horne,josh young,logan pratt,sam drish,zander hodge
+Band Room Center 10          10:15  10:30  CR  1 Paper Planes                     alexis green,amelia spreitzer,braxten jones ,emma teggatz,erin grams,ferin bergen,gabe fink,gabrielle wahe,grace walker,jaxson steichen,julia schulte ,kennedy wilson,kim pereboom,lillian gust,marie chamberlain
+303 Center 3                 10:20  10:26  SF  2 Paige's Story                    derrick diggins ,gillian gronachala,paige downs ,xzavier hoofnagle
+346 Center 8                 10:20  10:26  RB  2 Ironic News                      ali jansen,brenna hartse,jack hansen,joe skittone,katie jensen,kylie sacquitne-darrington,natalie knapp
+Choir Room Center 11         10:24  10:34  MT  3 In the Heights                   alina taylor,bibianna granadillo,braxten jones,claire ottemoeller,jaeda hernandez,james tolly,noah loehr
+377 Center 7                 10:30  10:45  EA  1 Kale                             chris hauser,sieger canney,andres davila,amadeus borchardt
+312 Center 4                 10:40  10:48  GI  3 Uthe                             carson uthe,chris hauser,logan pratt
+Auditorium Center 9          12:40   1:15  OA  1 Greater Tuna                     alex young,amanda barrett,annika rader,cael joens,carson uthe,josh young,laura shook,sam bennett
+Choir Room Center 11          1:00   1:10  MT  1 Wicked                           adele twing,cami rezabek,erin grams,ferin bergen,katie o'connell,kennedy wilson,mallory mcguire,mallory nesmith
+346 Center 8                  2:20   2:26  RB  1 Pirate Radio                     armani smith-gibbs,gabe fink,john horne,olivia vandersanden,syndey maxa,tasha gilkison 
+301 Center 1                  2:30   2:45  EA  3 Lupe and the F Train Monster     bobbi scott,ellie gavin,megan holtzmann,alexis green,hannah krejci,raelyn stecker 
+301 Center 1                  3:30   3:45  EA  2 Bestest Christmas Ever in Texas  ella popenhagen,amelia spreitzer,lindsey hill,gabrielle wahe
+373 Center 6                  4:00   4:25  RT  1 The Lost Children of Tuam        amanda barrett,andres davila,betsy marlow,elizabeth stone,gracie smith,joy curry,katie wolfe,madelyn o'brien ,madison yauslin ,nikole slinger,olivia hawkins,olivia schirm,sarah poyer,tawny hess

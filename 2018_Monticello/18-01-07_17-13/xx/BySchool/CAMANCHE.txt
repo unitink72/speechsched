@@ -1,0 +1,9 @@
+Room                         Start  End   Cat  # EntryTitle                        Performers
+Band Room Center 10           8:45   9:00  CR  1 The Divided States of America     alison edfors,ann kinkaid,carli reynolds,chloe handy,dasana moore,emma judge,isabell meyer,julee baker,kylie guidebeck,markee low,melanie eggers,olivia schmitt,ressa meyer,sara striley,skylar jess
+Auditorium Center 9           1:20   1:55  OA  1 Juliet and This Guy Romeo         catarina howes,chayton epping,dasana moore,drake dodson,garrett evans,gavin waidelich,julee baker,kylie guidebeck,lauryn dean,melanie eggers,natalie goble,nick birely,noah bohannon,ruby jasa,samantha carroll,zack edens
+377 Center 7                  1:30   1:45  EA  1 Murder By Midnight                gavin waidelich,nick birely,ruby jasa
+301 Center 1                  3:00   3:15  EA  3 The Wedding Story                 kadee petersen,lyna hastings,zach schmitt
+377 Center 7                  3:00   3:15  EA  2 How to Speak Man                  chayton epping,garrett evans,nathaniel davis,noah bohannon
+373 Center 6                  3:00   3:25  RT  1 The Brothers Grimm Spectaculathon aiden eagle,alison edfors,carli reynolds,chloe handy,drake dodson,emma judge,jimmy sbertoli,josie o'neill,markee low,natalie goble,ressa meyer,sara striley,skylar jess,zach schmitt,zack edens
+346 Center 8                  3:15   3:27  TV  1 K-RAT                             aiden eagle,kaylee hardison,nathaniel davis,sydney schutte
+Band Room Center 10           4:30   4:40  MT  1 Cell Block Tango                  ann kinkaid,catarina howes,jimmy sbertoli,kadee petersen,lauryn dean,lyna hastings,samantha carroll

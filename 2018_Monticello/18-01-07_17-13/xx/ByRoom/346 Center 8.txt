@@ -1,0 +1,39 @@
+Cat  School                     Start  End    Contestant EntryTitle
+RB   CENTRAL DEWITT              8:00   8:06  1-1        Doomsday Radio
+RB   MAQUOKETA                   8:10   8:16  1-2        KANN TV- Apocalypse New Now
+RB   NORTHEAST COMMUNITY         8:20   8:26  1-3        KOLD
+RB   LINN-MAR 9th                8:30   8:36  1-4        KZOM
+RB   CEDAR RAPIDS PRAIRIE        8:40   8:46  1-5        KDGJ
+RB   CENTRAL DEWITT 9TH          8:50   8:56  1-6        KEAT
+TV   MOUNT VERNON                9:00   9:12  2-1        The Rear View
+TV   MAQUOKETA                   9:15   9:27  2-2        WLOR-Today’s Hits-101.2 FM  2.	None
+TV   CENTRAL DEWITT              9:30   9:42  2-3        Soviet News
+TV   ALBURNETT                   9:45   9:57  2-4        NJB News
+RB   MOUNT VERNON               10:00  10:06  3-1        TJFM
+RB   LINN-MAR 9th               10:10  10:16  3-2        KSRN
+RB   CEDAR RAPIDS KENNEDY       10:20  10:26  3-3        Ironic News 
+RB   CEDAR RAPIDS WASHINGTON    10:30  10:36  3-4        Smith RB
+RB   EASTON VALLEY              10:40  10:46  3-5        KFRM
+RB   CALAMUS-WHEATLAND          10:50  10:56  3-6        TBD - Kerr
+TV   Cedar Valley Christian Hi  11:00  11:12  4-1        MAAD
+TV   LINN-MAR 9th               11:15  11:27  4-2        EBC
+TV   MOUNT VERNON               11:30  11:42  4-3        FLIA 2.0
+TV   CEDAR RAPIDS XAVIER        11:45  11:57  4-4        Stay Classy Iowa!
+TV   CEDAR RAPIDS WASHINGTON     1:00   1:12  7-1        Llama TV
+TV   CALAMUS-WHEATLAND           1:15   1:27  7-2        NEEZBEEZ News
+TV   CEDAR RAPIDS XAVIER         1:30   1:42  7-3        Smart Women
+TV   CEDAR RAPIDS PRAIRIE        1:45   1:57  7-4        A Sickness in the Studio
+RB   MOUNT VERNON                2:00   2:06  8-1        CASE 
+RB   MONTICELLO 9TH              2:10   2:16  8-2        WFAT
+RB   CEDAR RAPIDS KENNEDY        2:20   2:26  8-3        Pirate Radio 
+RB   SPRINGVILLE                 2:30   2:36  8-4        KBRO
+RB   NORTH LINN                  2:50   2:56  8-5        Undecided
+TV   CALAMUS-WHEATLAND           3:00   3:12  9-1        SFC News
+TV   CAMANCHE                    3:15   3:27  9-2        K-RAT
+TV   MONTICELLO                  3:30   3:42  9-3        SixTeens on the Scene
+TV   NORTHEAST COMMUNITY         3:45   3:57  9-4        GAMA TV
+RB   SPRINGVILLE                 4:00   4:06  10-1       KFAM
+RB   MONTICELLO                  4:10   4:16  10-2       WSNO
+RB   LINN-MAR 9th                4:20   4:26  10-3       Cavan
+RB   CEDAR RAPIDS XAVIER         4:30   4:36  10-4       Olympic Radio
+RB   Mount Vernon 9th            4:40   4:46  10-5       Teen Talk Radio

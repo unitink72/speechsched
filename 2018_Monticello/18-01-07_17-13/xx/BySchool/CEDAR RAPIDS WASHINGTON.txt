@@ -1,0 +1,20 @@
+Room                         Start  End   Cat  # EntryTitle                             Performers
+303 Center 3                  8:00   8:06  SF  1 Mary and Izzie                         allie sarchett,audrey fashimpaur,david hebrink,emma barton-norris,ethan cooper,izzie wilcox,josie norris,keanna davenport,keegan gillaspie,mary weston,rachel girman,willa stroschine
+Auditorium Center 9           8:00   8:35  OA  1 Cut                                    abby throndson,ally bemus,anna bosking,bailey renfro,caleb engen,ethan dix,ian wolverton-weiss,isaac jacobo,isabella blocklinger,julia carlson,layla eckhardt,olivia parsons,paul linville,sophie lindwall,van novak
+301 Center 1                  8:15   8:30  EA  3 The Shape of Things                    caleb engen,jacob cacioppo,miriam ochs,regan heying
+Library Center 5              8:30   8:55  RT  1 The Sandalwood Box                     abigail hackenmiller,ally bemus,anna bosking,chloey shriver,drew paoli,elise fashimpaur,gabriel greco,kennedy felland,macyn mcbride,madie baird,mary weston,natalia hagen,patrick mcdermott,willa stroschine,wren greubel,crboxes
+303 Center 3                  9:20   9:26  SF  2 A.D.                                   anna kalan,becca turnis,ben dent,julia carlson,kaden fields,max locher,miguel jacobo,paul linville,zane decamp,zeke groth
+Band Room Center 10           9:45  10:00  CR  1 An American Dream                      blythe heying,carrington moore,dedric roundtree,deon harrison,diamond roundtree,dylan cherry,ella peckosh,indica mutchler,jennifer tecuapetla,jihan akkad,max locher,olivia metzger,paris mcnutt,richard lock,zane decamp,crboxes
+430 Center 12                 9:50   9:57  GM  3 On the Clock                           ayla taylor,david hebrink,ella shaw,gabe greco,raegan martin,van novak
+377 Center 7                 10:15  10:30  EA  1 Deerborne Heights                      araya dunne,ella peckosh,jessie koozer,lopou peal,vanessa kapler
+346 Center 8                 10:30  10:36  RB  1 Smith RB                               ella shaw,becca turnis,ellie martens,jessie koozer
+Choir Room Center 11         11:00  11:10  MT  3 Little Women                           aryn marner,isabel hogg,lauren flory,natalie novak,sophie lindwall,crequip
+346 Center 8                  1:00   1:12  TV  1 Llama TV                               aryn marner,ben dent,chloe malone,drew paoli,gus dudgeon,holland van metre,katie heinemann,kennedy felland,luciana o'donnell,miguel jacobo,miles michels,natalie novak,patrick mcdermott,vanessa kapler
+312 Center 4                  1:30   1:38  GI  2 Johnson, Roundtree, Ochs               dedric roundtree,joab johnson,kellen ochs
+312 Center 4                  1:50   1:58  GI  3 Akers, Jacobo                          harrison akers,indica mutchler,isaac jacobo
+302 Center 2                  2:00   2:08  GI  1 Ochs, Ochs, Barton                     miriam ochs,nick barton,walker ochs
+430 Center 12                 2:10   2:17  GM  1 Short Circuit                          adam hein,audrey fashimpaur,dylan cherry,harrison akers,jacob cacioppo
+301 Center 1                  2:45   3:00  EA  2 The Cagebirds                          anna kalan,bailey renfro,chante hood,demi oo,julia carlson,lauren flory
+Band Room Center 10           3:30   3:40  MT  1 Disaster!                              carrington moore,ethan dix,quinn spivey,rachel girman,raegan martin,regan heying,richard lock,tyler mcguire,crequip
+430 Center 12                 4:40   4:47  GM  2 The German Clockmaker:  September 1939 ethan ford,izzie wilcox,kaya steffen,madie baird,walker ochs,wren greubel
+Choir Room Center 11          4:45   4:55  MT  2 She Loves Me                           araya dunne,ethan cooper,najaya johnson,noah butler,quinn wilcox,scott griffin,sofia burke,crequip

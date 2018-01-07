@@ -1,0 +1,21 @@
+Room                         Start  End   Cat  # EntryTitle                        Performers
+346 Center 8                  8:20   8:26  RB  1 KOLD                              breckin heath,corbin kelter,jenz bahnsen,jordan carrington,morgan hines,quillen schroeder
+430 Center 12                 8:20   8:25  SM  3 Level Up                          kerstin shecterle
+Auditorium Center 9           9:20   9:55  OA  1 Broken                            alecca gray,allyse marx,audrey morris,caelan machande,carly hasken,haley snyder,jacey house,jacob crow,katelyn howe,katie matthew,kerstin shecterle,natalie spooner ,nate bailey,sam lueders,tory sullivan
+303 Center 3                  9:30   9:36  SF  1 A Broken Mind                     audrey morris,blake thompson,erica delarm,ian stetzel,moira murrell,richie edens
+377 Center 7                  9:45  10:00  EA  3 Doctor Horrible's Sing Along Blog chad williams,isabelle clarke
+Band Room Center 10          10:00  10:15  CR  1 The Terrible Things               allyse marx,alyssa pessman,bryn hartman,claire abbott,cora leonard,katie matthew,kristen petry,makenna mcdonald,marcella kientopf,miya messerich,moira murrell,molly holdgrafer
+Choir Room Center 11         10:48  10:58  MT  1 Shrek                             chad williams,garrett kientopf,ireland knapper,isabelle clarke,katelyn howe,laura richards
+Library Center 5             11:00  11:25  RT  1 The War of Worlds                 alecca gray,bree mangelsen,carly hasken,claire abbott,cody pridemore,colton holdgrafer,hannah feddersen,jacey house,kayla kennicker ,makenna mcdonald,marisa heine,matthew bebense,natalie spooner ,tory sullivan
+301 Center 1                 11:30  11:45  EA  1 The Other Room                    alyssa pessman,bree mangelsen,caelan machande,molly holdgrafer,shania edens,taylor flemming
+430 Center 12                11:50  11:57  GM  1 A The Note                        amber friedrichsen,aubreigh machande,camryn kelter,keidyne machande,santiago bravo
+430 Center 12                12:00  12:07  GM  3 C Late Night at the Toy Store     aubrey o'dell,brooke petersen,colton holdgrafer,evan empen,hannah feddersen,kristen petry
+303 Center 3                  1:30   1:36  SF  2 Don't Worry About It              blake pataska,corbin kelter,kaleb schneider,kayla kennicker ,keenan bredekamp,makenna franks,riley anderson
+312 Center 4                  2:10   2:18  GI  1 Varsity Improv 1                  breckin heath,cody pridemore,keenan bredekamp
+430 Center 12                 2:40   2:47  GM  2 B Replay                          cora leonard,cora wiersema,grace trenkamp,morgan hines,paige bauer,taylor flemming
+302 Center 2                  3:10   3:18  GI  2 Varsity Improv 2                  blake pataska,garrett kientopf,jenz bahnsen,marcella kientopf
+430 Center 12                 3:30   3:35  SM  1 A Toothy Tale                     grace trenkamp
+430 Center 12                 3:40   3:45  SM  2 P.E. is Required                  laura richards
+301 Center 1                  3:45   4:00  EA  2 Isolation                         amber friedrichsen,erica delarm,ireland knapper ,miya messerich
+346 Center 8                  3:45   3:57  TV  1 GAMA TV                           blake thompson,brooke petersen ,bryn hartman,evan empen,ian stetzel,jacob crow,keidyne machande,matthew bebense,quillen schroeder,richie edens,samantha dann
+312 Center 4                  4:20   4:28  GI  3 Varsity Improv 3                  aubreigh machande,camryn kelter,haley snyder,samantha dann

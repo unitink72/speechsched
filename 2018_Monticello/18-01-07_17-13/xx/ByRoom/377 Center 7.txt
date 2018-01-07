@@ -1,0 +1,29 @@
+Cat  School                     Start  End    Contestant EntryTitle
+EA   BELLEVUE MARQUETTE          8:00   8:15  1-1        Steel Magnolias
+EA   CAMANCHE 9TH                8:15   8:30  1-2        The Rooftop Lesson
+EA   CEDAR RAPIDS XAVIER         8:30   8:45  1-3        Spittin' Image
+EA   LISBON                      8:45   9:00  1-4        Keeping Score
+EA   CENTRAL CITY                9:00   9:15  2-1        Parallel Lives
+EA   CENTER POINT-URBANA         9:15   9:30  2-2        The Blueberry Hill Accord
+EA   LISBON                      9:30   9:45  2-3        Breaking News
+EA   NORTHEAST COMMUNITY         9:45  10:00  2-4        Doctor Horrible's Sing Along Blog
+EA   Mount Vernon 9th           10:00  10:15  3-1        Duck Walks Into a Bar
+EA   CEDAR RAPIDS WASHINGTON    10:15  10:30  3-2        Deerborne Heights
+EA   CEDAR RAPIDS KENNEDY       10:30  10:45  3-3        Kale
+EA   Mount Vernon 9th           10:45  11:00  3-4        I Hate Hamlet
+EA   MOUNT VERNON               11:00  11:15  4-1        Dr Fritz; or The Forces of Light 
+EA   BELLEVUE MARQUETTE         11:30  11:45  4-2        Elevator Games
+EA   MONTICELLO                 11:45  12:00  4-3        What a Contest
+EA   EASTON VALLEY               1:00   1:15  5-1        Waiting on Trains
+EA   Mount Vernon 9th            1:15   1:30  5-2        Joe and Stew’s Theatre of Brotherly Love and Financial Success 
+EA   CAMANCHE                    1:30   1:45  5-3        Murder By Midnight
+EA   PRINCE OF PEACE PREP        1:45   2:00  5-4        This Dream
+EA   NORTH LINN                  2:00   2:15  6-1        Exterminating Fear
+EA   MOUNT VERNON                2:15   2:30  6-2        Four 
+EA   MAQUOKETA                   2:30   2:45  6-3        While the Auto Waits 
+EA   CAMANCHE 9TH                2:45   3:00  6-4        Sad and Glad (from Almost, Maine)
+EA   CAMANCHE                    3:00   3:15  7-1        How to Speak Man
+EA   LISBON                      3:15   3:30  7-2        Almost
+EA   LINN-MAR 9th                4:00   4:15  8-1        Just Role With It
+EA   MARION                      4:30   4:45  8-2        WhoYouMeSomebody
+EA   CENTRAL DEWITT              4:45   5:00  8-3        Elevator Games
