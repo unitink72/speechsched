@@ -6,14 +6,21 @@ Room Auditorium Center E
 845
 930
 1015 break
+
+Choral Reading CR 15
+Room Auditorium Center E
 1030
-1115
-1200
-1245 break
+1050
+1110
+1130
+1150
+1210 break
+1310
 1330
-1415
-1500
-1545
+1350
+1410
+1430
+1450 break
 
 Choral Reading CR 15
 Room 107 Center F
@@ -22,17 +29,33 @@ Room 107 Center F
 840
 900
 920 break
-940
-1000
+
+Group Improv GI 8
+Room 107 Center F
+932
+944
+956
+1018
 1020
-1040
-1100 break
-1230
-1250
-1310
-1330
-1350
-1410 break
+1032
+1044 break
+1104
+1116
+1128
+1140
+1152
+1204
+1214 break
+
+Readers Theatre RT 25
+Room 107 Center F
+1315
+1345
+1415
+1445 break
+1500
+1530
+1555 break
 
 Readers Theatre RT 25
 Room PTLW Lab Center D
@@ -48,15 +71,9 @@ Room PTLW Lab Center D
 1250
 1320
 1350
-1420
-1450 break
+1420 break
+1440
 1510
-1540
-1510
-1540 break
-1600
-1630
-1700
 
 Group Mime GM 7
 Room 203 Center B
@@ -81,16 +98,26 @@ Room 203 Center B
 1018
 1025
 1032
-1039
-1046
-1053
+1040 break
 1100
+1109
+1118
+1127
 1106 break
-1125
-1134
-1142
-1151
-1200 break
+
+Radio Broadcasting RB 6
+Room 203 Center B
+1215
+1230
+1245
+1300
+1315
+1330 break
+1345
+1400
+1415
+1430
+1445
 
 Radio Broadcasting RB 6
 Room 113 Center J
@@ -106,17 +133,16 @@ Room 113 Center J
 1015
 1030
 1045 break
-1515
-1530
-1545
 
-TV News TV 12
+TV News TV 3
 Room 113 Center J
 1100
 1115
 1130
-1145
-1200 lunch
+1145 lunch
+
+Radio Broadcasting RB 25
+Room 113 Center J
 1300
 1315
 1330
@@ -124,8 +150,6 @@ Room 113 Center J
 1400 break
 1415
 1430
-1445
-1500
 
 Short Film SF 6
 Room 111 Center I
@@ -144,28 +168,18 @@ Room 111 Center I
 1100
 1115
 1130 lunch
-1145
+1145:00 AM
 1230
 1245
 1300
 1315
 1330
-1345 
-1359 break
-
-Radio Broadcasting RB 6
-Room 111 Center I
+1345 break
 1400
 1415
 1430
 1445
-1459 break
 1500
-1515
-1530
-1545
-1559 break
-
 
 Group Improv GI 8
 Room 204 ICN Center A
@@ -197,13 +211,6 @@ Room 204 ICN Center A
 1354
 1406
 1418 break
-1430
-1442
-1454
-1406
-1418
-1430
-1442
 
 Group Improv GI 8
 Room Library Center C
@@ -238,10 +245,6 @@ Room Library Center C
 1430
 1442
 1454
-1406
-1418
-1430
-1442
 
 Musical Theatre MT 10
 Room 120 Center H
@@ -297,8 +300,6 @@ Room 114 Center K
 1430
 1450
 1510
-1530
-1550
 
 Ensemble Acting EA 15
 Room 118 Center G
@@ -322,566 +323,6 @@ Room 118 Center G
 1410 break
 1430
 1450
-1510
-1530
-1550
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
