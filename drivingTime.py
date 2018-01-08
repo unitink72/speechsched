@@ -51,7 +51,7 @@ class DrivingTime:
       return distMins
     else:
       print ('Error in distance lookup between\n%s\n%s' % (origStr,destStr)
-      return 1
+      return (1)
     #end if
 
   #end getDist
