@@ -51,6 +51,8 @@ class DrivingTime:
       return distMins
     else:
       print ('Error in distance lookup between\n%s\n%s' % (origStr,destStr))
+      print ('URL open result:')
+      print (result.read())
       return 1
     #end if
 
