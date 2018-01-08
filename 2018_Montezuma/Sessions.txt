@@ -282,7 +282,6 @@ Room HS Schultz Center 9
 1454
 1506
 
-        
 Group Improv GI 8
 Room HS Schaumbacher Center 10
 800
@@ -317,8 +316,3 @@ Room HS Schaumbacher Center 10
 1442
 1454
 1506
-
-        
-
-
-
