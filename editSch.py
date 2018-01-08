@@ -75,6 +75,11 @@ if not os.path.isdir(editsDir):
 #Make these files happy
 logger      = logger.Logger(editsDir)
 schedIO.setLogger(logger)
+if 'G' in config['CONTEST_TYPE'].upper():
+   schedIO.setCats('group')
+else:
+   schedIO.setCats('indiv')
+
 schedFitness.setLogger(logger)
 schedFitness.fitnessInitialize(schoolInfo, entryList, config)
 
