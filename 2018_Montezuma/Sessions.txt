@@ -1,3 +1,6 @@
+
+
+
 Group Mime GM 7
 Room Mrs. Robison's Room Center 1
 800
@@ -204,25 +207,25 @@ Room Band Room Center 6
 
 One Act Play OA 35
 Room South Gym Stage Center 7
-745
-830
-915
-1000 break
-1005
-1050
-1120
-1200 break
+1100
+1145
+1230 break
+1330
+1415
+1500 break
+1505
+1550
 
 Readers Theatre RT 25
 Room South Gym Stage Center 7
-1245
-1315
-1345
-1415 break
-1430
-1500
-1530
-
+745
+815
+845
+915 break
+920
+950
+1020
+1050 break
 
 Ensemble Acting EA 15
 Room HS VanGorp Center 8
@@ -282,7 +285,7 @@ Room HS Schultz Center 9
 1442
 1454
 1506
-
+     
 Group Improv GI 8
 Room HS Schaumbacher Center 10
 800
@@ -317,3 +320,8 @@ Room HS Schaumbacher Center 10
 1442
 1454
 1506
+
+        
+
+
+
