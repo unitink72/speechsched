@@ -698,39 +698,43 @@ def readRestrSheet(entriesList, fileName):
   inFile = open (fileName, 'r', newline='')
   reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
   catCounts = cats.countDict()
+  lineNum   = 1
 
-  for row in reader:
-    regIdCsvRaw        = row['regId']
-    schoolIdCsvRaw     = row['schoolId']
-    catIdxCsvRaw       = row['catIdx']
-    if not str.isdigit(regIdCsvRaw)     or \
-       not str.isdigit(schoolIdCsvRaw)  or \
-       not str.isdigit(catIdxCsvRaw):
-      sys.exit('RestrSheet.csv Error at RegId:%s SchoolId:%s CatIdx:%s' % (regIdCsvRaw, schoolIdCsvRaw, catIdxCsvRaw))
+  try:
+    for row in reader:
+      regIdCsvRaw        = row['regId']
+      schoolIdCsvRaw     = row['schoolId']
+      catIdxCsvRaw       = row['catIdx']
+      if not str.isdigit(regIdCsvRaw)     or \
+         not str.isdigit(schoolIdCsvRaw)  or \
+         not str.isdigit(catIdxCsvRaw):
+        sys.exit('RestrSheet.csv Error at RegId:%s SchoolId:%s CatIdx:%s' % (regIdCsvRaw, schoolIdCsvRaw, catIdxCsvRaw))
 
-    regIdCsv           = int(regIdCsvRaw)
-    schoolIdCsv        = int(schoolIdCsvRaw)
-    catIdxCsv          = int(catIdxCsvRaw)
-    catShortCsv        = row['catShort'].rstrip()
-    earliestStartCsv   = row['earliestStart'].rstrip()
-    latestEndCsv       = row['latestEnd'].rstrip()
-    inContestCsv       = row['inContest'].rstrip()
+      regIdCsv           = int(regIdCsvRaw)
+      schoolIdCsv        = int(schoolIdCsvRaw)
+      catIdxCsv          = int(catIdxCsvRaw)
+      catShortCsv        = row['catShort'].rstrip()
+      earliestStartCsv   = row['earliestStart'].rstrip()
+      latestEndCsv       = row['latestEnd'].rstrip()
+      inContestCsv       = row['inContest'].rstrip()
 
-    for entry in entriesList:
-      if entry['regId']        == regIdCsv    and          \
-         entry['schoolId']     == schoolIdCsv and          \
-         entry['catShort']     == catShortCsv and          \
-         entry['catSchoolIdx'] == catIdxCsv:
+      for entry in entriesList:
+        if entry['regId']        == regIdCsv    and          \
+           entry['schoolId']     == schoolIdCsv and          \
+           entry['catShort']     == catShortCsv and          \
+           entry['catSchoolIdx'] == catIdxCsv:
          
-        if earliestStartCsv and earliestStartCsv.isdigit():
-          entry['earliestStart'] = int(earliestStartCsv)
-        if latestEndCsv  and latestEndCsv.isdigit():
-          entry['latestEnd'] = int(latestEndCsv)
-        if inContestCsv :
-          entry['inContest']      = True
-          catCounts[catShortCsv] += 1
-          #print ('Entry: %d %d *%s*' % (entry['regId'],entry['catSchoolIdx'],inContestCsv))
-
+          if earliestStartCsv and earliestStartCsv.isdigit():
+            entry['earliestStart'] = int(earliestStartCsv)
+          if latestEndCsv  and latestEndCsv.isdigit():
+            entry['latestEnd'] = int(latestEndCsv)
+          if inContestCsv :
+            entry['inContest']      = True
+            catCounts[catShortCsv] += 1
+            #print ('Entry: %d %d *%s*' % (entry['regId'],entry['catSchoolIdx'],inContestCsv))
+    lineNum += 1
+  except BaseException as e:
+    sys.exit('Error parsing RestrSheet.csv at line %d\n' % lineNum + str(e))
 
   #Now delete the entries not in this contest
   newEntList     = []
