@@ -1,0 +1,11 @@
+Cat  School    Start  End    Contestant EntryTitle
+TV   113       10:00  10:12  1-1        POPN
+TV   950       10:15  10:27  1-2        KSWJ
+TV   790       10:30  10:42  1-3        F21L
+TV   794       10:45  10:57  1-4        GRIM3
+TV   133       11:00  11:12  1-5        Last Call Late Night Sports
+TV   771       11:20  11:32  2-1        CON
+TV   624       11:35  11:47  2-2        Untitled
+TV   427       11:50  12:02  2-3        KBZT
+TV   231       12:05  12:17  2-4        WSMP
+TV   237       12:20  12:32  2-5        KR17

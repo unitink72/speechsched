@@ -1,0 +1,22 @@
+Cat  School    Start  End    Contestant EntryTitle
+MT   942        8:00   8:10  1-1        Aladdin
+MT   787        8:15   8:25  1-2        Cabaret
+MT   197        8:30   8:40  1-3        How to Succeed in Business Without Really Trying
+MT   564        8:45   8:55  1-4        Annie
+MT   651        9:00   9:10  1-5        The Color Purple
+MT   215        9:30   9:40  2-1        Legally Blonde
+MT   787        9:45   9:55  2-2        Xanadu
+MT   197       10:00  10:10  2-3        The Little Mermaid: Ariel's World
+MT   651       10:15  10:25  2-4        Cinderella
+MT   278       10:30  10:40  2-5        The Full Monty
+MT   511       11:00  11:10  3-1        Peter Pan
+MT   942       11:15  11:25  3-2        Grease
+MT   278       11:30  11:40  3-3        Bring It On
+MT   197       11:45  11:55  3-4        The Little Mermaid:  Poor Unfortunate Ariel
+MT   910        1:00   1:10  4-1        9 to 5
+MT   890        1:15   1:25  4-2        Little Women
+MT   695        1:30   1:40  4-3        Unofficial Autobiography of Samantha Brown
+MT   380        1:45   1:55  4-4        Tangled - I See the Light
+MT   511        2:15   2:25  5-1        West Side Story
+MT   637        2:30   2:40  5-2        Someone in the Crowd 
+MT   942        2:45   2:55  5-3        Sister Act

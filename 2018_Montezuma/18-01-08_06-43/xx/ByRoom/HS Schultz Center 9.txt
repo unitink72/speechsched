@@ -1,0 +1,29 @@
+Cat  School                     Start  End    Contestant EntryTitle
+GI   MONTEZUMA                   8:00   8:08  1-1        Nolan
+GI   MARSHALLTOWN                8:12   8:20  1-2        Osgood
+GI   BGM                         8:24   8:32  1-3        Out There Improv
+GI   COLFAX-MINGO 9TH            8:36   8:44  1-4        Lafferty
+GI   GRINNELL                    8:48   8:56  1-5        Sebetka
+GI   PCM                         9:00   9:08  1-6        Team Clark
+GI   BELLE PLAINE                9:32   9:40  2-1        TBD
+GI   NORTH TAMA                  9:44   9:52  2-2        Miller, Ford and The Twins
+GI   CLEAR CREEK-AMANA 9TH       9:56  10:04  2-3        Hooper
+GI   Baxter High School         10:08  10:16  2-4        ECBB
+GI   MONTEZUMA 9TH              10:20  10:28  2-5        Dessie
+GI   PELLA COMMUNITY            10:32  10:40  2-6        Larson
+GI   BGM                        11:04  11:12  3-1        Deep Adventurers
+GI   NEWTON                     11:16  11:24  3-2        Friedman
+GI   BENTON COMMUNITY           11:28  11:36  3-3        Slavin
+GI   NEWTON                     11:40  11:48  3-4        Steinbach
+GI   PLEASANTVILLE              11:52  12:00  3-5        Culp
+GI   VINTON-SHELLSBURG          12:04  12:12  3-6        Lindauer
+GI   MONTEZUMA                   1:06   1:14  4-1        Parker
+GI   SOUTH TAMA                  1:18   1:26  4-2        BER
+GI   BELLE PLAINE 9TH            1:30   1:38  4-3        TBD
+GI   GMG                         1:42   1:50  4-4        Casto
+GI   PELLA 9th                   1:54   2:02  4-5        Smart
+GI   BELLE PLAINE                2:06   2:14  4-6        TBD
+GI   PELLA COMMUNITY             2:30   2:38  5-1        Parisee
+GI   HLV                         2:42   2:50  5-2        In Popular Demand
+GI   WILLIAMSBURG 9TH            2:54   3:02  5-3        Funky Freshman
+GI   GMG                         3:06   3:14  5-4        Stokley

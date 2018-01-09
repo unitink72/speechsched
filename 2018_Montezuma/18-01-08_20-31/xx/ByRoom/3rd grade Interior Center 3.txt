@@ -1,0 +1,11 @@
+Cat  School                     Start  End    Contestant EntryTitle
+TV   GMG                        10:00  10:12  1-1        WSMP
+TV   MARSHALLTOWN               10:15  10:27  1-2        Last Call Late Night Sports
+TV   VINTON-SHELLSBURG          10:30  10:42  1-3        Untitled
+TV   MARSHALLTOWN 9TH           10:45  10:57  1-4        F21L
+TV   IOWA VALLEY                11:00  11:12  1-5        GRIM3
+TV   Baxter High School         11:20  11:32  2-1        KR17
+TV   NEWTON                     11:35  11:47  2-2        CON
+TV   SOUTH TAMA                 11:50  12:02  2-3        KBZT
+TV   MESKWAKI SETTLEMENT        12:05  12:17  2-4        KSWJ
+TV   PELLA COMMUNITY            12:20  12:32  2-5        POPN
