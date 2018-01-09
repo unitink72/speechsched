@@ -131,7 +131,8 @@ Room 305 Smith Center 4
 1405
 1415
 1425
-1435 break
+1435
+1445 break
 
 Ensemble Acting EA 15
 Room 305 Smith Center 4
