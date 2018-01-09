@@ -20,36 +20,39 @@ Room Auditorium Center 1
 1505
 
 
-##Lunch 1140
+##Lunch 1200
 Readers Theatre RT 25
 Room Library Center 2
 800
 830
-900 Break
-905
-935
-1005 Break
-1010
-1040
-1110
-1140 Break
-1220
-1250
-1320
-1350 break
+900
+929 break
+930
+1000
+1030
+1059 break
+1100
+1130
+1200 break
+1245
+1315
+1344 break
+1345
+1415
+1444 break
 
 
 Ensemble Acting EA 15
 Room Library Center 2
-1400
-1420
-1440
-1500
-1520 break
+1445
+1505
 1525
 1545
+1604 break
 1605
 1625
+1645
+1705
 
 
 ## Lunch 1200
