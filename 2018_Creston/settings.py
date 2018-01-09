@@ -16,7 +16,7 @@ HOST_SCHOOL_ID = 529 #Creston
 
 #List of sitenames for this contest.  Will only be 1 for district contests,
 # four for state contests.  Must match case EXACTLY from registration data.
-CONTEST_SITENAME = ['Creston']
+CONTEST_SITENAME = ['CRESTON']
 
 #Is this a Large Group or Individual Speech contest. 'Group' or 'Indiv'
 CONTEST_TYPE = 'Group'
