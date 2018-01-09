@@ -1,0 +1,12 @@
+Cat  School                     Start  End    Contestant EntryTitle
+OA   PELLA CHRISTIAN             7:45   8:20  1-1        The Yellow Boat
+OA   SOUTH TAMA                  8:30   9:05  1-2        All Because of Agatha
+OA   PELLA COMMUNITY            10:05  10:40  2-1        The Internet is Distract--OH LOOK A KITTEN! 
+OA   VINTON-SHELLSBURG          10:50  11:25  2-2        Gidion's Knot
+OA   CLEAR CREEK AMANA          11:20  11:55  2-3        Relative Strangers
+RT   MONTEZUMA                  12:45   1:10  3-1        And Nature Smiled
+RT   NORTH MAHASKA               1:15   1:40  3-2        High School-What a Life!
+RT   PCM                         1:45   2:10  3-3        High School Life
+RT   GRINNELL 9TH                2:30   2:55  4-1        Check Please
+RT   SOUTH TAMA                  3:00   3:25  4-2        Danger Girls Working!
+RT   PELLA CHRISTIAN             3:30   3:55  4-3        Dark Road

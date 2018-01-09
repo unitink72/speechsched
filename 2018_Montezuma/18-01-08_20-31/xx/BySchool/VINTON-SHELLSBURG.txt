@@ -1,0 +1,13 @@
+Room                         Start  End   Cat  # EntryTitle                             Performers
+Elementary Library Center 4   8:00   8:25  RT  1 Battlefield Correspondence             charley cooling,alba caballero,madyson rule,rylee scheel,grace petrzelka,morgan white,makayla moeller,brock ortner,andrew wirth,isaac lindauer,casey funk,jeremiah brown,thomas osborn,erin cox
+Mrs. Nikkel's Room Center 2   9:35   9:41  SF  1 Untitled                               rhianna turner,taylor berry,jenna lane,kailey vanderheiden,jackson meyer
+Mrs. Robison's Room Center   10:00  10:07  GM  1 Emergency! Emergency!                  allissa hendryx,rhianna turner,denise perez,cole neilson,eli powers,alba caballero
+HS Schultz Center 9          10:08  10:16  GI  1 Lindauer                               isaac lindauer,sam kintzel,erin cox
+3rd Grade Interior Center 3  10:30  10:42  TV  1 Untitled                               jenna lane,brooklyn staab,korey murdock,noah lindauer
+Band Room Center 6           10:30  10:40  MT  2 The Full Monty                         casey funk,gabe schmidt,andrew wirth
+South Gym Stage Center 7     10:50  11:25  OA  1 Gidion's Knot                          sarah schminke,grace horst
+Mrs. Nikkel's Room Center 2  10:55  11:01  SF  2 Untitled                               noah lindauer
+HS Schultz Center 9          11:04  11:12  GI  3 Ortner                                 brock ortner,denise perez,charley cooling
+Band Room Center 6           11:30  11:40  MT  1 Bring It On                            sarah schminke,grace horst,alyssa hendryx,olivia coder,taylor berry,baylee bruce,rachel tandy
+HS Schultz Center 9           1:30   1:38  GI  2 Osborn                                 thomas osborn,christopher clemens,will dudley
+Mrs. Robison's Room Center    2:00   2:20  EA  1 A Coupla Bimbos Sittin' Around Talkin' morgan white,olivia coder,baylee bruce,grace petrzelka

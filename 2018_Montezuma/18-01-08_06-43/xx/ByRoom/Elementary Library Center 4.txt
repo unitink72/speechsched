@@ -1,0 +1,12 @@
+Cat  School                     Start  End    Contestant EntryTitle
+RT   SOUTH TAMA                  8:00   8:25  1-1        Danger Girls Working!
+RT   BENTON COMMUNITY            8:30   8:55  1-2        Good Kids
+RT   GRINNELL 9TH                9:10   9:35  2-1        Check Please
+RT   NORTH MAHASKA               9:40  10:05  2-2        High School-What a Life!
+RT   CLEAR CREEK-AMANA 9TH      10:20  10:45  3-1        Up the River
+RT   NEWTON                     10:50  11:15  3-2        The Hilarious History of the Trojan War
+RT   PLEASANTVILLE              11:30  11:55  4-1        TBA
+RT   EAST MARSHALL              12:00  12:25  4-2        Stinky Cheese Man
+RT   PELLA COMMUNITY             1:30   1:55  5-1        Wiley and the Hairy Man
+RT   MESKWAKI SETTLEMENT         2:00   2:25  5-2        I Want to Have an Argument
+RT   PCM                         2:30   2:55  5-3        High School Life

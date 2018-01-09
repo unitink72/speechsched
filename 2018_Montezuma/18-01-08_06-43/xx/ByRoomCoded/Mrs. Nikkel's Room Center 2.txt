@@ -1,0 +1,35 @@
+Cat  School    Start  End    Contestant EntryTitle
+SF   133        8:00   8:06  1-1        Crafting with Moira
+SF   286        8:10   8:16  1-2        The Way the Cookie Chrumbles
+SF   624        8:20   8:26  1-3        Untitled
+SF   427        8:30   8:36  1-4        Planet X
+SF   231        8:40   8:46  1-5        We're Thinking
+SF   667        8:55   9:01  2-1        Rough Day
+SF   484        9:05   9:11  2-2        Nolton Jacobson Film
+SF   243        9:15   9:21  2-3        In Just 7 Seconds
+SF   427        9:25   9:31  2-4        Hide and Seek
+SF   807        9:35   9:41  2-5        TBA
+SF   237        9:50   9:56  3-1        The Testing
+SF   950       10:00  10:06  3-2        Death by Tobacco
+SF   317       10:10  10:16  3-3        That
+SF   794       10:20  10:26  3-4        The Bus
+SF   113       10:30  10:36  3-5        Eye of Newt
+SF   794       10:45  10:51  4-1        The Mug
+SF   451       10:55  11:01  4-2        Park Rangers
+SF   950       11:05  11:11  4-3        Two Worlds
+SF   516       11:15  11:21  4-4        My Teachers Are Salty
+SF   624       11:25  11:31  4-5        Untitled
+SF   516       12:15  12:21  5-1        Spying Through Life
+SF   224       12:25  12:31  5-2        Mixed Messages
+SF   185       12:35  12:41  5-3        ABHLM Film
+SF   484       12:45  12:51  5-4        Rebelsky Film
+SF   564       12:55   1:01  5-5        Incident 0001
+SF   133        1:05   1:11  5-6        Ortiz Films
+EA   516        1:20   1:35  6-1        Blueberry hill Accord
+EA   484        1:40   1:55  6-2        Defying Gravity
+EA   251        2:00   2:15  6-3        Ask Big Sister
+EA   484        2:20   2:35  6-4        August: Osage County
+EA   241        2:45   3:00  7-1        The Big Lie
+EA   113        3:05   3:20  7-2        Bad Auditions by Bad Actors
+EA   850        3:25   3:40  7-3        American Gladiator Housewives
+EA   486        3:45   4:00  7-4        Death by Public Speaking

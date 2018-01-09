@@ -1,0 +1,65 @@
+08 06:43:50 -- Begin Sessions File Report --
+08 06:43:50 Loaded 227 sessions 41 breaks
+08 06:43:50 OA    6 Sessions  2 Breaks
+08 06:43:50 RT   17 Sessions  5 Breaks
+08 06:43:50 CR    9 Sessions  2 Breaks
+08 06:43:50 TV   10 Sessions  2 Breaks
+08 06:43:50 RB   20 Sessions  3 Breaks
+08 06:43:50 SF   26 Sessions  5 Breaks
+08 06:43:50 MT   30 Sessions  5 Breaks
+08 06:43:50 GI   56 Sessions  8 Breaks
+08 06:43:50 EA   38 Sessions  6 Breaks
+08 06:43:50 GM   10 Sessions  2 Breaks
+08 06:43:50 SM    5 Sessions  1 Breaks
+08 06:43:50 -- End Sessions File Report --
+08 06:43:50 Loaded 38 schools, 256 entries
+08 06:43:51 219 in contest after reading RestrSheet
+08 06:43:51 Contest entries per category:
+08 06:43:51 OA : 5
+08 06:43:51 RT : 17
+08 06:43:51 CR : 9
+08 06:43:51 TV : 10
+08 06:43:51 RB : 18
+08 06:43:51 SF : 26
+08 06:43:51 MT : 30
+08 06:43:51 GI : 55
+08 06:43:51 EA : 35
+08 06:43:51 GM : 10
+08 06:43:51 SM : 4
+08 06:43:51 getDist using RANDOM values from 1-100 for dryrun mode
+08 06:43:51 getDist 721:1067 MONTEZUMA,IA         Belle Plaine,IA      (95)
+08 06:43:51 getDist 721:445 MONTEZUMA,IA         BELLE PLAINE,IA      (77)
+08 06:43:51 getDist 721:449 MONTEZUMA,IA         VAN HORNE,IA         (20)
+08 06:43:51 getDist 721:452 MONTEZUMA,IA         BROOKLYN,IA          (14)
+08 06:43:51 getDist 721:512 MONTEZUMA,IA         TIFFIN,IA            (87)
+08 06:43:51 getDist 721:516 MONTEZUMA,IA         COLFAX,IA            (9)
+08 06:43:51 getDist 721:517 MONTEZUMA,IA         COLFAX,IA            (94)
+08 06:43:51 getDist 721:570 MONTEZUMA,IA         LE GRAND,IA          (93)
+08 06:43:51 getDist 721:612 MONTEZUMA,IA         GARWIN,IA            (9)
+08 06:43:51 getDist 721:613 MONTEZUMA,IA         GARWIN,IA            (33)
+08 06:43:51 getDist 721:618 MONTEZUMA,IA         GRINNELL,IA          (66)
+08 06:43:51 getDist 721:619 MONTEZUMA,IA         GRINNELL,IA          (90)
+08 06:43:51 getDist 721:633 MONTEZUMA,IA         VICTOR,IA            (20)
+08 06:43:51 getDist 721:652 MONTEZUMA,IA         MARENGO,IA           (2)
+08 06:43:51 getDist 721:704 MONTEZUMA,IA         MARSHALLTOWN,IA      (47)
+08 06:43:51 getDist 721:705 MONTEZUMA,IA         MARSHALLTOWN,IA      (56)
+08 06:43:51 getDist 722:721 MONTEZUMA,IA         MONTEZUMA,IA         (64)
+08 06:43:51 getDist 741:721 NEWTON,IA            MONTEZUMA,IA         (32)
+08 06:43:51 getDist 754:721 NEW SHARON,IA        MONTEZUMA,IA         (9)
+08 06:43:51 getDist 757:721 TRAER,IA             MONTEZUMA,IA         (30)
+08 06:43:51 getDist 778:721 MONROE,IA            MONTEZUMA,IA         (12)
+08 06:43:51 getDist 780:721 PELLA,IA             MONTEZUMA,IA         (20)
+08 06:43:51 getDist 781:721 PELLA,IA             MONTEZUMA,IA         (52)
+08 06:43:51 getDist 785:721 PLEASANTVILLE,IA     MONTEZUMA,IA         (48)
+08 06:43:51 getDist 843:721 TAMA,IA              MONTEZUMA,IA         (5)
+08 06:43:51 getDist 891:721 VINTON,IA            MONTEZUMA,IA         (33)
+08 06:43:51 getDist 937:721 WILLIAMSBURG,IA      MONTEZUMA,IA         (20)
+08 06:43:51 getDist 950:721 WILLIAMSBURG,IA      MONTEZUMA,IA         (12)
+08 06:43:51 getDist 959:721 TAMA,IA              MONTEZUMA,IA         (95)
+08 06:43:51 getDist 976:721 Pella,IA             MONTEZUMA,IA         (66)
+08 06:43:51 getDist 1023:721 MARENGO,IA           MONTEZUMA,IA         (92)
+08 06:43:51 getDist 1030:721 Baxter,IA            MONTEZUMA,IA         (45)
+08 06:43:51 getDist 1039:721 Tiffin,IA            MONTEZUMA,IA         (80)
+08 06:43:51 Start Main Loop
+08 06:43:51 +++ Printing current best of 577510
+08 06:43:51 Finished dry run

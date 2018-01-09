@@ -1,0 +1,16 @@
+Room                         Start  End   Cat  # EntryTitle                                   Performers
+Band Room Center 6            8:00   8:10  MT  1 Aladdin                                      colby van gorp ,grayson parisee,mason diaz bandera
+Mrs. Nikkel's Room Center 2   8:10   8:16  SF  1 Eye of Newt                                  dreyton vanderwerf,isaac zeimetz,jamie vilanvanh,kaleb lyons,noah zeimetz
+HS Schultz Center 9           8:36   8:44  GI  1 Larson                                       ethan vance,grace larson,isaac zeimetz,julie start
+3rd grade Interior Center 3   8:40   8:46  RB  1 KATS                                         brenna hildebrand,cedar call,gabi criscuolo,mikayla schnell,tessa campbell
+3rd grade Interior Center 3   9:35   9:41  RB  2 WOWZA                                        alexa langenbartels,kaleena van haaften,natalia hutchinson,tierney copeland
+HS Schultz Center 9           9:56  10:04  GI  2 Parisee                                      grayson parisee,jimmy vilanvanh,noah zeimetz,zoe card
+South Gym Stage Center 7     10:05  10:40  OA  1 The Internet is Distract--OH LOOK A KITTEN!  abbie nunnikoven,ava rowe,brooke denooy,ellie furcht,emily cutler,emily schreur,gabi criscuolo,heather kirkland,jacob schemm,kaleb nguyen,kara da,michael schildroth,naomi tripp,rebekah fyfe
+Band Room Center 6           11:15  11:25  MT  3 Grease                                       brady van waardhuizen,crysta van ee,emily cutler,frances de armond,gavin klein,hanna kendall,luigi lopez,michael schildroth
+Elementary Library Center 4  11:30  11:55  RT  1 Wiley and the Hairy Man                      annaleigh babcock,cameron johnson,chris call,elaine schippers,emily rozendaal,grace cottington,hanna kendall,liam peffers,zoe card
+3rd Grade Interior Center 3  12:20  12:32  TV  1 POPN                                         austin adrian,gavin klein,gavin tierney,jacob schemm,kaleb lyons,levi dugger,matthew thompson,nick vroom,troy miller
+Mrs. Robison's Room Center    1:00   1:20  EA  3 13 Ways to Screw Up Your College Interview   allison clark,kaleb nguyen,kara da,lydia taylor
+HS Schaumbacher Center 10     1:18   1:26  GI  3 Lopez                                        ava rowe,elsa scheepers,luigi lopez
+Mrs. Robison's Room Center    1:20   1:40  EA  1 Y'all                                        brady van waardhuizen,brenna hildebrand,ethan vance,grace larson,julie start
+Band Room Center 6            2:45   2:55  MT  2 Sister Act                                   andelyn sunderman,bailee meyer,caroline henry,juliana van gorp,lexi van haaften,lydia taylor,maggie renaud,natalie henry
+HS VanGorp Center 8           2:50   3:05  EA  2 Bad Auditions by Bad Actors                  alexa langenbartels,suzy brackin,tori buckler

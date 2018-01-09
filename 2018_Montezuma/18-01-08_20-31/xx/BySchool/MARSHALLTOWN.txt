@@ -1,0 +1,10 @@
+Room                         Start  End   Cat  # EntryTitle                  Performers
+Vocal Room  Center 5          8:20   8:35  CR  1 Mathis                      nathan thill,noah mathis
+Mrs. Nikkel's Room Center 2   8:40   8:46  SF  2 Ortiz Films                 alexis ortiz,erin duffy,nash perisho,noah mathis,ronaldo ordaz zambrano,tristen osburn
+Band Room Center 6            9:00   9:10  MT  2 The Color Purple            brianna dean,jordan blue
+Mrs. Robison's Room Center   10:10  10:17  GM  1 Spime                       phoebe osgood,stella roseburrough-borras
+3rd Grade Interior Center 3  10:15  10:27  TV  1 Last Call Late Night Sports derrick garth,dru dobbins,kodi bachman,nicholas sebastian,seth bulanek,sunday arou
+Band Room Center 6           10:15  10:25  MT  1 Cinderella                  hadley wagner,lucas thiessen
+Mrs. Nikkel's Room Center 2  10:20  10:26  SF  1 Crafting with Moira         moira mccarville
+Elementary Library Center 4  10:20  10:45  RT  1 Osgood                      jordan blue,phoebe osgood
+HS Schaumbacher Center 10     2:06   2:14  GI  1 Osgood                      nathan thill,ryan levis,stella roseburrough borras
