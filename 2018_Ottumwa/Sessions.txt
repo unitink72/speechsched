@@ -39,20 +39,20 @@ Room Library Center 2
 1344 break
 1345
 1415
-1444 break
+1445
+1515 break
 
 
 Ensemble Acting EA 15
 Room Library Center 2
-1445
-1505
-1525
-1545
-1604 break
-1605
+1520
+1540
+1600
+1620 break
 1625
 1645
 1705
+
 
 
 ## Lunch 1200
@@ -148,6 +148,8 @@ Room 231 Center 6
 1545
 1605
 1625
+1645
+1705
 
 ##lunch 1200
 Choral Reading CR 15
