@@ -1,0 +1,16 @@
+Cat  School                     Start  End    Contestant EntryTitle
+RT   WEST CENTRAL VALLEY         8:00   8:25  1-1        Young Frankenstein
+RT   CAM                         8:30   8:55  1-2        WILL THE LADIES PLEASE COME TO ORDER
+RT   WAUKEE                      9:00   9:25  1-3        The Veldt
+RT   CAM 9TH                     9:30   9:55  1-4        MY BIG FAT GREEK DIVORCE
+RT   NODAWAY VALLEY             10:15  10:40  2-1        Thursday,adapted from A Hitchhiker's Guide to the Galaxy
+RT   WINTERSET                  11:15  11:40  2-2        Yiddish Tales
+RT   CLARINDA                   11:45  12:10  2-3        Lincoln in the Bardo
+CR   CLARINDA                    1:00   1:15  3-1        Hold On.  Pain Ends.
+CR   WAUKEE                      1:20   1:35  3-2        Heart of Darkness
+CR   Southwest Valley High Sch   1:40   1:55  3-3        Double Trouble in Walla Walla
+CR   CRESTON                     2:00   2:15  3-4        Lords of the Choral
+CR   MOUNT AYR                   2:35   2:50  4-1        Stress, Pressure, Doom, and other Teen Delights 
+CR   PANORAMA                    2:55   3:10  4-2        Humans of New York
+CR   WAUKEE 9TH                  3:15   3:30  4-3        Beautiful
+CR   EARLHAM                     3:35   3:50  4-4        The Three Brothers

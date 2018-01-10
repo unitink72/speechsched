@@ -1,0 +1,13 @@
+Room                         Start  End   Cat  # EntryTitle                                               Performers
+318 Jameson Center 6          8:10   8:18  GI  1 GI1                                                      aryll shantz,caidynce schwartz,dakota hughes,jennifer holliday
+312 Dillenburg Center 8       8:10   8:16  RB  1 JJJB                                                     jesse johnson,joel bricker,rachyl hull
+305 Smith Center 4            8:50   8:56  SF  1 The Price of LIfe                                        anna funke,kate jensen,liam mahoney,sophia broers,stormy france
+217 Shepherd Center 7         9:20   9:35  EA  2 The Chocolate Affair                                     jordan kroeger,riley mccall,sophia broers
+309 Library Center 9         10:15  10:40  RT  1 Thursday,adapted from A Hitchhiker's Guide to the Galaxy abigail piearson,jessica huff,jordan kroeger,kiera jackson,rachyl hull,riley mccall
+315 Dickinson Center 5       10:25  10:40  EA  1 Fugue                                                    alan evans,dakota hughes,kayci emerson,lauren huff
+Auditorium Center 1          11:15  11:50  OA  1 My Gypsy Robe                                            allison scheel,jessica huff,kate jensen,kayci emerson,lauren huff,madi berlau,reba lonsdale
+209 Lister Center 10         12:45  12:55  MT  2 I've Decided to Marry You                                anna funke,liam mahoney,madi berlau
+312 Dillenburg Center 8      12:55   1:07  TV  1 WWJS                                                     jesse johnson,joel bricker,tucker wambold
+318 Jameson Center 6          1:25   1:35  MT  1 Sixteen Going on Seventeen and It Takes Two              alan evans,allison scheel
+315 Dickinson Center 5        1:40   1:47  GM  1 College at Midnight                                      abigail piearson,caidynce schwartz
+607 Warner Center 2           2:45   2:53  GI  2 GI 2                                                     kiera jackson,kooper  brown,sara eddy,tucker wambold

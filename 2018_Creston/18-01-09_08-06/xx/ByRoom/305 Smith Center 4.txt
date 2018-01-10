@@ -1,0 +1,36 @@
+Cat  School                     Start  End    Contestant EntryTitle
+SF   WAUKEE                      8:00   8:06  1-1        Wrath
+SF   LENOX                       8:10   8:16  1-2        Girls' Trip: Gone Wrong
+SF   MOUNT AYR 9TH               8:20   8:26  1-3        The Film
+SF   MOUNT AYR                   8:30   8:36  1-4        Somewhere in America
+SF   EAST UNION                  8:40   8:46  1-5        Behind Closed Doors
+SF   NODAWAY VALLEY              8:50   8:56  1-6        The Price of LIfe
+SF   ORIENT-MACKSBURG            9:00   9:06  1-7        It's A Mystery
+SF   MOUNT AYR                   9:25   9:31  2-1        A Broken Record
+SF   MOUNT AYR 9TH               9:35   9:41  2-2        The Short
+SF   CLARINDA                    9:45   9:51  2-3        What You're Missing
+SF   PANORAMA                    9:55  10:01  2-4        TBD
+SF   BEDFORD                    10:05  10:11  2-5        Spaghetti
+SF   CLARINDA                   10:15  10:21  2-6        McBride
+SF   CAM                        10:25  10:31  2-7        And That Means WHAT?
+SF   WAUKEE 9TH                 10:50  10:56  3-1        Untitled
+SF   WINTERSET                  11:00  11:06  3-2        A Horror Story
+SF   INTERSTATE 35              11:10  11:16  3-3        Maske Film
+SF   CRESTON                    11:20  11:26  3-4        Colorless
+SF   MURRAY                     11:30  11:36  3-5        AKM
+SF   WAUKEE                     11:40  11:46  3-6        Violet
+SF   CRESTON 9TH                11:50  11:56  3-7        Conformity
+SF   WINTERSET                  12:40  12:46  4-1        Animation
+SF   WINTERSET 9TH              12:50  12:56  4-2        First Try
+SF   PANORAMA                    1:00   1:06  4-3        Romeo and Juliet: A Mockumentary
+SF   INTERSTATE 35               1:10   1:16  4-4        Oser Film
+SF   EAST UNION                  1:20   1:26  4-5        unknown
+SF   CRESTON                     1:45   1:51  5-1        Radio Nowhere
+SF   ADM                         1:55   2:01  5-2        Neumann SF 2
+SF   WAUKEE 9TH                  2:05   2:11  5-3        A Rose by Another Name
+SF   SOUTHEAST WARREN            2:15   2:21  5-4        Stories of the Road
+SF   ADM                         2:25   2:31  5-5        Parker
+SF   EARLHAM                     2:35   2:41  5-6        Untitled
+EA   CLARINDA                    2:50   3:05  6-1        Canker Sores and Other Distractions
+EA   BEDFORD                     3:10   3:25  6-2        Peasantly Surprised
+EA   CRESTON                     3:30   3:45  6-3        Outside Mullingar

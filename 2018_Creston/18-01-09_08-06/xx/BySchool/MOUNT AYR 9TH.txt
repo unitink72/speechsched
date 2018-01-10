@@ -1,0 +1,6 @@
+Room                         Start  End   Cat  # EntryTitle                                 Performers
+305 Smith Center 4            8:20   8:26  SF  1 The Film                                   avery dickerson,bryce shaha,loryn schaefer,rachael lutrick
+305 Smith Center 4            9:35   9:41  SF  2 The Short                                  stephanie post,lacy post
+607 Warner Center 2          11:20  11:28  GI  1 Gorman, Schafer, Post                      bricey gorman,lacy post,loryn schaefer
+607 Warner Center 2           1:40   1:48  GI  2 Jennett, Lutrick, Fletchall, and Dickerson avery dickerson,haylee fletchall,lindsey jennett,rachael lutrick
+318 Jameson Center 6          1:55   2:05  MT  1 Marry The Man Today                        jolene ebersole,stephanie post

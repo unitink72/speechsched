@@ -1,0 +1,13 @@
+Room                         Start  End   Cat  # EntryTitle                             Performers
+305 Smith Center 4            9:55  10:01  SF  1 TBD                                    erica block,jensen wilke,lauren mcclatchey
+312 Dillenburg Center 8      10:50  10:56  RB  1 KDLA                                   abbi brown,destiny watson,dylan mattox,kaylin small,lucas wasson
+217 Shepherd Center 7        10:55  11:10  EA  1 The Odd Couple (Female Version)        alex kurtz,cameron laughery,chloe webster,kinsey buster,molly simmons
+318 Jameson Center 6          1:00   1:08  GI  1 Carstens, Randel, Stagg, Knapp, Watson destiny watson,jared stagg,josh carstens,kaleb randel,maisie knapp
+305 Smith Center 4            1:00   1:06  SF  2 Romeo and Juliet: A Mockumentary       jacob garcia,jacob holwegner,krista smith,maiah keith,mavis nelson,shayley hunt
+209 Lister Center 10          1:30   1:40  MT  1 Avenue Q                               chloe webster,erica block,jesse gardner,lexi van winkle,madison liveseay,sam webster
+209 Lister Center 10          2:00   2:10  MT  2 Spring Awakening                       ada schauer,bryant thompson,jared stagg,josie arganbright,kordell gafkjen,lexy mccullah,madi fear,taylor raibikis
+407 Ray Center 3              2:05   2:30  RT  1 Superheroes                            abbi brown,ada schauer,bryant thompson,carson fisher,dylan mattox,jamy randol,josh carstens,kaleb randel,kaylin small,kinsey buster,kordell gafkjen,lexy mccullah
+312 Dillenburg Center 8       2:40   2:52  TV  1 TBD                                    brooklyn behrends,bryn steffen,drew hafner,emily smith,jaelyn waddle,kennedy kuta,spencer hunt
+217 Shepherd Center 7         2:50   3:05  EA  2 A Streetcar Named Desire               jensen wilke,sam webster
+309 Library Center 9          2:55   3:10  CR  1 Humans of New York                     brooklyn behrends,cameron laughery,carson fisher,jamy randol,josie arganbright,lexi van winkle,madi fear,madison livesay,molly simmons,taylor raibikis
+312 Dillenburg Center 8       2:55   3:07  TV  2 TBD                                    alex kurtz,anna holloway,emry colby,jacob holwegner,luke south,lydia lindstrom,maisie knapp,noah kirtley

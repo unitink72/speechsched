@@ -1,0 +1,29 @@
+Cat  School                     Start  End    Contestant EntryTitle
+GI   EAST MARSHALL               8:00   8:08  1-1        Improv 3
+GI   PELLA 9th                   8:12   8:20  1-2        Mitchell
+GI   MESKWAKI SETTLEMENT         8:24   8:32  1-3        Whitefish
+GI   PLEASANTVILLE               8:36   8:44  1-4        Stephens
+GI   PELLA COMMUNITY             8:48   8:56  1-5        Parisee
+GI   NEWTON                      9:00   9:08  1-6        Steinbach
+GI   BELLE PLAINE                9:32   9:40  2-1        TBD
+GI   PCM                         9:44   9:52  2-2        Team Clark
+GI   Baxter High School          9:56  10:04  2-3        ECBB
+GI   PELLA COMMUNITY            10:08  10:16  2-4        Larson
+GI   CLEAR CREEK AMANA          10:20  10:28  2-5        Huffer
+GI   WILLIAMSBURG 9TH           10:32  10:40  2-6        Funky Freshman
+GI   CLEAR CREEK-AMANA 9TH      11:04  11:12  3-1        Hooper
+GI   BGM                        11:16  11:24  3-2        Out There Improv
+GI   HLV                        11:28  11:36  3-3        In Popular Demand
+GI   EAST MARSHALL              11:40  11:48  3-4        Improv 2
+GI   MARSHALLTOWN 9TH           11:52  12:00  3-5        21 Rocks
+GI   PELLA 9th                  12:04  12:12  3-6        Smart
+GI   BELLE PLAINE 9TH            1:06   1:14  4-1        TBD
+GI   NORTH TAMA                  1:18   1:26  4-2        Miller, Ford and The Twins
+GI   BELLE PLAINE                1:30   1:38  4-3        TBD
+GI   IOWA VALLEY                 1:42   1:50  4-4        Anderson et al
+GI   SOUTH TAMA                  1:54   2:02  4-5        MAKK
+GI   PELLA COMMUNITY             2:06   2:14  4-6        Lopez
+GI   GMG                         2:30   2:38  5-1        Stokley
+GI   COLFAX-MINGO 9TH            2:42   2:50  5-2        Lafferty
+GI   MONTEZUMA 9TH               2:54   3:02  5-3        Dessie
+GI   CLEAR CREEK-AMANA 9TH       3:06   3:14  5-4        Lepire

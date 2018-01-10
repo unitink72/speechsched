@@ -1,0 +1,22 @@
+Cat  School                     Start  End    Contestant EntryTitle
+MT   MONTEZUMA 9TH               8:00   8:10  1-1        Annie
+MT   GRINNELL                    8:15   8:25  1-2        The Little Mermaid: Ariel's World
+MT   COLFAX-MINGO                8:30   8:40  1-3        Someone in the Crowd 
+MT   BELLE PLAINE                8:45   8:55  1-4        Tangled - I See the Light
+MT   MONTEZUMA                   9:00   9:10  1-5        9 to 5
+MT   MARSHALLTOWN                9:30   9:40  2-1        The Color Purple
+MT   CLEAR CREEK AMANA           9:45   9:55  2-2        Disenchanted
+MT   SOUTH TAMA                 10:00  10:10  2-3        Nunsense
+MT   NORTH TAMA                 10:15  10:25  2-4        Unofficial Autobiography of Samantha Brown
+MT   GRINNELL                   10:30  10:40  2-5        The Little Mermaid:  Poor Unfortunate Ariel
+MT   PELLA 9th                  11:00  11:10  3-1        Lion King
+MT   BGM                        11:15  11:25  3-2        Walt Disney Productions
+MT   NEWTON                     11:30  11:40  3-3        The Little Mermaid
+MT   MARSHALLTOWN               11:45  11:55  3-4        Cinderella
+MT   GRINNELL                    1:00   1:10  4-1        How to Succeed in Business Without Really Trying
+MT   PELLA CHRISTIAN             1:15   1:25  4-2        Legally Blonde
+MT   NEWTON                      1:30   1:40  4-3        Brigadoon
+MT   CLEAR CREEK AMANA           1:45   1:55  4-4        Peter Pan
+MT   VINTON-SHELLSBURG           2:15   2:25  5-1        Bring It On
+MT   PELLA CHRISTIAN             2:30   2:40  5-2        Newsies
+MT   SOUTH TAMA                  2:45   2:55  5-3        Cabaret

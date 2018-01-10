@@ -1,0 +1,7 @@
+Room                         Start  End   Cat  # EntryTitle                                      Performers
+Band Center 5                 8:20   8:35  CR  1 Breaking Badly                                  marty baker,trey carlson,matt hyman,lauren imhoff,bergen dalton,june daing,jill schulte,brianna duwa,anna axume,frankie johnson,justin moeller,austin waterhouse,gracie mchugh
+Library Center 2              9:30   9:55  RT  1 Trailer Park Broadcasting Company               aaliyah heldman,kendall wilson,taylor conrad,anna duwa,mikayla beatty,addison swanson,jaime schulte
+Auditorium Center 1           1:00   1:35  OA  1 Scooter Thomas Makes It To The Top of the World luke greiner,cole brenneman,marty baker,riley conrad,matt hyman,trey carlson
+231 Center 6                  1:05   1:20  EA  1 Super Hero Support Group                        olin walker,sam sieren,nolan verstraete,joe swanstrom,cooper sieren,tyler waterhouse
+Band Room 255 Center 3        3:30   3:38  GI  2 Dalton                                          jaydin boer,anna duwa,bergen dalton
+Band Room 255 Center 3        4:30   4:38  GI  1 Sieren                                          june daing,cooper sieren

@@ -1,0 +1,12 @@
+Cat  School    Start  End    Contestant EntryTitle
+RT   734        7:50   8:15  1-1        Good Kids
+RT   671        8:20   8:45  1-2        Wiley and the Hairy Man
+RT   735        9:00   9:25  2-1        Dark Road
+RT   987        9:30   9:55  2-2        Stinky Cheese Man
+RT   355       10:10  10:35  3-1        Check Please
+RT   540       10:40  11:05  3-2        High School Life
+RT   118       12:00  12:25  4-1        Danger Girls Working!
+RT   771       12:30  12:55  4-2        Battlefield Correspondence
+RT   436        1:10   1:35  5-1        High School-What a Life!
+RT   532        1:40   2:05  5-2        I'm Tired
+RT   515        2:10   2:35  5-3        The Hilarious History of the Trojan War

@@ -1,0 +1,15 @@
+09 07:54:04 -- Begin Sessions File Report --
+09 07:54:04 Loaded 262 sessions 43 breaks
+09 07:54:04 OA   10 Sessions  3 Breaks
+09 07:54:04 RT   19 Sessions  4 Breaks
+09 07:54:04 CR   13 Sessions  2 Breaks
+09 07:54:04 TV   13 Sessions  2 Breaks
+09 07:54:04 RB   21 Sessions  3 Breaks
+09 07:54:04 SF   31 Sessions  5 Breaks
+09 07:54:04 MT   37 Sessions  5 Breaks
+09 07:54:04 GI   64 Sessions  9 Breaks
+09 07:54:04 EA   30 Sessions  6 Breaks
+09 07:54:04 GM   16 Sessions  3 Breaks
+09 07:54:04 SM    8 Sessions  1 Breaks
+09 07:54:04 -- End Sessions File Report --
+09 07:54:04 Loaded 33 schools, 253 entries

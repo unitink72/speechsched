@@ -1,0 +1,28 @@
+Cat  School    Start  End    Contestant EntryTitle
+CR   494        8:00   8:15  1-1        Bloodwork
+CR   835        8:20   8:35  1-2        Breaking Badly
+CR   487        8:40   8:55  1-3        High School
+CR   785        9:00   9:15  1-4        The 80's: The Decade that Made Us
+CR   325        9:30   9:45  2-1        First Day
+CR   132        9:50  10:05  2-2        MLK
+CR   971       10:10  10:25  2-3        Exes 
+CR   446       10:30  10:45  2-4        School as We Know it
+CR   577       11:00  11:15  3-1        I'm a Genie in a Bus, Baby!
+CR   754       11:20  11:35  3-2        The Princess Who Kicked Butt
+CR   807       11:40  11:55  3-3        Somewhere in America
+GM   494        1:00   1:07  4-1        TBA
+GM   132        1:10   1:17  4-2        Circus
+GM   132        1:20   1:27  4-3        Jack and the Beanstalk
+GM   754        1:30   1:37  4-4        Flipped
+GM   209        1:40   1:47  4-5        The Greatest Showmine
+GM   741        1:50   1:57  4-6        TBA
+GM   250        2:15   2:22  5-1        Pizza
+GM   250        2:25   2:32  5-2        Awake
+GM   971        2:35   2:42  5-3        Rage Quit
+GM   754        2:45   2:52  5-4        Daedalus and Icarus
+SM   778        3:00   3:05  6-1        Kelly
+SM   209        3:18   3:23  6-2        The Little Match Girl
+SM   807        3:27   3:32  6-3        Hannah, Keenan
+SM   741        3:40   3:45  7-1        My Life
+SM   825        3:49   3:54  7-2        The Lottery
+SM   218        4:07   4:12  7-3        What I Don't Like About You

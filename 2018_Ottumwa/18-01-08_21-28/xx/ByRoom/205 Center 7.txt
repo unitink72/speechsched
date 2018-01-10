@@ -1,0 +1,26 @@
+Cat  School                     Start  End    Contestant EntryTitle
+RB   SIGOURNEY                   9:05   9:11  1-1        unknown
+RB   PEKIN COMMUNITY             9:15   9:21  1-2        KPPN
+RB   ENGLISH VALLEYS             9:25   9:31  1-3        KAC 12
+RB   ENGLISH VALLEYS             9:35   9:41  1-4        TAHM
+RB   OTTUMWA                    10:00  10:06  2-1        Team A
+RB   MELCHER-DALLAS             10:10  10:16  2-2        JAMS 101.1
+RB   ENGLISH VALLEYS 9TH        10:20  10:26  2-3        LLGM
+RB   OTTUMWA                    10:30  10:36  2-4        Team B
+RB   ALBIA 9TH                  10:40  10:46  2-5        KPBS
+SF   OTTUMWA                    11:00  11:06  3-1        Ford
+SF   PEKIN COMMUNITY            11:10  11:16  3-2        Unknown
+SF   CENTERVILLE                11:20  11:26  3-3        Untitled
+SF   ENGLISH VALLEYS            11:30  11:36  3-4        Randal & Juliet
+SF   FAIRFIELD                  12:45  12:51  4-1        Pharasi/Carlson
+SF   SIGOURNEY                   1:05   1:11  4-2        The Invasion of the Communist Flying Saucers
+SF   ENGLISH VALLEYS 9TH         1:15   1:21  4-3        Protocol
+SF   SIGOURNEY                   1:25   1:31  4-4        unknown
+SF   OTTUMWA                     1:40   1:46  5-1        Mamlock
+SF   ENGLISH VALLEYS             1:50   1:56  5-2        Klett, Lyla
+SF   MID-PRAIRIE                 2:00   2:06  5-3        Happiiness
+SF   MID-PRAIRIE                 2:35   2:41  6-1        Spirit Snoops
+SF   ALBIA                       2:45   2:51  6-2        The D and D World
+SF   CHARITON                    2:55   3:01  6-3        Misled
+SF   PEKIN COMMUNITY             3:05   3:11  6-4        The Text
+SF   FAIRFIELD                   3:15   3:21  6-5        The Dragon

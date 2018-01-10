@@ -1,0 +1,11 @@
+Room                         Start  End   Cat  # EntryTitle                    Performers
+Mrs. Nikkel's Room Center 2   8:00   8:06  SF  1 Park Rangers                  alex ely,caroline jennings,charles bower,chase talbert,samantha yarbrough
+HS Schaumbacher Center 10     8:36   8:44  GI  1 Nolan                         koby shoemaker,nolan reynolds
+Band Room Center 6            9:00   9:10  MT  1 9 to 5                        madelyn dejong,niykayla smith,parker johnson,rachel teumer,shelby conger,waverly roorda
+HS Schultz Center 9           9:56  10:04  GI  3 Monty                         amanda armstrong,isaiah singleton,monty crain
+Vocal Room  Center 5         10:40  10:55  CR  1 My Way                        breck goodman,caymen dejong,hailey anderson,harry hamilton,hunter ray,jazmine lebahn,jordon bender,maddy mckeag,rachel teumer,shelby conger,shelby helm,vance bushong,waverly roorda
+Mrs. Robison's Room Center   10:45  11:05  EA  1 I'm Just digging a Hole...... breck goodman,jordon bender
+Vocal Room Center 5          12:45  12:55  MT  2 Les Miserables                caroline jennings,chase talbert,jestene moyer,koby shoemaker,olivia krousie
+Elementary Library Center 4   1:30   1:55  RT  1 And Nature Smiled             alex ely,amanda armstrong,amber lechtenberg,ashley armstrong,brianna lewis,mariah seaton,mikayla henry,quincy conger,samantha broadston
+HS Schultz Center 9           2:06   2:14  GI  2 Parker                        caymen dejong,jazmine lebahn,niykayla smith,parker johnson
+3rd grade Interior Center 3   3:00   3:06  RB  1 98.6 WFKC                     bryce oliver,chiane hartman,harry hamilton,nolan reynolds,olivia moretz,shelby helm,vance bushong

@@ -1,0 +1,9 @@
+Room                         Start  End   Cat  # EntryTitle              Performers
+305 Smith Center 4            8:10   8:16  SF  1 Girls' Trip: Gone Wrong camryn douglas,cassidy weaver,devon england,jaela cox,kally carmichael,kayla yzaguirre,mae powell,mahaley groves,niki sparks,samantha trost
+312 Dillenburg Center 8       8:30   8:36  RB  1 Time Travel Radio       ethan coleman,johnny basaldua,kapri wilmoth,kierstin swank
+607 Warner Center 2           9:00   9:08  GI  3 Miller Improv 3         cauy miller,kierstin swank,steven mcmullen,trey whipple
+209 Lister Center 10          9:15   9:25  MT  1 Omigod You Guys!        camryn douglas,cassidy weaver,devon england,jaela cox,kayla yzaguirre,niki sparks
+318 Jameson Center 6          9:35   9:43  GI  2 Cruz Improv 2           frank cruz,morgan johnston,samantha trost
+312 Dillenburg Center 8      11:10  11:16  RB  2 Sports Radio            brenden christensen,derek venteicher,dillon mendez
+315 Dickinson Center 5       12:50  12:57  GM  1 The Demented Doll       frank cruz,halee wallace,hannah brown
+607 Warner Center 2           3:30   3:38  GI  1 Coleman Improv 1        bret myers,cassie mcclain,ethan coleman,hannah brown,katelyn belding

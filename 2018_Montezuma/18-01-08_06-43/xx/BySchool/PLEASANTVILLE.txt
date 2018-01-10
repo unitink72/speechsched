@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitlePerformers
-Vocal Room  Center 5          8:20   8:35  CR  1 Label Me alyssa mckay,avery lauer,chance bender,colten stephens,gracie stephens,jack lauer,jack ray,melena johnson,olivia mclamb ,sierra hallmann,tess ray
-Mrs. Nikkel's Room Center 2   9:35   9:41  SF  1 TBA      joseph culp,melvin moore
-Elementary Library Center 4  11:30  11:55  RT  1 TBA      avery lauer ,alyssa mckay,chance bender ,jack lauer ,jack ray,melena johnson 
-HS Schultz Center 9          11:52  12:00  GI  2 Culp     joseph culp,melvin moore,connor stone 
-HS Schaumbacher Center 10     1:18   1:26  GI  1 Stephens colten stephens,katie verploeg,jeremy colboth 

@@ -1,0 +1,14 @@
+Room                         Start  End   Cat  # EntryTitle                 Performers
+HS Schultz Center 9           8:36   8:44  GI  1 Johanson                   raina henze,sage helmke,seb johanson
+Mrs. Robison's Room Center    8:40   8:47  GM  2 Chopped                    anna huffer,cora bult,cylar goss-netser,noah graham,taylor grefe
+3rd grade Interior Center 3   9:25   9:31  RB  1 KCFD                       connor crozier,connor persels,eli fahlgren,miranda mason,nicole eckhardt
+Band Room Center 6            9:45   9:55  MT  2 Disenchanted               alyssa woodward,brie bevans,macayle devore,mikayla tackaberry,nicole wichhart,sam scheetz
+Mrs. Robison's Room Center   10:00  10:07  GM  1 Money Matters              anna luria,krystin gist
+Mrs. Nikkel's Room Center 2  10:30  10:36  SF  1 Mixed Messages             connor crozier,conor persels,grant versteegh,miranda mason,olivia smyka,sena graham,taylor grefe
+HS Schultz Center 9          11:16  11:24  GI  3 Huffer                     anna huffer,cody crow,kassidy kenny
+HS VanGorp Center 8           1:10   1:25  EA  1 Choices                    cole sherman,nicole eckhardt,nicole wichhart
+South Gym Stage Center 7      1:30   2:05  OA  1 Relative Strangers         anna luria,macayle devore,susana zierke
+Band Room Center 6            1:45   1:55  MT  3 Peter Pan                  grant versteegh,olivia smyka,sage helmke,sophia rocca,susana zierke
+Vocal Room Center 5           2:15   2:25  MT  1 West Side Story            cole sherman,fisher williams,kion roy,marcus emmel,noah o'connell,seb johanson
+Mrs. Nikkel's Room Center 2   3:05   3:20  EA  2 Rosie the Retired Rockette andrea roller,brie bevans,krystin gist,raina henze
+HS Schultz Center 9           3:06   3:14  GI  2 Williams                   fisher williams,noah graham

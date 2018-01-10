@@ -1,0 +1,5 @@
+Room                         Start  End   Cat  # EntryTitle                Performers
+217 Shepherd Center 7         8:20   8:35  EA  1 Demon Child               kayla chesney,bailey drennen
+607 Warner Center 2          10:15  10:23  GI  1 Gregory Group Improv      lesli gregory,emma hicks,autumn matson
+407 Ray Center 3             11:25  11:50  RT  1 Night and the Proofreader kayla chesney,bailey drennen,chase guthrie,lesli gregory,catherine neihart,erin slough,anne guthrie,nicole langley,amorette mackey,jessalee neihart
+607 Warner Center 2           1:00   1:08  GI  2 Gore Group Improv         kathryn gore,braedan gregory,nicole langley,amorette mackey,paris schram

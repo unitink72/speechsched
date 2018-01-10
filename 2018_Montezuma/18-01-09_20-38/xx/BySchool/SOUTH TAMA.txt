@@ -1,0 +1,15 @@
+Room                         Start  End   Cat  # EntryTitle                       Performers
+Mrs. Robison's Room Center    9:00   9:05  SM  1 Anxiety                          ashley steele
+Mrs. Nikkel's Room Center 2   9:15   9:21  SF  2 Hide and Seek                    haley dunning,allison thomazin,azra papakee,cameron klostermann,clarissa rosenberger,dylan shelton,jesus romero,juan arriaga,mackenze beyer,veronica peters
+Mrs. Nikkel's Room Center 2   9:25   9:31  SF  1 Planet X                         abigail buffalo,alexes baeza,jacob wilkerson,javin lasley,josephine youngbear,julie matta,julio alonso,kaisha struve,kaitlyn riha,kayleigh benda,luis luna,makayla backen,megan jordan,molly savage,nijaha billingslea
+HS Schultz Center 9           9:32   9:40  GI  2 BER                              brianna morrison,emma sauerbry,raylee graves
+3rd Grade Interior Center 3  10:15  10:27  TV  1 KBZT                             abigail buffalo,clarissa rosenberger,enriqueta diego,gloria youngbear,kaisha struve,marisol mora,skyler steveson,stephanie slaven
+Vocal Room  Center 5         10:20  10:35  CR  1 Technically, It's All Your Fault allison thomazin,kennedy adams,kobe van dee,luis luna
+Elementary Library Center 4  12:00  12:25  RT  1 Danger Girls Working!            andrea nott,bailey waldo,dorothy youngbear,haylie prugh,jenifer barajas,jordan van dee,kaisha struve,kaylynn dunn,mackenze beyer,madison cole,megan jordan
+Vocal Room Center 5          12:15  12:25  MT  2 Cabaret                          ezra arriaga,haylie prugh,kacee hamor,katherin kofstad,keely driscoll,taylor hrabak
+HS VanGorp Center 8          12:50   1:05  EA  1 Romeo and What's Her Name        jacob dostal,nicholas jordan,jordan van dee,keely driscoll
+Vocal Room Center 5           1:30   1:40  MT  3 Xanadu                           kalista koster,kennedy adams,madison cole,rosemary acevedo
+HS Schaumbacher Center 10     1:54   2:02  GI  1 MAKK                             alexes baeza,kassidy graham,kobe van dee,molly savage
+Vocal Room Center 5           2:15   2:25  MT  1 Nunsense                         abigail kern,brianna morrison,dorothy youngbear,josephine youngbear,rayvn benner
+Mrs. Nikkel's Room Center 2   2:20   2:35  EA  2 Marion Bridge                    andrea nott,bailey waldo,kacee hamor
+South Gym Stage Center 7      3:50   4:25  OA  1 All Because of Agatha            cameron klostermann,dylan shelton,jacob dostal,jenifer barajas,katherin kofstad,nicholas jordan,stacey slaven,taylor hrabak,veronica peters

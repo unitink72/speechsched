@@ -1,0 +1,28 @@
+Cat  School                     Start  End    Contestant EntryTitle
+GI   NEWTON                      8:00   8:08  1-1        Steinbach
+GI   PCM                         8:12   8:20  1-2        Team Clark
+GI   GRINNELL                    8:24   8:32  1-3        Moisan
+GI   CLEAR CREEK AMANA           8:36   8:44  1-4        Johanson
+GI   BGM                         8:48   8:56  1-5        The Explorers
+GI   NEWTON                      9:00   9:08  1-6        Friedman
+GI   PELLA COMMUNITY             9:32   9:40  2-1        Parisee
+GI   MONTEZUMA                   9:56  10:04  2-2        Monty
+GI   Baxter High School         10:08  10:16  2-3        ECBB
+GI   GMG                        10:20  10:28  2-4        Stokley
+GI   CLEAR CREEK-AMANA 9TH      10:32  10:40  2-5        Lepire
+GI   VINTON-SHELLSBURG          11:04  11:12  3-1        Osborn
+GI   CLEAR CREEK AMANA          11:16  11:24  3-2        Huffer
+GI   PCM                        11:28  11:36  3-3        Team Ponder
+GI   GRINNELL                   11:40  11:48  3-4        Amador-Lacson
+GI   IOWA VALLEY                11:52  12:00  3-5        Anderson et al
+GI   PELLA 9th                  12:04  12:12  3-6        Smart
+GI   BELLE PLAINE                1:06   1:14  4-1        TBD
+GI   BELLE PLAINE 9TH            1:18   1:26  4-2        TBD
+GI   MARSHALLTOWN 9TH            1:30   1:38  4-3        21 Rocks
+GI   BELLE PLAINE                1:42   1:50  4-4        TBD
+GI   GMG                         1:54   2:02  4-5        Steiner
+GI   MONTEZUMA                   2:06   2:14  4-6        Parker
+GI   PLEASANTVILLE               2:30   2:38  5-1        Stephens
+GI   PELLA COMMUNITY             2:42   2:50  5-2        Larson
+GI   GRINNELL                    2:54   3:02  5-3        Sebetka
+GI   CLEAR CREEK AMANA           3:06   3:14  5-4        Williams

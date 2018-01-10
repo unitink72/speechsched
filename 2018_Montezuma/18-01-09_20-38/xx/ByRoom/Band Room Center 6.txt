@@ -1,0 +1,22 @@
+Cat  School                     Start  End    Contestant EntryTitle
+MT   VINTON-SHELLSBURG           8:05   8:15  1-1        The Full Monty
+MT   CLEAR CREEK AMANA           8:20   8:30  1-2        West Side Story
+MT   MONTEZUMA                   8:35   8:45  1-3        9 to 5
+MT   PELLA COMMUNITY             8:50   9:00  1-4        Grease
+MT   PELLA COMMUNITY             9:05   9:15  1-5        Aladdin
+MT   GRINNELL                    9:30   9:40  2-1        How to Succeed in Business Without Really Trying
+MT   COLFAX-MINGO                9:45   9:55  2-2        Someone in the Crowd 
+MT   PELLA 9th                  10:00  10:10  2-3        Lion King
+MT   CLEAR CREEK AMANA          10:15  10:25  2-4        Peter Pan
+MT   GRINNELL                   10:30  10:40  2-5        The Little Mermaid:  Poor Unfortunate Ariel
+MT   PELLA 9th                  10:50  11:00  3-1        Little Women
+MT   PELLA COMMUNITY            11:05  11:15  3-2        Sister Act
+MT   BELLE PLAINE               11:20  11:30  3-3        Tangled - I See the Light
+MT   NEWTON                     11:35  11:45  3-4        The Little Mermaid
+MT   MONTEZUMA 9TH              11:50  12:00  3-5        Annie
+MT   BGM                         1:00   1:10  4-1        Walt Disney Productions
+MT   VINTON-SHELLSBURG           1:15   1:25  4-2        Bring It On
+MT   CLEAR CREEK AMANA           1:45   1:55  4-3        Disenchanted
+MT   NEWTON                      2:05   2:15  5-1        Brigadoon
+MT   MARSHALLTOWN                2:20   2:30  5-2        The Color Purple
+MT   NORTH TAMA                  2:50   3:00  5-3        Unofficial Autobiography of Samantha Brown

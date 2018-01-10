@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle              Performers
-HS Schaumbacher Center 10     8:12   8:20  GI  3 The Explorers           justin vileta,madison maschmann,justin vileta,madison maschmann
-HS Schultz Center 9           8:24   8:32  GI  2 Out There Improv        kali smith,kali smith,lara hilpipre,lara hilpipre,zoe carnes,zoe carnes
-HS Schultz Center 9          11:04  11:12  GI  1 Deep Adventurers        hannah vokoun,hannah vokoun,jackson eichhorn,jackson eichhorn,regan,regan
-Vocal Room Center 5          12:15  12:25  MT  1 Walt Disney Productions hannah vokoun,hannah vokoun,jackson eichhorn,jackson eichhorn

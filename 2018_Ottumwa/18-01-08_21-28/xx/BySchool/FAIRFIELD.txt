@@ -1,0 +1,16 @@
+Room                         Start  End   Cat  # EntryTitle                           Performers
+Vocal Music Center 4          8:30   8:40  MT  3 Les Miserables                       aaron austin,hunter drish,julia fritz,megan higgins
+Auditorium Center 1           8:40   9:15  OA  1 At the Bottom of Lake Missoula       abyni garner,ahillan kumar,alex holden,cahrina chang,cole ferrell,colton crowell,dallas carlson,ella phillips,gabriel zimmer,gunnar mattson,james trent,laurel hilger,madison kraemer,michael holt,mira pappin,phoenix haessler,zoe fox
+Band Room 255 Center 3        8:40   8:48  GI  1 Barnes                               aluna-aro olaniyi,cahrina chang,dewayne barnes
+231 Center 6                  9:40   9:55  EA  2 Almost, Maine: Sad and Glad          julia fritz,river norwood,zoe fox
+Vocal Music Center 4         10:00  10:10  MT  1 Big Fish                             andrew alonso,aven gottshall,david wallingford,gunnar mattson,mikey hunt
+Band Center 5                11:20  11:35  CR  1 The Princess Who Kicked Butt         braden howell,carson taylor,colton crowell,david wallingford,ella phillips,ellie baker,hope hawkins,samara mclain,shaelyn thompson
+205 Center 7                 12:45  12:51  SF  2 Pharasi/Carlson                      aluna-aro olaniyi,devika pharasi,ellie brown,emma carlson,michael holt,paige carlson
+Band Center 5                 1:30   1:37  GM  2 Flipped                              andrew alonso,dallas carlson,gabriel zimmer,megan higgins,phoenix haessler
+Library Center 2              2:15   2:40  RT  1 Fighting Females of the Forty-Fourth braden howell,emma carlson,hope hawkins,katie mclain,laurel hilger,samara mclain,secret davis,shaelyn thompson
+Band Center 5                 2:45   2:52  GM  1 Daedalus and Icarus                  j.j. funkhouser,mich putnam,mikey hunt,phoenix hunt,river norwood
+Band Room 255 Center 3        3:10   3:18  GI  2 Melvin                               j.j. funkhouser,mason malone,mitchel melvin
+Vocal Music Center 4          3:15   3:25  MT  2 Band Geeks                           calista rowe,harper fiske,jackson brown,mich putnam,mitchel melvin
+205 Center 7                  3:15   3:21  SF  1 The Dragon                           ahillan kumar
+Band Room 255 Center 3        4:10   4:18  GI  3 Brown                                izzy ferrell,jackson brown,katie mclain
+231 Center 6                  4:25   4:40  EA  1 Fugue                                alex holden,calista rowe,harper fiske,james trent

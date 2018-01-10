@@ -1,0 +1,7 @@
+Room                         Start  End   Cat  # EntryTitle                        Performers
+231 Center 6                  8:40   8:55  EA  2 Breaking Tradition                taylee wolfer,travis sheffield
+Band Center 5                 9:00   9:15  CR  1 The 80's: The Decade that Made Us faith zanoni,hailey smith,jacob briggs,logan spaur,schane adams,tatum pearson,taylee wolfer,tiana stilley,travis sheffield
+205 Center 7                 10:40  10:46  RB  1 KPBS                              josie stickell,max teno,sophia sanford,trinity evans
+Band Room 255 Center 3        2:30   2:38  GI  1 The Guys                          jacob briggs,logan spaur
+231 Center 6                  2:45   3:00  EA  1 Boxed In                          josie stickell,max teno,sophia sanford,trinity evans
+Band Room 255 Center 3        3:40   3:48  GI  2 The Three Amigos                  faith zanoni,hailey smith,tatum pearson

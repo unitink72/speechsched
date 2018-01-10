@@ -1,0 +1,11 @@
+Room                         Start  End   Cat  # EntryTitle                                   Performers
+231 Center 6                  8:00   8:15  EA  2 Anchorwoman!                                 noel garringer ,rylie shettler,sydney striegel
+310 Center 7                  8:00   8:12  TV  1 WWN                                          gavin bird,kaleb reeves,mackenzie siren,mason dye,trey s
+205 Center 7                  9:05   9:11  RB  1 unknown                                      katherine mclauglin,natalie redlinger
+Band Center 5                10:30  10:45  CR  1 School as We Know it                         alex gann,brett striegel,brooke donald,brooke waechter,caleigh dale,gerard samson ,ian terfehn,khloe snakenberg,maddi schwenke,nick goad,parker stevens,ryleigh leonard,rylie shettler,sydney striegel,tanner halleran
+231 Center 6                 11:40  11:55  EA  3 If Men Played Cards as Women do              brett striegel,dustin haines,ian terfehn,nick goad
+Library Center 2             12:45   1:10  RT  1 368 Friends                                  alex gann,audra weber,caleigh dale ,cole weber,corrine donald,danni richard,grace kuntz,jordan van ee,katherine mclaughlin,natalie redlinger,noel garringer,rassir higgenbotham,ryleigh leonard,zoe hahn
+205 Center 7                  1:05   1:11  SF  1 The Invasion of the Communist Flying Saucers casey jarmes,kaleb reeves
+205 Center 7                  1:25   1:31  SF  2 unknown                                      gerard samson
+231 Center 6                  2:25   2:40  EA  1 Death by Public Speaking                     audra weber,cole weber,danni richard,jordan van ee,rassir higgenbotham,zoe hahn
+Band Room 255 Center 3        4:40   4:48  GI  1 Casey Jarmes                                 casey jarmes,khloe snakenberg,liberty palmer
