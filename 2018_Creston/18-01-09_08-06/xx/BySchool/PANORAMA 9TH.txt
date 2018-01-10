@@ -1,0 +1,7 @@
+Room                         Start  End   Cat  # EntryTitle               Performers
+217 Shepherd Center 7         8:00   8:15  EA  1 Little Women             cassidy hoehne,jordan brown,ruby hummel,shekynah haworth
+312 Dillenburg Center 8       9:55  10:01  RB  1 TBD                      abby cobb,ella waddle,ethan hafner,olivia steffen
+318 Jameson Center 6         12:10  12:18  GI  1 Gibson Jarnagin Reinhart collin reinhart,isaac jarnagin,reagan gibson
+209 Lister Center 10          1:00   1:10  MT  1 Aristocats               amanda holwegner,cassidy hoehne,jordan brown ,lauren soll,tate kunze
+407 Ray Center 3              1:05   1:30  RT  1 Fill a Heart             amanda holwegner,cade jensen,emma johnston,gwen steffen,hayley meacham,lauren soll,ruby hummel,shekynah haworth,tate kunze
+312 Dillenburg Center 8       1:10   1:22  TV  1 TBD                      abby cobb,collin reinhart,ella waddle,emma johnston,ethan hafner,gwen steffen,haylee meacham,isaac jarnagin,olivia steffen

@@ -1,0 +1,18 @@
+Cat  School    Start  End    Contestant EntryTitle
+EA   467        8:00   8:15  1-1        Grandpa and the Job interview
+EA   987        8:20   8:35  1-2        The Big Lie
+EA   805        8:40   8:55  1-3        You're in My Thoughts
+EA   759        9:20   9:35  1-4        Language Arts Law
+EA   467       10:00  10:15  2-1        Cinderella Revisited
+EA   575       10:20  10:35  2-2        I'm Just digging a Hole......
+EA   734       10:40  10:55  2-3        Complaint Department and Lemonade
+EA   532       11:00  11:15  2-4        Seascape with Sharks and Dancer
+EA   759       12:10  12:25  3-1        American Gladiator Housewives
+EA   355       12:30  12:45  3-2        Anniversary
+EA   118       12:50   1:05  3-3        Romeo and What's Her Name
+EA   515        1:10   1:25  3-4        Music Maybe
+EA   759        1:30   1:45  3-5        Mary of Scotland
+EA   717        2:10   2:25  4-1        Star Schmeck 
+EA   355        2:30   2:45  4-2        The Foreigner
+EA   734        2:50   3:05  4-3        Blueberry hill Accord
+EA   439        3:10   3:25  4-4        The Serpents Tale

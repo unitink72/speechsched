@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                    Performers
-Band Room Center 6            1:45   1:55  MT  1 Someone in the Crowd          eli steenhoek,ethan summy,jasmine riley,jazmine cooper,kendall earles,meredith mays
-HS VanGorp Center 8           2:50   3:05  EA  1 Language Arts Law             emmy bosworth,abby dilley,josh smith,morgan edwards,reese arndt,chelsey atwood
-Mrs. Nikkel's Room Center 2   3:25   3:40  EA  2 American Gladiator Housewives eli steenhoek,ethan summy,meredith mays,kendall earles,jasmine riley
-Mrs. Robison's Room Center    3:30   3:50  EA  3 Mary of Scotland              sydni hostetter,ries wilson

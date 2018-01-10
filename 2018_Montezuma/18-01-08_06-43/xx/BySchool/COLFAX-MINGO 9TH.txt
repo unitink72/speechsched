@@ -1,4 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle    Performers
-HS Schultz Center 9           8:36   8:44  GI  1 Lafferty      gabe lafferty,jocelyn brown,aj gibson 
-3rd grade Interior Center 3   8:55   9:01  RB  1 ZYKK          lillie mckee,maggie bosworth,elizabeth collins,aj gibson 
-HS VanGorp Center 8           9:20   9:35  EA  1 Star Schmeck  lillie mckee,gabe lafferty,jocelyn brown ,avery lees

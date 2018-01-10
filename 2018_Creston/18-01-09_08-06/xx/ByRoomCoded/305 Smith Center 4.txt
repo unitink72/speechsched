@@ -1,0 +1,36 @@
+Cat  School    Start  End    Contestant EntryTitle
+SF   218        8:00   8:06  1-1        Wrath
+SF   972        8:10   8:16  1-2        Girls' Trip: Gone Wrong
+SF   140        8:20   8:26  1-3        The Film
+SF   733        8:30   8:36  1-4        Somewhere in America
+SF   471        8:40   8:46  1-5        Behind Closed Doors
+SF   427        8:50   8:56  1-6        The Price of LIfe
+SF   809        9:00   9:06  1-7        It's A Mystery
+SF   733        9:25   9:31  2-1        A Broken Record
+SF   140        9:35   9:41  2-2        The Short
+SF   201        9:45   9:51  2-3        What You're Missing
+SF   715        9:55  10:01  2-4        TBD
+SF   652       10:05  10:11  2-5        Spaghetti
+SF   201       10:15  10:21  2-6        McBride
+SF   629       10:25  10:31  2-7        And That Means WHAT?
+SF   375       10:50  10:56  3-1        Untitled
+SF   848       11:00  11:06  3-2        A Horror Story
+SF   106       11:10  11:16  3-3        Maske Film
+SF   956       11:20  11:26  3-4        Colorless
+SF   654       11:30  11:36  3-5        AKM
+SF   218       11:40  11:46  3-6        Violet
+SF   304       11:50  11:56  3-7        Conformity
+SF   848       12:40  12:46  4-1        Animation
+SF   508       12:50  12:56  4-2        First Try
+SF   715        1:00   1:06  4-3        Romeo and Juliet: A Mockumentary
+SF   106        1:10   1:16  4-4        Oser Film
+SF   471        1:20   1:26  4-5        unknown
+SF   956        1:45   1:51  5-1        Radio Nowhere
+SF   108        1:55   2:01  5-2        Neumann SF 2
+SF   375        2:05   2:11  5-3        A Rose by Another Name
+SF   923        2:15   2:21  5-4        Stories of the Road
+SF   108        2:25   2:31  5-5        Parker
+SF   384        2:35   2:41  5-6        Untitled
+EA   201        2:50   3:05  6-1        Canker Sores and Other Distractions
+EA   652        3:10   3:25  6-2        Peasantly Surprised
+EA   956        3:30   3:45  6-3        Outside Mullingar

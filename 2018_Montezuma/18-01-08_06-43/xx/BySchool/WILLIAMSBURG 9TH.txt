@@ -1,3 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle               Performers
-HS Schultz Center 9           2:54   3:02  GI  1 Funky Freshman           olivia caron,robert soukup,kaley grimm,breanna lorenzen,anna weldon
-Mrs. Nikkel's Room Center 2   3:45   4:00  EA  1 Death by Public Speaking susie shelton,katie carrico,kaley grimm,robert soukup,anna weldon,olivia caron

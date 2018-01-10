@@ -1,8 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                Performers
-3rd grade Interior Center 3   8:20   8:26  RB  1 WKLC                      katie cubbage,lane pierce,conrad werth
-3rd grade Interior Center 3   9:05   9:11  RB  2 WKHK                      kayla chizek,hope brecht,kat andersen
-Mrs. Nikkel's Room Center 2   1:20   1:35  EA  1 You're in My Thoughts     laura toennies,quinleigh grimes,gabe benton,paige bachelder
-HS Schultz Center 9           1:42   1:50  GI  3 TBD                       gabe sparks,catherine kratoska,paige bachelder
-Band Room Center 6            1:45   1:55  MT  1 Tangled - I See the Light catherine kratoska,jackie derby,samantha driscoll,macie meeks,alex werth,gabe sparks
-HS Schaumbacher Center 10     2:30   2:38  GI  2 TBD                       macie meeks,lacey jacobi
-HS Schaumbacher Center 10     3:06   3:14  GI  1 TBD                       alex werth,gabe benton,lane pierce

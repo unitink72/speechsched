@@ -1,7 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle           Performers
-3rd grade Interior Center 3   8:10   8:16  RB  1 KIOT                 zaid rachman,alex barloon,mason wilkerson,brandon barker,conner echternacht
-Mrs. Robison's Room Center    8:40   8:47  GM  1 Resisting Reflection sedona helmke,faith beranek,moriah karkosh
-HS Schultz Center 9          12:04  12:12  GI  2 Hooper               nathan hooper,miranda heeren,max white
-HS VanGorp Center 8          12:50   1:05  EA  1 Action News          joey lepire,miranda heeren,caleb alcorn,amelia keller
-Elementary Library Center 4   2:00   2:25  RT  1 Up the River         sedona helmke,moriah karkosh,mason wilkerson,faith beranek,nathan hooper,jane kim
-HS Schultz Center 9           2:54   3:02  GI  1 Lepire               joey lepire,zach rachman,caleb alcorn

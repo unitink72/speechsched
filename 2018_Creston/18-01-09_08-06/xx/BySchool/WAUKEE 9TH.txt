@@ -1,0 +1,14 @@
+Room                         Start  End   Cat  # EntryTitle                       Performers
+315 Dickinson Center 5        8:10   8:17  GM  1 Spare Change                     kyerstin applebee,grace carlson,rachel chittum,danielle macalpine
+315 Dickinson Center 5        8:30   8:37  GM  2 In the Dark                      jack elles,gavin mitchell
+318 Jameson Center 6          9:45   9:53  GI  1 Durbala, Hunt, Kelly & Mitchell  gavin mitchell,emily durbala,sarah kelly,natalie hunt
+312 Dillenburg Center 8       9:45   9:51  RB  2 131.3 DEAD                       danielle macalpine,daphne bailey,jordan roush,logan cornelius,sarah van bell,shriya magatapalli
+312 Dillenburg Center 8      10:15  10:21  RB  1 1928 WALT                        alyssa roush,kael brooks,matthew kapsch,trenton simmons
+Auditorium Center 1          10:30  11:05  OA  1 Hamlet... Or Something Like That christian jackson,cloe crigger,cooper garrett,danny bohlson,eleanor gaul,ellie pelletier,garrett sperling,grace carlson,haven coady,jack elles,kayla maher,madisyn swartzel,nadir abosaida,natalie hunt,sara petersen
+305 Smith Center 4           10:50  10:56  SF  2 Untitled                         jordan roush,kelsey cooper,kori knox,lexie burkle,logan cornelius,morgan schettler,aj mortale
+315 Dickinson Center 5        1:00   1:07  GM  3 The Horrors                      sara peterson,haven coady,puja mekala
+305 Smith Center 4            2:05   2:11  SF  1 A Rose by Another Name           alyssa roush,emma vande krol,lily dosedel,sarah van bell,xyola busch
+209 Lister Center 10          2:15   2:25  MT  2 The Villains                     anna roodnitsky,natalie grote,paige lucas,paige fahrenkrug,emma vande krol,megen heck,liz isaak
+309 Library Center 9          3:15   3:30  CR  1 Beautiful                        ava spinner,denyce linn,ethan elsbernd,henry darveau,jenn le,liz isaak,natalie grote,paige fahrenkrug,paige lucas,sarah kelly,trenton simmons
+407 Ray Center 3              3:50   4:15  RT  1 The Great Gatsby                 abigail patters,aleeza ahmar,caitlyn mears,carly olney,cooper garrett,danny bohlson,emily durbala,madisyn swartzel,michelle beeman,nadia smlatic,rachel gantt
+209 Lister Center 10          4:00   4:10  MT  1 Newsies                          andrew o'connell,brady welch,christian jackson,ethan elsbernd,ben brooks,henry darveau,jaden clark,james joseph

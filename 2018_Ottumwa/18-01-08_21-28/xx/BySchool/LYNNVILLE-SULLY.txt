@@ -1,0 +1,8 @@
+Room                         Start  End   Cat  # EntryTitle               Performers
+Library Center 2              8:00   8:25  RT  1 Women in War             brandon graham,caitlyn bartholomew,dylann huyser,elizabeth squires,evan squires,gage vander leest,hailey scandridge,jesse van wyk,logan ingersoll,mckinley conover,skyler young,mary kate shaver
+Band Center 5                 8:00   8:15  CR  1 Bloodwork                maddeline mintle,kayla van dyke,kaylee maasdam,maren egging,carson dunsbergen,shiloh cunningham,shaleah van wyk,mary kate shaver,hunter mccoy,tessa van maanen
+Auditorium Center 1          10:05  10:40  OA  1 Superhero Support Group  brandon graham,carter dunsbergen,hadley tice,kennedy roland,logan ingersoll,sierra suiter
+Band Room 255 Center 3       11:50  11:58  GI  1 The V Squad              carson dunsbergen,maddeline mintle
+Band Center 5                 1:00   1:07  GM  1 TBA                      caitlyn bartholomew,shiloh cunningham,sierra suiter
+Vocal Music Center 4          2:00   2:10  MT  1 Anything You Can Do      andrea bogaard,madison johnson
+231 Center 6                  4:05   4:20  EA  1 Airline Calamity         andrea bogaard,madison johnson

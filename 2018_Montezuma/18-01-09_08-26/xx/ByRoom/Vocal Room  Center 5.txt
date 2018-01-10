@@ -1,0 +1,10 @@
+Cat  School                     Start  End    Contestant EntryTitle
+CR   SOUTH TAMA                  8:00   8:15  1-1        Technically, It's All Your Fault
+CR   MONTEZUMA 9TH               8:20   8:35  1-2        Doodles & Daydreams
+CR   GRINNELL                    8:40   8:55  1-3        Folio
+CR   PELLA CHRISTIAN             9:00   9:15  1-4        The Creation
+CR   MESKWAKI SETTLEMENT         9:20   9:35  1-5        Inside & Out: An ACT Experience
+CR   PLEASANTVILLE              10:00  10:15  2-1        Label Me
+CR   BENTON COMMUNITY           10:20  10:35  2-2        Dear Men
+CR   MONTEZUMA                  10:40  10:55  2-3        My Way
+CR   MARSHALLTOWN               11:00  11:15  2-4        Mathis

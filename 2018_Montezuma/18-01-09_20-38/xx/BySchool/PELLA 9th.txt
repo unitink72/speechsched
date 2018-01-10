@@ -1,0 +1,5 @@
+Room                         Start  End   Cat  # EntryTitle   Performers
+HS Schaumbacher Center 10     8:12   8:20  GI  1 Mitchell     connor gauley,dan start,isaac lovan,travis mitchell,will rasmussen
+Band Room Center 6           10:00  10:10  MT  1 Lion King    abby cutler,connor gauley,ella vanzee,hannah tschetter,julia smart,travis mitchell,will rasmussen
+Band Room Center 6           10:50  11:00  MT  2 Little Women abby schuring,mickayla schlerman,olivia dehaan-burch,taylor decious
+HS Schaumbacher Center 10    12:04  12:12  GI  2 Smart        abby cutler,ella vanzee,julia smart,taylor decious

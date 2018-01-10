@@ -1,0 +1,5 @@
+Room                         Start  End   Cat  # EntryTitle         Performers
+309 Library Center 9          8:00   8:25  RT  1 Young Frankenstein anna van dorn,kaila findley,jacob jones,ethan beitz,larissa crawford,cael hansen,haley nizzi,harley wells
+607 Warner Center 2           9:45   9:53  GI  3 Group C Jones      jacob jones,bodhi mains,larissa crawford,sophia mahedy,gavin dupuy
+607 Warner Center 2          11:00  11:08  GI  2 Group B  Becker    anna van dorn,olivia becker,ethan beitz,beth lincoln
+607 Warner Center 2           4:00   4:08  GI  1 Group A Pruitt     maria pruitt,cael hansen,tristin winfred,cody mertz

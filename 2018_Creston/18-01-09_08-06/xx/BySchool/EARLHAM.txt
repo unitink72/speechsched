@@ -1,0 +1,10 @@
+Room                         Start  End   Cat  # EntryTitle                                    Performers
+318 Jameson Center 6          2:10   2:20  MT  1 Legally Blonde                                alexis huls,danielle geneser,jenna becker,jenna hardenbrook,kaylee hohertz,meridith hochstetler,renea johnson,taylor hipsley
+305 Smith Center 4            2:35   2:41  SF  1 Untitled                                      michael allen
+407 Ray Center 3              2:50   3:15  RT  1 10,000 Cigarettes                             addison boyle,maggie luong,olivia nicholson,skyler jensen
+607 Warner Center 2           2:55   3:03  GI  1 Winey                                         ashton winey,luke varner,michael allen
+209 Lister Center 10          3:30   3:40  MT  3 Guys and Dolls, Into the Woods, Ordinary Days eva fisk,joshua woolcott
+309 Library Center 9          3:35   3:50  CR  1 The Three Brothers                            alexis huls,danielle geneser,ehlana brown,grace zobeck,haley legrand,joshua woolcott,kamilla brindley,kaylee hohertz,miya davis,nicholas coon,olivia nicholson,sage richman,shydella hubbard
+209 Lister Center 10          3:45   3:55  MT  2 Band Geeks                                    grace zobeck,jordan reynolds,kamilla brindley,mackenzie haydon,nicholas coon,rachel smith,sage richman
+Auditorium Center 1           4:00   4:35  OA  1 A Murdered Mystery                            courtney hohertz,elliott groves,jenna hardenbrook,jordan reynolds,luke varner,madison young
+607 Warner Center 2           4:10   4:18  GI  2 Montgomery                                    chris montgomery,collin forcht

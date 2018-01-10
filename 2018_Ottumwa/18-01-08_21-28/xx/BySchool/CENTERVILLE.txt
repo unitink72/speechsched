@@ -1,0 +1,5 @@
+Room                         Start  End   Cat  # EntryTitle                  Performers
+231 Center 6                  9:00   9:15  EA  1 He Loves Me                 kathryn carlyle,madeleine robinson,rachel lawhon
+205 Center 7                 11:20  11:26  SF  1 Untitled                    gabriella deprizio,julianna barth,kathryn carlyle,madeleine robinson,shae burgher,daryn lassabe
+Band Room 255 Center 3        4:05   4:13  GI  1 Lassabe                     daryn lassabe,gabriella deprizio,julianna barth
+Band Center 5                 4:07   4:12  SM  1 What I Don't Like About You lawson bettis

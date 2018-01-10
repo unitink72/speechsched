@@ -1,0 +1,15 @@
+Room                         Start  End   Cat  # EntryTitle                        Performers
+310 Center 7                  8:15   8:27  TV  1 Corn News                         kyra helmuth,levi stultz,jack schlabaugh,beau stutzman,gavin frascht,malia sedlacek
+231 Center 6                  8:20   8:35  EA  2 Death of a Snowman                tristan novy,emily marner
+Band Room 255 Center 3        8:20   8:28  GI  2 Team Sedlacek                     jaiden sedlacek,jesse ferreira,dominic helmuth
+231 Center 6                 10:20  10:35  EA  3 Three Park Bench Scenes           jesse ferreira,stephannie schrock,levi stultz,emily swartzentruber,jaiden sedlacek
+Band Room 255 Center 3       10:40  10:48  GI  3 Team Mathews                      sierra mathews,gracie lucas,olivia quinby
+Auditorium Center 1          10:50  11:25  OA  1 So You Wanna Be a Cheerleader     lola knight,carah reimer,emily marner,emily swartzentruber,ryan sansen,feza matiyabo,annessa meader,evan meader,olivia quinby,mackenzie beam,sydnee griffin,elizabeth meader,lillian radeboldt,jack schlabaugh,russell dunbar
+Band Room 255 Center 3       11:30  11:38  GI  1 Team Sents                        isaiah sents,trevor phillips,evan meader
+Library Center 2              1:15   1:40  RT  1 We Are the Ashes/Once Upon a Time carah reimer,elizabeth meader,tristan novy,eli vanroekel,annessa meader,kelby gingerich,hannah glick
+Vocal Music Center 4          1:15   1:25  MT  1 Batboy the Musical                maizy fugate,dominic helmuth,stephannie schrock,ryan sansen
+205 Center 7                  2:00   2:06  SF  1 Happiiness                        feza matiyabo,eli vanroekel,madi linnell,colton slabaugh,ty waters,gina waters
+Band Center 5                 2:15   2:22  GM  1 Pizza                             kelby gingerich,lillian radeboldt
+Band Center 5                 2:25   2:32  GM  2 Awake                             mackenzie beam,hannah glick,madi linnell,gracie lucas,sierra mathews,jennifer sanchez
+205 Center 7                  2:35   2:41  SF  2 Spirit Snoops                     maizy fugate,trevor phillips,sydnee griffin,adam miramontes
+Library Center 2              3:25   3:40  EA  1 Head Games                        isaiah sents,lola knight

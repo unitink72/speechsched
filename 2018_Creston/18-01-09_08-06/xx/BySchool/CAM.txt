@@ -1,0 +1,7 @@
+Room                         Start  End   Cat  # EntryTitle                           Performers
+318 Jameson Center 6          8:20   8:28  GI  2 2                                    jozie lett,sammi jahde,emily lee,haley luke,allison speaker
+309 Library Center 9          8:30   8:55  RT  1 WILL THE LADIES PLEASE COME TO ORDER shelby stephenson,chelsea hardisty,molly casey,madelynn stirek,anna stork,isabel kinzie,emma penton,macy ticknor
+312 Dillenburg Center 8       9:00   9:06  RB  2 102.4 The YAK                        chelsea hardisty,emma penton,madelynn stirek,haley becker
+305 Smith Center 4           10:25  10:31  SF  1 And That Means WHAT?                 paige mcafee,jozie lett,sammi jahde
+312 Dillenburg Center 8      11:00  11:06  RB  1 104.9 The DAD                        kade nelsen,anna stork,andrew holste
+607 Warner Center 2           2:05   2:13  GI  1 1                                    lexie ehrman,natasha erickson,mercedes harris,daniel kopp,lane thomsen  

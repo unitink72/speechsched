@@ -1,0 +1,9 @@
+Room                         Start  End   Cat  # EntryTitle                             Performers
+Band Room 255 Center 3        8:10   8:18  GI  1 Keeler                                 gizzy keeler ,stephen sundquist ,will exline
+Vocal Music Center 4          8:45   8:55  MT  1 Lay All Your Love on Me from Mamma Mia abby adams,braydon simms
+Band Center 5                10:10  10:25  CR  1 Exes                                   brooklyn nichols ,kelton vanderburg,skylar barning 
+Vocal Music Center 4         11:30  11:40  MT  2 Sincerely Me from Dear Evan Hansen     ashley gress ,holle murphy,kaylee goodson 
+Auditorium Center 1           1:40   2:15  OA  1 Starline 117                            kareem jasper ,ashley gress,braydon sims,brooklyn nichols,holle murphy,kaylee goodson
+Band Center 5                 2:35   2:42  GM  1 Rage Quit                              emily shelton ,gizzy keeler,peyton lane ,will exline
+Band Room 255 Center 3        2:40   2:48  GI  2 Ghormley                               billy rouw,fidel reyes ,gus ghormley
+205 Center 7                  2:55   3:01  SF  1 Misled                                 billy rouw ,braden miller ,cayde black ,fidel reyes,gus ghormley,nathan  smith

@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle          Performers
-HS Schultz Center 9           8:24   8:32  GI  1 Dessie              jacob facile,allly gunderson,dessie may,megan wedgewood
-Band Room Center 6            8:45   8:55  MT  1 Annie               haley roorda,katie probasco,ashlyn huff,miah foubert
-Vocal Room  Center 5         10:20  10:35  CR  1 Doodles & Daydreams alyssa cline,dylan holland,joey kercheval,dessie may,ashlynn huff,megan wedgewood,brayden stockman,carmen klos,lauren klos,kierstyn price,ally gunderson
-Mrs. Robison's Room Center   10:30  10:37  GM  1 Character Clash     haley roorda,miah foubert
-Mrs. Nikkel's Room Center 2   1:05   1:11  SF  1 Rough Day           kailey jones,brayden stockman,kierstyn price,carmen klos,lauren klos

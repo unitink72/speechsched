@@ -1,0 +1,34 @@
+Cat  School                     Start  End    Contestant EntryTitle
+SF   MONTEZUMA                   8:00   8:06  1-1        Park Rangers
+SF   GMG                         8:10   8:16  1-2        We're Thinking
+SF   PELLA CHRISTIAN             8:20   8:26  1-3        Incident 0001
+SF   PELLA COMMUNITY             8:30   8:36  1-4        Eye of Newt
+SF   IOWA VALLEY                 8:40   8:46  1-5        The Bus
+SF   GRINNELL 9TH                8:55   9:01  2-1        ABHLM Film
+SF   GRINNELL                    9:05   9:11  2-2        Nolton Jacobson Film
+SF   MONTEZUMA 9TH               9:15   9:21  2-3        Rough Day
+SF   HLV                         9:25   9:31  2-4        That
+SF   Baxter High School          9:35   9:41  2-5        The Testing
+SF   MARSHALLTOWN                9:50   9:56  3-1        Ortiz Films
+SF   VINTON-SHELLSBURG          10:00  10:06  3-2        Untitled
+SF   GRINNELL                   10:10  10:16  3-3        Rebelsky Film
+SF   BENTON COMMUNITY           10:20  10:26  3-4        Spying Through Life
+SF   CLEAR CREEK AMANA          10:30  10:36  3-5        Mixed Messages
+SF   BENTON COMMUNITY           10:45  10:51  4-1        My Teachers Are Salty
+SF   PLEASANTVILLE              10:55  11:01  4-2        TBA
+SF   SOUTH TAMA                 11:05  11:11  4-3        Hide and Seek
+SF   WILLIAMSBURG               11:15  11:21  4-4        The Way the Cookie Chrumbles
+SF   MESKWAKI SETTLEMENT        11:25  11:31  4-5        Death by Tobacco
+SF   SOUTH TAMA                 12:15  12:21  5-1        Planet X
+SF   MESKWAKI SETTLEMENT        12:25  12:31  5-2        Two Worlds
+SF   VINTON-SHELLSBURG          12:35  12:41  5-3        Untitled
+SF   IOWA VALLEY 9TH            12:45  12:51  5-4        In Just 7 Seconds
+SF   IOWA VALLEY                12:55   1:01  5-5        The Mug
+SF   MARSHALLTOWN                1:05   1:11  5-6        Crafting with Moira
+EA   GMG                         1:20   1:35  6-1        Anybody Want my Sister - Again
+EA   GMG 9TH                     1:40   1:55  6-2        Ask Big Sister
+EA   GMG 9TH                     2:20   2:35  6-3        Grandpa and the Job interview
+EA   COLFAX-MINGO                2:45   3:00  7-1        Mary of Scotland
+EA   CLEAR CREEK AMANA           3:05   3:20  7-2        Rosie the Retired Rockette
+EA   BENTON COMMUNITY            3:25   3:40  7-3        Blueberry hill Accord
+EA   EAST MARSHALL               3:45   4:00  7-4        Finger Food

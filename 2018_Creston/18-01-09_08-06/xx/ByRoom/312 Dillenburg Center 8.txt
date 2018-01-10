@@ -1,0 +1,31 @@
+Cat  School                     Start  End    Contestant EntryTitle
+RB   LENOX 9TH                   8:00   8:06  1-1        KJAC
+RB   NODAWAY VALLEY              8:10   8:16  1-2        JJJB
+RB   WAUKEE                      8:20   8:26  1-3        106.2 The Pups
+RB   LENOX                       8:30   8:36  1-4        Time Travel Radio
+RB   CRESTON 9TH                 8:40   8:46  1-5        Hillbilly HBLY News
+RB   WAUKEE                      8:50   8:56  1-6        Sharon-Z-News
+RB   CAM                         9:00   9:06  1-7        102.4 The YAK
+RB   DIAGONAL                    9:25   9:31  2-1        DISCO
+RB   WAUKEE 9TH                  9:45   9:51  2-2        131.3 DEAD
+RB   PANORAMA 9TH                9:55  10:01  2-3        TBD
+RB   INTERSTATE 35              10:05  10:11  2-4        wjs1
+RB   WAUKEE 9TH                 10:15  10:21  2-5        1928 WALT
+RB   ORIENT-MACKSBURG           10:25  10:31  2-6        KILB
+RB   PANORAMA                   10:50  10:56  3-1        KDLA
+RB   CAM                        11:00  11:06  3-2        104.9 The DAD
+RB   LENOX                      11:10  11:16  3-3        Sports Radio
+RB   ADM                        11:30  11:36  3-4        Space News
+RB   MOUNT AYR                  11:40  11:46  3-5        MKIS
+RB   CRESTON                    11:50  11:56  3-6        97.5, The Van
+TV   NODAWAY VALLEY             12:55   1:07  4-1        WWJS
+TV   PANORAMA 9TH                1:10   1:22  4-2        TBD
+TV   WAUKEE                      1:25   1:37  4-3        WDK Morning News
+TV   CRESTON                     1:40   1:52  4-4        MTN, Medieval Times Network
+TV   EAST UNION                  2:10   2:22  5-1        EU
+TV   EAST UNION                  2:25   2:37  5-2        EU
+TV   PANORAMA                    2:40   2:52  5-3        TBD
+TV   PANORAMA                    2:55   3:07  5-4        TBD
+TV   LENOX 9TH                   3:25   3:37  6-1        1941 TV
+TV   WAUKEE                      3:40   3:52  6-2        The Tomorrow Show
+TV   ADM                         4:10   4:22  6-3        TSP- Boston

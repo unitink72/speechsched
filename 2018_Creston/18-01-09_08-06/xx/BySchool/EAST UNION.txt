@@ -1,0 +1,9 @@
+Room                         Start  End   Cat  # EntryTitle          Performers
+305 Smith Center 4            8:40   8:46  SF  1 Behind Closed Doors dawson goodridge,kylie tate,olivia moore,quinn eslinger,t'annah banda
+318 Jameson Center 6         10:30  10:38  GI  1 BMG                 dawson goodridge,olivia moore,t'annah banda
+318 Jameson Center 6         11:00  11:08  GI  2 HtH                 daniel thatcher,kanyon huntington,kylie tate,lauren hadley
+318 Jameson Center 6         11:10  11:18  GI  3 MSG                 colton mitchell,garrett skarda,patrick groves
+305 Smith Center 4            1:20   1:26  SF  2 unknown             daniel thatcher,mattie riemenschneider,patrick groves
+312 Dillenburg Center 8       2:10   2:22  TV  2 EU                  alyssa weinkoetz,jayden welcher,jessica kelley,taylor miller
+312 Dillenburg Center 8       2:25   2:37  TV  1 EU                  kanyon huntington,lauren hadley,matty riemenschneider,quinn eslinger
+217 Shepherd Center 7         3:25   3:40  EA  1 The Odd Couple      abby harper,kate sutton
