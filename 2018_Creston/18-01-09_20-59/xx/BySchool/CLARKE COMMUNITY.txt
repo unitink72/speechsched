@@ -1,0 +1,4 @@
+Room                         Start  End   Cat  # EntryTitle   Performers
+607 Warner Center 2           9:45   9:53  GI  1 Elben        nathan porter,reese fancher,riley elben,zach smith,brittany beckett
+315 Dickinson Center 5       10:50  11:05  EA  1 Night Mother jessie,mother
+209 Lister Center 10          1:30   1:40  MT  1 Freedom      kelly,sam

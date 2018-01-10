@@ -1,0 +1,10 @@
+Room                         Start  End   Cat  # EntryTitle                                       Performers
+318 Jameson Center 6          8:10   8:18  GI  2 Henry, Hunt, Young, Jackson                      chase henry,will hunt,will young,hannah jackson
+209 Lister Center 10          9:00   9:10  MT  1 Been a Long Day                                  abbey schafer,bradley wurster,elsie schafer
+312 Dillenburg Center 8       9:00   9:06  RB  1 MKIS                                             samantha schaefer,lanie sheil,gabby hunke,sammy mcgill,will young,kaitlyn dolecheck,john young,tyler jones
+305 Smith Center 4           10:05  10:11  SF  2 Somewhere in America                             addy flammang,kenisha ross,adelyda ebersole,kennedy brokaw-mcalexander,hallie still,abbey schafer,mercadez birkenholz
+309 Library Center 9         11:15  11:40  RT  1 Emergency Protocol                               hanna ackley,kaitlyn dolecheck,tyler jones,abigail barnes
+305 Smith Center 4           11:40  11:46  SF  1 A Broken Record                                  caroline mcalexander,samantha schaefer,ryann martin,trenton stull,kiet doan,chase henry,lanie sheil,gabby hunke,nathan hauge,josh cox,abbi haley
+607 Warner Center 2           1:40   1:48  GI  3 Hower, Elwood, Rushing, Lambert, Thomas          bryce hower,dalton elwood,jacob rushing,cayden lambert,dalton thomas
+607 Warner Center 2           2:25   2:33  GI  1 Hauge, Schafer, Stull, Young                     nathan hauge,elsie schafer,trenton stull,john young
+309 Library Center 9          2:55   3:10  CR  1 Stress, Pressure, Doom, and other Teen Delights  addy flammang,kenisha ross,caroline mcalexander,kennedy brokaw-mcalexander,hanna ackley,ryann martin,hannah jackson,sammy mcgill

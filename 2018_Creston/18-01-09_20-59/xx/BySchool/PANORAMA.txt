@@ -1,0 +1,13 @@
+Room                         Start  End   Cat  # EntryTitle                             Performers
+217 Shepherd Center 7         8:40   8:55  EA  2 A Streetcar Named Desire               jensen wilke,sam webster
+312 Dillenburg Center 8       9:35   9:41  RB  1 KDLA                                   abbi brown,destiny watson,dylan mattox,kaylin small,lucas wasson
+305 Smith Center 4           10:25  10:31  SF  1 TBD                                    erica block,jensen wilke,lauren mcclatchey
+305 Smith Center 4           12:40  12:46  SF  2 Romeo and Juliet: A Mockumentary       jacob garcia,jacob holwegner,krista smith,maiah keith,mavis nelson,shayley hunt
+217 Shepherd Center 7        12:55   1:10  EA  1 The Odd Couple (Female Version)        alex kurtz,cameron laughery,chloe webster,kinsey buster,molly simmons
+312 Dillenburg Center 8      12:55   1:07  TV  2 TBD                                    alex kurtz,anna holloway,emry colby,jacob holwegner,luke south,lydia lindstrom,maisie knapp,noah kirtley
+312 Dillenburg Center 8       1:10   1:22  TV  1 TBD                                    brooklyn behrends,bryn steffen,drew hafner,emily smith,jaelyn waddle,kennedy kuta,spencer hunt
+407 Ray Center 3              2:05   2:30  RT  1 Superheroes                            abbi brown,ada schauer,bryant thompson,carson fisher,dylan mattox,jamy randol,josh carstens,kaleb randel,kaylin small,kinsey buster,kordell gafkjen,lexy mccullah
+209 Lister Center 10          3:00   3:10  MT  1 Avenue Q                               chloe webster,erica block,jesse gardner,lexi van winkle,madison liveseay,sam webster
+318 Jameson Center 6          3:10   3:20  MT  2 Spring Awakening                       ada schauer,bryant thompson,jared stagg,josie arganbright,kordell gafkjen,lexy mccullah,madi fear,taylor raibikis
+309 Library Center 9          3:15   3:30  CR  1 Humans of New York                     brooklyn behrends,cameron laughery,carson fisher,jamy randol,josie arganbright,lexi van winkle,madi fear,madison livesay,molly simmons,taylor raibikis
+607 Warner Center 2           4:10   4:18  GI  1 Carstens, Randel, Stagg, Knapp, Watson destiny watson,jared stagg,josh carstens,kaleb randel,maisie knapp

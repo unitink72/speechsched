@@ -1,0 +1,6 @@
+Room                         Start  End   Cat  # EntryTitle                        Performers
+318 Jameson Center 6          8:20   8:28  GI  1 Anson                             jayden sexton,tyler anson,wyatt franklin
+312 Dillenburg Center 8       8:50   8:56  RB  1 Hillbilly HBLY News               adam mcelwain,alex roach,alissa hays,brittany vandevender,kenzie britten,lauryn christensen,marie mullin
+Auditorium Center 1           9:30  10:05  OA  1 Nick Tickle, Fairy Tale Detective alissa hays,ashton cheers,cassie ralston,cierra oelberg,gracie lillie,jess eblen,jurnee harvey,kenzie britten,korbyn ringer,kordelia taylor,lauryn christensen,piper lumbard,wyatt franklin
+209 Lister Center 10         12:15  12:25  MT  1 Disney's The Little Mermaid       amiya watkins,ashton cheers,cassie ralston,gracie lillie,jayden sexton,korbyn ringer,kordelia taylor
+305 Smith Center 4            1:20   1:26  SF  1 Conformity                        adam mcelwain,alex roach,amiya watkins,brittany vandevender,jurnee harvey,marie mullin,piper lumbard,tyler anson

@@ -1,0 +1,10 @@
+Room                         Start  End   Cat  # EntryTitle                                    Performers
+607 Warner Center 2           8:00   8:08  GI  1 Winey                                         ashton winey,luke varner,michael allen
+318 Jameson Center 6          8:40   8:48  GI  2 Montgomery                                    chris montgomery,collin forcht
+Auditorium Center 1           8:45   9:20  OA  1 A Murdered Mystery                            courtney hohertz,elliott groves,jenna hardenbrook,jordan reynolds,luke varner,madison young
+407 Ray Center 3              9:00   9:15  CR  1 The Three Brothers                            alexis huls,danielle geneser,ehlana brown,grace zobeck,haley legrand,joshua woolcott,kamilla brindley,kaylee hohertz,miya davis,nicholas coon,olivia nicholson,sage richman,shydella hubbard
+407 Ray Center 3              9:55  10:20  RT  1 10,000 Cigarettes                             addison boyle,maggie luong,olivia nicholson,skyler jensen
+305 Smith Center 4           10:50  10:56  SF  1 Untitled                                      michael allen
+209 Lister Center 10         11:00  11:10  MT  3 Guys and Dolls, Into the Woods, Ordinary Days eva fisk,joshua woolcott
+318 Jameson Center 6          2:10   2:20  MT  1 Legally Blonde                                alexis huls,danielle geneser,jenna becker,jenna hardenbrook,kaylee hohertz,meridith hochstetler,renea johnson,taylor hipsley
+209 Lister Center 10          2:15   2:25  MT  2 Band Geeks                                    grace zobeck,jordan reynolds,kamilla brindley,mackenzie haydon,nicholas coon,rachel smith,sage richman

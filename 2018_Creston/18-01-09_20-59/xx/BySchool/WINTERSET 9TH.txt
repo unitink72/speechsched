@@ -1,0 +1,7 @@
+Room                         Start  End   Cat  # EntryTitle     Performers
+318 Jameson Center 6          9:55  10:03  GI  1 PLAW           olivia petsche,jonathan lebron,april arand,morgan wickman
+318 Jameson Center 6         10:05  10:13  GI  2 FPV            mara feirer,nicholas pena,ethan villa
+209 Lister Center 10         10:15  10:25  MT  2 Rent           april arand,kyle werner
+315 Dickinson Center 5       12:40  12:47  GM  1 KWW Group Mime vivian klein,kyle werner,morgan wickman
+305 Smith Center 4           12:50  12:56  SF  1 First Try      ethan villa,jonathan lebron,nicholas pena,olivia petsche
+318 Jameson Center 6          1:25   1:35  MT  1 Wicked         mara feirer,vivian klein

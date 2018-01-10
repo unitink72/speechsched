@@ -1,0 +1,5 @@
+Room                         Start  End   Cat  # EntryTitle         Performers
+318 Jameson Center 6          9:25   9:33  GI  3 Group C Jones      jacob jones,bodhi mains,larissa crawford,sophia mahedy,gavin dupuy
+407 Ray Center 3             10:25  10:50  RT  1 Young Frankenstein anna van dorn,kaila findley,jacob jones,ethan beitz,larissa crawford,cael hansen,haley nizzi,harley wells
+318 Jameson Center 6         10:40  10:48  GI  1 Group A Pruitt     maria pruitt,cael hansen,tristin winfred,cody mertz
+318 Jameson Center 6         11:10  11:18  GI  2 Group B  Becker    anna van dorn,olivia becker,ethan beitz,beth lincoln

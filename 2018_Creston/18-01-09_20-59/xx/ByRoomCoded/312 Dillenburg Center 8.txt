@@ -1,0 +1,31 @@
+Cat  School    Start  End    Contestant EntryTitle
+RB   245        8:00   8:06  1-1        1928 WALT
+RB   116        8:10   8:16  1-2        106.2 The Pups
+RB   710        8:20   8:26  1-3        Time Travel Radio
+RB   896        8:30   8:36  1-4        DISCO
+RB   742        8:50   8:56  1-5        Hillbilly HBLY News
+RB   309        9:00   9:06  1-6        MKIS
+RB   967        9:25   9:31  2-1        JJJB
+RB   261        9:35   9:41  2-2        KDLA
+RB   458        9:45   9:51  2-3        Space News
+RB   704       10:05  10:11  2-4        wjs1
+RB   710       10:15  10:21  2-5        Sports Radio
+RB   116       10:25  10:31  2-6        Sharon-Z-News
+RB   409       10:50  10:56  3-1        KJAC
+RB   837       11:00  11:06  3-2        102.4 The YAK
+RB   865       11:10  11:16  3-3        TBD
+RB   824       11:20  11:26  3-4        KILB
+RB   515       11:30  11:36  3-5        97.5, The Van
+RB   245       11:40  11:46  3-6        131.3 DEAD
+RB   837       11:50  11:56  3-7        104.9 The DAD
+TV   865       12:40  12:52  4-1        TBD
+TV   261       12:55   1:07  4-2        TBD
+TV   261        1:10   1:22  4-3        TBD
+TV   409        1:25   1:37  4-4        1941 TV
+TV   116        1:40   1:52  4-5        WDK Morning News
+TV   116        2:10   2:22  5-1        The Tomorrow Show
+TV   967        2:25   2:37  5-2        WWJS
+TV   613        2:40   2:52  5-3        EU
+TV   613        2:55   3:07  5-4        EU
+TV   515        3:25   3:37  6-1        MTN, Medieval Times Network
+TV   458        3:40   3:52  6-2        TSP- Boston

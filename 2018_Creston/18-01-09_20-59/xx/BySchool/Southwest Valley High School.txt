@@ -1,0 +1,6 @@
+Room                         Start  End   Cat  # EntryTitle                    Performers
+407 Ray Center 3              8:40   8:55  CR  1 Double Trouble in Walla Walla danielle wetzel,abby fleharty,grant maurer,marah larsen,abbie wetzel,kayley myers,mazzy hummel,christian sexton,kaitlyn richey,danica drake,carlie breaud,sydney davies,joslynn moore,aubrey boswell,mazene laughlin
+607 Warner Center 2           1:00   1:08  GI  2 Roberts                       duncan roberts,moritz schlimbach,anthony bynam,adam harris
+315 Dickinson Center 5        1:50   1:57  GM  1 Outside the box               katie hoerman,mazzy hummel,bella johnson
+607 Warner Center 2           2:05   2:13  GI  1 Baker, Cline                  tristan cline,tracy baker
+407 Ray Center 3              3:20   3:45  RT  1 Snow, Sort of, White          duncan roberts,adam harris,moritz schlimbach,anthony bynam,connor shipley,mazene laughlin,evan davis,aubrey boswell,joslynn moore,sydney davies,katie hoerman,kendi graham,carlie breaud,danica drake,kaitlyn richey

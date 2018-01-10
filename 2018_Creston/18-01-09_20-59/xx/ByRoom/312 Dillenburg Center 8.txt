@@ -1,0 +1,31 @@
+Cat  School                     Start  End    Contestant EntryTitle
+RB   WAUKEE 9TH                  8:00   8:06  1-1        1928 WALT
+RB   WAUKEE                      8:10   8:16  1-2        106.2 The Pups
+RB   LENOX                       8:20   8:26  1-3        Time Travel Radio
+RB   DIAGONAL                    8:30   8:36  1-4        DISCO
+RB   CRESTON 9TH                 8:50   8:56  1-5        Hillbilly HBLY News
+RB   MOUNT AYR                   9:00   9:06  1-6        MKIS
+RB   NODAWAY VALLEY              9:25   9:31  2-1        JJJB
+RB   PANORAMA                    9:35   9:41  2-2        KDLA
+RB   ADM                         9:45   9:51  2-3        Space News
+RB   INTERSTATE 35              10:05  10:11  2-4        wjs1
+RB   LENOX                      10:15  10:21  2-5        Sports Radio
+RB   WAUKEE                     10:25  10:31  2-6        Sharon-Z-News
+RB   LENOX 9TH                  10:50  10:56  3-1        KJAC
+RB   CAM                        11:00  11:06  3-2        102.4 The YAK
+RB   PANORAMA 9TH               11:10  11:16  3-3        TBD
+RB   ORIENT-MACKSBURG           11:20  11:26  3-4        KILB
+RB   CRESTON                    11:30  11:36  3-5        97.5, The Van
+RB   WAUKEE 9TH                 11:40  11:46  3-6        131.3 DEAD
+RB   CAM                        11:50  11:56  3-7        104.9 The DAD
+TV   PANORAMA 9TH               12:40  12:52  4-1        TBD
+TV   PANORAMA                   12:55   1:07  4-2        TBD
+TV   PANORAMA                    1:10   1:22  4-3        TBD
+TV   LENOX 9TH                   1:25   1:37  4-4        1941 TV
+TV   WAUKEE                      1:40   1:52  4-5        WDK Morning News
+TV   WAUKEE                      2:10   2:22  5-1        The Tomorrow Show
+TV   NODAWAY VALLEY              2:25   2:37  5-2        WWJS
+TV   EAST UNION                  2:40   2:52  5-3        EU
+TV   EAST UNION                  2:55   3:07  5-4        EU
+TV   CRESTON                     3:25   3:37  6-1        MTN, Medieval Times Network
+TV   ADM                         3:40   3:52  6-2        TSP- Boston

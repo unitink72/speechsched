@@ -1,0 +1,13 @@
+Room                         Start  End   Cat  # EntryTitle                          Performers
+209 Lister Center 10          8:00   8:10  MT  3 ***undetermined at registration     crimson ruttenberg,kaci foote,tori foote,josie spencer
+305 Smith Center 4            9:25   9:31  SF  1 Spaghetti                           sam bredensteiner,kyle rowan,tommy rankin,natalie carlson
+309 Library Center 9          9:30   9:55  RT  1 Law & Order: Fairy Tale Unit        makinna russell,trevor edwards,jennifer johnson,hannah o'dell,keaton akers,tori foote,kaci foote,selena valenzuela,vivian tracy,jacob daleske,emma nyquist,cailyn akers,kinison luttrell
+209 Lister Center 10         10:30  10:40  MT  2 For Good                            carmen perdew,macie sefrit
+315 Dickinson Center 5       11:10  11:25  EA  1 Peasantly Surprised                 makinna russell,kanyon dulin
+607 Warner Center 2          11:30  11:38  GI  1 Dulin-Luttrell-Henry-Sefrit-Johnson kanyon dulin,kinison luttrell,damien henry,brennan sefrit,bradley johnson
+607 Warner Center 2           2:45   2:53  GI  2 Burn-Purdy-Perdew-Sefrit-Tracy      stephen burn,zayne purdy,carmen perdew,macie sefrit,vivian tracy
+315 Dickinson Center 5        3:10   3:15  SM  1 Ruttenberg untitled mime            crimson ruttenberg
+209 Lister Center 10          3:30   3:40  MT  1 Without Love                        hanna o'dell,jennifer johnson,bradley johnson,stephen burn
+217 Shepherd Center 7         3:45   4:00  EA  2 Inherit the Wind                    trevor edwards,jacob daleske,zayne purdy
+607 Warner Center 2           4:00   4:08  GI  3 Rowan-Bredensteiner-Kettle          kyle rowan,sam bredensteiner,levi kettle
+217 Shepherd Center 7         4:05   4:20  EA  3 The Tooth Hurts                     selena valenzuela,cailyn akers,emma nyquist

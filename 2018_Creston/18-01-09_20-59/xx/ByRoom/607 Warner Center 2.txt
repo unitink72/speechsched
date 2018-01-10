@@ -1,0 +1,40 @@
+Cat  School                     Start  End    Contestant EntryTitle
+GI   EARLHAM                     8:00   8:08  1-1        Winey
+GI   WAUKEE                      8:10   8:18  1-2        Neese
+GI   CRESTON                     8:20   8:28  1-3        Linch
+GI   CRESTON                     8:30   8:38  1-4        Powers
+GI   EARLHAM 9TH                 8:40   8:48  1-5        Tibben
+GI   EAST UNION                  8:50   8:58  1-6        HtH
+GI   PANORAMA 9TH                9:00   9:08  1-7        Gibson Jarnagin Reinhart
+GI   WINTERSET                   9:25   9:33  2-1        PMPMP
+GI   WINTERSET                   9:35   9:43  2-2        HAPWA
+GI   CLARKE COMMUNITY            9:45   9:53  2-3        Elben
+GI   LENOX                       9:55  10:03  2-4        Cruz Improv 2
+GI   MURRAY                     10:05  10:13  2-5        Girl Power
+GI   NODAWAY VALLEY             10:15  10:23  2-6        GI1
+GI   SOUTH PAGE                 10:25  10:33  2-7        Gregory Group Improv 
+GI   CAM                        10:50  10:58  3-1        2
+GI   WAUKEE 9TH                 11:00  11:08  3-2        Durbala, Hunt, Kelly & Mitchell
+GI   SOUTHEAST WARREN           11:10  11:18  3-3        MMU
+GI   ADM                        11:20  11:28  3-4        Goos
+GI   BEDFORD                    11:30  11:38  3-5        Dulin-Luttrell-Henry-Sefrit-Johnson
+GI   CAM 9TH                    11:40  11:48  3-6        1
+GI   CRESTON                    11:50  11:58  3-7        Frakes
+GI   SOUTHEAST WARREN           12:40  12:48  4-1        CHN
+GI   ADM                        12:50  12:58  4-2        Chase
+GI   Southwest Valley High Sch   1:00   1:08  4-3        Roberts
+GI   SOUTH PAGE                  1:10   1:18  4-4        Gore Group Improv
+GI   CAM                         1:20   1:28  4-5        1
+GI   MORMON TRAIL                1:30   1:38  4-6        CorLieanaLa
+GI   MOUNT AYR                   1:40   1:48  4-7        Hower, Elwood, Rushing, Lambert, Thomas
+GI   Southwest Valley High Sch   2:05   2:13  5-1        Baker, Cline
+GI   EAST UNION                  2:15   2:23  5-2        MSG
+GI   MOUNT AYR                   2:25   2:33  5-3        Hauge, Schafer, Stull, Young
+GI   BEDFORD                     2:45   2:53  5-4        Burn-Purdy-Perdew-Sefrit-Tracy
+GI   WINTERSET                   2:55   3:03  5-5        Four Angry Men
+GI   DIAGONAL                    3:05   3:13  5-6        Team Wild!
+GI   EARLHAM 9TH                 3:30   3:38  6-1        Davis
+GI   CAM 9TH                     3:40   3:48  6-2        2
+GI   MOUNT AYR 9TH               3:50   3:58  6-3        Jennett, Lutrick, Fletchall, and Dickerson
+GI   BEDFORD                     4:00   4:08  6-4        Rowan-Bredensteiner-Kettle
+GI   PANORAMA                    4:10   4:18  6-5        Carstens, Randel, Stagg, Knapp, Watson
