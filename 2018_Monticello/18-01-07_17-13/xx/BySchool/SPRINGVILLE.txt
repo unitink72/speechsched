@@ -1,8 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                                 Performers
-303 Center 3                 10:30  10:36  SF  1 The Decline and Fall of the Talk Show Host quinn haverkamp,madi wagaman,kaiden ray,jerry hannagan iii
-303 Center 3                 10:40  10:46  SF  2 Confrontation in the Internet Age          bailey fah,makala erdman,madi fah,abbey johnson,tehya cart,sadie stolte,hannah stuppi,cade zaruba,henry hoogland,austin smith,yanisa techawongprasert,marshall cordes
-312 Center 4                 10:50  10:58  GI  1 Self-Improvment                            hailey kirchmann,chloe rudnicki
-430 Center 12                 2:00   2:07  GM  1 A Three Hour Tour                          yanisa techawongprasert,makala erdman,ashley brandenburg,hailey kirchmann,averi epperson
-301 Center 1                  2:15   2:30  EA  1 He Loves Me                                bailey fah,sadie stolte,hannah stuppi
-346 Center 8                  2:30   2:36  RB  2 KBRO                                       ashley brandenburg,marshall cordes,austin smith,abbey johnson
-346 Center 8                  4:00   4:06  RB  1 KFAM                                       madi fah,bailey fah,cade zaruba,henry hoogland,tehya cart

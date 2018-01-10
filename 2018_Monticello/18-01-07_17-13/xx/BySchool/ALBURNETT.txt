@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle        Performers
-346 Center 8                  9:45   9:57  TV  1 NJB News          nieve funston,jack waskow,brandon mather
-Auditorium Center 9          11:20  11:55  OA  1 Rogue             kylee trimble,kayla hospodarsky,tori wood,sydney glazier,kipp miller,brandon mather,jack waskow,nieve funston,lydia lines,callie wright,riley blackford,andrew phelps,calvin gehring,aaron carter,brie sperfslage,chris brown,zindrick burns,caroline gehring,lucy stevenson,taylor hospodarsky,dillon kremer,john leach,john waskow,macauley riley
-302 Center 2                  2:50   2:58  GI  1 KS                kylee trimble,sydney glazier
-Choir Room Center 11          3:45   3:55  MT  1 A Whole New World chris brown,abbi heft

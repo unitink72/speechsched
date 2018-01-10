@@ -1,7 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                               Performers
-Choir Room Center 11         10:36  10:46  MT  2 Under the Sea from The Little Mermaid    abby telford,aleigha vital
-377 Center 7                  1:45   2:00  EA  2 This Dream                               grace dehner,anabel blount,mary schnier,kyle sager
-Choir Room Center 11          2:45   2:55  MT  1 Alone in the Universe from Seussical Jr. olivia gossard,sydney kaup
-312 Center 4                  3:50   3:58  GI  2 Schnier                                  payton schnier,patrick mulholland,derek wiesner
-301 Center 1                  4:30   4:45  EA  1 The 4th Digit                            olivia gossard,sydney,makenzi sparks
-312 Center 4                  4:40   4:48  GI  1 Griffin                                  sophie griffin,ava ruden,isabelle hansen,paige kuehl

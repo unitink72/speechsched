@@ -1,3 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                 Performers
-Library Center 5             10:00  10:25  RT  1 There Will Come Soft Rains alyssa cashen,annabelle ducharme,cole hurley,gillian hoekstra,janie sherman,kristy reyes,rachel kaiser,rebekah behm,regan dundee,tori lorimer,yvonne brecht
-430 Center 12                11:10  11:17  GM  1 Feeling the Sunshine       alyssa cashen,rebekah behm,regan dundee,tori lorimer

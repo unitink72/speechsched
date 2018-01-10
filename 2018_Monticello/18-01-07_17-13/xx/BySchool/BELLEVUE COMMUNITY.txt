@@ -1,3 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle    Performers
-302 Center 2                  2:40   2:48  GI  1 Sieverding    jack sieverding,jacob bakey,brady griebel
-301 Center 1                  4:00   4:15  EA  1 Drugs Are Bad brianna busch,andrew penniston,alex reed

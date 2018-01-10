@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle           Performers
-303 Center 3                 10:50  10:56  SF  1 Tomorrow             jack mcgrane,benjamin wilding ,peyton kach,zelda siegel ,josh horne ,braden hoyer 
-Choir Room Center 11         11:12  11:22  MT  1 Schoolhouse Rocks!   zelda siegel,josh horne ,joey young,shay larson,erica schulte
-373 Center 6                  2:00   2:25  RT  1 Goldilocks on Trial  avery gossen,bailey reeder,shefa'a tawil,amelia copley,jamie martin-trainor,brendan murders,audrey miller,reagan zachman ,raafa elsheikh,rahma elsheikh,lizzie bagby,casie meyer,kaleigh martin,sarah grams 
-302 Center 2                  3:30   3:38  GI  1 Hoyer                kacie davis,braden hoyer ,zoe trumpvold 

@@ -212,11 +212,11 @@ regId,schoolId,SchoolName,catShort,catIdx,entryTitle,inContest,earliestStart,lat
 7863,732,MOUNT VERNON,GI,3,The Muffins,X,,,"cedar zangerle,kayle fairchild,caroline see,bryan harris"
 7863,732,MOUNT VERNON,SM,1,Heavy Swing,X,,,daniella torres-roe
 7863,732,MOUNT VERNON,RT,1,Politically Correct Christmas Stories,X,,,"shianne sneed,chloe bunch,becky fishbein,jack ossenkop,kayle fairchild,oliver crocker,mat zobac,preston johnson"
-7861,746,NORTH CEDAR,CR,1,Freedom has a Price,X,,,"amy schroeder,callie meyer,kira jones"
-7861,746,NORTH CEDAR,EA,1,Fugue,X,,,"emma boleyn,kayla syring,breylee st. john,fiona raney"
-7861,746,NORTH CEDAR,GI,1,St. John,X,,,"jame garner,jaylin pearson,ethan st. john,emma boleyn,toby hollis"
-7861,746,NORTH CEDAR,SM,1,Unknown,X,,,fiona raney
-7861,746,NORTH CEDAR,RT,1,"One Eye, Two Eye, Three Eye",X,,,"kayla syring,breylee st. john,kira jones,toby hollis,callie meyer,jenna syring"
+7861,746,NORTH CEDAR,CR,1,Freedom has a Price,X,,1030,"amy schroeder,callie meyer,kira jones"
+7861,746,NORTH CEDAR,EA,1,Fugue,X,,1030,"emma boleyn,kayla syring,breylee st. john,fiona raney"
+7861,746,NORTH CEDAR,GI,1,St. John,X,,930,"jame garner,jaylin pearson,ethan st. john,emma boleyn,toby hollis"
+7861,746,NORTH CEDAR,SM,1,Unknown,X,,1030,fiona raney
+7861,746,NORTH CEDAR,RT,1,"One Eye, Two Eye, Three Eye",X,,1030,"kayla syring,breylee st. john,kira jones,toby hollis,callie meyer,jenna syring"
 7722,759,NORTH LINN,CR,1,Every 23 Minutes,X,,,"amy letts,ashley tull,brittany carlson,reaghan jackson"
 7722,759,NORTH LINN,MT,1,Legally Blonde,X,,,"brooke schott,elle waskow,erin jackson,kaitlyn bean,mikayla hageman,rachael jackson,veronica jons"
 7722,759,NORTH LINN,MT,2,Into the Woods,X,,,"logan williams,matthew peiffer"
