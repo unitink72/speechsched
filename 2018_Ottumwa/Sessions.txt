@@ -52,6 +52,7 @@ Room Library Center 2
 1625
 1645
 1705
+1725
 
 
 
@@ -105,14 +106,6 @@ Room Band Room 255 Center 3
 1610
 1620
 1630
-
-
-1554 Break
-1555
-1605
-1615
-1620
-1630
 1640
 1650
 
@@ -150,6 +143,7 @@ Room 231 Center 6
 1625
 1645
 1705
+1725
 
 ##lunch 1200
 Choral Reading CR 15
