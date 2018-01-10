@@ -1,0 +1,41 @@
+Cat  School                     Start  End    Contestant EntryTitle
+GI   OTTUMWA                     8:00   8:08  1-1        Culver
+GI   CENTERVILLE 9TH             8:10   8:18  1-2        Selvy
+GI   MID-PRAIRIE                 8:20   8:28  1-3        Team Mathews
+GI   MID-PRAIRIE                 8:30   8:38  1-4        Team Sents
+GI   MOUNT PLEASANT              8:40   8:48  1-5        Vegan Chikk'ns 
+GI   FAIRFIELD                   9:00   9:08  2-1        Barnes
+GI   FAIRFIELD                   9:10   9:18  2-2        Brown
+GI   CHARITON                    9:20   9:28  2-3        Ghormley
+GI   ALBIA 9TH                   9:30   9:38  2-4        The Guys
+GI   DAVIS COUNTY                9:40   9:48  2-5        Three's Company 
+GI   MELCHER-DALLAS             10:10  10:18  3-1        MD Improv
+GI   TWIN CEDARS                10:20  10:28  3-2        Whitlow
+GI   ALBIA 9TH                  10:30  10:38  3-3        The Three Amigos
+GI   MOUNT PLEASANT             10:40  10:48  3-4        What's My Line, Again? 
+GI   MID-PRAIRIE                11:00  11:08  4-1        Team Sedlacek
+GI   OSKALOOSA                  11:10  11:18  4-2        Ewart
+GI   CENTERVILLE 9TH            11:20  11:28  4-3        Brummett
+GI   CARDINAL                   11:30  11:38  4-4        Williams
+GI   OTTUMWA                    11:40  11:48  4-5        Carrow
+GI   PEKIN COMMUNITY            11:50  11:58  4-6        Group B
+GI   FAIRFIELD                   1:00   1:08  5-1        Melvin
+GI   LYNNVILLE-SULLY             1:10   1:18  5-2        The V Squad
+GI   KNOXVILLE                   1:20   1:28  5-3        Improvisation Group A
+GI   KEOTA 9TH                   1:30   1:38  5-4        Purkeypile
+GI   CARDINAL                    1:40   1:48  5-5        Herrera
+GI   ALBIA                       2:00   2:08  6-1        The Gang
+GI   ENGLISH VALLEYS             2:10   2:18  6-2        Three's a Crowd 
+GI   PEKIN COMMUNITY             2:20   2:28  6-3        Group C
+GI   OTTUMWA                     2:30   2:38  6-4        McDowell
+GI   KEOTA                       2:40   2:48  6-5        Sieren
+GI   ENGLISH VALLEYS             3:10   3:18  7-1        The Berry Best
+GI   DAVIS COUNTY                3:20   3:28  7-2        MCK, My Cool Krew
+GI   PEKIN COMMUNITY             3:30   3:38  7-3        Group A
+GI   ALBIA                       3:40   3:48  7-4        EBA
+GI   KEOTA                       4:00   4:08  8-1        Dalton
+GI   CENTERVILLE 9TH             4:10   4:18  8-2        Schmidt
+GI   MOUNT PLEASANT              4:20   4:28  8-3        Three Girls and a Guy? 
+GI   CENTERVILLE                 4:30   4:38  8-4        Lassabe
+GI   SIGOURNEY                   4:40   4:48  8-5        Casey Jarmes
+GI   CHARITON                    4:50   4:58  8-6        Keeler

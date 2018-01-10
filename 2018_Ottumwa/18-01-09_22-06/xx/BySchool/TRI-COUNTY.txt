@@ -1,0 +1,3 @@
+Room                         Start  End   Cat  # EntryTitle                                                 Performers
+Band Center 5                11:00  11:15  CR  1 I'm a Genie in a Bus, Baby!                                riley danner,taylor dowd,megan edmundson,skyler fisher,myrissa garber,mckenzie hammes,mikayla hoover,miranda little,jenna leer,emma miover,hannah miover,avery roorda,allison steinke
+Library Center 2              2:45   3:10  RT  1 Why You Should Go Out With Me: An Open Letter To All Girls jenna acord,tegon fogle,tanner lundy,brandt molyneux,brayden monroe,grant rauhauser,jakoby willimas

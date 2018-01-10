@@ -1,0 +1,27 @@
+Cat  School    Start  End    Contestant EntryTitle
+EA   242        8:00   8:15  1-1        Somewhere Nowhere
+EA   257        8:20   8:35  1-2        Theater Folk
+EA   141        8:40   8:55  1-3        Airline Calamity
+EA   740        9:00   9:15  1-4        Fugue
+EA   242        9:20   9:35  2-1        No Such Thing
+EA   684        9:40   9:55  2-2        Little Women
+EA   740       10:00  10:15  2-3        Almost, Maine: Sad and Glad
+EA   316       10:20  10:35  2-4        Original Work - Promise Me
+EA   868       10:40  10:55  3-1        Mean Girls
+EA   984       11:00  11:15  3-2        The Committee
+EA   746       11:20  11:35  3-3        Head Games
+EA   984       11:40  11:55  3-4        Have a Seat Please
+EA   746       12:45   1:00  4-1        Death of a Snowman
+EA   257        1:05   1:20  4-2        Student Written
+EA   868        1:25   1:40  4-3        Bagel Club
+EA   844        1:45   2:00  4-4        L-I-C-E
+EA   629        2:05   2:20  5-1        Boxed In
+EA   844        2:25   2:40  5-2        Argument Clinic
+EA   844        2:45   3:00  5-3        Film Noir
+EA   316        3:05   3:20  5-4        Ten/Two: Excerpt - The Big Lie
+EA   629        3:25   3:40  6-1        Breaking Tradition
+EA   739        3:45   4:00  6-2        Anchorwoman!
+EA   258        4:25   4:40  6-3        The Fare Ride
+EA   302        4:45   5:00  6-4        He Loves Me
+EA   956        5:05   5:20  6-5        Murder on Rue Morgue
+EA   122        5:25   5:40  6-6        Christmas Machine

@@ -1,0 +1,22 @@
+Cat  School    Start  End    Contestant EntryTitle
+MT   684        8:00   8:10  1-1        What You Own
+MT   258        8:15   8:25  1-2        I Love You Because
+MT   844        8:30   8:40  1-3        Two Nobodies in New York
+MT   740        8:45   8:55  1-4        Les Miserables
+MT   141        9:00   9:10  1-5        Anything You Can Do 
+MT   242        9:30   9:40  2-1        Just So
+MT   257        9:45   9:55  2-2        MTI
+MT   258       10:00  10:10  2-3        Fine
+MT   257       10:15  10:25  2-4        MTI
+MT   209       10:30  10:40  2-5        Angel of Music
+MT   683       11:15  11:25  3-1        Lay All Your Love on Me from Mamma Mia
+MT   316       11:45  11:55  3-2        Chicago
+MT   683        1:00   1:10  4-1        Sincerely Me from Dear Evan Hansen 
+MT   868        1:15   1:25  4-2        The 25th Annual Putnam County Spelling Bee
+MT   844        1:30   1:40  4-3        When You're an Addams
+MT   740        1:45   1:55  4-4        Band Geeks
+MT   684        2:00   2:10  4-5        Agony
+MT   258        2:30   2:40  5-1        Sideshow
+MT   740        2:45   2:55  5-2        Big Fish
+MT   257        3:00   3:10  5-3        MTI
+MT   746        3:15   3:25  5-4        Batboy the Musical

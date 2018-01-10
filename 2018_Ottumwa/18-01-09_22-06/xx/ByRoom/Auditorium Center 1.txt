@@ -1,0 +1,10 @@
+Cat  School                     Start  End    Contestant EntryTitle
+OA   MID-PRAIRIE                 8:00   8:35  1-1        So You Wanna Be a Cheerleader
+OA   DAVIS COUNTY                8:40   9:15  1-2        The Case of Ivan Cane - Serial Killer Script
+OA   CHARITON                    9:25  10:00  2-1        Starline 117
+OA   MOUNT PLEASANT             10:05  10:40  2-2        Excuses, Excuses
+OA   KEOTA                      10:50  11:25  3-1        Scooter Thomas Makes It To The Top of the World
+OA   FAIRFIELD                  11:30  12:05  3-2        At the Bottom of Lake Missoula
+OA   LYNNVILLE-SULLY             1:40   2:15  4-1        Superhero Support Group 
+OA   OTTUMWA                     2:25   3:00  5-1        Check Please:  Take 3
+OA   PEKIN COMMUNITY             3:05   3:40  5-2        Chaired

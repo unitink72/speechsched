@@ -1,0 +1,26 @@
+Cat  School    Start  End    Contestant EntryTitle
+RB   844        9:05   9:11  1-1        Team A
+RB   257        9:25   9:31  1-2        KPPN
+RB   612        9:35   9:41  1-3        KAC 12
+RB   956        9:45   9:51  1-4        JAMS 101.1
+RB   781       10:00  10:06  2-1        LLGM
+RB   629       10:10  10:16  2-2        KPBS
+RB   739       10:20  10:26  2-3        unknown
+RB   612       10:30  10:36  2-4        TAHM
+RB   844       10:40  10:46  2-5        Team B
+SF   844       11:10  11:16  3-1        Ford
+SF   302       11:20  11:26  3-2        Untitled
+SF   739       12:45  12:51  4-1        The Invasion of the Communist Flying Saucers
+SF   257       12:55   1:01  4-2        The Text
+SF   683        1:05   1:11  4-3        Misled
+SF   746        1:15   1:21  4-4        Happiiness
+SF   740        1:25   1:31  4-5        Pharasi/Carlson
+SF   257        1:40   1:46  5-1        Unknown
+SF   740        1:50   1:56  5-2        The Dragon
+SF   612        2:00   2:06  5-3        Randal & Juliet
+SF   781        2:10   2:16  5-4        Protocol
+SF   844        2:20   2:26  5-5        Mamlock
+SF   739        2:45   2:51  6-1        unknown
+SF   258        2:55   3:01  6-2        The D and D World
+SF   612        3:05   3:11  6-3        Klett, Lyla
+SF   746        3:15   3:21  6-4        Spirit Snoops

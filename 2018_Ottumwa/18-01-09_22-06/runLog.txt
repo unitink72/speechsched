@@ -1,0 +1,57 @@
+09 22:06:31 -- Begin Sessions File Report --
+09 22:06:31 Loaded 186 sessions 38 breaks
+09 22:06:31 RB   10 Sessions  2 Breaks
+09 22:06:31 SF   20 Sessions  3 Breaks
+09 22:06:31 EA   34 Sessions  6 Breaks
+09 22:06:31 MT   23 Sessions  4 Breaks
+09 22:06:31 GM   11 Sessions  2 Breaks
+09 22:06:31 GI   42 Sessions  7 Breaks
+09 22:06:31 RT   13 Sessions  5 Breaks
+09 22:06:31 SM    8 Sessions  1 Breaks
+09 22:06:31 TV    4 Sessions  1 Breaks
+09 22:06:31 OA   10 Sessions  4 Breaks
+09 22:06:31 CR   11 Sessions  3 Breaks
+09 22:06:31 -- End Sessions File Report --
+09 22:06:31 Loaded 26 schools, 171 entries
+09 22:06:31 171 in contest after reading RestrSheet
+09 22:06:31 Contest entries per category:
+09 22:06:31 RB : 9
+09 22:06:31 SF : 16
+09 22:06:31 EA : 33
+09 22:06:31 MT : 21
+09 22:06:31 GM : 10
+09 22:06:31 GI : 40
+09 22:06:31 RT : 13
+09 22:06:31 SM : 6
+09 22:06:31 TV : 3
+09 22:06:31 OA : 9
+09 22:06:31 CR : 11
+09 22:06:31 getDist using RANDOM values from 1-100 for dryrun mode
+09 22:06:31 getDist 774:580 OTTUMWA,IA           NORTH ENGLISH,IA     (81)
+09 22:06:31 getDist 774:470 OTTUMWA,IA           ELDON,IA             (84)
+09 22:06:31 getDist 774:487 OTTUMWA,IA           CENTERVILLE,IA       (85)
+09 22:06:31 getDist 774:488 OTTUMWA,IA           CENTERVILLE,IA       (16)
+09 22:06:31 getDist 774:585 OTTUMWA,IA           FAIRFIELD,IA         (34)
+09 22:06:31 getDist 774:716 OTTUMWA,IA           WELLMAN,IA           (28)
+09 22:06:31 getDist 774:498 OTTUMWA,IA           CHARITON,IA          (31)
+09 22:06:31 getDist 774:687 OTTUMWA,IA           SULLY,IA             (61)
+09 22:06:31 getDist 774:690 OTTUMWA,IA           FAIRFIELD,IA         (51)
+09 22:06:31 getDist 774:1044 OTTUMWA,IA           North English,IA     (46)
+09 22:06:31 getDist 774:661 OTTUMWA,IA           KEOTA,IA             (41)
+09 22:06:31 getDist 774:662 OTTUMWA,IA           KEOTA,IA             (34)
+09 22:06:31 getDist 774:713 OTTUMWA,IA           MELCHER,IA           (88)
+09 22:06:31 getDist 774:664 OTTUMWA,IA           KNOXVILLE,IA         (67)
+09 22:06:31 getDist 774:537 OTTUMWA,IA           BLOOMFIELD,IA        (56)
+09 22:06:31 getDist 774:730 OTTUMWA,IA           MOUNT PLEASANT,IA    (37)
+09 22:06:31 getDist 774:573 OTTUMWA,IA           EDDYVILLE,IA         (13)
+09 22:06:31 getDist 774:415 OTTUMWA,IA           ALBIA,IA             (41)
+09 22:06:31 getDist 779:774 PACKWOOD,IA          OTTUMWA,IA           (3)
+09 22:06:31 getDist 989:774 Oskaloosa,IA         OTTUMWA,IA           (56)
+09 22:06:31 getDist 874:774 THORNBURG,IA         OTTUMWA,IA           (82)
+09 22:06:31 getDist 1004:774 ALBIA,IA             OTTUMWA,IA           (26)
+09 22:06:31 getDist 878:774 BUSSEY,IA            OTTUMWA,IA           (26)
+09 22:06:31 getDist 991:774 THORNBURG,IA         OTTUMWA,IA           (38)
+09 22:06:31 getDist 830:774 SIGOURNEY,IA         OTTUMWA,IA           (64)
+09 22:06:31 Start Main Loop
+09 22:06:31 +++ Printing current best of 262390
+09 22:06:31 Finished dry run
