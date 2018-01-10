@@ -356,16 +356,22 @@ Room Band Room Center 10
 1030
 1045
 1059 break
+1500
+1515
+1530
+1545
+1559  break
+
+
+Musical Theater  MT  10
+Room Band Room Center 10
+
 1100
 1115
 1130
 1145
 1200 
 1215 break
-
-Musical Theater  MT  10
-Room Band Room Center 10
-
 1312
 1324
 1336
@@ -377,11 +383,6 @@ Room Band Room Center 10
 1436
 1448
 1459  break
-1500
-1515
-1530
-1545
-1559  break
 1600
 1615
 1630
@@ -438,13 +439,13 @@ Room Choir Room Center 11
 
 Solo Mime  SM  5
 Room 430 Center 12
-800
-810
-820
-830
-840
-850
-859 break
+900
+910
+920
+930
+940
+950
+959  break
 1000
 1010
 1020
@@ -470,13 +471,13 @@ Room 430 Center 12
 
 Group Mime GM  7
 Room 430 Center 12
-900
-910
-920
-930
-940
-950
-959  break
+800
+810
+820
+830
+840
+850
+859 break
 1100
 1110
 1120
@@ -499,6 +500,7 @@ Room 430 Center 12
 1640
 1650
 1659  break
+
 
 
 
