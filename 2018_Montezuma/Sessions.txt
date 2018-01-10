@@ -1,6 +1,4 @@
 
-
-
 Group Mime GM 7
 Room Mrs. Robison's Room Center 1
 800
@@ -133,21 +131,21 @@ Room 3rd Grade Interior Center 3
 
 Readers Theatre RT 25
 Room Elementary Library Center 4
-800
-830
-900 break
-910
-940
-1010 break
-1020
-1050
-1120 break
-1130
+750
+820
+850 break
+900
+930
+1000 break
+1010
+1040
+1110 break
 1200
-1230 break
-1330
-1400
-1430
+1230
+1300 break
+1310
+1340
+1410
 
 
 Choral Reading CR 15
@@ -179,31 +177,34 @@ Room Vocal Room Center 5
 
 Musical Theatre MT 10
 Room Band Room Center 6
-800
-815
-830
-845
-900
-915 break
+750
+805
+820
+835
+850
+905
+920 break
 930
 945
 1000
 1015
 1030
 1045 break
-1100
-1115
-1130
-1145
-1200 break
+1050
+1105
+1120
+1135
+1150
+1205 break
 1300
 1315
 1330
 1345
 1400 break
-1415
-1430
-1445
+1405
+1420
+1435
+1450
 
 One Act Play OA 35
 Room South Gym Stage Center 7
@@ -286,6 +287,7 @@ Room HS Schultz Center 9
 1454
 1506
 
+
 Group Improv GI 8
 Room HS Schaumbacher Center 10
 800
@@ -320,3 +322,8 @@ Room HS Schaumbacher Center 10
 1442
 1454
 1506
+
+        
+
+
+
