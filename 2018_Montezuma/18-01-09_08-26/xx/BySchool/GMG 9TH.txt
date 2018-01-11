@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                    Performers
-3rd grade Interior Center 3   8:40   8:46  RB  1 KXI                           frances jackson,jayden hessinius,autumn peterson,angel schewe,conner murty,chloe cornwell,ayden kelly,ashanti rinehart
-HS VanGorp Center 8          10:40  10:55  EA  3 Cinderella Revisited          frances jackson,stephanie claussen
-HS Schaumbacher Center 10     1:18   1:26  GI  1 Improv 1 Teske                brock teske,kaci krier,ashanti rinehart,stephanie claussen
-Mrs. Nikkel's Room Center 2   1:40   1:55  EA  2 Ask Big Sister                kaci krier,chloe cornwell
-Mrs. Nikkel's Room Center 2   2:20   2:35  EA  1 Grandpa and the Job interview brock teske,angel schewe,jayden hessenius

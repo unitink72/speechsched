@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                        Performers
-Vocal Music Center 4          8:00   8:10  MT  1 What You Own                      eric schutt,caleb dalbey
-231 Center 6                  9:40   9:55  EA  1 Little Women                      shanna fellows,gracie de la cruz,shayla maize,emma mock,julia fairchild
-Library Center 2              1:45   2:10  RT  1 The Raven                         eric schutt,tylor durbin,shayla maize,caleb dalbey,delanee van zante,kendal durst
-Vocal Music Center 4          2:00   2:10  MT  2 Agony                             harrison mock,cyrus rogers
-Library Center 2              5:25   5:40  EA  2 Murder on the Subordinate Express delanee van zantee,emma mock,cyrus rogers,harrison mock,carson burrell,kendal durst

@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                  Performers
-231 Center 6                  9:20   9:35  EA  1 Murder on Rue Morgue        elizabeth mathany,paul hyatt,sarah hyatt,grace overgaard,elizabeth milburn,hunter bonnett
-Band Room 255 Center 3        9:30   9:38  GI  1 MD Improv                   j'lyn knutson,dora mae bennett,abby tadder
-205 Center 7                 10:10  10:16  RB  1 JAMS 101.1                  angel beaty,sarah hyatt,j'lyn knutson,marie hunt
-Library Center 2              1:45   2:10  RT  1 Murder on the Organ Express elizabeth mathany,paul hyatt,hunter bonnett,elizabeth milburn,doramae bennett,mercedes lawrence,seth remster,grace overgaard

@@ -1,4 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle            Performers
-305 Smith Center 4            9:00   9:06  SF  1 AKM                   alyssa whitham,kendra boles,megan johnston
-607 Warner Center 2          10:05  10:13  GI  1 Girl Power            kendra boles,megan johnston,wyatt myers,kelli romero
-217 Shepherd Center 7        12:35  12:50  EA  1 Autumn, Destiny, Levi autumn ashby,destiny ashby,levi snyder

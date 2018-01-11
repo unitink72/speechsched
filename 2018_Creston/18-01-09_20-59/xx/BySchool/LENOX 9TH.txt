@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle          Performers
-209 Lister Center 10          8:30   8:40  MT  1 Welcome to the 60's ari mckenney,bailey miller,skye bartlett,summer miller
-318 Jameson Center 6          8:50   8:58  GI  1 McKenney Improv 1   ari mckenney,skye bartlett,summer miller
-312 Dillenburg Center 8      10:50  10:56  RB  1 KJAC                austen david,cassidy nelson,chelsey hoakison,jordan england,tyra stoaks
-312 Dillenburg Center 8       1:25   1:37  TV  1 1941 TV             austen david,cassidy nelson,chelsey hoakison,jordan england,tyra stoaks

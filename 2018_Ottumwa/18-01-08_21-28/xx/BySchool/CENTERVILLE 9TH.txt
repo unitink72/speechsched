@@ -1,7 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle         Performers
-Band Room 255 Center 3       11:00  11:08  GI  1 Brummett           bella willier,cassie stevens,haley brummett
-Band Room 255 Center 3       11:20  11:28  GI  3 Schmidt            marriah rupalo,noelle kelly,peyton schmidt
-231 Center 6                  1:25   1:40  EA  2 The Committee      daisy selvy,maddy varner,marriah rupalo,rae bennett,zoe ortiz
-Band Center 5                 3:00   3:05  SM  1 Kelly              noelle kelly
-Band Room 255 Center 3        3:20   3:28  GI  2 Selvy              daisy selvy,maddy varner,zoe ortiz
-Library Center 2              4:05   4:20  EA  1 Have a Seat Please avery hawkins,bella willier,cassie stevens,haley brummett,riley hawk

@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle
-Band Room Center A            8:10   8:18 ACT  1 The Problem with Girls
-Martinson Center H           10:07  10:13  PR  1 I'm Not Ready
-TeGrootenhuis Center J        2:04   2:10  PR  2 Mr. One and Only
-Kerkvliet Center M            2:21   2:26  ST  1 Rumplestiltskin
-Martinson Center H            2:58   3:04  PR  3 The Blacktop Slide

@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle
-Early Childhood Pod Center    8:00   8:08 ACT  1 For Who the Bell, Like, Tolls 
-F117 Ripperda Center C        8:10   8:18  PA  1 You're Not Special
-Kerkvliet Center M           10:05  10:10  ST  1 Cinderella
-Library Center F              2:40   2:48 IMP  1 

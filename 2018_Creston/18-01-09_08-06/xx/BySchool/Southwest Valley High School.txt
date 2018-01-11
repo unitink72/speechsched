@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                    Performers
-607 Warner Center 2           8:30   8:38  GI  1 Baker, Cline                  tristan cline,tracy baker
-407 Ray Center 3             10:25  10:50  RT  1 Snow, Sort of, White          duncan roberts,adam harris,moritz schlimbach,anthony bynam,connor shipley,mazene laughlin,evan davis,aubrey boswell,joslynn moore,sydney davies,katie hoerman,kendi graham,carlie breaud,danica drake,kaitlyn richey
-309 Library Center 9          1:40   1:55  CR  1 Double Trouble in Walla Walla danielle wetzel,abby fleharty,grant maurer,marah larsen,abbie wetzel,kayley myers,mazzy hummel,christian sexton,kaitlyn richey,danica drake,carlie breaud,sydney davies,joslynn moore,aubrey boswell,mazene laughlin
-315 Dickinson Center 5        2:00   2:07  GM  1 Outside the box               katie hoerman,mazzy hummel,bella johnson
-607 Warner Center 2           2:15   2:23  GI  2 Roberts                       duncan roberts,moritz schlimbach,anthony bynam,adam harris

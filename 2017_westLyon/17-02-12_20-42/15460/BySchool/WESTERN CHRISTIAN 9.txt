@@ -1,2 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle
-Martinson Center H           11:09  11:15  PR  1 Lynette's Dating Adventure

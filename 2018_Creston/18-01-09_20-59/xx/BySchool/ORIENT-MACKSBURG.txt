@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle             Performers
-315 Dickinson Center 5        9:25   9:30  SM  1 An Unpleasant Surprise vinh nguyen
-Auditorium Center 1          10:30  11:05  OA  1 Hard Candy             ashlyn kralik,brooklyn sammons,caitlyn buckman,cameo walker,cortney gross,izak hribal,stephan buckman,vinh nguyen,william sevier
-312 Dillenburg Center 8      11:20  11:26  RB  1 KILB                   izak hribal,keegan russell,stephan buckman,wiley ray
-305 Smith Center 4            1:10   1:16  SF  1 It's A Mystery         cameo walker,elizabeth browning,haylee meyer,keegan russell,korbin fluckey,kyla bailey,sarah mcclelland,wiley ray,william sevier
-309 Library Center 9          1:20   1:35  CR  1 10,000 Cigarettes      ashlyn kralik,brooklyn sammons,caitlyn buckman,cortney gross,sarah mcclelland

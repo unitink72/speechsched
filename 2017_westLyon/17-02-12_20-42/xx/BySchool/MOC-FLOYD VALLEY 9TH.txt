@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle
-Choir Room Center E           8:24   8:29 SMT  1 
-Rockhill Center D (Draw acr   8:27   8:32  RN  1 
-Rockhill Center D (Draw acr  10:35  10:40  RN  2 
-Martinson Center H           11:18  11:24  PR  1 

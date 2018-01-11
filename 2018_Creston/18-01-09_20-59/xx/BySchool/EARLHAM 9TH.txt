@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle     Performers
-607 Warner Center 2           8:40   8:48  GI  2 Tibben         jared tibben,jack flickinger
-217 Shepherd Center 7         1:15   1:30  EA  1 The Bagel Club kaitlyn knight,chloe schaffer,ella goodrich,jared tibben
-318 Jameson Center 6          2:55   3:05  MT  1 Little Women   seth follmer,kirsten boyle
-607 Warner Center 2           3:30   3:38  GI  1 Davis          molli davis,kaitlyn knight,hanna vacco

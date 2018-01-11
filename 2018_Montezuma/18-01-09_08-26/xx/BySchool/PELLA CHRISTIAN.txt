@@ -1,7 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle      Performers
-Mrs. Nikkel's Room Center 2   8:20   8:26  SF  1 Incident 0001   jon stoltzfus,kyle howey,megan eveland,michael munoz,nick stoltzfus,patrick strang
-Vocal Room  Center 5          9:00   9:15  CR  1 The Creation    abigail gosselink,brianna jansen,elijah vos,ellie natelborg,emily van beek,jon stoltzfus,joshua beltman,kody jansen,michael munoz,mikala lanferman,mitaya williams,sierra white,taryn hugen,zara pippel,zoey nelson
-Elementary Library Center 4  10:50  11:15  RT  1 Dark Road       abby te grotenhuis,alexis de vries,ben vos,emma stravers,halie vermillion,jocelyn gritters,olivia van der pol,rebekah lanferman,ryan van gilst,sharlee fopma,thomas dykstra
-Band Room Center 6            1:15   1:25  MT  2 Legally Blonde  abby ambroson,ellie natelborg,halie vermillion,jocelyn gritters,josie te grotenhuis,katie larson,mara juffer,sharlee fopma
-Band Room Center 6            2:30   2:40  MT  1 Newsies         braden meinders,colby de vries,henry,mason donelson,parker schnell,ryan van gilst,thomas dykstra,tyler egesdal
-South Gym Stage Center 7      3:05   3:40  OA  1 The Yellow Boat abby ambroson,abigail gosselink,alexis de vries,braden meinders,emily van beek,emma stravers,ian stravers,josie te grotenhuis,kyle howey,lindsay breon,parker schnell,peter larson,tyler egesdal

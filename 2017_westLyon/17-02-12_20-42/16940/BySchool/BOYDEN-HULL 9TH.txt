@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle
-Kerkvliet Center M            8:40   8:45  ST  3 Dinoella
-Band Room Center A            9:50   9:58 ACT  1 Super Sitter
-Kerkvliet Center M           12:08  12:13  ST  1 Seriously, Cinderella is So Annoying
-Kerkvliet Center M            1:33   1:38  ST  2 The Princess and the Pig
-Band Room Center A            2:10   2:18 ACT  2 Opening Tonight, Mother Goose

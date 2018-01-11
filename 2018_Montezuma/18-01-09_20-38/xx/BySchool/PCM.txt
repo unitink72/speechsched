@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle       Performers
-HS Schultz Center 9           8:00   8:08  GI  1 Team Konek       payton konek,chance palm,jared smith,brenden vanderpool,madeline buys
-HS Schaumbacher Center 10     9:44   9:52  GI  2 Team Clark       carson clark,garin padget,cade mccombs,zoey emmack,madeline ladehoff
-Elementary Library Center 4  10:40  11:05  RT  1 High School Life zoey emmack,carson clark,payton konek,blake vanderkamp,cade mccombs,madeline mitchell,magan van haaften,chloe inskeep,alex inskeep,morgan uhlenhopp,sidney metzger,mia rouse,luke kramer,jared smith
-HS Schultz Center 9          12:04  12:12  GI  3 Team Ponder      jacob ponder,luke kramer,magan van haaften,mia rouse,jacob cox

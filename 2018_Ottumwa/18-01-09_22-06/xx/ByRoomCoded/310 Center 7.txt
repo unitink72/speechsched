@@ -1,4 +1,0 @@
-Cat  School    Start  End    Contestant EntryTitle
-TV   257        8:00   8:12  1-1        KPPN
-TV   746        8:15   8:27  1-2        Corn News
-TV   739        8:45   8:57  1-3        WWN

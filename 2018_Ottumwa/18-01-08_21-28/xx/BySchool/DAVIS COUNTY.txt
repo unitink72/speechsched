@@ -1,9 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                                   Performers
-Band Room 255 Center 3        9:20   9:28  GI  2 Three's Company                              roman combs,reagan combs,morgan klaus
-Vocal Music Center 4         10:30  10:40  MT  1 The 25th Annual Putnam County Spelling Bee   savanah summers,camille cook,kolton stremler
-Auditorium Center 1          11:30  12:05  OA  1 The Case of Ivan Cane - Serial Killer Script roman combs,ethan morrissey,clayton garmon,chelsey carlburg,jack ball,dylan baldwin
-Band Center 5                 1:40   1:47  GM  1 The Greatest Showmine                        chelsey carlburg,dylan baldwin,abby morrissey
-Library Center 2              3:05   3:20  EA  2 Mean Girls                                   reagen combs,morgan klaus,sarah westercamp,hailey swan
-Band Center 5                 3:18   3:23  SM  1 The Little Match Girl                        maddie mcclure
-Library Center 2              4:25   4:40  EA  1 Bagel Club                                   maddie mcclure,camille cook,mitchell boyd,kassidy stremler
-Band Room 255 Center 3        4:50   4:58  GI  1 MCK, My Cool Krew                            mitchell boyd,clayton garmon,kolton stremler

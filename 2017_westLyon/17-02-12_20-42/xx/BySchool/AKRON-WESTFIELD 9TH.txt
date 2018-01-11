@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle
-Early Childhood Pod Center    9:50   9:58 ACT  1 The Problem with Girls
-Martinson Center H           11:45  11:51  PR  3 The Blacktop Slide
-Martinson Center H            1:28   1:34  PR  2 Mr. One and Only
-Martinson Center H            1:37   1:43  PR  1 I'm Not Ready
-Kerkvliet Center M            2:29   2:34  ST  1 Rumplestiltskin

@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle          Performers
-305 Smith Center 4            9:45   9:51  SF  1 Stories of the Road neva vogel,carson dittmer,hunter thompson,michelle pritchard-hall,jake prator,nolan ohnemus,elisa adams,cole miller
-607 Warner Center 2          11:10  11:18  GI  3 MMU                 brianna helleso,cole miller,tylar konrad
-318 Jameson Center 6         12:10  12:18  GI  2 PPP                 jake prater,luke prater,michelle pritchard-hall
-607 Warner Center 2          12:40  12:48  GI  1 CHN                 carson dittmer,hunter thompson,neva vogel

@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle
-Choir Room Center E          12:48  12:53 SMT  1 Happily Ever After
-Sorensen Center O             1:15   1:23  OO  1 Web Comics In Our School System
-A. Johnson Center N           1:46   1:51  ST  1 Charlie
-Winquist Center P             2:25   2:31  PO  1 Zin! Zin! Zin! A Violin

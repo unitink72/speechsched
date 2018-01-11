@@ -1,8 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                   Performers
-3rd grade Interior Center 3   8:00   8:06  RB  1 95.5 KWMJ - Radio that Rocks india hawkins,jeana quinlan,joseph zuber,kaine altenhofen,riley kienitz,ryan becker
-Mrs. Nikkel's Room Center 2   8:40   8:46  SF  2 The Bus                      haley tucker,hannah shade,kyle schlak,sydney campbell
-3rd Grade Interior Center 3  11:00  11:12  TV  1 GRIM3                        jalise megchelsen,jaydon struik,jeana quinlan,kaine altenhofen,kyle schlak,taylor smith,zach pierce
-HS Schultz Center 9          11:52  12:00  GI  1 Anderson et al               baylee anderson,jaydon struik,tristan stubblefield,zach pierce
-Elementary Library Center 4  12:00  12:25  RT  1 Questions                    india hawkins,jenna demmel,kameryn warren,paige jergens,samantha randall
-Mrs. Nikkel's Room Center 2  12:55   1:01  SF  1 The Mug                      awnika hall,payton roberts,tristan stubblefield
-HS VanGorp Center 8           2:50   3:05  EA  1 Steel Magnolias              baylee anderson,hannah shade,jalise megchelsen,kameryn warren,sydney campbell

@@ -1,7 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle           Performers
-South Gym Stage Center 7      8:15   8:40  RT  1 Up the River         sedona helmke,moriah karkosh,mason wilkerson,faith beranek,nathan hooper,jane kim
-Mrs. Robison's Room Center   10:10  10:17  GM  1 Resisting Reflection sedona helmke,faith beranek,moriah karkosh
-HS Schultz Center 9          10:32  10:40  GI  1 Lepire               joey lepire,zach rachman,caleb alcorn
-HS VanGorp Center 8           2:30   2:45  EA  1 Action News          joey lepire,miranda heeren,caleb alcorn,amelia keller
-HS Schaumbacher Center 10     2:54   3:02  GI  2 Hooper               nathan hooper,miranda heeren,max white
-3rd grade Interior Center 3   3:10   3:16  RB  1 KIOT                 zaid rachman,alex barloon,mason wilkerson,brandon barker,conner echternacht

@@ -1,9 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle           Performers
-205 Center 7                  9:25   9:31  RB  1 KAC 12               angela wells,charlie axmear,ella coffman,katryna jaennette
-205 Center 7                  9:35   9:41  RB  2 TAHM                 anthony moxley,autumn higdon,chloe tapken,christina berrier,maggie anthony
-205 Center 7                 11:30  11:36  SF  2 Randal & Juliet      anthony moxley,autumn higdon,chloe tapken,christina berrier,maggie anthony
-Band Center 5                11:40  11:55  CR  1 Somewhere in America alaina allen,cheyenne conrad,kaitlyn denison 
-205 Center 7                  1:50   1:56  SF  1 Klett, Lyla          angela wells,charlie axmear,katryna jaennette,lyla klett,madison trimpe
-Band Room 255 Center 3        2:10   2:18  GI  2 Three's a Crowd      alaina allen ,madison trimpe ,lyla klett
-Band Center 5                 3:27   3:32  SM  1 Hannah, Keenan       keenan hannah
-Band Room 255 Center 3        4:30   4:38  GI  1 The Berry Best       elizabeth barney,rebekah berrier,zoey downing

@@ -1,9 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle        Performers
-3rd grade Interior Center 3   8:55   9:01  RB  1 WNRS              amanda caraballo,ashlyn rutledge
-South Gym Stage Center 7      9:50  10:15  RT  1 Stinky Cheese Man amanda caraballo,ashlee fogt,ashlyn rutledge,connor mccrary,garrison kadner,jordan king,myrrhanda tew,rachael mcanulty
-HS Schaumbacher Center 10    11:16  11:24  GI  3 Improv 3          connor mccrary,grant curtis,rachael mcanulty
-HS Schaumbacher Center 10    11:28  11:36  GI  1 Improv 1          alexis gonzales,chase gratopp,marisa meling
-HS VanGorp Center 8          12:30  12:45  EA  3 The Big Lie       ashlee fogt,marisa meling
-Mrs. Robison's Room Center    1:00   1:20  EA  1 Lakeview Cemetary alexis gonzales,hunter boecker
-HS Schaumbacher Center 10     1:42   1:50  GI  2 Improv 2          garrison kadner,hunter boecker,jordan king
-Mrs. Nikkel's Room Center 2   3:45   4:00  EA  2 Finger Food       grant curtis,myrrhanda tew

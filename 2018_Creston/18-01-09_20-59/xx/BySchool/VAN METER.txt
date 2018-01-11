@@ -1,5 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle   Performers
-217 Shepherd Center 7         8:20   8:35  EA  1 Almost Maine aundrea cox,tyler hepworth
-318 Jameson Center 6          9:35   9:43  GI  2 Allen        lani cruse,rachel allen,vicky riewer,bekah walter
-318 Jameson Center 6         12:30  12:38  GI  1 Barth        natalie barth,cari walton,audrey gruss
-209 Lister Center 10          1:45   1:55  MT  1 -            rachel allen,vicky riewer

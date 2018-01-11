@@ -1,7 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle
-Martinson Center H            9:22   9:28  PR  1 The Littlest Angel
-Wiltgen Center G              9:58  10:04  PO  1 Kali's Poetry
-Kerkvliet Center M           10:05  10:10  ST  1 Coat of Many Colors
-Choir Room Center E          12:32  12:37 SMT  1 Kali's Musical
-Kerkvliet Center M            1:41   1:46  ST  2 I Need My Monster
-Martinson Center H            1:55   2:01  PR  2 Lauren's Prose

@@ -1,4 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle            Performers
-Library Center 2              8:00   8:25  RT  1 It's Not You, It's Me alexandra herrera,brodie mairet,danielle jameson,deagan cremer,lakin hoekstra,lauren williams,madelyn mcclure,madison langford
-Band Room 255 Center 3       11:30  11:38  GI  2 Williams              deagan cremer,lakin hoestra,lauren williams,madelyn mcclure
-Band Room 255 Center 3        1:40   1:48  GI  1 Herrera               alexandra herrera,brodie mairet,madison langford

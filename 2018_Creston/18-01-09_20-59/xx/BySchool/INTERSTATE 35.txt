@@ -1,8 +1,0 @@
-Room                         Start  End   Cat  # EntryTitle                      Performers
-309 Library Center 9          8:00   8:25  RT  1 2BR02B                          addie smith,ally bedwell,alyssa reed,bailey hauge,bailey mccuddin,emma foreman,kenzie young,maeci andrew,saylor vodraska,sky delzell,spencer pontolilo,sydney nelson,trevor thornburgh,zach goering
-305 Smith Center 4            8:00   8:06  SF  2 Maske Film                      ainsley maske,carter bussanmas,lucas borseth,mason edwards,zane olson
-305 Smith Center 4            8:50   8:56  SF  1 Oser Film                       colton oser,connor junkins,jordan hartfield,mick vonfeldt,taylor brommel,wyatt fitzgerald
-312 Dillenburg Center 8      10:05  10:11  RB  1 wjs1                            hannah foreman,jamie smith
-217 Shepherd Center 7        10:55  11:10  EA  1 Ensemble 1                      hannah webb,zack merrifield
-309 Library Center 9          1:00   1:15  CR  1 No News, Or What Killed the Dog addie smith,aubrey ocheltree,emma foreman,hannah webb,maeci andrew,sam vanrossum,sky delzell
-209 Lister Center 10          2:00   2:10  MT  1 Heathers                        aubrey ocheltree,sam vanrossum

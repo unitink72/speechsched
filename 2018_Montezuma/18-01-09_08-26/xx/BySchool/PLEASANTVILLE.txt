@@ -1,6 +1,0 @@
-Room                         Start  End   Cat  # EntryTitlePerformers
-South Gym Stage Center 7      8:45   9:10  RT  1 TBA      avery lauer ,alyssa mckay,chance bender ,jack lauer ,jack ray,melena johnson 
-Vocal Room  Center 5         10:00  10:15  CR  1 Label Me alyssa mckay,avery lauer,chance bender,colten stephens,gracie stephens,jack lauer,jack ray,melena johnson,olivia mclamb ,sierra hallmann,tess ray
-Mrs. Nikkel's Room Center 2  10:55  11:01  SF  1 TBA      joseph culp,melvin moore
-HS Schaumbacher Center 10     1:06   1:14  GI  2 Culp     joseph culp,melvin moore,connor stone 
-HS Schultz Center 9           2:30   2:38  GI  1 Stephens colten stephens,katie verploeg,jeremy colboth 
