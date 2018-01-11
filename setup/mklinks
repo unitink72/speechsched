@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for FNAME in /usr/local/lib/sched/bin/*; do
+   ln -s $FNAME /usr/local/bin/`basename $FNAME`
+done
