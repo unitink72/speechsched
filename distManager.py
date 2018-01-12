@@ -1,7 +1,7 @@
-from collections import defaultdict
+#from collections import defaultdict
 import drivingTime
 import os
-import pickle
+#import pickle
 import random
 
 def formatSch (schoolStr):
@@ -20,18 +20,20 @@ class DistManager:
 
   def __init__ (self,logger,config,dryRunMode):
 
-    if os.path.exists(self._cacheFile):
-      f = open(self._cacheFile, 'rb')
-      self.nestedDict = pickle.load(f)
-      self.schoolAddr = pickle.load(f)
-      f.close
-    else:
-      self.nestedDict = defaultdict(dict)
-      self.schoolAddr = {}
+    #if os.path.exists(self._cacheFile):
+    #  f = open(self._cacheFile, 'rb')
+    #  self.nestedDict = pickle.load(f)
+    #  self.schoolAddr = pickle.load(f)
+    #  f.close
+    #else:
+    #self.nestedDict = defaultdict(dict)
+    self.sList   = {}
+    self.schoolAddr = {}
     #end if
     self.timeFetcher  = drivingTime.DrivingTime(config)
     self.logger       = logger
     self.hostSchool   = 0
+    self.hostAddr     = ''
     self.allAddrValid = 1
     self.dryRunMode   = dryRunMode
     if dryRunMode:
@@ -44,11 +46,11 @@ class DistManager:
     pass
   #end __del__
 
-  def writeCache(self):
-    f = open(self._cacheFile, 'wb')
-    pickle.dump(self.nestedDict, f)
-    pickle.dump(self.schoolAddr, f)
-    f.close()
+  #def writeCache(self):
+  #  f = open(self._cacheFile, 'wb')
+  #  pickle.dump(self.nestedDict, f)
+  #  pickle.dump(self.schoolAddr, f)
+  #  f.close()
   #end writeCache
 
   #def getCache(self)
@@ -58,29 +60,19 @@ class DistManager:
   #  self.schoolAddr = cacheB
 
   def addSchool(self,school,address):
-    if school not in self.nestedDict:
-      #Adding a new school to the list (new row).  Add a column for each existing school.
-      self.nestedDict[school] = dict.fromkeys(list(self.nestedDict.keys()))
-      self.schoolAddr[school] = address
+    if school not in self.sList:
+      self.sList[school] = [1, address] #Default drivetime to 1
       if not address:
          self.logger.msg('School %s has blank City in schoolsExport.csv' % school)
          self.allAddrValid = 0
   #end addSchools
 
-  def driveTimeLookup(self, school1, school2):
-    if school1 == school2:
+  def driveTimeLookup(self, school):
+    if school == self.hostSchool:
       return 0
-    elif school1 in self.nestedDict           \
-      and school2 in self.nestedDict[school1] \
-      and self.nestedDict[school1][school2] != None:
 
-      return self.nestedDict[school1][school2]
-
-    elif school2 in self.nestedDict \
-      and school1 in self.nestedDict[school2] \
-      and self.nestedDict[school2][school1] != None:
-
-      return self.nestedDict[school2][school1]
+    elif school in self.sList:
+      return self.sList[school][0]
 
     else:
       self.logger.msg('Driving Time not found! %s %s' % (school1,school2))
@@ -88,54 +80,32 @@ class DistManager:
     #end if
    #end driveTimeLookup
 
-  def setHostSchool(self, hostSchool):
+  def setHostSchool(self, hostSchool, hostAddr):
     #Call this last after adding all the schools.
     #Will compute distances from all schools to the Host.  There
     #are two cells for every school pair, so just fill in one of them.
     self.hostSchool = hostSchool
-    for school1 in self.schoolAddr.keys():
+    self.hostAddr   = hostAddr
 
-      #Get the list of column-wise schools in the row.
-      otherSchools = list(self.nestedDict[school1].keys())
+    for schoolID in self.sList.keys():
 
-      for school2 in otherSchools:
-
-        #If this dict's value is None and the table's compliment doesn't exist or
-        #is None, perform the lookup.
-        if (school1 == hostSchool or school2 == hostSchool) and          \
-            self.nestedDict[school1][school2] is None and                \
-            (  school1 not in self.nestedDict[school2] or                \
-               self.nestedDict[school2][school1] is None ):
-
-          if not self.schoolAddr[school1] or not self.schoolAddr[school2]:
-             #One or both schools don't have an address
-             dist = 0
-          else:
-             #self.logger.msg('Addr:%s: Addr:%s:)' % (self.schoolAddr[school1],self.schoolAddr[school2]))
-             if self.dryRunMode:
-                dist = random.randrange(100)
-             else: 
-                dist = self.timeFetcher.getDist (self.schoolAddr[school1],     \
-                                                 self.schoolAddr[school2])
+      if not self.sList[schoolID][1]:
+        #School doesn't have an address
+        dist = 0
+        self.logger.msg('No Addr')
+      else:
+        if self.dryRunMode:
+           dist = random.randrange(100)
+        else: 
+           dist = self.timeFetcher.getDist (self.sList[schoolID][1], hostAddr)
           
-          self.nestedDict[school1][school2] = dist
-          self.logger.msg('getDist %s:%s %s %s (%d)' % (school1,         \
-                                                        school2,         \
-                                                        formatSch(self.schoolAddr[school1]), \
-                                                        formatSch(self.schoolAddr[school2]), \
-                                                        dist))
-#    for school1 in self.nestedDict.keys():
-#      if school1 != hostSchool and                           \
-#         self.nestedDict[hostSchool][school1] == None and    \
-#         self.nestedDict[school1][hostSchool] == None:
+           self.sList[schoolID][0] = dist
+           self.logger.msg('getDist %s:%s %s %s (%d)' % (hostSchool,                         \
+                                                         schoolID,                           \
+                                                         formatSch(hostAddr),                \
+                                                         formatSch(self.sList[schoolID][1]), \
+                                                         dist))
 
-#        self.logger.msg('getDist %s %s' %                             \
-#                            (formatSch(self.schoolAddr[hostSchool]),  \
-#                             formatSch(self.schoolAddr[school1])))
-
-#        self.nestedDict[hostSchool][school1] = self.timeFetcher.getDist        \
-#                                                (self.schoolAddr[hostSchool],  \
-#                                                 self.schoolAddr[school1])
 
   def calculateAllTimes(self):
     #Brute force lookup of times between every school.  Probably

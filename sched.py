@@ -539,20 +539,27 @@ for school in schoolInfo:
 
 #Fill in school address info, force a write to cache.  Clients
 # will read this cache for their distance lookups.
+hostSchoolAddr = ''
 distMgr = distManager.DistManager(logger,config,dryRunMode)
 for school, data in schoolInfo.items():
   if data['inContest']:
     if data['city']:
-       distMgr.addSchool(school, data['city'] + ',IA')
+      distMgr.addSchool(school, data['city'] + ',IA')
+      print('Adding %s' % data['city'])
     else:
-       #No city is given.  distMgr handles this gracefully
-       distMgr.addSchool(school, '')
+      #No city is given.  distMgr handles this gracefully
+      distMgr.addSchool(school, '')
+  if school == config['HOST_SCHOOL_ID']:
+    if data['city']:
+      hostSchoolAddr = data['city'] + ',IA'
+    else:
+      sys.exit('schoolsExport.csv missing city data for host school ID %d' % school)
 
 hostSchoolId = config['HOST_SCHOOL_ID']
 if not hostSchoolId in schoolInfo:
   print('ERROR: Host school not in contest')
 
-distMgr.setHostSchool(hostSchoolId)
+distMgr.setHostSchool(hostSchoolId, hostSchoolAddr)
 if not distMgr.allAddressesValid():
    sys.exit('\nschoolsExport.csv missing City data.\n  See %s%s/runLog.txt' %  \
                                                (contestFolder,timeStampFolder))
