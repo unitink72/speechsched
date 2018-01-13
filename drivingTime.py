@@ -14,8 +14,10 @@ class DrivingTime:
   def getDist(self,orig, dest):
     SEC_PER_MIN = 60
     urlTrys = 0
-    origStr = orig.replace(' ', '+')
-    destStr = dest.replace(' ', '+')
+    origStr = orig.replace(' ', '%20')
+    destStr = dest.replace(' ', '%20')
+    origStr = orig.replace(',', '%2C')
+    destStr = dest.replace(',', '%2C')
 
     url = 'http://maps.googleapis.com/maps/api/directions/xml?origin=%s&destination=%s&sensor=false' %(origStr,destStr)
 
