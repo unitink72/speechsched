@@ -566,7 +566,7 @@ if not distMgr.allAddressesValid():
 
 for school,data in schoolInfo.items():
   if data['inContest']:
-    data['driveTime'] = distMgr.driveTimeLookup(hostSchoolId,school)
+    data['driveTime'] = distMgr.driveTimeLookup(school)
     #print('Dist %s %d' % (data['city'], data['driveTime']))
     #data['driveTime'] = 10
 
