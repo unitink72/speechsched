@@ -450,6 +450,28 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
 #end printSched ###############################################################
 ###############################################################################
 
+
+###############################################################################
+def getSitenameList(schoolRegFile):
+
+  inFile = open (schoolRegFile, 'r', newline='')
+  reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
+
+  sites = set()
+  currentLine = 1
+  try:
+    for row in reader:
+      siteNameCsv = row['sitename'].rstrip()
+      sites.add(siteNameCsv)
+      currentLine += 1
+  except:
+     sys.exit('Unexpected error in schoolReg.csv line %d' % currentLine)
+  return sites
+#end getSitenameList()  #######################################################
+###############################################################################
+
+
+###############################################################################
 def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
   inFile = open (fileName, 'r', newline='')
 
@@ -598,6 +620,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
 ###############################################################################
 
 
+###############################################################################
 def readStudentWebCsv(entriesList, fileName):
 
   inFile = open (fileName, 'r', newline='')

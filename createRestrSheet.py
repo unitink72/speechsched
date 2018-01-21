@@ -52,6 +52,15 @@ for site in config['CONTEST_SITENAME']:
                                          siteName   = site,            \
                                          codeChar   = 0)
   schedIO.readStudentWebCsv (entriesList, studentCsvFile)
+
+  if len(entriesList) == 0:
+    errMsg = '!! No entries found for contest "%s"\n' % site
+    errMsg += '!! Double check that CONTEST_SITENAME in settings.py matches the sitename column of schoolReg.csv\n'
+    validSites = schedIO.getSitenameList(schoolCsvFile)
+    errMsg += '!! The list of valid sites in schoolReg.csv are:\n'
+    for eachSite in sorted(validSites):
+        errMsg += '    %s\n' % eachSite
+    sys.exit (errMsg)
   
   if siteCount > 1:
     restrOutFile = os.path.join(jobFolder, 'restrSheet_' + site[:8] + '.csv')
