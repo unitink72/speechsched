@@ -545,7 +545,7 @@ for school, data in schoolInfo.items():
   if data['inContest']:
     if data['city']:
       distMgr.addSchool(school, data['city'] + ',IA')
-      print('Adding %s' % data['city'])
+      #print('Adding %s' % data['city'])
     else:
       #No city is given.  distMgr handles this gracefully
       distMgr.addSchool(school, '')
