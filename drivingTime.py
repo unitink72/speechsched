@@ -8,7 +8,7 @@ class DrivingTime:
     proxies                = configFromFile['http_proxy']
     self.opener            = urllib.request.FancyURLopener(proxies)
     self.lastLookupTime    = 0
-    self.MIN_REQUEST_DELAY = 1                 #Minimum 1 second between api calls
+    self.MIN_REQUEST_DELAY = 0.5  #Minimum .5 second between api calls
   #end __init__
 
   def getDist(self,orig, dest):
@@ -16,12 +16,13 @@ class DrivingTime:
     urlTrys = 0
     origStr = orig.replace(' ', '%20')
     destStr = dest.replace(' ', '%20')
-    origStr = orig.replace(',', '%2C')
-    destStr = dest.replace(',', '%2C')
+    origStr = origStr.replace(',', '%2C')
+    destStr = destStr.replace(',', '%2C')
+    distSecStr = ''
 
     url = 'http://maps.googleapis.com/maps/api/directions/xml?origin=%s&destination=%s&sensor=false' %(origStr,destStr)
 
-    while urlTrys <= 3:
+    while urlTrys <= 15:
       try:
         if time.clock() - self.lastLookupTime < self.MIN_REQUEST_DELAY:
           #A negative delay time is possible here, protect using max()
@@ -30,22 +31,18 @@ class DrivingTime:
 
         self.lastLookupTime = time.clock()
         result              = self.opener.open(url)
+
+        tree       = etree.fromstring(result.read())
+        distxml    = tree.find('route/leg/duration/value')
+        distSecStr = distxml.text
         break
       except:
-        print ('ERROR. Trying again in a few seconds...')
-        time.sleep(3)
+        print ('Drivetime lookup error %s %s.  Retrying...'% (orig,dest))
+        distSecStr = 'abc'
+        time.sleep(1)
 
       urlTrys += 1
     #end loop
-
-    tree = etree.fromstring(result.read())   #Parse xml
-
-    distxml = tree.find('route/leg/duration/value')
-    try:
-      distSecStr = distxml.text
-    except:
-      print ('Google API result not parseable: \n%s' % result.read())
-      distSecStr = 'abc'
 
     if distSecStr.isnumeric():
       distMins = int(distSecStr) / SEC_PER_MIN
