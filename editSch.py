@@ -191,7 +191,7 @@ while userContinue:
     schedFitness.fitnessTest (schedl     = schedule,   \
                               saveReport = False)
 
-    newSchedFolder = os.path.join(schedDir, 'edits', str(int(schedule['score']))
+    newSchedFolder = os.path.join(schedDir, 'edits', str(int(schedule['score'])))
     tempDir = newSchedFolder
     while os.path.isdir(tempDir):
        tempDir    = newSchedFolder + folderChar
