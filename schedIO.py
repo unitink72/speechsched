@@ -687,8 +687,11 @@ def readStudentWebCsv(entriesList, fileName):
        #else:
         #print('No entry match for student ' + row['Name'] + ' ' +row['Category'])
     currentLine += 1
-  except:
-     sys.exit('Unexpected error in students.csv line %d' % currentLine)
+  except Exception as e:
+    print (e)
+    print (e.args)
+    print (type(e))
+    sys.exit('Unexpected error in students.csv line %d' % currentLine)
 #end readStudentWebCsv() ######################################################
 ###############################################################################
 
