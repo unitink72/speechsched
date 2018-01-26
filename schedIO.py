@@ -736,12 +736,18 @@ def readRestrSheet(entriesList, fileName):
       regIdCsv           = int(regIdCsvRaw)
       schoolIdCsv        = int(schoolIdCsvRaw)
       catIdxCsv          = int(catIdxCsvRaw)
-      catShortCsv        = row['catShort'].rstrip()
+      catShortCsv        = row['catShort'].rstrip().upper()
       earliestStartCsv   = row['earliestStart'].rstrip()
       latestEndCsv       = row['latestEnd'].rstrip()
       inContestCsv       = row['inContest'].rstrip()
 
+      debug = schoolIdCsv == 999999999
+      if debug:
+        print ('Searching %d %s %d' % (schoolIdCsv, catShortCsv, catIdxCsv))
+
       for entry in entriesList:
+        if debug and entry['regId'] == regIdCsv:
+          print ('    Try %d %s %d' % (entry['schoolId'], entry['catShort'], entry['catSchoolIdx']))
         if entry['regId']        == regIdCsv    and          \
            entry['schoolId']     == schoolIdCsv and          \
            entry['catShort']     == catShortCsv and          \
@@ -754,7 +760,15 @@ def readRestrSheet(entriesList, fileName):
           if inContestCsv :
             entry['inContest']      = True
             catCounts[catShortCsv] += 1
-            #print ('Entry: %d %d *%s*' % (entry['regId'],entry['catSchoolIdx'],inContestCsv))
+          if debug:
+            print ('Entry: %d %d *%s*' % (entry['regId'],entry['catSchoolIdx'],inContestCsv))
+          break
+      else:
+         if inContestCsv:
+           warnMsg = 'WARNING: School %d %s %d in restrSheet marked in contest but no matching entry found' % \
+                       (schoolIdCsv, catShortCsv, catIdxCsv)
+           print(warnMsg)
+           ioLog.msg (warnMsg)
     lineNum += 1
   except BaseException as e:
     sys.exit('Error parsing RestrSheet.csv at line %d\n' % lineNum + str(e))
