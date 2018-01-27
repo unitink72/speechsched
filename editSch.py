@@ -101,7 +101,7 @@ while userContinue:
     print ('')
     for x in range(len(catList)):
        print ('%2d) %s' % (x+1, catList[x]))
-    userIn = input('Select cateogry to swap: ')
+    userIn = input('Select category to swap: ')
     swapCat = catList[int(userIn)-1]
     print(swapCat)
 
@@ -111,6 +111,15 @@ while userContinue:
           x['entry']['catShort'] == swapCat and      \
           x['entry']['schoolId'] not in schoolList:
           schoolList.append(x['entry']['schoolId'])
+    
+    #Are there any empty slots?
+    emptySlots = []
+    for xId in range(len(schedule['lst'])):
+       x = schedule['lst'][xId]
+       if 'entry' not in x                \
+          and x['catShort'] == swapCat    \
+          and not x['isBreak']:
+          emptySlots.append(xId)
 
     print ('')
     for x in range(len(schoolList)):
@@ -118,8 +127,14 @@ while userContinue:
     userIn = input('\nSelect first school: ')
     swapSchool1 = schoolList[int(userIn)-1]
 
-    userIn = input('Select second school: ')
-    swapSchool2 = schoolList[int(userIn)-1]
+    if emptySlots:
+       userIn = input('Select second school or E for an empty slot: ')
+    else:
+       userIn = input('Select second school: ')
+    if userIn.upper() == 'E':
+       swapSchool2 = 'E'
+    else:
+       swapSchool2 = schoolList[int(userIn)-1]
 
     #Now we know the category and schools to be swapped.  Last check 
     # needed is to see if those two schools are entered twice in
@@ -149,30 +164,42 @@ while userContinue:
     else:
        userChoice1Idx = entryChoice1[0]['entry']['index']
 
-    entryChoice2 = []
-    for x in schedule['lst']:
-       if 'entry' in x and                           \
-          x['entry']['catShort'] == swapCat and      \
-          x['entry']['schoolId'] == swapSchool2:
-
-          entryChoice2.append(x)
-
-    if len(entryChoice2) > 1:
+    #Start swap slot 2 logic
+    if swapSchool2 == 'E':
        print('')
-       for x in range(len(entryChoice2)):
-          choiceTitle = ''
-          if 'entryTitle' in entryChoice2[x]['entry']:
-             choiceTitle = entryChoice2[x]['entry']['entryTitle']
-          choiceStudents = entryChoice2[x]['entry']['performers']
-
-          print('%2d) %d %s %s' % (x+1,                        \
-                                   entryChoice2[x]['start'],   \
-                                   choiceTitle,                \
-                                   choiceStudents[0]))
-       userIn = input('\nChoose the entry for %s: ' % schoolInfo[swapSchool2]['name'])
-       userChoice2Idx = entryChoice2[int(userIn)-1]['entry']['index']
+       for x in range(len(emptySlots)):
+          slot = schedule['lst'][emptySlots[x]]
+          print ('%2d) %s [%s]' % (x+1,              \
+                                       slot['room'],     \
+                                       slot['start']))
+       userIn         = input('\nSelect empty slot: ')
+       choice2ListIdx = emptySlots[int(userIn)-1]
+       userChoice2Idx = -99  #Skip the index conversion logic
     else:
-       userChoice2Idx = entryChoice2[0]['entry']['index']
+       entryChoice2 = []
+       for x in schedule['lst']:
+          if 'entry' in x and                           \
+             x['entry']['catShort'] == swapCat and      \
+             x['entry']['schoolId'] == swapSchool2:
+
+             entryChoice2.append(x)
+
+       if len(entryChoice2) > 1:
+          print('')
+          for x in range(len(entryChoice2)):
+             choiceTitle = ''
+             if 'entryTitle' in entryChoice2[x]['entry']:
+                choiceTitle = entryChoice2[x]['entry']['entryTitle']
+             choiceStudents = entryChoice2[x]['entry']['performers']
+
+             print('%2d) %d %s %s' % (x+1,                        \
+                                      entryChoice2[x]['start'],   \
+                                      choiceTitle,                \
+                                      choiceStudents[0]))
+          userIn = input('\nChoose the entry for %s: ' % schoolInfo[swapSchool2]['name'])
+          userChoice2Idx = entryChoice2[int(userIn)-1]['entry']['index']
+       else:
+          userChoice2Idx = entryChoice2[0]['entry']['index']
 
 
     #Convert entry index to list array index
@@ -183,13 +210,18 @@ while userContinue:
           elif schedule['lst'][x]['entry']['index'] == userChoice2Idx:
              choice2ListIdx = x
 
+
     #print ('\nSwap entry index %d %d' % (userChoice1Idx, userChoice2Idx))
     #print ('Swap array Index %d %d' % (choice1ListIdx, choice2ListIdx))
     print ('Old Score %d' % schedule['score'])
 
-    temp1Copy = schedule['lst'][choice1ListIdx]['entry']
-    schedule['lst'][choice1ListIdx]['entry'] = schedule['lst'][choice2ListIdx]['entry']
-    schedule['lst'][choice2ListIdx]['entry'] = temp1Copy
+    if swapSchool2 == 'E':
+        schedule['lst'][choice2ListIdx]['entry'] = schedule['lst'][choice1ListIdx]['entry']
+        del schedule['lst'][choice1ListIdx]['entry']
+    else:
+       temp1Copy = schedule['lst'][choice1ListIdx]['entry']
+       schedule['lst'][choice1ListIdx]['entry'] = schedule['lst'][choice2ListIdx]['entry']
+       schedule['lst'][choice2ListIdx]['entry'] = temp1Copy
 
     schedFitness.fitnessTest (schedl     = schedule,   \
                               saveReport = False)
