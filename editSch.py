@@ -32,25 +32,28 @@ else:
    curYear = str(now.year) + '_'
    
    dirs = [f for f in os.listdir(cwd) if re.match(curYear, f)]
-   for x in range(len(dirs)):
-      print ('%2d) %s' % (x+1, dirs[x]))
+   dirsSorted = sorted(dirs)
+   for x in range(len(dirsSorted)):
+      print ('%2d) %s' % (x+1, dirsSorted[x]))
    userIn      = input('Select a contest: ')
-   contestDir  = cwd + os.sep + dirs[int(userIn)-1]
+   contestDir  = cwd + os.sep + dirsSorted[int(userIn)-1]
 
 
    print ('')
    dirs = [f for f in os.listdir(contestDir) if re.match('[\d_-]+', f)]
-   for x in range(len(dirs)):
-      print ('%2d) %s' % (x+1, dirs[x]))
+   dirsSorted = sorted(dirs)
+   for x in range(len(dirsSorted)):
+      print ('%2d) %s' % (x+1, dirsSorted[x]))
    userIn       = input('Select a run: ')
-   timeDateDir  = contestDir + os.sep + dirs[int(userIn)-1]
+   timeDateDir  = contestDir + os.sep + dirsSorted[int(userIn)-1]
 
    print ('')
    dirs = [f for f in os.listdir(timeDateDir) if re.match('\d+', f)]
-   for x in range(len(dirs)):
-      print ('%2d) %s' % (x+1, dirs[x]))
+   dirsSorted = sorted(dirs)
+   for x in range(len(dirsSorted)):
+      print ('%2d) %s' % (x+1, dirsSorted[x]))
    userIn    = input('Select a schedule: ')
-   schedDir  = timeDateDir + os.sep + dirs[int(userIn)-1]
+   schedDir  = timeDateDir + os.sep + dirsSorted[int(userIn)-1]
    binDir    = schedDir + os.sep + 'bin' + os.sep
 #endif
 
