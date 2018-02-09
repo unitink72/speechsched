@@ -774,6 +774,9 @@ def readRestrSheet(entriesList, fileName):
            ioLog.msg (warnMsg)
     lineNum += 1
   except BaseException as e:
+    print (e)
+    print (e.args)
+    print (type(e))
     sys.exit('Error parsing RestrSheet.csv at line %d\n' % lineNum + str(e))
 
   #Now delete the entries not in this contest
