@@ -51,7 +51,7 @@ def to12hr(time):
 ###############################################################################
 
 def readSessionsFile(fileName):
-  sessionsFile = open (fileName, 'r')
+  sessionsFile = open (fileName, 'r', encoding='utf-8-sig')
 
   sessionList     = []
   catagoryIndexes = {}
@@ -454,7 +454,7 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
 ###############################################################################
 def getSitenameList(schoolRegFile):
 
-  inFile = open (schoolRegFile, 'r', newline='')
+  inFile = open (schoolRegFile, 'r', newline='', encoding='utf-8-sig')
   reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
 
   sites = set()
@@ -473,7 +473,7 @@ def getSitenameList(schoolRegFile):
 
 ###############################################################################
 def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
-  inFile = open (fileName, 'r', newline='')
+  inFile = open (fileName, 'r', newline='', encoding='utf-8-sig')
 
   entriesList = []
   entryIndex  = 0
@@ -623,7 +623,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
 ###############################################################################
 def readStudentWebCsv(entriesList, fileName):
 
-  inFile = open (fileName, 'r', newline='')
+  inFile = open (fileName, 'r', newline='', encoding='utf-8-sig')
   reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
  
   #Reverse lookup dict from the "Category" column of the student 
@@ -697,7 +697,7 @@ def readStudentWebCsv(entriesList, fileName):
 
 def readSchoolsExport(fileName):
 
-  inFile    = open (fileName, 'r', newline='')
+  inFile    = open (fileName, 'r', newline='', encoding='utf-8-sig')
   reader    = csv.DictReader(inFile, delimiter=',', quotechar='"')
 
   schoolInfo = {}
@@ -721,7 +721,7 @@ def readSchoolsExport(fileName):
 
 def readRestrSheet(entriesList, fileName):
 
-  inFile = open (fileName, 'r', newline='')
+  inFile = open (fileName, 'r', newline='', encoding='utf-8-sig')
   reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
   catCounts = cats.countDict()
   lineNum   = 1
