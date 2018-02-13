@@ -307,6 +307,11 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
     longestRoom  = 0
     for session in schedule['lst']:
       if 'entry' in session and session['entry']['schoolId'] == school:
+        #All entries should have a title at this point, even individual
+        if 'entryTitle' not in session['entry']:
+          errMsg = 'Missing entryTitle in schoolId %i cat %s index %s' % (session['entry']['schoolId'],session['entry']['catShort'],session['entry']['catSchoolIdx'])
+          ioLog.msg(errMsg)
+          sys.exit(errMsg)
         sessionList.append(session)
         longestTitle = max(longestTitle, len(session['entry']['entryTitle']))
         longestRoom  = max(longestRoom, len(session['room']))
