@@ -310,6 +310,7 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
         #All entries should have a title at this point, even individual
         if 'entryTitle' not in session['entry']:
           errMsg = 'Missing entryTitle in schoolId %i cat %s index %s' % (session['entry']['schoolId'],session['entry']['catShort'],session['entry']['catSchoolIdx'])
+          errMsg += '\nVerify this entry exists in students.csv'
           ioLog.msg(errMsg)
           sys.exit(errMsg)
         sessionList.append(session)
