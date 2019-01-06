@@ -7,6 +7,6 @@ if [ ! -d $SPDATA_PATH ]; then
 fi
 echo "Enter your rsync password"
 sshfs 58066@usw-s008.rsync.net:spdata $SPDATA_PATH
-
+echo Leaving umask alone, other users have 007
 #To unmount:
 #fusermount -u spdata

@@ -8,5 +8,6 @@ fi
 echo "Enter your rsync password"
 sshfs 58070@usw-s008.rsync.net:/data3/home/58066/spdata $SPDATA_PATH
 
+umask 007
 #To unmount:
 #fusermount -u spdata
