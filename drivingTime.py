@@ -13,6 +13,7 @@ class DrivingTime:
 
   def getDist(self,orig, dest):
     SEC_PER_MIN = 60
+    GOOGKIE = 'AIzaSyArxRPWQzzw4Mnh-KjFguo4KjX44gkp728'
     urlTrys = 0
     origStr = orig.replace(' ', '%20')
     destStr = dest.replace(' ', '%20')
@@ -20,7 +21,7 @@ class DrivingTime:
     destStr = destStr.replace(',', '%2C')
     distSecStr = ''
 
-    url = 'http://maps.googleapis.com/maps/api/directions/xml?origin=%s&destination=%s&sensor=false' %(origStr,destStr)
+    url = 'http://maps.googleapis.com/maps/api/directions/xml?origin=%s&destination=%s&sensor=false&key=%s' %(origStr,destStr,GOOGKIE)
 
     while urlTrys <= 15:
       try:
