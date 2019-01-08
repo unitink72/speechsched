@@ -461,7 +461,9 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
 def getSitenameList(schoolRegFile):
 
   inFile = open (schoolRegFile, 'r', newline='', encoding='utf-8-sig')
-  reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
+  schoolReg = inFile.read()
+  inFile.close()
+  reader = csv.DictReader(schoolReg.splitlines(), delimiter=',', quotechar='"')
 
   sites = set()
   currentLine = 1
@@ -479,14 +481,15 @@ def getSitenameList(schoolRegFile):
 
 ###############################################################################
 def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
-  inFile = open (fileName, 'r', newline='', encoding='utf-8-sig')
+  inFile    = open (fileName, 'r', newline='', encoding='utf-8-sig')
+  schoolCsv = inFile.read()
+  inFile.close()
+  reader    = csv.DictReader(schoolCsv.splitlines(), delimiter=',', quotechar='"')
 
   entriesList = []
   entryIndex  = 0
   schoolCount = 0
   
-  reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
-
   #List of fields to retrieve for each entry. Max 3 of any type
 #  csvFields =                                                 \
 #  [                                                           \
@@ -633,7 +636,9 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
 def readStudentWebCsv(entriesList, fileName):
 
   inFile = open (fileName, 'r', newline='', encoding='utf-8-sig')
-  reader = csv.DictReader(inFile, delimiter=',', quotechar='"')
+  studentCsv = inFile.read()
+  inFile.close()
+  reader = csv.DictReader(studentCsv.splitlines(), delimiter=',', quotechar='"')
  
   #Reverse lookup dict from the "Category" column of the student 
   # data to the entry category and index(1,2,3)
@@ -707,7 +712,9 @@ def readStudentWebCsv(entriesList, fileName):
 def readSchoolsExport(fileName):
 
   inFile    = open (fileName, 'r', newline='', encoding='utf-8-sig')
-  reader    = csv.DictReader(inFile, delimiter=',', quotechar='"')
+  schoolReg = inFile.read()
+  inFile.close()
+  reader    = csv.DictReader(schoolReg.splitlines(), delimiter=',', quotechar='"')
 
   schoolInfo = {}
 
@@ -783,6 +790,7 @@ def readRestrSheet(entriesList, fileName):
            ioLog.msg (warnMsg)
     lineNum += 1
   except BaseException as e:
+    inFile.close()
     print (e)
     print (e.args)
     print (type(e))
@@ -802,6 +810,7 @@ def readRestrSheet(entriesList, fileName):
   for k,v in catCounts.items():
     ioLog.msg ('%s : %d' % (k,v))
   print ('%d in contest' % len(newEntList))
+  inFile.close()
   return newEntList
   
 ##end readRestrSheet   ########################################################
