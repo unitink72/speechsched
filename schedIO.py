@@ -615,7 +615,10 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
             entryIndex += 1
 
       currentLine += 1
-  except:
+  except Exception as ex:
+     print (ex)
+     print (ex.args)
+     print (type(ex))
      sys.exit('Unexpected error in schoolReg.csv line %d' % currentLine)
 
   if not ioLog is None:
