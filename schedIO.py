@@ -460,9 +460,16 @@ def printSched(schedule, schoolInf, entriesLst, outFolder):
 ###############################################################################
 def getSitenameList(schoolRegFile):
 
-  inFile = open (schoolRegFile, 'r', newline='', encoding='utf-8-sig')
-  schoolReg = inFile.read()
-  inFile.close()
+  try:
+     inFile = open (schoolRegFile, 'r', newline='', encoding='utf-8-sig')
+     schoolReg = inFile.read()
+     inFile.close()
+  except Exception as ex:
+     print (ex)
+     #print (ex.args)
+     print (type(ex))
+     sys.exit('Error opening schoolReg.csv')
+
   reader = csv.DictReader(schoolReg.splitlines(), delimiter=',', quotechar='"')
 
   sites = set()
@@ -481,9 +488,17 @@ def getSitenameList(schoolRegFile):
 
 ###############################################################################
 def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
-  inFile    = open (fileName, 'r', newline='', encoding='utf-8-sig')
-  schoolCsv = inFile.read()
-  inFile.close()
+
+  try:
+     inFile    = open (fileName, 'r', newline='', encoding='utf-8-sig')
+     schoolCsv = inFile.read()
+     inFile.close()
+  except Exception as ex:
+     print (ex)
+     #print (ex.args)
+     print (type(ex))
+     sys.exit('Error opening schoolReg.csv')
+
   reader    = csv.DictReader(schoolCsv.splitlines(), delimiter=',', quotechar='"')
 
   entriesList = []
@@ -635,9 +650,16 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
 ###############################################################################
 def readStudentWebCsv(entriesList, fileName):
 
-  inFile = open (fileName, 'r', newline='', encoding='utf-8-sig')
-  studentCsv = inFile.read()
-  inFile.close()
+  try:
+    inFile = open (fileName, 'r', newline='', encoding='utf-8-sig')
+    studentCsv = inFile.read()
+    inFile.close()
+  except Exception as ex:
+     print (ex)
+     #print (ex.args)
+     print (type(ex))
+     sys.exit('Error opening students.csv')
+
   reader = csv.DictReader(studentCsv.splitlines(), delimiter=',', quotechar='"')
  
   #Reverse lookup dict from the "Category" column of the student 
@@ -703,7 +725,7 @@ def readStudentWebCsv(entriesList, fileName):
     currentLine += 1
   except Exception as e:
     print (e)
-    print (e.args)
+    #print (e.args)
     print (type(e))
     sys.exit('Unexpected error in students.csv line %d' % currentLine)
 #end readStudentWebCsv() ######################################################
@@ -711,9 +733,16 @@ def readStudentWebCsv(entriesList, fileName):
 
 def readSchoolsExport(fileName):
 
-  inFile    = open (fileName, 'r', newline='', encoding='utf-8-sig')
-  schoolReg = inFile.read()
-  inFile.close()
+  try:
+    inFile    = open (fileName, 'r', newline='', encoding='utf-8-sig')
+    schoolReg = inFile.read()
+    inFile.close()
+  except Exception as e:
+    print (e)
+    #print (e.args)
+    print (type(e))
+    sys.exit('Unexpected error reading schools export')
+
   reader    = csv.DictReader(schoolReg.splitlines(), delimiter=',', quotechar='"')
 
   schoolInfo = {}
@@ -792,7 +821,7 @@ def readRestrSheet(entriesList, fileName):
   except BaseException as e:
     inFile.close()
     print (e)
-    print (e.args)
+    #print (e.args)
     print (type(e))
     sys.exit('Error parsing RestrSheet.csv at line %d\n' % lineNum + str(e))
 
