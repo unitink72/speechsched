@@ -461,6 +461,7 @@ def childWorker(inQueue,     \
 #Begin Main
 
 #if __name__ == '__main__':
+import platform
 #  print ('Starting Main process')
 
 #Validate the folder to process from and write logs to
@@ -496,6 +497,7 @@ for key,value in configRaw:  #For some reason the raw config isnt pickleable
 
 if dryRunMode:
    print ('--++## Dry Run Mode ##++--')
+logger.msg('Running on %s' % platform.node())
 
 #Tell schedIO and Categories object if we are group or individal.
 if 'G' in config['CONTEST_TYPE'].upper():
