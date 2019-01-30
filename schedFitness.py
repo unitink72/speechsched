@@ -26,11 +26,21 @@ schConfig       = {}
 
 fitLog          = None
 
+#Keep a hash of how many centers each category has.  Can compute at startup, used
+#by check #5
+#{'EA': 2, 'GM': 1, 'OA':2}
+centerCount = {}
+
+#Compute the longest school name. Used to format reports in nice columns
+longSchoolNameLength = 0
+
 def setLogger(logger):
   global fitLog
   fitLog = logger
 
 def fitnessInitialize(schoolInfo, entryList, configFromFile):
+  global longSchoolNameLength
+
   #Configuration settings read from file.  For some reason have to brute-force copy this.
   for key,value in configFromFile.items():
   	schConfig[key] = value
@@ -42,17 +52,51 @@ def fitnessInitialize(schoolInfo, entryList, configFromFile):
                             'latestSession'   : 0,                 \
                             'entryCount'      : 0,                 \
                             'name'            : v['name']}
+      longSchoolNameLength = max(longSchoolNameLength, len(v['name']))
 
       if 'earliestStartRstr' in v:
         localSchoolInfo[k]['earliestStartRstr'] = v['earliestStartRstr']
       if 'latestEndRstr' in v:
         localSchoolInfo[k]['latestEndRstr'] = v['latestEndRstr']
-
   #end loop
+  
+  #Count how many entries each school has
   for entry in entryList:
     localSchoolInfo[entry['schoolId']]['entryCount'] += 1
   #end loop
 #end fitnessInitialize
+
+def centerCountInitialize (sched):
+  #Need to get a count of centers per category for check #5.  Could do this in
+  # fitnessInitialize() but would have to send in more data to the child workers.
+  # Instead do this just once the first time fitnessTest is called.
+
+  catCenters = {}
+  #{'SM': ['Choir 104'],
+  # 'GA': ['Band 202', 'Lit 404'],
+  # 'MT': ['Lit 339', 'Little Theatre'], ...
+  curCategory = ''
+  curRoom     = ''
+
+  for x in sched:
+    if (x['catShort'] != curCategory or \
+        x['room']     != curRoom):
+
+      curCategory         = x['catShort']
+      curRoom             = x['room']
+      if curCategory in catCenters:
+        catCenters [curCategory].append(curRoom)
+      else:
+        catCenters [curCategory] = [curRoom]
+  #end loop
+
+  #Dont need to know each center for a category, just the count.
+  global centerCount
+  for cat,rooms in catCenters.items():
+    centerCount[cat] = len(rooms)
+    print('CAT COUNT %s %d' % (cat, len(rooms)))
+
+#end centerCountInitialize
 
 def subtractTime(startTime, endTime):
   #Returns answer in minutes
@@ -89,6 +133,7 @@ def fitnessTestNoReport(scheduleList):
   fitnessTest(scheduleList, False)
 # end fitnessTestNoReport
 
+centerCountInitHasRun = 0
 
 def fitnessTest (schedl, saveReport=False, fileName=''):
   #Test each schedule for the following
@@ -97,15 +142,22 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
   #3. 1 school not scheduled twice in the same timeslot.  May be acceptable for larger schools.
   #4. 1 school with multiple entries for a category are not scheduled in the same room/
   #     time block.  Need to have different judges.
-  #5. Obey time constraints given by schools and students when their earliest/latest performances are.
-  #6. Students should have 1 half hour between performances.
+  #5  Same school cannot be entered twice in the same center.  Used for state contests
+  #6. Obey time constraints given by schools and students when their earliest/latest performances are.
+  #7. Students should have 1 half hour between performances.
   start = time.time()
+  global longSchoolNameLength
 
   #Reset the schoolInfo array
   for value in localSchoolInfo.values():
     value['earliestSession'] = 2400
     value['latestSession']   = 0
   #schoolInfo = copy.deepcopy(schoolInfoMaster)
+
+  global centerCountInitHasRun
+  if not centerCountInitHasRun:
+    centerCountInitHasRun = 1
+    centerCountInitialize(schedl['lst'])
 
   reportText = ''
   test1Score = 0
@@ -114,6 +166,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
   test4Score = 0
   test5Score = 0
   test6Score = 0
+  test7Score = 0
 
   #Find the earlies and latest entries for each school
   for session in schedl['lst']:
@@ -161,9 +214,9 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
       penalty2   = (localSchoolInfo[school]['driveTime'] - durationAfter7) * schConfig['PTS_PER_MINUTE_SCHOOL_LEAVES_BEFORE_7AM']
       test2Score += penalty2
       if saveReport:
-        reportText += '2 Leave Before 7     %4d %s      Earliest %4d DriveTime %d\n' % \
+        reportText += '2 Leave Before 7     %4d %s Earliest %4d DriveTime %d\n' % \
                       (penalty2,                                                       \
-                       localSchoolInfo[school]['name'],                                \
+                       localSchoolInfo[school]['name'].ljust(longSchoolNameLength),    \
                        localSchoolInfo[school]['earliestSession'],                     \
                        localSchoolInfo[school]['driveTime'])
     #end if
@@ -199,7 +252,9 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
 
           test3Score += schConfig['CONFLICT_PENALTY']
           if saveReport:
-            reportText += '3 Time Conflict      %4d %s' % (schConfig['CONFLICT_PENALTY'], localSchoolInfo[school]['name'])
+            reportText += '3 Time Conflict      %4d %s' %                                  \
+                           (schConfig['CONFLICT_PENALTY'],                                 \
+                            localSchoolInfo[school]['name'].ljust(longSchoolNameLength))
             reportText += ' ' + str(p[0])
             #if 'entryTitle' in x['entry']:
             #  reportText += ' ' + x['entry']['entryTitle']
@@ -218,37 +273,64 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
   #4
   #For each category, make sure the same school isn't scheduled twice in a
   #room between breaks.  This keeps schools entries judged by different judges.
-  curCategory = ''
-  curRoom     = ''
-  schoolList  = {}
+  #5
+  #For state contests they don't switch judges at breaks, so do another check
+  #of the same school twice in the same center.  Only do the check if the category
+  #is ran in more than one center.
+  curCategory         = ''
+  curRoom             = ''
+  schoolList          = {}
+  schoolListPerCenter = {}
+  check4Penalty       = schConfig['TWO_SCHOOL_ENTRIES_HAVE_SAME_JUDGES_PENALTY']
+  check5Penalty       = schConfig['TWO_SCHOOL_ENTRIES_IN_SAME_CENTER_PENALTY']
+
   for x in schedl['lst']:
     if 'entry' in x and                 \
        (x['catShort'] != curCategory or \
         x['room']     != curRoom):
 
-      curCategory = x['catShort']
-      curRoom     = x['room']
-      schoolList  = {x['entry']['schoolId'] : 1}
+      curCategory         = x['catShort']
+      curRoom             = x['room']
+      schoolList          = {x['entry']['schoolId'] : 1}
+      schoolListPerCenter = {x['entry']['schoolId'] : 1}
 
     elif x['isBreak']:
       schoolList = {}
 
-    elif 'entry' in x               and \
+    elif check5Penalty != 0         and \
+       centerCount[curCategory] > 1 and \
+       'entry' in x                 and \
+       x['catShort'] == curCategory and \
+       x['room']     == curRoom     and \
+       x['entry']['schoolId'] in schoolListPerCenter:
+      test5Score += schConfig['TWO_SCHOOL_ENTRIES_IN_SAME_CENTER_PENALTY']
+      if saveReport:
+        reportText += '5 Center Conflict    %4d %s   %s - %s\n' %                                       \
+                          (check5Penalty,                                                                \
+                           localSchoolInfo[x['entry']['schoolId']]['name'].ljust(longSchoolNameLength),  \
+                           curCategory,                                                                  \
+                           curRoom)
+
+    elif check4Penalty != 0         and \
+       'entry' in x                 and \
        x['catShort'] == curCategory and \
        x['room']     == curRoom     and \
        x['entry']['schoolId'] in schoolList:
       test4Score += schConfig['TWO_SCHOOL_ENTRIES_HAVE_SAME_JUDGES_PENALTY']
       if saveReport:
-        reportText += '4 Judge Conflict     %4d %s - %s\n' % (schConfig['TWO_SCHOOL_ENTRIES_HAVE_SAME_JUDGES_PENALTY'], \
-                                                              localSchoolInfo[x['entry']['schoolId']]['name'],          \
-                                                              curCategory)
+        reportText += '4 Judge Conflict     %4d %s   %s - %s\n' %                                         \
+                          (check4Penalty,                                                                 \
+                           localSchoolInfo[x['entry']['schoolId']]['name'].ljust(longSchoolNameLength),   \
+                           curCategory,                                                                   \
+                           curRoom)
 
     elif 'entry' in x:
-      schoolList[x['entry']['schoolId']] = 1
+      schoolList[x['entry']['schoolId']]          = 1
+      schoolListPerCenter[x['entry']['schoolId']] = 1
     #end if
   #end for
 
-  #5
+  #6
   #Obey special requests.  These come in two forms.  Either an entire school
   #has an earliestStart/latestEnd restriction, or individual entries do.
   #To compute a penalty for breaking a special restriction, dock the schedule
@@ -262,22 +344,22 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
       if schoolData['earliestSession'] < schoolData['earliestStartRstr']:
         points = (subtractTime(schoolData['earliestSession'], schoolData['earliestStartRstr']) \
                  * schConfig['RESTRICTION_PER_MINUTE_PENALTY']) + schConfig['BROKEN_RESTRICTION_PENALTY']
-        test5Score += points
+        test6Score += points
         if saveReport:
-          bufferLen = max(0, 30 - len(schoolData['name']))
-          reportText += '5 School Early Restr %4d %s Restr %d Schdl %d\n' % \
-                         (points, school + ' ' * bufferLen, schoolData['earliestStartRstr'], schoolData['earliestSession'])
+          schoolN = schoolData['name'].ljust(longSchoolNameLength)
+          reportText += '6 School Early Restr %4d %s Restr %d Schdl %d\n' % \
+                         (points, schoolN, schoolData['earliestStartRstr'], schoolData['earliestSession'])
 
     if 'latestEndRstr' in schoolData:
 
       if schoolData['latestSession'] > schoolData['latestEndRstr']:
         points = (subtractTime(schoolData['latestEndRstr'], schoolData['latestSession']) \
                  * schConfig['RESTRICTION_PER_MINUTE_PENALTY']) + schConfig['BROKEN_RESTRICTION_PENALTY']
-        test5Score += points
+        test6Score += points
         if saveReport:
-          bufferLen = max(0, 30 - len(schoolData['name']))
-          reportText += '5 School Late Restr  %4d %s Restr %d Schdl %d\n' % \
-                         (points, school + ' ' * bufferLen, schoolData['latestEndRstr'], schoolData['latestSession'])
+          schoolN = schoolData['name'].ljust(longSchoolNameLength)
+          reportText += '6 School Late Restr  %4d %s Restr %d Schdl %d\n' % \
+                         (points, schoolN, schoolData['latestEndRstr'], schoolData['latestSession'])
   #end loop
 
   #Now check for entry restrictions
@@ -286,34 +368,34 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
       if x['start'] < x['entry']['earliestStart']:
         points = (subtractTime(x['start'], x['entry']['earliestStart']) \
                   * schConfig['RESTRICTION_PER_MINUTE_PENALTY']) + schConfig['BROKEN_RESTRICTION_PENALTY']
-        test5Score += points
+        test6Score += points
         if saveReport:
-          schoolName = localSchoolInfo[x['entry']['schoolId']]['name']
-          bufferLen = max(0, 27 - len(schoolName))
-          reportText += '5 Entry Early Restr  %4d %s %s Restr %d Schdl %d\n' % \
-                         (points,                                        \
-                          schoolName + ' ' * bufferLen,                  \
-                          x['catShort'],                                 \
-                          x['entry']['earliestStart'],                   \
+          schoolN = localSchoolInfo[x['entry']['schoolId']]['name'].ljust(longSchoolNameLength)
+          #bufferLen = max(0, 27 - len(schoolName))
+          reportText += '6 Entry Early Restr  %4d %s %s Restr %d Schdl %d\n' % \
+                         (points,                                              \
+                          schoolN,                                             \
+                          x['catShort'],                                       \
+                          x['entry']['earliestStart'],                         \
                           x['start'])
 
     if 'entry' in x and 'latestEnd' in x['entry']:
       if x['end'] > x['entry']['latestEnd']:
         points = (subtractTime(x['entry']['latestEnd'], x['end']) \
                   * schConfig['RESTRICTION_PER_MINUTE_PENALTY']) + schConfig['BROKEN_RESTRICTION_PENALTY']
-        test5Score += points
+        test6Score += points
         if saveReport:
-          schoolName = localSchoolInfo[x['entry']['schoolId']]['name']
-          bufferLen = max(0, 27 - len(schoolName))
-          reportText += '5 Entry Late Restr   %4d %s %s Restr %d Schdl %d\n' % \
-                         (points,                                     \
-                          schoolName + ' ' * bufferLen,     \
-                          x['catShort'],                              \
-                          x['entry']['latestEnd'],                    \
+          schoolN = localSchoolInfo[x['entry']['schoolId']]['name'].ljust(longSchoolNameLength)
+          #bufferLen = max(0, 27 - len(schoolName))
+          reportText += '6 Entry Late Restr   %4d %s %s Restr %d Schdl %d\n' % \
+                         (points,                                              \
+                          schoolN,                                             \
+                          x['catShort'],                                       \
+                          x['entry']['latestEnd'],                             \
                           x['end'])
   #end loop
 
-  #6
+  #7
   #Students should have 1/2 hour between performances.
   #First assemble a hash of students and their performance times.
   #The dictionary key is a tuple of (studentName, schoolID) so that students with the same
@@ -368,7 +450,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
                    (timeDelta * schConfig['STUDENT_SCHEDULE_CONFLICT_PER_MIN'])
 
         if saveReport and points > 0:
-          txt = '6 Student Time Conflict %4d Times %4d %4d %s %s\n' %           \
+          txt = '7 Student Time Conflict %4d     Times %4d %4d %s %s\n' %       \
                          (points,                                               \
                           times[x][0],                                          \
                           times[y][0],                                          \
@@ -376,7 +458,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
                           localSchoolInfo[schoolID]['name'])
           #print (txt)
           reportText += txt
-        test6Score += points
+        test7Score += points
       #end y loop
     #end x loop
   #end performer loop
@@ -388,7 +470,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
   
   #print ("Score %d %d %d %d" % (test1Score,test2Score,test3Score,test4Score))
   schedl['score'] = (test1Score + test2Score + test3Score + \
-                     test4Score + test5Score + test6Score)
+                     test4Score + test5Score + test6Score + test7Score)
 
   if saveReport:
     f = open(fileName, 'w', newline='\r\n')

@@ -642,6 +642,10 @@ schedIO.printSched (schedule   = rdm[2],                \
                     schoolInf  = schoolInfo,            \
                     entriesLst = entriesList,           \
                     outFolder  = outFolder + '/xx')
+
+schedFitness.fitnessTest (schedl     = rdm[2],                                               \
+                          saveReport = True,                                                 \
+                          fileName   = os.path.join(outFolder + '/xx', 'FitnessReport.txt'))
 if dryRunMode:
    logger.msg('Finished dry run')
    exit()
