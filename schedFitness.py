@@ -92,9 +92,10 @@ def centerCountInitialize (sched):
 
   #Dont need to know each center for a category, just the count.
   global centerCount
+  print('Room Counts:')
   for cat,rooms in catCenters.items():
     centerCount[cat] = len(rooms)
-    print('CAT COUNT %s %d' % (cat, len(rooms)))
+    print('   %s : %d' % (cat, len(rooms)))
 
 #end centerCountInitialize
 
