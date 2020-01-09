@@ -508,15 +508,34 @@ else:
 #Read input files
 sessionsFile     = os.path.join(jobFolder, 'Sessions.txt')
 restrSheetFile   = os.path.join(jobFolder, 'restrSheet.csv')
-schoolCsvFile    = os.path.join(config['MASTER_FILE_PATH'], 'schoolReg.csv')
-schoolExportFile = os.path.join(config['MASTER_FILE_PATH'], 'schoolsExport.csv')
-studentCsvFile   = os.path.join(config['MASTER_FILE_PATH'], 'students.csv')
+
+lcl_schoolCsvFile    = os.path.join(jobFolder, 'schoolReg.csv')
+schoolCsvFile        = os.path.join(config['MASTER_FILE_PATH'], 'schoolReg.csv')
+lcl_schoolExportFile = os.path.join(jobFolder, 'schoolsExport.csv')
+schoolExportFile     = os.path.join(config['MASTER_FILE_PATH'], 'schoolsExport.csv')
+lcl_studentCsvFile   = os.path.join(jobFolder, 'students.csv')
+studentCsvFile       = os.path.join(config['MASTER_FILE_PATH'], 'students.csv')
 
 if not os.path.isfile(sessionsFile):     sys.exit ('Sessions file not found: %s' % sessionsFile)
 if not os.path.isfile(restrSheetFile):   sys.exit ('RestrSheet file not found: %s' % restrSheetFile)
-if not os.path.isfile(schoolCsvFile):    sys.exit ('SchoolCsv file not found: %s' % schoolCsvFile)
-if not os.path.isfile(schoolExportFile): sys.exit ('SchoolExport file not found: %s' % schoolExportFile)
-if not os.path.isfile(studentCsvFile):   sys.exit ('StudentCsv file not found: %s' % studentCsvFile)
+
+if os.path.isfile(lcl_schoolCsvFile):
+   logger.msg('Using site-specific copy of schoolReg.csv from %s' % jobFolder)
+   schoolCsvFile = lcl_schoolCsvFile
+elif not os.path.isfile(schoolCsvFile):
+   sys.exit ('SchoolCsv file not found: %s' % schoolCsvFile)
+
+if os.path.isfile(lcl_schoolExportFile):
+   logger.msg('Using site-specific copy of schoolsExport.csv from %s' % jobFolder)
+   schoolExportFile = lcl_schoolExportFile
+elif not os.path.isfile(schoolExportFile):
+   sys.exit ('SchoolExport file not found: %s' % schoolExportFile)
+
+if os.path.isfile(lcl_studentCsvFile):
+   logger.msg('Using site-specific copy of students.csv from %s' % jobFolder)
+   studentCsvFile = lcl_studentCsvFile
+elif not os.path.isfile(studentCsvFile):
+   sys.exit ('StudentCsv file not found: %s' % studentCsvFile)
 
 (sessionList, catagoryIndexes) = schedIO.readSessionsFile(sessionsFile)
 schoolInfo                     = schedIO.readSchoolsExport(schoolExportFile)
