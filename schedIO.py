@@ -817,7 +817,7 @@ def readRestrSheet(entriesList, fileName):
                        (schoolIdCsv, catShortCsv, catIdxCsv)
            print(warnMsg)
            ioLog.msg (warnMsg)
-    lineNum += 1
+      lineNum += 1
   except BaseException as e:
     inFile.close()
     print (e)
