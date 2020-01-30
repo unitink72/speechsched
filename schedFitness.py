@@ -299,8 +299,8 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
       schoolList = {}
 
     elif check5Penalty != 0         and \
-       centerCount[curCategory] > 1 and \
        'entry' in x                 and \
+       centerCount[curCategory] > 1 and \
        x['catShort'] == curCategory and \
        x['room']     == curRoom     and \
        x['entry']['schoolId'] in schoolListPerCenter:
