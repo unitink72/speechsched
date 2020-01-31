@@ -686,19 +686,8 @@ while True:
   #This is a good time to do work while waiting for the child procs to finish
   #Print out the best score every so often
   if time.time() - lastScorePrintTime > config['BEST_SCORE_PRINT_MINS'] * 60:
-    if stageNum == 1 and len(topScores) > 0:
-      (lowestScore, lowestScoreIdx) = computeTopScore (topScores)
-      scorePrintFolder              = os.path.join(outFolder, str(math.floor(lowestScore)))
-      if not os.path.exists(scorePrintFolder):
-        schedIO.printSched (schedule   = topScores[lowestScoreIdx],  \
-                            schoolInf  = schoolInfo,                 \
-                            entriesLst = entriesList,                \
-                            outFolder  = scorePrintFolder)
-        schedFitness.fitnessTest (schedl     = topScores[lowestScoreIdx],    \
-                                  saveReport = True,                         \
-                                  fileName   = os.path.join(scorePrintFolder, 'FitnessReport.txt'))
-        validateSched(topScores[lowestScoreIdx], sessionList, entriesList, logger)
-    elif stageNum == 2 and len(rdm) > 0:
+
+    if stageNum == 1 and len(rdm) > 0:
       (lowestScore, lowestScoreIdx) = computeTopScore (rdm)
       scorePrintFolder              = os.path.join(outFolder, str(math.floor(lowestScore)))
       if not os.path.exists(scorePrintFolder):
@@ -710,6 +699,19 @@ while True:
                                   saveReport = True,                   \
                                   fileName   = os.path.join(scorePrintFolder, 'FitnessReport.txt'))
         validateSched(rdm[lowestScoreIdx], sessionList, entriesList, logger)
+    elif stageNum == 2 and len(topScores) > 0:
+      (lowestScore, lowestScoreIdx) = computeTopScore (topScores)
+      scorePrintFolder              = os.path.join(outFolder, str(math.floor(lowestScore)))
+      if not os.path.exists(scorePrintFolder):
+        schedIO.printSched (schedule   = topScores[lowestScoreIdx],  \
+                            schoolInf  = schoolInfo,                 \
+                            entriesLst = entriesList,                \
+                            outFolder  = scorePrintFolder)
+        schedFitness.fitnessTest (schedl     = topScores[lowestScoreIdx],    \
+                                  saveReport = True,                         \
+                                  fileName   = os.path.join(scorePrintFolder, 'FitnessReport.txt'))
+        validateSched(topScores[lowestScoreIdx], sessionList, entriesList, logger)
+
     lastScorePrintTime = time.time()
 
   #Wait for the task queue to empty so we don't get ahead of ourselves
@@ -750,7 +752,7 @@ while True:
   # After 5 minutes of no improvement, do a flush
   if stageNum == 1 and time.time() - scoreLastImprovedTime > 5 * 60:
     logger.msg ('Flushing list')
-    logger.msg ('Main GC Obj %d' % len(gc.get_objects()))
+    #logger.msg ('Main GC Obj %d' % len(gc.get_objects()))
 
     prevBestScore = 999999999999
     for idx,z in enumerate(rdm):          #Add the top score to the topScores list
