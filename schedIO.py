@@ -489,6 +489,33 @@ def getSitenameList(schoolRegFile):
 ###############################################################################
 def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
 
+  ###############################################################################
+  def getRandomSchoolCode(codeChar):
+    global usedCodes
+    blackList = ['FU', '666', '420']  #Numeric codes start at 101
+          
+    firstLoopIteration = True
+    if codeChar == 0:
+      while firstLoopIteration   or         \
+            newCode in usedCodes or         \
+            newCode in blackList or         \
+            int(newCode) <= 100:
+        newCode = rnd.choice(string.digits) + rnd.choice(string.digits) + rnd.choice(string.digits)
+        firstLoopIteration = False
+    else:
+      while firstLoopIteration or         \
+            newCode in usedCodes or       \
+            newCode in blackList or       \
+            newCodeMirror in usedCodes:
+        newCode = rnd.choice(string.ascii_uppercase) + rnd.choice(string.ascii_uppercase)
+        newCodeMirror = newCode[1] + newCode[0]
+        firstLoopIteration = False
+
+    usedCodes.append(newCode)
+    return newCode
+  #end getRandomSchoolCode()  
+  ###############################################################################
+
   try:
      inFile    = open (fileName, 'r', newline='', encoding='utf-8-sig')
      schoolCsv = inFile.read()
@@ -551,24 +578,7 @@ def readSchoolWebCsv(fileName, schoolInfo, siteName, codeChar):
       else:
         if not schoolInfo[schoolIdCsv]['inContest']:
           schoolInfo[schoolIdCsv]['inContest'] = True
-
-          firstLoopIteration = True
-          if codeChar == 0:
-             while firstLoopIteration   or         \
-                   newCode in usedCodes or         \
-                   int(newCode) <= 100:
-               newCode = rnd.choice(string.digits) + rnd.choice(string.digits) + rnd.choice(string.digits)
-               firstLoopIteration = False
-          else:
-             while firstLoopIteration or         \
-                   newCode in usedCodes or       \
-                   newCodeMirror in usedCodes:
-               newCode = rnd.choice(string.ascii_uppercase) + rnd.choice(string.ascii_uppercase)
-               newCodeMirror = newCode[1] + newCode[0]
-               firstLoopIteration = False
-
-          usedCodes.append(newCode)
-          schoolInfo[schoolIdCsv]['code'] = newCode
+          schoolInfo[schoolIdCsv]['code']      = getRandomSchoolCode(codeChar)
 
       #Writing a number over the yes/no values seems to wipe out the whole
       # row object.  So keep a seperate copy to act on here
