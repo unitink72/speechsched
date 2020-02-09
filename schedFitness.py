@@ -196,9 +196,10 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
         test1Score += schConfig['LONG_PERFORMANCE_SPAN_PENALTY']
         if saveReport:
           bufferLen = max(0, 30 - len(localSchoolInfo[school]['name']))
-          reportText += '1 Long Duration      %4d %s Avg rate %3.1f mins\n' % (schConfig['LONG_PERFORMANCE_SPAN_PENALTY'],          \
-                                                                               localSchoolInfo[school]['name'] + (' ' * bufferLen), \
-                                                                               performanceRate)
+          reportText += '1 Long Duration         %4d %s     Avg rate %3d mins\n' %   \
+                            (schConfig['LONG_PERFORMANCE_SPAN_PENALTY'],             \
+                             localSchoolInfo[school]['name'] + (' ' * bufferLen),    \
+                             performanceRate)
       #end if
     #end if
   #end loop
@@ -215,7 +216,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
       penalty2   = (localSchoolInfo[school]['driveTime'] - durationAfter7) * schConfig['PTS_PER_MINUTE_SCHOOL_LEAVES_BEFORE_7AM']
       test2Score += penalty2
       if saveReport:
-        reportText += '2 Leave Before 7     %4d %s Earliest %4d DriveTime %d\n' % \
+        reportText += '2 Leave Before 7        %4d %s Earliest %4d DriveTime %d\n' %   \
                       (penalty2,                                                       \
                        localSchoolInfo[school]['name'].ljust(longSchoolNameLength),    \
                        localSchoolInfo[school]['earliestSession'],                     \
@@ -253,7 +254,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
 
           test3Score += schConfig['CONFLICT_PENALTY']
           if saveReport:
-            reportText += '3 Time Conflict      %4d %s' %                                  \
+            reportText += '3 Time Conflict         %4d %s' %                               \
                            (schConfig['CONFLICT_PENALTY'],                                 \
                             localSchoolInfo[school]['name'].ljust(longSchoolNameLength))
             reportText += ' ' + str(p[0])
@@ -306,7 +307,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
        x['entry']['schoolId'] in schoolListPerCenter:
       test5Score += schConfig['TWO_SCHOOL_ENTRIES_IN_SAME_CENTER_PENALTY']
       if saveReport:
-        reportText += '5 Center Conflict    %4d %s   %s - %s\n' %                                       \
+        reportText += '5 Center Conflict       %4d %s   %s - %s\n' %                                     \
                           (check5Penalty,                                                                \
                            localSchoolInfo[x['entry']['schoolId']]['name'].ljust(longSchoolNameLength),  \
                            curCategory,                                                                  \
@@ -319,7 +320,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
        x['entry']['schoolId'] in schoolList:
       test4Score += schConfig['TWO_SCHOOL_ENTRIES_HAVE_SAME_JUDGES_PENALTY']
       if saveReport:
-        reportText += '4 Judge Conflict     %4d %s   %s - %s\n' %                                         \
+        reportText += '4 Judge Conflict        %4d %s   %s - %s\n' %                                      \
                           (check4Penalty,                                                                 \
                            localSchoolInfo[x['entry']['schoolId']]['name'].ljust(longSchoolNameLength),   \
                            curCategory,                                                                   \
@@ -348,7 +349,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
         test6Score += points
         if saveReport:
           schoolN = schoolData['name'].ljust(longSchoolNameLength)
-          reportText += '6 School Early Restr %4d %s Restr %d Schdl %d\n' % \
+          reportText += '6 School Early Restr    %4d %s Restr %d Schdl %d\n' % \
                          (points, schoolN, schoolData['earliestStartRstr'], schoolData['earliestSession'])
 
     if 'latestEndRstr' in schoolData:
@@ -359,7 +360,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
         test6Score += points
         if saveReport:
           schoolN = schoolData['name'].ljust(longSchoolNameLength)
-          reportText += '6 School Late Restr  %4d %s Restr %d Schdl %d\n' % \
+          reportText += '6 School Late Restr     %4d %s Restr %d Schdl %d\n' % \
                          (points, schoolN, schoolData['latestEndRstr'], schoolData['latestSession'])
   #end loop
 
@@ -373,11 +374,11 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
         if saveReport:
           schoolN = localSchoolInfo[x['entry']['schoolId']]['name'].ljust(longSchoolNameLength)
           #bufferLen = max(0, 27 - len(schoolName))
-          reportText += '6 Entry Early Restr  %4d %s %s Restr %d Schdl %d\n' % \
-                         (points,                                              \
-                          schoolN,                                             \
-                          x['catShort'],                                       \
-                          x['entry']['earliestStart'],                         \
+          reportText += '6 Entry Early Restr     %4d %s %s Restr %d Schdl %d\n' % \
+                         (points,                                                 \
+                          schoolN,                                                \
+                          x['catShort'],                                          \
+                          x['entry']['earliestStart'],                            \
                           x['start'])
 
     if 'entry' in x and 'latestEnd' in x['entry']:
@@ -388,11 +389,11 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
         if saveReport:
           schoolN = localSchoolInfo[x['entry']['schoolId']]['name'].ljust(longSchoolNameLength)
           #bufferLen = max(0, 27 - len(schoolName))
-          reportText += '6 Entry Late Restr   %4d %s %s Restr %d Schdl %d\n' % \
-                         (points,                                              \
-                          schoolN,                                             \
-                          x['catShort'],                                       \
-                          x['entry']['latestEnd'],                             \
+          reportText += '6 Entry Late Restr      %4d %s %s Restr %d Schdl %d\n' % \
+                         (points,                                                 \
+                          schoolN,                                                \
+                          x['catShort'],                                          \
+                          x['entry']['latestEnd'],                                \
                           x['end'])
   #end loop
 
@@ -451,7 +452,7 @@ def fitnessTest (schedl, saveReport=False, fileName=''):
                    (timeDelta * schConfig['STUDENT_SCHEDULE_CONFLICT_PER_MIN'])
 
         if saveReport and points > 0:
-          txt = '7 Student Time Conflict %4d     Times %4d %4d %s %s\n' %       \
+          txt = '7 Student Time Conflict %4d     Times %4d %4d    %s %s\n' %    \
                          (points,                                               \
                           times[x][0],                                          \
                           times[y][0],                                          \
